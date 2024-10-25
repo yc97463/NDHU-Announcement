@@ -1,5 +1,145 @@
 [
     {
+        "title": "113-1學期 導師輔導知能研習第二場（線上講座）",
+        "timestamp": "1729818789",
+        "url": "mail_display.php?timestamp=1729818789",
+        "date": "2024/10/25 09:13",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陶開勤",
+            "email": "kctao@gms.ndhu.edu.tw",
+            "phone": "03-8906275"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113年度花蓮縣體育總會羽球委會C級教練講習",
+        "timestamp": "1729817234",
+        "url": "mail_display.php?timestamp=1729817234",
+        "date": "2024/10/25 08:47",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113.10.27教行系專題演講~凃均翰諮商心理師",
+        "timestamp": "1729814109",
+        "url": "mail_display.php?timestamp=1729814109",
+        "date": "2024/10/25 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "蔣慧姝",
+            "email": "huishu@gms.ndhu.edu.tw",
+            "phone": "038905556"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "校園健走~一起感受美麗校園!!",
+        "timestamp": "1729814108",
+        "url": "mail_display.php?timestamp=1729814108",
+        "date": "2024/10/25 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "6254"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【華文文學講座】徐子晴老師",
+        "timestamp": "1729814107",
+        "url": "mail_display.php?timestamp=1729814107",
+        "date": "2024/10/25 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【華文文學講座】林宛瑄老師",
+        "timestamp": "1729814106",
+        "url": "mail_display.php?timestamp=1729814106",
+        "date": "2024/10/25 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【幼教系演講】教育的百百種可能性",
+        "timestamp": "1729814105",
+        "url": "mail_display.php?timestamp=1729814105",
+        "date": "2024/10/25 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113期中系員大會-幹部",
+        "timestamp": "1729814104",
+        "url": "mail_display.php?timestamp=1729814104",
+        "date": "2024/10/25 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113期中系員大會",
+        "timestamp": "1729814103",
+        "url": "mail_display.php?timestamp=1729814103",
+        "date": "2024/10/25 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1 教育研究法課程專題講座】無中生有－從研究發想到分析資料",
+        "timestamp": "1729814102",
+        "url": "mail_display.php?timestamp=1729814102",
+        "date": "2024/10/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "611088102@gms.ndhu.edu.tw",
+            "phone": "0971217585"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "職業能力測驗與工作坊活動",
         "timestamp": "1729752160",
         "url": "mail_display.php?timestamp=1729752160",
@@ -68,145 +208,5 @@
             "phone": "03-890-3007"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "四樓書庫整架 11/1 10:00~12:00",
-        "timestamp": "1729727710",
-        "url": "mail_display.php?timestamp=1729727710",
-        "date": "2024/10/24 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "何銘俊",
-            "email": "robert@gms.ndhu.edu.tw",
-            "phone": "0911277821"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "四樓書庫整架 10/29 10:00~12:00",
-        "timestamp": "1729727709",
-        "url": "mail_display.php?timestamp=1729727709",
-        "date": "2024/10/24 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "何銘俊",
-            "email": "robert@gms.ndhu.edu.tw",
-            "phone": "0911277821"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年「校友卓越講座」教育的百百種可能性  透過經驗與故事分享一些與孩子相處的小撇步",
-        "timestamp": "1729727708",
-        "url": "mail_display.php?timestamp=1729727708",
-        "date": "2024/10/24 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1教行系研討會專題演講01】Hsien-Yuan Hsu 教授",
-        "timestamp": "1729727707",
-        "url": "mail_display.php?timestamp=1729727707",
-        "date": "2024/10/24 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【材料系演講公告】10/28(一)15:10-17:00高熵合金銲接的凝固微觀結構演化行為",
-        "timestamp": "1729727706",
-        "url": "mail_display.php?timestamp=1729727706",
-        "date": "2024/10/24 07:55",
-        "department": "理工學院 材料科學與工程學系",
-        "author": {
-            "department": "理工學院 材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "3204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【RIKEC法學系列講座】台灣人民歷史經驗中的死刑及其憲法意義",
-        "timestamp": "1729727705",
-        "url": "mail_display.php?timestamp=1729727705",
-        "date": "2024/10/24 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯課程】113年青年就業達人計畫-名人講座：李佳峰  將不可能「變」成可能✨ Make the impossible possible.",
-        "timestamp": "1729727704",
-        "url": "mail_display.php?timestamp=1729727704",
-        "date": "2024/10/24 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯課程】113年青年就業達人計畫-點子樂園：創意玩不停",
-        "timestamp": "1729727703",
-        "url": "mail_display.php?timestamp=1729727703",
-        "date": "2024/10/24 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯課程】113年青年就業達人計畫-翻轉職涯四步驟多看、多聽、多思、多嘗試(花蓮港務分公司企業參訪)",
-        "timestamp": "1729727702",
-        "url": "mail_display.php?timestamp=1729727702",
-        "date": "2024/10/24 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯課程】113年青年就業達人計畫-建立信任溝通的好習慣\u0026團隊合作的成功要素",
-        "timestamp": "1729727701",
-        "url": "mail_display.php?timestamp=1729727701",
-        "date": "2024/10/24 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
     }
 ]
