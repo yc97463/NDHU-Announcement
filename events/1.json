@@ -1,5 +1,19 @@
 [
     {
+        "title": "職業能力測驗與工作坊活動(報名連結更正)",
+        "timestamp": "1729821117",
+        "url": "mail_display.php?timestamp=1729821117",
+        "date": "2024/10/25 09:51",
+        "department": "諮商與臨床心理學系",
+        "author": {
+            "department": "諮商與臨床心理學系",
+            "name": "諮商與臨床心理學系",
+            "email": "cp@gms.ndhu.edu.tw",
+            "phone": "5632"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113-1學期 導師輔導知能研習第二場（線上講座）",
         "timestamp": "1729818789",
         "url": "mail_display.php?timestamp=1729818789",
@@ -194,19 +208,5 @@
             "phone": "6773"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "敬邀參加管理學院國際學士班113年度國際學士班聯合迎新",
-        "timestamp": "1729729294",
-        "url": "mail_display.php?timestamp=1729729294",
-        "date": "2024/10/24 08:21",
-        "department": "管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "03-890-3007"
-        },
-        "attachmentCount": 5
     }
 ]
