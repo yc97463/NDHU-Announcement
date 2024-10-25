@@ -1,5 +1,33 @@
 [
     {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天",
+        "timestamp": "1728359779",
+        "url": "mail_display.php?timestamp=1728359779",
+        "date": "2024/10/08 11:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【傑出校友選拔】臺東專科學校辦理113年度傑出校友遴選，歡迎踴躍推薦該校校友參加遴選。",
+        "timestamp": "1728345377",
+        "url": "mail_display.php?timestamp=1728345377",
+        "date": "2024/10/08 07:56",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】「114年公務人員初等考試」113年10月22日起開始報名囉! 📣📣",
         "timestamp": "1728293247",
         "url": "mail_display.php?timestamp=1728293247",
@@ -180,33 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "(更新連結)❗第六屆T大使計畫說明會(東華大學)強力招募❗",
-        "timestamp": "1727750993",
-        "url": "mail_display.php?timestamp=1727750993",
-        "date": "2024/10/01 10:49",
-        "department": "跨領域學術研究中心",
-        "author": {
-            "department": "跨領域學術研究中心",
-            "name": "江東隆",
-            "email": "stb.tony@gms.ndhu.edu.tw",
-            "phone": "038903772"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
-        "timestamp": "1727681831",
-        "url": "mail_display.php?timestamp=1727681831",
-        "date": "2024/09/30 15:37",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
