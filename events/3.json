@@ -1,5 +1,61 @@
 [
     {
+        "title": "四樓書庫整架 10/29 10:00~12:00",
+        "timestamp": "1729727709",
+        "url": "mail_display.php?timestamp=1729727709",
+        "date": "2024/10/24 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "何銘俊",
+            "email": "robert@gms.ndhu.edu.tw",
+            "phone": "0911277821"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年「校友卓越講座」教育的百百種可能性  透過經驗與故事分享一些與孩子相處的小撇步",
+        "timestamp": "1729727708",
+        "url": "mail_display.php?timestamp=1729727708",
+        "date": "2024/10/24 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "黃韻竹",
+            "email": "xianyu865@gms.ndhu.edu.tw",
+            "phone": "3912"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1教行系研討會專題演講01】Hsien-Yuan Hsu 教授",
+        "timestamp": "1729727707",
+        "url": "mail_display.php?timestamp=1729727707",
+        "date": "2024/10/24 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "蔣慧姝",
+            "email": "huishu@gms.ndhu.edu.tw",
+            "phone": "038905556"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【材料系演講公告】10/28(一)15:10-17:00高熵合金銲接的凝固微觀結構演化行為",
+        "timestamp": "1729727706",
+        "url": "mail_display.php?timestamp=1729727706",
+        "date": "2024/10/24 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": {
+            "department": "理工學院 材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "3204"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【RIKEC法學系列講座】台灣人民歷史經驗中的死刑及其憲法意義",
         "timestamp": "1729727705",
         "url": "mail_display.php?timestamp=1729727705",
@@ -150,62 +206,6 @@
             "name": "王淳羽",
             "email": "smileevelyn@gms.ndhu.edu.tw",
             "phone": "03-8906273"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "南島語族樹皮布的故事-Tapa樹皮布工作營",
-        "timestamp": "1729641318",
-        "url": "mail_display.php?timestamp=1729641318",
-        "date": "2024/10/23 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系-113-1民族講座】工作價值的實踐與反思",
-        "timestamp": "1729641317",
-        "url": "mail_display.php?timestamp=1729641317",
-        "date": "2024/10/23 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "楊鵑穎",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "Introduction to Satellite Integration Test and Launch Site Process(書報討論修課同學請勿報名)\t",
-        "timestamp": "1729641316",
-        "url": "mail_display.php?timestamp=1729641316",
-        "date": "2024/10/23 07:55",
-        "department": "理工學院 物理學系",
-        "author": {
-            "department": "理工學院 物理學系",
-            "name": "劉芝葳",
-            "email": "811314201@gms.ndhu.edu.tw",
-            "phone": "0925385308"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【觀遊系觀光規劃概論專題講座】蘇秋萍兼任助理教授：一個人的華麗冒險~女性獨旅與賦權",
-        "timestamp": "1729641315",
-        "url": "mail_display.php?timestamp=1729641315",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "莊月玲",
-            "email": "trls@gms.ndhu.edu.tw",
-            "phone": "5602"
         },
         "attachmentCount": 0
     }

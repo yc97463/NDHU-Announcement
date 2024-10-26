@@ -1,5 +1,61 @@
 [
     {
+        "title": "國企系校友卓越講座—業界趨勢與職場經驗分享 ",
+        "timestamp": "1729900504",
+        "url": "mail_display.php?timestamp=1729900504",
+        "date": "2024/10/26 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333002@gms.ndhu.edu.tw",
+            "phone": "0908161228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024秋季族文面對面系列講座(一)",
+        "timestamp": "1729900503",
+        "url": "mail_display.php?timestamp=1729900503",
+        "date": "2024/10/26 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "黃淑美",
+            "email": "sumay@gms.ndhu.edu.tw",
+            "phone": "03-8905792"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系】【想想花蓮．韌性原鄉】系列講座5：日本福祉避難與防災案例與台灣經驗的對話",
+        "timestamp": "1729900502",
+        "url": "mail_display.php?timestamp=1729900502",
+        "date": "2024/10/26 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "lingya@gms.ndhu.edu.tw",
+            "phone": "03-890-5708"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1 性平關我什麼事？】第三講－這樣，也要通報？",
+        "timestamp": "1729900501",
+        "url": "mail_display.php?timestamp=1729900501",
+        "date": "2024/10/26 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "611088102@gms.ndhu.edu.tw",
+            "phone": "0971217585"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國際交流活動】Sultan Agung Islamic University (UNISSULA), Online Global Culture Exchange (OGCE) 2024",
         "timestamp": "1729847836",
         "url": "mail_display.php?timestamp=1729847836",
@@ -152,61 +208,5 @@
             "phone": "03-8906275"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113年度花蓮縣體育總會羽球委會C級教練講習",
-        "timestamp": "1729817234",
-        "url": "mail_display.php?timestamp=1729817234",
-        "date": "2024/10/25 08:47",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "0911765302"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113.10.27教行系專題演講~凃均翰諮商心理師",
-        "timestamp": "1729814109",
-        "url": "mail_display.php?timestamp=1729814109",
-        "date": "2024/10/25 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "校園健走~一起感受美麗校園!!",
-        "timestamp": "1729814108",
-        "url": "mail_display.php?timestamp=1729814108",
-        "date": "2024/10/25 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "6254"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【華文文學講座】徐子晴老師",
-        "timestamp": "1729814107",
-        "url": "mail_display.php?timestamp=1729814107",
-        "date": "2024/10/25 07:55",
-        "department": "人文社會科學學院 華文文學系",
-        "author": {
-            "department": "人文社會科學學院 華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
-        },
-        "attachmentCount": 0
     }
 ]
