@@ -1,5 +1,19 @@
 [
     {
+        "title": "【華文文學講座】徐子晴老師",
+        "timestamp": "1729814107",
+        "url": "mail_display.php?timestamp=1729814107",
+        "date": "2024/10/25 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【華文文學講座】林宛瑄老師",
         "timestamp": "1729814106",
         "url": "mail_display.php?timestamp=1729814106",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】桃園市政府教育局113年度約聘專任專業輔導人員甄選(113年12月9日截止)",
-        "timestamp": "1729747770",
-        "url": "mail_display.php?timestamp=1729747770",
-        "date": "2024/10/24 13:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
