@@ -1,5 +1,19 @@
 [
     {
+        "title": "【賀！】本校113年度績優職員(團體)",
+        "timestamp": "1730005678",
+        "url": "mail_display.php?timestamp=1730005678",
+        "date": "2024/10/27 13:07",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "電影欣賞:血緣共犯",
         "timestamp": "1729986901",
         "url": "mail_display.php?timestamp=1729986901",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": " 數位時代【AI發展新趨勢】",
-        "timestamp": "1729846042",
-        "url": "mail_display.php?timestamp=1729846042",
-        "date": "2024/10/25 16:47",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
     }
 ]
