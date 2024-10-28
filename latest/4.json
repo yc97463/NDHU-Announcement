@@ -1,5 +1,19 @@
 [
     {
+        "title": "113期中系員大會-幹部",
+        "timestamp": "1729814104",
+        "url": "mail_display.php?timestamp=1729814104",
+        "date": "2024/10/25 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113期中系員大會",
         "timestamp": "1729814103",
         "url": "mail_display.php?timestamp=1729814103",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "洄瀾學院體育中心助理兼救生員徵才公告",
-        "timestamp": "1729740985",
-        "url": "mail_display.php?timestamp=1729740985",
-        "date": "2024/10/24 11:36",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
     }
 ]
