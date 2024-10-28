@@ -1,5 +1,75 @@
 [
     {
+        "title": "【職涯課程】113年青年就業達人計畫-建立信任溝通的好習慣\u0026團隊合作的成功要素",
+        "timestamp": "1729727701",
+        "url": "mail_display.php?timestamp=1729727701",
+        "date": "2024/10/24 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "騎牛、覓牛與 見性",
+        "timestamp": "1729692686",
+        "url": "mail_display.php?timestamp=1729692686",
+        "date": "2024/10/23 22:11",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，還有名額，報名從速!",
+        "timestamp": "1729686631",
+        "url": "mail_display.php?timestamp=1729686631",
+        "date": "2024/10/23 20:30",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1藝設系推廣課程：陶藝創作基礎班、岩彩、暗房等課程確定開課，延後報名至10月30日止~ ",
+        "timestamp": "1729674934",
+        "url": "mail_display.php?timestamp=1729674934",
+        "date": "2024/10/23 17:15",
+        "department": "藝術與設計學系",
+        "author": {
+            "department": "藝術與設計學系",
+            "name": "邱苡芳",
+            "email": "chiu91@gms.ndhu.edu.tw",
+            "phone": "5122"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【敬邀參加】本校30周年校慶慶祝大會(11/11) 第3次公告",
+        "timestamp": "1729663359",
+        "url": "mail_display.php?timestamp=1729663359",
+        "date": "2024/10/23 14:02",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校園健走~一起感受美麗校園!!",
         "timestamp": "1729662017",
         "url": "mail_display.php?timestamp=1729662017",
@@ -136,76 +206,6 @@
             "name": "曾暐娟",
             "email": "41104g001@gms.ndhu.edu.tw",
             "phone": "朱璽恩 0921689326"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系校友講座】企業家講座 (全國電子、高橋動物醫院、提拉米蘇精緻蛋糕)",
-        "timestamp": "1729641310",
-        "url": "mail_display.php?timestamp=1729641310",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系校友講座】數位時代的管理 (台大工管系 黃俊堯教授)",
-        "timestamp": "1729641309",
-        "url": "mail_display.php?timestamp=1729641309",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(貴賓、教職員)",
-        "timestamp": "1729641308",
-        "url": "mail_display.php?timestamp=1729641308",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(數位行銷)",
-        "timestamp": "1729641307",
-        "url": "mail_display.php?timestamp=1729641307",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 數位行銷與服務創新國際學士班",
-        "author": {
-            "department": "管理學院 數位行銷與服務創新國際學士班",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(管財)",
-        "timestamp": "1729641306",
-        "url": "mail_display.php?timestamp=1729641306",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
         },
         "attachmentCount": 0
     }
