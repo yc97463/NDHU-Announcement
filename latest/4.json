@@ -1,5 +1,19 @@
 [
     {
+        "title": "113期中系員大會",
+        "timestamp": "1729814103",
+        "url": "mail_display.php?timestamp=1729814103",
+        "date": "2024/10/25 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-1 教育研究法課程專題講座】無中生有－從研究發想到分析資料",
         "timestamp": "1729814102",
         "url": "mail_display.php?timestamp=1729814102",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】【TCS Taiwan印度商塔塔顧問服務有限公司】第十二屆CodeVita國際程式競賽報名開跑，總獎金達２萬美金!! 🏆️ 🏆️",
-        "timestamp": "1729740518",
-        "url": "mail_display.php?timestamp=1729740518",
-        "date": "2024/10/24 11:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 7
     }
 ]
