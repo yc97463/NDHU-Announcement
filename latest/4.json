@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1學期 導師輔導知能研習第二場（線上講座）",
+        "timestamp": "1729818789",
+        "url": "mail_display.php?timestamp=1729818789",
+        "date": "2024/10/25 09:13",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陶開勤",
+            "email": "kctao@gms.ndhu.edu.tw",
+            "phone": "03-8906275"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113年度花蓮縣體育總會羽球委會C級教練講習",
         "timestamp": "1729817234",
         "url": "mail_display.php?timestamp=1729817234",
@@ -194,19 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "職業能力測驗與工作坊活動",
-        "timestamp": "1729752160",
-        "url": "mail_display.php?timestamp=1729752160",
-        "date": "2024/10/24 14:42",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 3
     }
 ]
