@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知】國立臺北科技大學與Google合作辦理「Google資安人才培育計畫」(線上課程)",
+        "timestamp": "1729828173",
+        "url": "mail_display.php?timestamp=1729828173",
+        "date": "2024/10/25 11:49",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【傑出校友】南華大學辦理113學年度傑出校友遴選",
+        "timestamp": "1729826845",
+        "url": "mail_display.php?timestamp=1729826845",
+        "date": "2024/10/25 11:27",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "教育部來函有關大陸地區進口之商品「穿雲箭」屬槍砲彈藥刀械管制條例管制且具殺傷力，請共同防範，確保校園安全。",
+        "timestamp": "1729825838",
+        "url": "mail_display.php?timestamp=1729825838",
+        "date": "2024/10/25 11:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "「行政大樓、仰山莊廢品室、環保大樓與69KV變電站廢品清運作業」公告",
         "timestamp": "1729822255",
         "url": "mail_display.php?timestamp=1729822255",
@@ -166,47 +208,5 @@
             "phone": "038905123"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 教育研究法課程專題講座】無中生有－從研究發想到分析資料",
-        "timestamp": "1729814102",
-        "url": "mail_display.php?timestamp=1729814102",
-        "date": "2024/10/25 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【交通安全宣導】違規行駛人行道之「汽、機車」可處1800元罰鍰",
-        "timestamp": "1729761046",
-        "url": "mail_display.php?timestamp=1729761046",
-        "date": "2024/10/24 17:10",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024/11/8~ 台、泰教育趨勢學術專題演講(2024 Taiwan and Thailand Education Trend Academic Lecture)",
-        "timestamp": "1729760196",
-        "url": "mail_display.php?timestamp=1729760196",
-        "date": "2024/10/24 16:56",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 4
     }
 ]
