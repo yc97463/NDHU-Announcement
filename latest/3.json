@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1730082775",
+        "url": "mail_display.php?timestamp=1730082775",
+        "date": "2024/10/28 10:32",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動轉知】國立嘉義大學辦理數位課程線上研習",
         "timestamp": "1730082124",
         "url": "mail_display.php?timestamp=1730082124",
@@ -194,19 +208,5 @@
             "phone": "0971217585"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "10月25日志學道路燈不亮說明",
-        "timestamp": "1729849852",
-        "url": "mail_display.php?timestamp=1729849852",
-        "date": "2024/10/25 17:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]
