@@ -1,33 +1,5 @@
 [
     {
-        "title": "宣導校園性別事件通報窗口",
-        "timestamp": "1729047921",
-        "url": "mail_display.php?timestamp=1729047921",
-        "date": "2024/10/16 11:05",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "東華大學性平會",
-            "email": "gender10404@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年度校區內客貨電梯進行月保養排程通告10月保養",
-        "timestamp": "1728990151",
-        "url": "mail_display.php?timestamp=1728990151",
-        "date": "2024/10/15 19:02",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "第二次公告~教職員工特殊健康檢查(從事特殊化學實驗者)(延長健檢時間)",
         "timestamp": "1728983930",
         "url": "mail_display.php?timestamp=1728983930",
@@ -208,5 +180,33 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 4
+    },
+    {
+        "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
+        "timestamp": "1728867409",
+        "url": "mail_display.php?timestamp=1728867409",
+        "date": "2024/10/14 08:56",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
+        "timestamp": "1728866913",
+        "url": "mail_display.php?timestamp=1728866913",
+        "date": "2024/10/14 08:48",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "03-89062323"
+        },
+        "attachmentCount": 2
     }
 ]

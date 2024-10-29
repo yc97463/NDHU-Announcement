@@ -1,33 +1,5 @@
 [
     {
-        "title": "【海上颱風警報】康芮中度颱風（國際名Kong-rey）海上颱風警報!  Moderate typhoon Kong-rey (international name Kong-rey) maritime typhoon warning",
-        "timestamp": "1730209150",
-        "url": "mail_display.php?timestamp=1730209150",
-        "date": "2024/10/29 21:39",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【海上颱風警報】康芮中度颱風（國際名Kong-rey）海上颱風警報!  Moderate typhoon Kong-rey (international name Kong-rey) maritime typhoon warning",
-        "timestamp": "1730208695",
-        "url": "mail_display.php?timestamp=1730208695",
-        "date": "2024/10/29 21:31",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": "涵星一莊電梯系統更新停用公告",
         "timestamp": "1730204178",
         "url": "mail_display.php?timestamp=1730204178",
@@ -208,5 +180,33 @@
             "phone": "8906344"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "行政大樓303會議室設備更新操作說明訓練公告",
+        "timestamp": "1729819496",
+        "url": "mail_display.php?timestamp=1729819496",
+        "date": "2024/10/25 09:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」及「中央政府各機關派赴大陸地區、香港及澳門出差人員生活費日支數額表」自114年1月1日生效",
+        "timestamp": "1729677003",
+        "url": "mail_display.php?timestamp=1729677003",
+        "date": "2024/10/23 17:50",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
     }
 ]
