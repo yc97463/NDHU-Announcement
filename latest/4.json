@@ -1,5 +1,33 @@
 [
     {
+        "title": "【國際交流活動】Sultan Agung Islamic University (UNISSULA), Online Global Culture Exchange (OGCE) 2024",
+        "timestamp": "1729847836",
+        "url": "mail_display.php?timestamp=1729847836",
+        "date": "2024/10/25 17:17",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【東區基地】教學實踐研究計畫主題座談~AI！看不見的寫手：人工智慧對學術與研究倫理的挑戰(113年11月26日)",
+        "timestamp": "1729847592",
+        "url": "mail_display.php?timestamp=1729847592",
+        "date": "2024/10/25 17:13",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【國際交流活動】日本長崎大學 Nagasaki University International Winter Program",
         "timestamp": "1729847568",
         "url": "mail_display.php?timestamp=1729847568",
@@ -180,33 +208,5 @@
             "phone": "6059"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "教育部來函有關大陸地區進口之商品「穿雲箭」屬槍砲彈藥刀械管制條例管制且具殺傷力，請共同防範，確保校園安全。",
-        "timestamp": "1729825838",
-        "url": "mail_display.php?timestamp=1729825838",
-        "date": "2024/10/25 11:10",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "「行政大樓、仰山莊廢品室、環保大樓與69KV變電站廢品清運作業」公告",
-        "timestamp": "1729822255",
-        "url": "mail_display.php?timestamp=1729822255",
-        "date": "2024/10/25 10:10",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
     }
 ]

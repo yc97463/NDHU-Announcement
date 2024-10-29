@@ -1,5 +1,33 @@
 [
     {
+        "title": "【活動轉知】國立嘉義大學辦理數位課程線上研習",
+        "timestamp": "1730082124",
+        "url": "mail_display.php?timestamp=1730082124",
+        "date": "2024/10/28 10:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【賀】本校112學年度教師獲頒行政服務獎章及獎勵金名冊",
+        "timestamp": "1730079975",
+        "url": "mail_display.php?timestamp=1730079975",
+        "date": "2024/10/28 09:46",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【財金系專題演講】11/1(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
         "timestamp": "1730077492",
         "url": "mail_display.php?timestamp=1730077492",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【國際交流活動】Sultan Agung Islamic University (UNISSULA), Online Global Culture Exchange (OGCE) 2024",
-        "timestamp": "1729847836",
-        "url": "mail_display.php?timestamp=1729847836",
-        "date": "2024/10/25 17:17",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【東區基地】教學實踐研究計畫主題座談~AI！看不見的寫手：人工智慧對學術與研究倫理的挑戰(113年11月26日)",
-        "timestamp": "1729847592",
-        "url": "mail_display.php?timestamp=1729847592",
-        "date": "2024/10/25 17:13",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 2
     }
 ]

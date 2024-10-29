@@ -1,5 +1,33 @@
 [
     {
+        "title": "教育部來函有關大陸地區進口之商品「穿雲箭」屬槍砲彈藥刀械管制條例管制且具殺傷力，請共同防範，確保校園安全。",
+        "timestamp": "1729825838",
+        "url": "mail_display.php?timestamp=1729825838",
+        "date": "2024/10/25 11:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "「行政大樓、仰山莊廢品室、環保大樓與69KV變電站廢品清運作業」公告",
+        "timestamp": "1729822255",
+        "url": "mail_display.php?timestamp=1729822255",
+        "date": "2024/10/25 10:10",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "職業能力測驗與工作坊活動(報名連結更正)",
         "timestamp": "1729821117",
         "url": "mail_display.php?timestamp=1729821117",
@@ -180,33 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2024/11/8~ 台、泰教育趨勢學術專題演講(2024 Taiwan and Thailand Education Trend Academic Lecture)",
-        "timestamp": "1729760196",
-        "url": "mail_display.php?timestamp=1729760196",
-        "date": "2024/10/24 16:56",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【課程推推✨】113-1 溝通表微課程報名開跑啦💬想拿通識一學分嗎? 火速報名詳見內文🔥",
-        "timestamp": "1729759603",
-        "url": "mail_display.php?timestamp=1729759603",
-        "date": "2024/10/24 16:46",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "yuxuan22@gms.ndhu.edu.tw",
-            "phone": "5246"
-        },
-        "attachmentCount": 3
     }
 ]
