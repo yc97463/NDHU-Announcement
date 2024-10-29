@@ -1,5 +1,19 @@
 [
     {
+        "title": "【就業/考試】公告修正技術士技能檢定「國貿業務」職類乙、丙級學科測試參考資料",
+        "timestamp": "1729847086",
+        "url": "mail_display.php?timestamp=1729847086",
+        "date": "2024/10/25 17:04",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 數位時代【AI發展新趨勢】",
         "timestamp": "1729846042",
         "url": "mail_display.php?timestamp=1729846042",
@@ -194,19 +208,5 @@
             "phone": "0911765302"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113.10.27教行系專題演講~凃均翰諮商心理師",
-        "timestamp": "1729814109",
-        "url": "mail_display.php?timestamp=1729814109",
-        "date": "2024/10/25 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
-        },
-        "attachmentCount": 0
     }
 ]
