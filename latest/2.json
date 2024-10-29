@@ -1,5 +1,61 @@
 [
     {
+        "title": "【徵才】嘉義市政府「過渡性教育措施計畫」專案輔導員甄選(113年11月4日截止)",
+        "timestamp": "1730086160",
+        "url": "mail_display.php?timestamp=1730086160",
+        "date": "2024/10/28 11:29",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【職涯課程】113年青年就業達人計畫開始報名啦",
+        "timestamp": "1730083143",
+        "url": "mail_display.php?timestamp=1730083143",
+        "date": "2024/10/28 10:39",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1730082775",
+        "url": "mail_display.php?timestamp=1730082775",
+        "date": "2024/10/28 10:32",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動轉知】國立嘉義大學辦理數位課程線上研習",
+        "timestamp": "1730082124",
+        "url": "mail_display.php?timestamp=1730082124",
+        "date": "2024/10/28 10:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【賀】本校112學年度教師獲頒行政服務獎章及獎勵金名冊",
         "timestamp": "1730079975",
         "url": "mail_display.php?timestamp=1730079975",
@@ -152,61 +208,5 @@
             "phone": "03-8905792"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】【想想花蓮．韌性原鄉】系列講座5：日本福祉避難與防災案例與台灣經驗的對話",
-        "timestamp": "1729900502",
-        "url": "mail_display.php?timestamp=1729900502",
-        "date": "2024/10/26 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "lingya@gms.ndhu.edu.tw",
-            "phone": "03-890-5708"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 性平關我什麼事？】第三講－這樣，也要通報？",
-        "timestamp": "1729900501",
-        "url": "mail_display.php?timestamp=1729900501",
-        "date": "2024/10/26 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10月25日志學道路燈不亮說明",
-        "timestamp": "1729849852",
-        "url": "mail_display.php?timestamp=1729849852",
-        "date": "2024/10/25 17:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【國際交流活動】Sultan Agung Islamic University (UNISSULA), Online Global Culture Exchange (OGCE) 2024",
-        "timestamp": "1729847836",
-        "url": "mail_display.php?timestamp=1729847836",
-        "date": "2024/10/25 17:17",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
     }
 ]
