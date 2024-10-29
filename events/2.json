@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】華語文教學人物專訪座談會「第四個十年」—朱嘉雯專訪何寶璋教授",
+        "timestamp": "1729922119",
+        "url": "mail_display.php?timestamp=1729922119",
+        "date": "2024/10/26 13:55",
+        "department": "華語文教學國際博士班",
+        "author": {
+            "department": "華語文教學國際博士班",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5402"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "國企系校友卓越講座—業界趨勢與職場經驗分享 ",
         "timestamp": "1729900504",
         "url": "mail_display.php?timestamp=1729900504",
@@ -194,19 +208,5 @@
             "phone": "5632"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-1學期 導師輔導知能研習第二場（線上講座）",
-        "timestamp": "1729818789",
-        "url": "mail_display.php?timestamp=1729818789",
-        "date": "2024/10/25 09:13",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 2
     }
 ]

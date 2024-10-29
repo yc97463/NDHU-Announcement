@@ -1,5 +1,33 @@
 [
     {
+        "title": "【財金系專題演講】11/1(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
+        "timestamp": "1730077492",
+        "url": "mail_display.php?timestamp=1730077492",
+        "date": "2024/10/28 09:04",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【資工系專題講座】11/14(四) 國立臺灣師範大學電機工程學系 葉家宏教授",
+        "timestamp": "1730073304",
+        "url": "mail_display.php?timestamp=1730073304",
+        "date": "2024/10/28 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】11/01(五) 國立宜蘭大學資訊工程學系 夏至賢教授",
         "timestamp": "1730073303",
         "url": "mail_display.php?timestamp=1730073303",
@@ -180,33 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【國際交流活動】日本長崎大學 Nagasaki University International Winter Program",
-        "timestamp": "1729847568",
-        "url": "mail_display.php?timestamp=1729847568",
-        "date": "2024/10/25 17:12",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【重要通知】113-1學期K書中心B館期中考開放時間公告(第一次公告)",
-        "timestamp": "1729847365",
-        "url": "mail_display.php?timestamp=1729847365",
-        "date": "2024/10/25 17:09",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "蕭先生",
-            "email": "xiao@gms.ndhu.edu.tw",
-            "phone": "6585"
-        },
-        "attachmentCount": 0
     }
 ]
