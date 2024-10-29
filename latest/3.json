@@ -1,5 +1,33 @@
 [
     {
+        "title": "國企系校友卓越講座—業界趨勢與職場經驗分享 ",
+        "timestamp": "1729900504",
+        "url": "mail_display.php?timestamp=1729900504",
+        "date": "2024/10/26 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333002@gms.ndhu.edu.tw",
+            "phone": "0908161228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024秋季族文面對面系列講座(一)",
+        "timestamp": "1729900503",
+        "url": "mail_display.php?timestamp=1729900503",
+        "date": "2024/10/26 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "黃淑美",
+            "email": "sumay@gms.ndhu.edu.tw",
+            "phone": "03-8905792"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系】【想想花蓮．韌性原鄉】系列講座5：日本福祉避難與防災案例與台灣經驗的對話",
         "timestamp": "1729900502",
         "url": "mail_display.php?timestamp=1729900502",
@@ -180,33 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】為響應政府節能減碳永續發展政策，行政院人事行政總處全球資訊網之「辦公日曆表」專區，提供多元設計圖樣之「中華民國114年政府行政機關辦公日曆表」圖檔，請依需要自行下載使用。",
-        "timestamp": "1729841184",
-        "url": "mail_display.php?timestamp=1729841184",
-        "date": "2024/10/25 15:26",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "專屬東華學生的新世代青年城市論壇，參加志工有服務時數、參加論壇有跨域學習時數認證、參加兩場工作坊有專屬好康！",
-        "timestamp": "1729839270",
-        "url": "mail_display.php?timestamp=1729839270",
-        "date": "2024/10/25 14:54",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 3
     }
 ]
