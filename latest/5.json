@@ -1,5 +1,47 @@
 [
     {
+        "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
+        "timestamp": "1730101596",
+        "url": "mail_display.php?timestamp=1730101596",
+        "date": "2024/10/28 15:46",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【傑出校友】南華大學辦理113學年度傑出校友遴選",
+        "timestamp": "1730100788",
+        "url": "mail_display.php?timestamp=1730100788",
+        "date": "2024/10/28 15:33",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "國立東華大學數位學伴中心 - 【113-1 學期-指定時段大學伴招募】",
+        "timestamp": "1730099861",
+        "url": "mail_display.php?timestamp=1730099861",
+        "date": "2024/10/28 15:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關學務處針對【交通安全案例宣導】狗狗追車、追人 ─原因及應對方式公告，內容澄清。",
         "timestamp": "1730099313",
         "url": "mail_display.php?timestamp=1730099313",
@@ -166,47 +208,5 @@
             "phone": "3133"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資工系專題講座】11/14(四) 國立臺灣師範大學電機工程學系 葉家宏教授",
-        "timestamp": "1730073304",
-        "url": "mail_display.php?timestamp=1730073304",
-        "date": "2024/10/28 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資工系專題講座】11/01(五) 國立宜蘭大學資訊工程學系 夏至賢教授",
-        "timestamp": "1730073303",
-        "url": "mail_display.php?timestamp=1730073303",
-        "date": "2024/10/28 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【法語角】French Movie Nights 法國電影之夜 Session 2：11/27《芬妮的勇敢旅程》(Le Voyage de Fanny, 2016)",
-        "timestamp": "1730073302",
-        "url": "mail_display.php?timestamp=1730073302",
-        "date": "2024/10/28 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]

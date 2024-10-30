@@ -1,5 +1,19 @@
 [
     {
+        "title": " 數位時代【AI發展新趨勢】",
+        "timestamp": "1729846042",
+        "url": "mail_display.php?timestamp=1729846042",
+        "date": "2024/10/25 16:47",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": " 創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
         "timestamp": "1729845700",
         "url": "mail_display.php?timestamp=1729845700",
@@ -194,19 +208,5 @@
             "phone": "0971217585"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "職業能力測驗與工作坊活動",
-        "timestamp": "1729752160",
-        "url": "mail_display.php?timestamp=1729752160",
-        "date": "2024/10/24 14:42",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 3
     }
 ]

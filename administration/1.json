@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
+        "timestamp": "1730291316",
+        "url": "mail_display.php?timestamp=1730291316",
+        "date": "2024/10/30 20:28",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(31)日(四)停止上班上課",
+        "timestamp": "1730290565",
+        "url": "mail_display.php?timestamp=1730290565",
+        "date": "2024/10/30 20:16",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "提醒防颱準備(公告)",
         "timestamp": "1730262921",
         "url": "mail_display.php?timestamp=1730262921",
@@ -180,33 +208,5 @@
             "phone": "890-6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
-        "timestamp": "1730101596",
-        "url": "mail_display.php?timestamp=1730101596",
-        "date": "2024/10/28 15:46",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1730082775",
-        "url": "mail_display.php?timestamp=1730082775",
-        "date": "2024/10/28 10:32",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
+        "timestamp": "1730101596",
+        "url": "mail_display.php?timestamp=1730101596",
+        "date": "2024/10/28 15:46",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1730082775",
+        "url": "mail_display.php?timestamp=1730082775",
+        "date": "2024/10/28 10:32",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【賀】本校112學年度教師獲頒行政服務獎章及獎勵金名冊",
         "timestamp": "1730079975",
         "url": "mail_display.php?timestamp=1730079975",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "沁月莊113年10月24日停電通知",
-        "timestamp": "1729574243",
-        "url": "mail_display.php?timestamp=1729574243",
-        "date": "2024/10/22 13:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】「臺北市政府促進青年國際發展補助要點」歡迎踴躍申請",
-        "timestamp": "1729560558",
-        "url": "mail_display.php?timestamp=1729560558",
-        "date": "2024/10/22 09:29",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]

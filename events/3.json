@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資工系專題講座】11/14(四) 國立臺灣師範大學電機工程學系 葉家宏教授",
+        "timestamp": "1730073304",
+        "url": "mail_display.php?timestamp=1730073304",
+        "date": "2024/10/28 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】11/01(五) 國立宜蘭大學資訊工程學系 夏至賢教授",
         "timestamp": "1730073303",
         "url": "mail_display.php?timestamp=1730073303",
@@ -194,19 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": " 數位時代【AI發展新趨勢】",
-        "timestamp": "1729846042",
-        "url": "mail_display.php?timestamp=1729846042",
-        "date": "2024/10/25 16:47",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
     }
 ]

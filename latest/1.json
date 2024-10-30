@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
+        "timestamp": "1730291316",
+        "url": "mail_display.php?timestamp=1730291316",
+        "date": "2024/10/30 20:28",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(31)日(四)停止上班上課",
+        "timestamp": "1730290565",
+        "url": "mail_display.php?timestamp=1730290565",
+        "date": "2024/10/30 20:16",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動取消通知】10/31(四)電影欣賞:性平影展活動",
+        "timestamp": "1730290121",
+        "url": "mail_display.php?timestamp=1730290121",
+        "date": "2024/10/30 20:08",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺北市就業服務處113年11月22日(五)辦理「開薪對對碰」聯合徵才活動",
         "timestamp": "1730279848",
         "url": "mail_display.php?timestamp=1730279848",
@@ -166,47 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】屏山文教基金會113-1殘障清寒獎助學金 (限身障生或身障人士子女且為低或中低收)",
-        "timestamp": "1730259905",
-        "url": "mail_display.php?timestamp=1730259905",
-        "date": "2024/10/30 11:45",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "為因應本校三位副校長負責督導之行政單位，公文系統一層決行新增三個選項，由本校各單位承辦人視公文性質選取所需之流程，請各單位人員配合辦理。",
-        "timestamp": "1730255904",
-        "url": "mail_display.php?timestamp=1730255904",
-        "date": "2024/10/30 10:38",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【延長徵件】 114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至11月4日上午10點為止。",
-        "timestamp": "1730255536",
-        "url": "mail_display.php?timestamp=1730255536",
-        "date": "2024/10/30 10:32",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "梁忠誠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5108"
-        },
-        "attachmentCount": 1
     }
 ]
