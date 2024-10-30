@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學數位學伴中心 - 【113-1 學期-指定時段大學伴招募】",
+        "timestamp": "1730099861",
+        "url": "mail_display.php?timestamp=1730099861",
+        "date": "2024/10/28 15:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關學務處針對【交通安全案例宣導】狗狗追車、追人 ─原因及應對方式公告，內容澄清。",
         "timestamp": "1730099313",
         "url": "mail_display.php?timestamp=1730099313",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "藝術學院塔樓施工公告",
-        "timestamp": "1729757665",
-        "url": "mail_display.php?timestamp=1729757665",
-        "date": "2024/10/24 16:14",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "邱健榮",
-            "email": "janus@gms.ndhu.edu.tw",
-            "phone": "6385"
-        },
-        "attachmentCount": 0
     }
 ]
