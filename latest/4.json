@@ -1,5 +1,33 @@
 [
     {
+        "title": "【專題演講】10/31(四)_「從0到10」—「每一步都是成長」",
+        "timestamp": "1730159702",
+        "url": "mail_display.php?timestamp=1730159702",
+        "date": "2024/10/29 07:55",
+        "department": "洄瀾學院 體育中心",
+        "author": {
+            "department": "洄瀾學院 體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【應數系演講】113-11-01 張明中教授",
+        "timestamp": "1730159701",
+        "url": "mail_display.php?timestamp=1730159701",
+        "date": "2024/10/29 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【原民院】原民院公務信箱即日起調整為cis@gms.ndhu.edu.tw，敬請將相關郵件調整寄至公務信箱，謝謝配合。",
         "timestamp": "1730103271",
         "url": "mail_display.php?timestamp=1730103271",
@@ -180,33 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1730082775",
-        "url": "mail_display.php?timestamp=1730082775",
-        "date": "2024/10/28 10:32",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動轉知】國立嘉義大學辦理數位課程線上研習",
-        "timestamp": "1730082124",
-        "url": "mail_display.php?timestamp=1730082124",
-        "date": "2024/10/28 10:22",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]

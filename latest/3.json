@@ -1,5 +1,33 @@
 [
     {
+        "title": "【演講訊息】因康芮颱風影響，原訂於10/31(四)的演講將擇日舉辦，還請見諒。",
+        "timestamp": "1730189272",
+        "url": "mail_display.php?timestamp=1730189272",
+        "date": "2024/10/29 16:07",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度 教學實踐研究計畫 徵件說明暨經驗分享(113.11.05.)",
+        "timestamp": "1730185900",
+        "url": "mail_display.php?timestamp=1730185900",
+        "date": "2024/10/29 15:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知學生自主學習社群活動】🌿 米棧文化 X 療癒 X 永續工作坊 🌿",
         "timestamp": "1730185386",
         "url": "mail_display.php?timestamp=1730185386",
@@ -178,34 +206,6 @@
             "name": "黃偲婷",
             "email": "cls39white@gms.ndhu.edu.tw",
             "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】10/31(四)_「從0到10」—「每一步都是成長」",
-        "timestamp": "1730159702",
-        "url": "mail_display.php?timestamp=1730159702",
-        "date": "2024/10/29 07:55",
-        "department": "洄瀾學院 體育中心",
-        "author": {
-            "department": "洄瀾學院 體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【應數系演講】113-11-01 張明中教授",
-        "timestamp": "1730159701",
-        "url": "mail_display.php?timestamp=1730159701",
-        "date": "2024/10/29 07:55",
-        "department": "理工學院 應用數學系",
-        "author": {
-            "department": "理工學院 應用數學系",
-            "name": "陳素琳",
-            "email": "chsulin@gms.ndhu.edu.tw",
-            "phone": "3561"
         },
         "attachmentCount": 0
     }
