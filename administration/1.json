@@ -1,5 +1,33 @@
 [
     {
+        "title": "為因應本校三位副校長負責督導之行政單位，公文系統一層決行新增三個選項，由本校各單位承辦人視公文性質選取所需之流程，請各單位人員配合辦理。",
+        "timestamp": "1730255904",
+        "url": "mail_display.php?timestamp=1730255904",
+        "date": "2024/10/30 10:38",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【延長徵件】 114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至11月4日上午10點為止。",
+        "timestamp": "1730255536",
+        "url": "mail_display.php?timestamp=1730255536",
+        "date": "2024/10/30 10:32",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "梁忠誠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【健康宣導】狂犬病防疫重點 ",
         "timestamp": "1730249472",
         "url": "mail_display.php?timestamp=1730249472",
@@ -178,34 +206,6 @@
             "name": "楊惠雯",
             "email": "hwyang@gms.ndhu.edu.tw",
             "phone": "6061"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【賀！】本校113年度績優職員(團體)",
-        "timestamp": "1730005678",
-        "url": "mail_display.php?timestamp=1730005678",
-        "date": "2024/10/27 13:07",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10月25日志學道路燈不亮說明",
-        "timestamp": "1729849852",
-        "url": "mail_display.php?timestamp=1729849852",
-        "date": "2024/10/25 17:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 1
     }
