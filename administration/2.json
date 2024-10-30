@@ -1,5 +1,19 @@
 [
     {
+        "title": "10月29日志學道路燈線路檢修公告",
+        "timestamp": "1730101806",
+        "url": "mail_display.php?timestamp=1730101806",
+        "date": "2024/10/28 15:50",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "890-6376"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
         "timestamp": "1730101596",
         "url": "mail_display.php?timestamp=1730101596",
@@ -194,19 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "原公告勞僱型教職員工一般健康檢查暨特殊健康檢查到院補檢因故取消",
-        "timestamp": "1729576909",
-        "url": "mail_display.php?timestamp=1729576909",
-        "date": "2024/10/22 14:01",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
     }
 ]

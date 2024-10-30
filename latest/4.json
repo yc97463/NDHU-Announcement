@@ -1,5 +1,19 @@
 [
     {
+        "title": "YES!就業力組合量表線上施測!",
+        "timestamp": "1730182100",
+        "url": "mail_display.php?timestamp=1730182100",
+        "date": "2024/10/29 14:08",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】台北市東筦同鄉會113年度獎學金 (限祖籍東莞市，含僑外生申請)",
         "timestamp": "1730182046",
         "url": "mail_display.php?timestamp=1730182046",
@@ -194,19 +208,5 @@
             "phone": "03-89057852"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "10月29日志學道路燈線路檢修公告",
-        "timestamp": "1730101806",
-        "url": "mail_display.php?timestamp=1730101806",
-        "date": "2024/10/28 15:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "890-6376"
-        },
-        "attachmentCount": 1
     }
 ]
