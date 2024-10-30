@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺北市就業服務處113年11月22日(五)辦理「開薪對對碰」聯合徵才活動",
+        "timestamp": "1730279848",
+        "url": "mail_display.php?timestamp=1730279848",
+        "date": "2024/10/30 17:17",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【協助轉知】環境部循環署公開徵求 114 年度補助創新計畫",
         "timestamp": "1730275065",
         "url": "mail_display.php?timestamp=1730275065",
@@ -194,19 +208,5 @@
             "phone": "890-6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【傑出校友】南華大學辦理113學年度傑出校友遴選",
-        "timestamp": "1730100788",
-        "url": "mail_display.php?timestamp=1730100788",
-        "date": "2024/10/28 15:33",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 4
     }
 ]
