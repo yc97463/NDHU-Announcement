@@ -1,5 +1,19 @@
 [
     {
+        "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
+        "timestamp": "1730384982",
+        "url": "mail_display.php?timestamp=1730384982",
+        "date": "2024/10/31 22:29",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年10月31日垃圾車停止清運Garbage trucks will cease service on October 31, 2024",
         "timestamp": "1730296608",
         "url": "mail_display.php?timestamp=1730296608",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【原民院】原民院公務信箱即日起調整為cis@gms.ndhu.edu.tw，敬請將相關郵件調整寄至公務信箱，謝謝配合。",
-        "timestamp": "1730103271",
-        "url": "mail_display.php?timestamp=1730103271",
-        "date": "2024/10/28 16:14",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱 Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-89057852"
-        },
-        "attachmentCount": 0
     }
 ]
