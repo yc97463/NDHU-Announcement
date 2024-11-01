@@ -1,5 +1,19 @@
 [
     {
+        "title": "自資系專題演講-GIS Data Science for Ancient Earth: Integrating Plate Tectonic Reconstruction with Geological Datasets",
+        "timestamp": "1730332501",
+        "url": "mail_display.php?timestamp=1730332501",
+        "date": "2024/10/31 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年10月31日垃圾車停止清運Garbage trucks will cease service on October 31, 2024",
         "timestamp": "1730296608",
         "url": "mail_display.php?timestamp=1730296608",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "改變生命的關鍵～精進與智慧《發趣論》24緣開示與 南傳禪修法門",
-        "timestamp": "1730266540",
-        "url": "mail_display.php?timestamp=1730266540",
-        "date": "2024/10/30 13:35",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
     }
 ]

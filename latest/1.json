@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校數位電話外線(市內外電話及手機)恢復通話公告。",
+        "timestamp": "1730439612",
+        "url": "mail_display.php?timestamp=1730439612",
+        "date": "2024/11/01 13:40",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華電子報 | 2024年10月刊 ",
         "timestamp": "1730437583",
         "url": "mail_display.php?timestamp=1730437583",
@@ -192,20 +206,6 @@
             "name": "賴姿伶",
             "email": "tll@gms.ndhu.edu.tw",
             "phone": "3804"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自資系專題演講-GIS Data Science for Ancient Earth: Integrating Plate Tectonic Reconstruction with Geological Datasets",
-        "timestamp": "1730332501",
-        "url": "mail_display.php?timestamp=1730332501",
-        "date": "2024/10/31 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "heart630@gms.ndhu.edu.tw",
-            "phone": "8903277"
         },
         "attachmentCount": 0
     }
