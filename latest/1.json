@@ -1,5 +1,19 @@
 [
     {
+        "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
+        "timestamp": "1730434329",
+        "url": "mail_display.php?timestamp=1730434329",
+        "date": "2024/11/01 12:12",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📢 113年度「全民外交研習營」—【青年國際參與】",
         "timestamp": "1730432901",
         "url": "mail_display.php?timestamp=1730432901",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
-        "timestamp": "1730291316",
-        "url": "mail_display.php?timestamp=1730291316",
-        "date": "2024/10/30 20:28",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]
