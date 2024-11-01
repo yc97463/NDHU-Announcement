@@ -1,5 +1,33 @@
 [
     {
+        "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
+        "timestamp": "1730246103",
+        "url": "mail_display.php?timestamp=1730246103",
+        "date": "2024/10/30 07:55",
+        "department": "技術服務中心 農業驗證與服務提升中心",
+        "author": {
+            "department": "技術服務中心 農業驗證與服務提升中心",
+            "name": "林欣余",
+            "email": "singyu@gms.ndhu.edu.tw",
+            "phone": "03-8903669"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度-觀光遊憩實習招募說明會(場次1)【限本系】",
+        "timestamp": "1730246102",
+        "url": "mail_display.php?timestamp=1730246102",
+        "date": "2024/10/30 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "汪欣新",
+            "email": "star07_10@gms.ndhu.edu.tw",
+            "phone": "8905603"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度-觀光遊憩實習招募說明會(場次2)【限本系】",
         "timestamp": "1730246101",
         "url": "mail_display.php?timestamp=1730246101",
@@ -180,33 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度 教育部教學實踐研究計畫 開始徵件 (每案補助上限50萬元)113.12.13.(五)23:59 線上收件截止",
-        "timestamp": "1730174684",
-        "url": "mail_display.php?timestamp=1730174684",
-        "date": "2024/10/29 12:04",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "壽豐校區體育館更新冰水主機之運轉測試及能效量測公告",
-        "timestamp": "1730173184",
-        "url": "mail_display.php?timestamp=1730173184",
-        "date": "2024/10/29 11:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 0
     }
 ]

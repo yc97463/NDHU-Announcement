@@ -1,5 +1,19 @@
 [
     {
+        "title": "壽豐校區體育館更新冰水主機之運轉測試及能效量測公告",
+        "timestamp": "1730173184",
+        "url": "mail_display.php?timestamp=1730173184",
+        "date": "2024/10/29 11:39",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "(03)8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第三次公告】資訊資產盤點暨風險評鑑教育訓練",
         "timestamp": "1730171307",
         "url": "mail_display.php?timestamp=1730171307",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "向晴莊、涵星一莊、迎曦二莊及理工二館電 梯鋼索更新停用公告",
-        "timestamp": "1729670058",
-        "url": "mail_display.php?timestamp=1729670058",
-        "date": "2024/10/23 15:54",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

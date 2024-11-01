@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校數位電話網路異常公告。",
+        "timestamp": "1730429734",
+        "url": "mail_display.php?timestamp=1730429734",
+        "date": "2024/11/01 10:55",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國際交流活動】東北林業大學第八屆“冰雪情”冬令營",
+        "timestamp": "1730426807",
+        "url": "mail_display.php?timestamp=1730426807",
+        "date": "2024/11/01 10:06",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關志學中正路單月換邊停車公告，請同學多加注意。 ",
         "timestamp": "1730420587",
         "url": "mail_display.php?timestamp=1730420587",
@@ -178,34 +206,6 @@
             "name": "廖銘珠",
             "email": "min-judy@gms.ndhu.edu.tw",
             "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺北市就業服務處113年11月22日(五)辦理「開薪對對碰」聯合徵才活動",
-        "timestamp": "1730279848",
-        "url": "mail_display.php?timestamp=1730279848",
-        "date": "2024/10/30 17:17",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "教職員增能運動班(游泳課)停課公告",
-        "timestamp": "1730277541",
-        "url": "mail_display.php?timestamp=1730277541",
-        "date": "2024/10/30 16:39",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "董莫平",
-            "email": "evo789x@gms.ndhu.edu.tw",
-            "phone": "6616"
         },
         "attachmentCount": 0
     }
