@@ -1,5 +1,19 @@
 [
     {
+        "title": "【計畫申請】第二次公告 ⭐️勞動部114年度「補助大專校院辦理就業學程計畫」開始受理申請⭐️(本校申請期限：即日起至114年1月6日止)",
+        "timestamp": "1730178620",
+        "url": "mail_display.php?timestamp=1730178620",
+        "date": "2024/10/29 13:10",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年度 教育部教學實踐研究計畫 開始徵件 (每案補助上限50萬元)113.12.13.(五)23:59 線上收件截止",
         "timestamp": "1730174684",
         "url": "mail_display.php?timestamp=1730174684",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】為響應政府節能減碳永續發展政策，行政院人事行政總處全球資訊網之「辦公日曆表」專區，提供多元設計圖樣之「中華民國114年政府行政機關辦公日曆表」圖檔，請依需要自行下載使用。",
-        "timestamp": "1729841184",
-        "url": "mail_display.php?timestamp=1729841184",
-        "date": "2024/10/25 15:26",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【花師】花師教育學院 (院慶晚會) 113/11/28(四)",
+        "timestamp": "1730332502",
+        "url": "mail_display.php?timestamp=1730332502",
+        "date": "2024/10/31 07:55",
+        "department": "花師教育學院 ",
+        "author": {
+            "department": "花師教育學院",
+            "name": "賴姿伶",
+            "email": "tll@gms.ndhu.edu.tw",
+            "phone": "3804"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自資系專題演講-GIS Data Science for Ancient Earth: Integrating Plate Tectonic Reconstruction with Geological Datasets",
         "timestamp": "1730332501",
         "url": "mail_display.php?timestamp=1730332501",
@@ -194,19 +208,5 @@
             "phone": "03-8903241"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "國立東華大學【2024創新創意實踐提案競賽】",
-        "timestamp": "1730266978",
-        "url": "mail_display.php?timestamp=1730266978",
-        "date": "2024/10/30 13:42",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 8
     }
 ]
