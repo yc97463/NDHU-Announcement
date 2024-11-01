@@ -1,5 +1,33 @@
 [
     {
+        "title": "風災後校內道路尚未清理完竣，請務必減速慢行",
+        "timestamp": "1730451183",
+        "url": "mail_display.php?timestamp=1730451183",
+        "date": "2024/11/01 16:53",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】台北市愛慈社會福利基金會招募「生活輔導員、保育人員」",
+        "timestamp": "1730451041",
+        "url": "mail_display.php?timestamp=1730451041",
+        "date": "2024/11/01 16:50",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【K書中心開館公告】K書中心A、B兩館自113年11/01(五)18:00起開放，各院自習室請參考各院公告",
         "timestamp": "1730449043",
         "url": "mail_display.php?timestamp=1730449043",
@@ -178,34 +206,6 @@
             "name": "楊曉青",
             "email": "cindy4434@gms.ndhu.edu.tw",
             "phone": "6254"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.11.3教行系專題演講~大葉大學張智惠教授",
-        "timestamp": "1730332504",
-        "url": "mail_display.php?timestamp=1730332504",
-        "date": "2024/10/31 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「颱風後的垃圾危機」—一起來改造校園回收桶！♻️",
-        "timestamp": "1730332503",
-        "url": "mail_display.php?timestamp=1730332503",
-        "date": "2024/10/31 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "411154001@gms.ndhu.edu.tw",
-            "phone": "吳盈萱0968-990-728"
         },
         "attachmentCount": 0
     }
