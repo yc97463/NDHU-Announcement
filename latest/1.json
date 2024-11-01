@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2024年10月刊 ",
+        "timestamp": "1730437583",
+        "url": "mail_display.php?timestamp=1730437583",
+        "date": "2024/11/01 13:06",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
         "timestamp": "1730434329",
         "url": "mail_display.php?timestamp=1730434329",
@@ -192,20 +206,6 @@
             "name": "夏懿心",
             "email": "heart630@gms.ndhu.edu.tw",
             "phone": "8903277"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年10月31日垃圾車停止清運Garbage trucks will cease service on October 31, 2024",
-        "timestamp": "1730296608",
-        "url": "mail_display.php?timestamp=1730296608",
-        "date": "2024/10/30 21:56",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
         },
         "attachmentCount": 0
     }
