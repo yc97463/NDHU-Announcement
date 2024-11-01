@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第三次公告】資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1730171307",
+        "url": "mail_display.php?timestamp=1730171307",
+        "date": "2024/10/29 11:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年11月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1730170238",
         "url": "mail_display.php?timestamp=1730170238",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114年「全球優秀青年學子來臺蹲點計畫（TEEP）」計畫申請",
-        "timestamp": "1729668898",
-        "url": "mail_display.php?timestamp=1729668898",
-        "date": "2024/10/23 15:34",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 3
     }
 ]

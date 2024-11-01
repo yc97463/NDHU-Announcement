@@ -1,5 +1,19 @@
 [
     {
+        "title": "圖書資訊處校慶活動時間異動通知",
+        "timestamp": "1730250581",
+        "url": "mail_display.php?timestamp=1730250581",
+        "date": "2024/10/30 09:09",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【健康宣導】狂犬病防疫重點 ",
         "timestamp": "1730249472",
         "url": "mail_display.php?timestamp=1730249472",
@@ -185,20 +199,6 @@
         "title": "113學年度-觀光遊憩實習招募說明會(場次1)【限本系】",
         "timestamp": "1730246102",
         "url": "mail_display.php?timestamp=1730246102",
-        "date": "2024/10/30 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "star07_10@gms.ndhu.edu.tw",
-            "phone": "8905603"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度-觀光遊憩實習招募說明會(場次2)【限本系】",
-        "timestamp": "1730246101",
-        "url": "mail_display.php?timestamp=1730246101",
         "date": "2024/10/30 07:55",
         "department": "管理學院 觀光暨休閒遊憩學系",
         "author": {
