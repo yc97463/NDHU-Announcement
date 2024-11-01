@@ -1,5 +1,33 @@
 [
     {
+        "title": "為因應本校三位副校長負責督導之行政單位，公文系統一層決行新增三個選項，由本校各單位承辦人視公文性質選取所需之流程，請各單位人員配合辦理。",
+        "timestamp": "1730255904",
+        "url": "mail_display.php?timestamp=1730255904",
+        "date": "2024/10/30 10:38",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【延長徵件】 114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至11月4日上午10點為止。",
+        "timestamp": "1730255536",
+        "url": "mail_display.php?timestamp=1730255536",
+        "date": "2024/10/30 10:32",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "梁忠誠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【K書中心閉館公告】因颱風來襲，K中AB兩館自113年10/30(三)17:00起暫時閉館",
         "timestamp": "1730254806",
         "url": "mail_display.php?timestamp=1730254806",
@@ -178,34 +206,6 @@
             "name": "魏綺瑩",
             "email": "vanessawei@gms.ndhu.edu.tw",
             "phone": "5119"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有機農產品驗證稽核員培訓課程",
-        "timestamp": "1730246105",
-        "url": "mail_display.php?timestamp=1730246105",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
-        "timestamp": "1730246104",
-        "url": "mail_display.php?timestamp=1730246104",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
         },
         "attachmentCount": 0
     }

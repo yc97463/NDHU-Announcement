@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢 113年度「全民外交研習營」—【青年國際參與】",
+        "timestamp": "1730432901",
+        "url": "mail_display.php?timestamp=1730432901",
+        "date": "2024/11/01 11:48",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "11月1日校內委外廠商營業資訊公告",
+        "timestamp": "1730430787",
+        "url": "mail_display.php?timestamp=1730430787",
+        "date": "2024/11/01 11:13",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校數位電話網路異常公告。",
         "timestamp": "1730429734",
         "url": "mail_display.php?timestamp=1730429734",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】依行政院人事行政總處公告，明(31)日(四)停止上班上課",
-        "timestamp": "1730290565",
-        "url": "mail_display.php?timestamp=1730290565",
-        "date": "2024/10/30 20:16",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動取消通知】10/31(四)電影欣賞:性平影展活動",
-        "timestamp": "1730290121",
-        "url": "mail_display.php?timestamp=1730290121",
-        "date": "2024/10/30 20:08",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
     }
 ]
