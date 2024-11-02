@@ -1,5 +1,19 @@
 [
     {
+        "title": "圖書館臨時休館通知Notice of Library Temporary Closure",
+        "timestamp": "1730537932",
+        "url": "mail_display.php?timestamp=1730537932",
+        "date": "2024/11/02 16:58",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "6852"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第2次公告】113會計年度結束經費報支注意事項",
         "timestamp": "1730529576",
         "url": "mail_display.php?timestamp=1730529576",
@@ -192,20 +206,6 @@
             "name": "賴名塑",
             "email": "a54604@gms.ndhu.edu.tw",
             "phone": "8906378"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "📢 113年度「全民外交研習營」—【青年國際參與】",
-        "timestamp": "1730432901",
-        "url": "mail_display.php?timestamp=1730432901",
-        "date": "2024/11/01 11:48",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
         },
         "attachmentCount": 2
     }
