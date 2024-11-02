@@ -1,5 +1,19 @@
 [
     {
+        "title": "11月1日校內委外廠商營業資訊公告",
+        "timestamp": "1730430787",
+        "url": "mail_display.php?timestamp=1730430787",
+        "date": "2024/11/01 11:13",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校數位電話網路異常公告。",
         "timestamp": "1730429734",
         "url": "mail_display.php?timestamp=1730429734",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動取消通知】10/31(四)電影欣賞:性平影展活動",
-        "timestamp": "1730290121",
-        "url": "mail_display.php?timestamp=1730290121",
-        "date": "2024/10/30 20:08",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動取消通知】10/31(四)電影欣賞:性平影展活動",
+        "timestamp": "1730290121",
+        "url": "mail_display.php?timestamp=1730290121",
+        "date": "2024/10/30 20:08",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺北市就業服務處113年11月22日(五)辦理「開薪對對碰」聯合徵才活動",
         "timestamp": "1730279848",
         "url": "mail_display.php?timestamp=1730279848",
@@ -192,20 +206,6 @@
             "name": "張建中",
             "email": "eric.chang@gms.ndhu.edu.tw",
             "phone": "6352"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【延長徵件】 114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至11月4日上午10點為止。",
-        "timestamp": "1730255536",
-        "url": "mail_display.php?timestamp=1730255536",
-        "date": "2024/10/30 10:32",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "梁忠誠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5108"
         },
         "attachmentCount": 1
     }

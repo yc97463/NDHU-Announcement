@@ -1,6 +1,20 @@
 [
     {
         "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
+        "timestamp": "1730246104",
+        "url": "mail_display.php?timestamp=1730246104",
+        "date": "2024/10/30 07:55",
+        "department": "技術服務中心 農業驗證與服務提升中心",
+        "author": {
+            "department": "技術服務中心 農業驗證與服務提升中心",
+            "name": "林欣余",
+            "email": "singyu@gms.ndhu.edu.tw",
+            "phone": "03-8903669"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
         "timestamp": "1730246103",
         "url": "mail_display.php?timestamp=1730246103",
         "date": "2024/10/30 07:55",
@@ -194,19 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【計畫申請】第二次公告 ⭐️勞動部114年度「補助大專校院辦理就業學程計畫」開始受理申請⭐️(本校申請期限：即日起至114年1月6日止)",
-        "timestamp": "1730178620",
-        "url": "mail_display.php?timestamp=1730178620",
-        "date": "2024/10/29 13:10",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 1
     }
 ]
