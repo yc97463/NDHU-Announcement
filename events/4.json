@@ -1,5 +1,33 @@
 [
     {
+        "title": "YES!就業力組合量表線上施測!",
+        "timestamp": "1730182100",
+        "url": "mail_display.php?timestamp=1730182100",
+        "date": "2024/10/29 14:08",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【第三次公告】資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1730171307",
+        "url": "mail_display.php?timestamp=1730171307",
+        "date": "2024/10/29 11:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "日本琉球大學 Inter-island Sustainability Educational Program International Symposium 2024",
         "timestamp": "1730169441",
         "url": "mail_display.php?timestamp=1730169441",
@@ -178,34 +206,6 @@
             "name": "廖銘珠",
             "email": "min-judy@gms.ndhu.edu.tw",
             "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動公告】華語文教學人物專訪座談會「第四個十年」—朱嘉雯專訪何寶璋教授",
-        "timestamp": "1729922119",
-        "url": "mail_display.php?timestamp=1729922119",
-        "date": "2024/10/26 13:55",
-        "department": "華語文教學國際博士班",
-        "author": {
-            "department": "華語文教學國際博士班",
-            "name": "池助理",
-            "email": "tcsl@gms.ndhu.edu.tw",
-            "phone": "5402"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "國企系校友卓越講座—業界趨勢與職場經驗分享 ",
-        "timestamp": "1729900504",
-        "url": "mail_display.php?timestamp=1729900504",
-        "date": "2024/10/26 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "611333002@gms.ndhu.edu.tw",
-            "phone": "0908161228"
         },
         "attachmentCount": 0
     }

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【資工系專題講座】11/08(五)元智大學資訊工程學系 黃怡錚教授",
+        "timestamp": "1730505301",
+        "url": "mail_display.php?timestamp=1730505301",
+        "date": "2024/11/02 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "電梯因康芮颱風停用維護說明",
+        "timestamp": "1730467773",
+        "url": "mail_display.php?timestamp=1730467773",
+        "date": "2024/11/01 21:29",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "明日11/2(六)至11/4(一)志學門兩側人行道暨自行車道施工封閉公告",
         "timestamp": "1730462718",
         "url": "mail_display.php?timestamp=1730462718",
@@ -180,33 +208,5 @@
             "phone": "6616"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
-        "timestamp": "1730384982",
-        "url": "mail_display.php?timestamp=1730384982",
-        "date": "2024/10/31 22:29",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】川流文化教育基金會「113學年度獎助學金」",
-        "timestamp": "1730383289",
-        "url": "mail_display.php?timestamp=1730383289",
-        "date": "2024/10/31 22:01",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

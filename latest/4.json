@@ -1,5 +1,33 @@
 [
     {
+        "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
+        "timestamp": "1730384982",
+        "url": "mail_display.php?timestamp=1730384982",
+        "date": "2024/10/31 22:29",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】川流文化教育基金會「113學年度獎助學金」",
+        "timestamp": "1730383289",
+        "url": "mail_display.php?timestamp=1730383289",
+        "date": "2024/10/31 22:01",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "健康減脂美食~越南春捲DIY!!",
         "timestamp": "1730332505",
         "url": "mail_display.php?timestamp=1730332505",
@@ -180,33 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "專屬東華學生的新世代青年城市論壇，參加志工有服務時數、參加論壇有跨域學習時數認證、參加兩場工作坊有專屬好康！",
-        "timestamp": "1730273649",
-        "url": "mail_display.php?timestamp=1730273649",
-        "date": "2024/10/30 15:34",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【國際交流活動】吉林大學第二十一屆臺灣學生“北國風情”冬令營",
-        "timestamp": "1730273061",
-        "url": "mail_display.php?timestamp=1730273061",
-        "date": "2024/10/30 15:24",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 2
     }
 ]
