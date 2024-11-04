@@ -1,5 +1,75 @@
 [
     {
+        "title": "泳池場館11/1(五)暫停開放通知",
+        "timestamp": "1730416439",
+        "url": "mail_display.php?timestamp=1730416439",
+        "date": "2024/11/01 07:13",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "董莫平",
+            "email": "evo789x@gms.ndhu.edu.tw",
+            "phone": "6616"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
+        "timestamp": "1730384982",
+        "url": "mail_display.php?timestamp=1730384982",
+        "date": "2024/10/31 22:29",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年10月31日垃圾車停止清運Garbage trucks will cease service on October 31, 2024",
+        "timestamp": "1730296608",
+        "url": "mail_display.php?timestamp=1730296608",
+        "date": "2024/10/30 21:56",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
+        "timestamp": "1730291316",
+        "url": "mail_display.php?timestamp=1730291316",
+        "date": "2024/10/30 20:28",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(31)日(四)停止上班上課",
+        "timestamp": "1730290565",
+        "url": "mail_display.php?timestamp=1730290565",
+        "date": "2024/10/30 20:16",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "提醒防颱準備(公告)",
         "timestamp": "1730262921",
         "url": "mail_display.php?timestamp=1730262921",
@@ -138,75 +208,5 @@
             "phone": "03-8906727"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113年11月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1730170238",
-        "url": "mail_display.php?timestamp=1730170238",
-        "date": "2024/10/29 10:50",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【原民院】原民院公務信箱即日起調整為cis@gms.ndhu.edu.tw，敬請將相關郵件調整寄至公務信箱，謝謝配合。",
-        "timestamp": "1730103271",
-        "url": "mail_display.php?timestamp=1730103271",
-        "date": "2024/10/28 16:14",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱 Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-89057852"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10月29日志學道路燈線路檢修公告",
-        "timestamp": "1730101806",
-        "url": "mail_display.php?timestamp=1730101806",
-        "date": "2024/10/28 15:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "890-6376"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
-        "timestamp": "1730101596",
-        "url": "mail_display.php?timestamp=1730101596",
-        "date": "2024/10/28 15:46",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】113-1期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1730082775",
-        "url": "mail_display.php?timestamp=1730082775",
-        "date": "2024/10/28 10:32",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

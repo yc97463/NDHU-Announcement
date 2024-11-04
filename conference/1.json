@@ -1,5 +1,19 @@
 [
     {
+        "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
+        "timestamp": "1730705166",
+        "url": "mail_display.php?timestamp=1730705166",
+        "date": "2024/11/04 15:26",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【財金系專題演講】講座延期至11/8(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
         "timestamp": "1730248948",
         "url": "mail_display.php?timestamp=1730248948",
@@ -194,19 +208,5 @@
             "phone": "3823"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
-        "timestamp": "1729439084",
-        "url": "mail_display.php?timestamp=1729439084",
-        "date": "2024/10/20 23:44",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 1
     }
 ]
