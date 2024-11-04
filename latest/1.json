@@ -1,5 +1,19 @@
 [
     {
+        "title": " 11月4日本校內環部分路燈不亮說明",
+        "timestamp": "1730735081",
+        "url": "mail_display.php?timestamp=1730735081",
+        "date": "2024/11/04 23:44",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "涵星一莊及迎曦二莊電梯鋼索更新時間異動公告",
         "timestamp": "1730734460",
         "url": "mail_display.php?timestamp=1730734460",
@@ -194,19 +208,5 @@
             "phone": "8906747"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【傑出校友】臺北醫學大學辦理113學年度傑出校友遴選事宜。",
-        "timestamp": "1730685823",
-        "url": "mail_display.php?timestamp=1730685823",
-        "date": "2024/11/04 10:03",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 3
     }
 ]
