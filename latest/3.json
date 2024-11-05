@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全活動】平衡你的生活，綠色你的未來，無車日慢騎挑戰賽。",
+        "timestamp": "1730698931",
+        "url": "mail_display.php?timestamp=1730698931",
+        "date": "2024/11/04 13:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "《國立東華大學2024年校慶系列活動—舞蹈賽》開始報名囉~",
         "timestamp": "1730698649",
         "url": "mail_display.php?timestamp=1730698649",
@@ -192,20 +206,6 @@
             "name": "唐家渝",
             "email": "abby0528@gms.ndhu.edu.tw",
             "phone": "038905213"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "圖書館臨時休館通知Notice of Library Temporary Closure",
-        "timestamp": "1730537932",
-        "url": "mail_display.php?timestamp=1730537932",
-        "date": "2024/11/02 16:58",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "6852"
         },
         "attachmentCount": 0
     }
