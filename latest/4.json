@@ -1,5 +1,47 @@
 [
     {
+        "title": "【第2次公告】113會計年度結束經費報支注意事項",
+        "timestamp": "1730529576",
+        "url": "mail_display.php?timestamp=1730529576",
+        "date": "2024/11/02 14:39",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1校友卓越講座-高普考(測量製圖\u0026環保技術)考取經驗分享",
+        "timestamp": "1730505305",
+        "url": "mail_display.php?timestamp=1730505305",
+        "date": "2024/11/02 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "謝家榛",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "8903267"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【觀遊系專題講座】林濰榕副教授：Work-Family Conflict and Psychological Well-Being of Tour Leaders: The Moderating Effect of Leisure Coping Styles",
+        "timestamp": "1730505304",
+        "url": "mail_display.php?timestamp=1730505304",
+        "date": "2024/11/02 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "莊月玲",
+            "email": "trls@gms.ndhu.edu.tw",
+            "phone": "5602"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪡ 2024東華秋藝季  《妙音曼舞》敦煌樂舞文化主題展開幕講座",
         "timestamp": "1730505303",
         "url": "mail_display.php?timestamp=1730505303",
@@ -166,47 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "11月1日校內委外廠商營業資訊公告",
-        "timestamp": "1730430787",
-        "url": "mail_display.php?timestamp=1730430787",
-        "date": "2024/11/01 11:13",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "本校數位電話網路異常公告。",
-        "timestamp": "1730429734",
-        "url": "mail_display.php?timestamp=1730429734",
-        "date": "2024/11/01 10:55",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【國際交流活動】東北林業大學第八屆“冰雪情”冬令營",
-        "timestamp": "1730426807",
-        "url": "mail_display.php?timestamp=1730426807",
-        "date": "2024/11/01 10:06",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 1
     }
 ]

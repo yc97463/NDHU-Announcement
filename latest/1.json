@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
+        "timestamp": "1730776326",
+        "url": "mail_display.php?timestamp=1730776326",
+        "date": "2024/11/05 11:12",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "pindopoh@gms.ndhu.edu.tw",
+            "phone": "0903555809"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🚂東華玩具樂園物流中心 十一月玩具志工招募中！",
+        "timestamp": "1730775612",
+        "url": "mail_display.php?timestamp=1730775612",
+        "date": "2024/11/05 11:00",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "明天11/6晚間19點演出【國立東華大學2024校慶音樂會-璀璨東華】",
+        "timestamp": "1730775522",
+        "url": "mail_display.php?timestamp=1730775522",
+        "date": "2024/11/05 10:58",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【發社系-課程講座】從原鄉小鎮到學術界：我從紐西蘭奧特羅瓦偏鄉到成為夏威夷的教授和健康研究員的旅程",
         "timestamp": "1730774100",
         "url": "mail_display.php?timestamp=1730774100",
@@ -164,48 +206,6 @@
             "name": "安梓濱",
             "email": "abu@gms.ndhu.edu.tw",
             "phone": "5753"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原民知識第一知識：澳洲原住民知識圖書特展開幕式",
-        "timestamp": "1730764505",
-        "url": "mail_display.php?timestamp=1730764505",
-        "date": "2024/11/05 07:55",
-        "department": "原住民民族學院 ",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱",
-            "email": "insay@gms.ndhu.edu.tw",
-            "phone": "5753"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Get it 跨域就業系列講座】 觀護人職涯講座",
-        "timestamp": "1730764504",
-        "url": "mail_display.php?timestamp=1730764504",
-        "date": "2024/11/05 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "平衡你的生活，綠色你的未來，無車日自行車慢騎挑戰賽",
-        "timestamp": "1730764503",
-        "url": "mail_display.php?timestamp=1730764503",
-        "date": "2024/11/05 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
         },
         "attachmentCount": 0
     }

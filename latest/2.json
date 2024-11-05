@@ -1,5 +1,47 @@
 [
     {
+        "title": "原民知識第一知識：澳洲原住民知識圖書特展開幕式",
+        "timestamp": "1730764505",
+        "url": "mail_display.php?timestamp=1730764505",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 ",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Get it 跨域就業系列講座】 觀護人職涯講座",
+        "timestamp": "1730764504",
+        "url": "mail_display.php?timestamp=1730764504",
+        "date": "2024/11/05 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "平衡你的生活，綠色你的未來，無車日自行車慢騎挑戰賽",
+        "timestamp": "1730764503",
+        "url": "mail_display.php?timestamp=1730764503",
+        "date": "2024/11/05 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "藝設校友講座--拍片感覺很好玩欸",
         "timestamp": "1730764502",
         "url": "mail_display.php?timestamp=1730764502",
@@ -166,47 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "《國立東華大學2024年校慶系列活動—舞蹈賽》開始報名囉~",
-        "timestamp": "1730698649",
-        "url": "mail_display.php?timestamp=1730698649",
-        "date": "2024/11/04 13:37",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1730697725",
-        "url": "mail_display.php?timestamp=1730697725",
-        "date": "2024/11/04 13:22",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1730697700",
-        "url": "mail_display.php?timestamp=1730697700",
-        "date": "2024/11/04 13:21",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]
