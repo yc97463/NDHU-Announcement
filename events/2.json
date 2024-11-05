@@ -1,5 +1,33 @@
 [
     {
+        "title": "原民知識第一知識：澳洲原住民知識圖書特展開幕式",
+        "timestamp": "1730764505",
+        "url": "mail_display.php?timestamp=1730764505",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 ",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Get it 跨域就業系列講座】 觀護人職涯講座",
+        "timestamp": "1730764504",
+        "url": "mail_display.php?timestamp=1730764504",
+        "date": "2024/11/05 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "平衡你的生活，綠色你的未來，無車日自行車慢騎挑戰賽",
         "timestamp": "1730764503",
         "url": "mail_display.php?timestamp=1730764503",
@@ -180,33 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座： Taromak的身體文化與知識體系",
-        "timestamp": "1730678101",
-        "url": "mail_display.php?timestamp=1730678101",
-        "date": "2024/11/04 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📢⪡ 2024東華秋藝季 《妙音曼舞》敦煌 樂舞文化主題展 🐫",
-        "timestamp": "1730640039",
-        "url": "mail_display.php?timestamp=1730640039",
-        "date": "2024/11/03 21:20",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
