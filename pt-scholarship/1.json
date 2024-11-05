@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】中華民國中山學術文化基金會「第二屆中山青年論文獎助學金」",
+        "timestamp": "1730786383",
+        "url": "mail_display.php?timestamp=1730786383",
+        "date": "2024/11/05 13:59",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】川流文化教育基金會「113學年度獎助學金」",
         "timestamp": "1730383289",
         "url": "mail_display.php?timestamp=1730383289",
@@ -192,20 +206,6 @@
             "name": "王文和",
             "email": "rlawwh@gms.ndhu.edu.tw",
             "phone": "分機6221"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】屏東縣113-1清寒優秀學生獎學金 (限屏東縣籍)",
-        "timestamp": "1729092653",
-        "url": "mail_display.php?timestamp=1729092653",
-        "date": "2024/10/16 23:30",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }
