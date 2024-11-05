@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113-1專任教師授課時數確認通知（請於12/10前完成，謝謝！)",
+        "timestamp": "1730704152",
+        "url": "mail_display.php?timestamp=1730704152",
+        "date": "2024/11/04 15:09",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國防部辦理三軍軍官學校全球資訊網網站位址修正事宜。",
         "timestamp": "1730701054",
         "url": "mail_display.php?timestamp=1730701054",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座： Taromak的身體文化與知識體系",
-        "timestamp": "1730678101",
-        "url": "mail_display.php?timestamp=1730678101",
-        "date": "2024/11/04 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
         },
         "attachmentCount": 0
     }
