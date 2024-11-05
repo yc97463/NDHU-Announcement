@@ -1,5 +1,19 @@
 [
     {
+        "title": "【發社系-課程講座】從原鄉小鎮到學術界：我從紐西蘭奧特羅瓦偏鄉到成為夏威夷的教授和健康研究員的旅程",
+        "timestamp": "1730774100",
+        "url": "mail_display.php?timestamp=1730774100",
+        "date": "2024/11/05 10:35",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "發社系",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113-1學期-亮點演講公告】用Fintech打造屬於自己的理財計劃",
         "timestamp": "1730764514",
         "url": "mail_display.php?timestamp=1730764514",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
-        "timestamp": "1730742555",
-        "url": "mail_display.php?timestamp=1730742555",
-        "date": "2024/11/05 01:49",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 3
     }
 ]
