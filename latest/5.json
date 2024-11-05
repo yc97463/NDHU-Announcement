@@ -1,5 +1,19 @@
 [
     {
+        "title": "風災後校內道路尚未清理完竣，請務必減速慢行",
+        "timestamp": "1730451183",
+        "url": "mail_display.php?timestamp=1730451183",
+        "date": "2024/11/01 16:53",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】台北市愛慈社會福利基金會招募「生活輔導員、保育人員」",
         "timestamp": "1730451041",
         "url": "mail_display.php?timestamp=1730451041",
@@ -192,20 +206,6 @@
             "name": "楊曉青",
             "email": "cindy4434@gms.ndhu.edu.tw",
             "phone": "6254"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.11.3教行系專題演講~大葉大學張智惠教授",
-        "timestamp": "1730332504",
-        "url": "mail_display.php?timestamp=1730332504",
-        "date": "2024/10/31 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
         },
         "attachmentCount": 0
     }
