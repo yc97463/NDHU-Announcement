@@ -1,5 +1,19 @@
 [
     {
+        "title": "【花師】花師教育學院 (院慶晚會) 113/11/28(四)",
+        "timestamp": "1730332502",
+        "url": "mail_display.php?timestamp=1730332502",
+        "date": "2024/10/31 07:55",
+        "department": "花師教育學院 ",
+        "author": {
+            "department": "花師教育學院",
+            "name": "賴姿伶",
+            "email": "tll@gms.ndhu.edu.tw",
+            "phone": "3804"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自資系專題演講-GIS Data Science for Ancient Earth: Integrating Plate Tectonic Reconstruction with Geological Datasets",
         "timestamp": "1730332501",
         "url": "mail_display.php?timestamp=1730332501",
@@ -192,20 +206,6 @@
             "name": "魏綺瑩",
             "email": "vanessawei@gms.ndhu.edu.tw",
             "phone": "5119"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有機農產品驗證稽核員培訓課程",
-        "timestamp": "1730246105",
-        "url": "mail_display.php?timestamp=1730246105",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
         },
         "attachmentCount": 0
     }
