@@ -1,5 +1,19 @@
 [
     {
+        "title": "11月5日本校內環部分路燈維修進度說明(第二次公告)",
+        "timestamp": "1730802824",
+        "url": "mail_display.php?timestamp=1730802824",
+        "date": "2024/11/05 18:33",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
         "timestamp": "1730742555",
         "url": "mail_display.php?timestamp=1730742555",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【重要通知】因應康芮颱風來襲，各院夜間自習空間暫停開放公告 Temporary Closure of Nighttime Self-Study Spaces Due to Typhoon Kong-Rey",
-        "timestamp": "1730272490",
-        "url": "mail_display.php?timestamp=1730272490",
-        "date": "2024/10/30 15:14",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳依萱",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 0
     }
 ]
