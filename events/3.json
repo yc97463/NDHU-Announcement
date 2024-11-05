@@ -1,5 +1,201 @@
 [
     {
+        "title": "[CSIE] Level Up Your Career: Dive Deep into TCA Internships!",
+        "timestamp": "1730505302",
+        "url": "mail_display.php?timestamp=1730505302",
+        "date": "2024/11/02 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "5026"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資工系專題講座】11/08(五)元智大學資訊工程學系 黃怡錚教授",
+        "timestamp": "1730505301",
+        "url": "mail_display.php?timestamp=1730505301",
+        "date": "2024/11/02 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "📢 113年度「全民外交研習營」—【青年國際參與】",
+        "timestamp": "1730432901",
+        "url": "mail_display.php?timestamp=1730432901",
+        "date": "2024/11/01 11:48",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【國際交流活動】東北林業大學第八屆“冰雪情”冬令營",
+        "timestamp": "1730426807",
+        "url": "mail_display.php?timestamp=1730426807",
+        "date": "2024/11/01 10:06",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "健康減脂美食~越南春捲DIY!!",
+        "timestamp": "1730332505",
+        "url": "mail_display.php?timestamp=1730332505",
+        "date": "2024/10/31 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "6254"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113.11.3教行系專題演講~大葉大學張智惠教授",
+        "timestamp": "1730332504",
+        "url": "mail_display.php?timestamp=1730332504",
+        "date": "2024/10/31 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "蔣慧姝",
+            "email": "huishu@gms.ndhu.edu.tw",
+            "phone": "038905556"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「颱風後的垃圾危機」—一起來改造校園回收桶！♻️",
+        "timestamp": "1730332503",
+        "url": "mail_display.php?timestamp=1730332503",
+        "date": "2024/10/31 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "411154001@gms.ndhu.edu.tw",
+            "phone": "吳盈萱0968-990-728"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【花師】花師教育學院 (院慶晚會) 113/11/28(四)",
+        "timestamp": "1730332502",
+        "url": "mail_display.php?timestamp=1730332502",
+        "date": "2024/10/31 07:55",
+        "department": "花師教育學院 ",
+        "author": {
+            "department": "花師教育學院",
+            "name": "賴姿伶",
+            "email": "tll@gms.ndhu.edu.tw",
+            "phone": "3804"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自資系專題演講-GIS Data Science for Ancient Earth: Integrating Plate Tectonic Reconstruction with Geological Datasets",
+        "timestamp": "1730332501",
+        "url": "mail_display.php?timestamp=1730332501",
+        "date": "2024/10/31 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動取消通知】10/31(四)電影欣賞:性平影展活動",
+        "timestamp": "1730290121",
+        "url": "mail_display.php?timestamp=1730290121",
+        "date": "2024/10/30 20:08",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "教職員增能運動班(游泳課)停課公告",
+        "timestamp": "1730277541",
+        "url": "mail_display.php?timestamp=1730277541",
+        "date": "2024/10/30 16:39",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "董莫平",
+            "email": "evo789x@gms.ndhu.edu.tw",
+            "phone": "6616"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "專屬東華學生的新世代青年城市論壇，參加志工有服務時數、參加論壇有跨域學習時數認證、參加兩場工作坊有專屬好康！",
+        "timestamp": "1730273649",
+        "url": "mail_display.php?timestamp=1730273649",
+        "date": "2024/10/30 15:34",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【國際交流活動】吉林大學第二十一屆臺灣學生“北國風情”冬令營",
+        "timestamp": "1730273061",
+        "url": "mail_display.php?timestamp=1730273061",
+        "date": "2024/10/30 15:24",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "國立東華大學【2024創新創意實踐提案競賽】",
+        "timestamp": "1730266978",
+        "url": "mail_display.php?timestamp=1730266978",
+        "date": "2024/10/30 13:42",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "改變生命的關鍵～精進與智慧《發趣論》24緣開示與 南傳禪修法門",
         "timestamp": "1730266540",
         "url": "mail_display.php?timestamp=1730266540",
@@ -10,202 +206,6 @@
             "name": "彭文平",
             "email": "pengw@gms.ndhu.edu.tw",
             "phone": "8903733"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "圖書資訊處校慶活動時間異動通知",
-        "timestamp": "1730250581",
-        "url": "mail_display.php?timestamp=1730250581",
-        "date": "2024/10/30 09:09",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024年境外生交通安全宣導（英文場次）",
-        "timestamp": "1730246111",
-        "url": "mail_display.php?timestamp=1730246111",
-        "date": "2024/10/30 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "魏綺瑩",
-            "email": "vanessawei@gms.ndhu.edu.tw",
-            "phone": "5119"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "物理人在 Big Data / AI 時代的工作經驗分享(書報討論修課同學請勿報名)",
-        "timestamp": "1730246110",
-        "url": "mail_display.php?timestamp=1730246110",
-        "date": "2024/10/30 07:55",
-        "department": "理工學院 物理學系",
-        "author": {
-            "department": "理工學院 物理學系",
-            "name": "劉芝葳",
-            "email": "",
-            "phone": "0925385308"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "法律學系專題演講-政治如何影響法律？法律白話文運動講座",
-        "timestamp": "1730246109",
-        "url": "mail_display.php?timestamp=1730246109",
-        "date": "2024/10/30 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "陳雅慧",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "5662"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生自主學習社群】🌿 米棧文化 X 療癒 X 永續工作坊 🌿",
-        "timestamp": "1730246108",
-        "url": "mail_display.php?timestamp=1730246108",
-        "date": "2024/10/30 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "0963-791-181"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【11/22(五)電機系校友回娘家座談會】",
-        "timestamp": "1730246107",
-        "url": "mail_display.php?timestamp=1730246107",
-        "date": "2024/10/30 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年境外生交通安全宣導（中文場次）",
-        "timestamp": "1730246106",
-        "url": "mail_display.php?timestamp=1730246106",
-        "date": "2024/10/30 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "魏綺瑩",
-            "email": "vanessawei@gms.ndhu.edu.tw",
-            "phone": "5119"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有機農產品驗證稽核員培訓課程",
-        "timestamp": "1730246105",
-        "url": "mail_display.php?timestamp=1730246105",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
-        "timestamp": "1730246104",
-        "url": "mail_display.php?timestamp=1730246104",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "農業驗證與服務提升中心見習活動(協助稽核員訓練課程)",
-        "timestamp": "1730246103",
-        "url": "mail_display.php?timestamp=1730246103",
-        "date": "2024/10/30 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度-觀光遊憩實習招募說明會(場次1)【限本系】",
-        "timestamp": "1730246102",
-        "url": "mail_display.php?timestamp=1730246102",
-        "date": "2024/10/30 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "star07_10@gms.ndhu.edu.tw",
-            "phone": "8905603"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度-觀光遊憩實習招募說明會(場次2)【限本系】",
-        "timestamp": "1730246101",
-        "url": "mail_display.php?timestamp=1730246101",
-        "date": "2024/10/30 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "star07_10@gms.ndhu.edu.tw",
-            "phone": "8905603"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "ALGOA有機農業國際交流中英接待人員招募(2024.11.28-30)",
-        "timestamp": "1730190395",
-        "url": "mail_display.php?timestamp=1730190395",
-        "date": "2024/10/29 16:26",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知學生自主學習社群活動】🌿 米棧文化 X 療癒 X 永續工作坊 🌿",
-        "timestamp": "1730185386",
-        "url": "mail_display.php?timestamp=1730185386",
-        "date": "2024/10/29 15:03",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
         },
         "attachmentCount": 1
     }
