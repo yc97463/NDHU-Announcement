@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024校慶活動入場典禮秩序維護",
+        "timestamp": "1730764510",
+        "url": "mail_display.php?timestamp=1730764510",
+        "date": "2024/11/05 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝馨慧",
+            "email": "viviant@gms.ndhu.edu.tw",
+            "phone": "5036"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "檔案與口述史的對話：從礦工與礦災研究談起",
         "timestamp": "1730764509",
         "url": "mail_display.php?timestamp=1730764509",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
-        "timestamp": "1730705166",
-        "url": "mail_display.php?timestamp=1730705166",
-        "date": "2024/11/04 15:26",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
+        "timestamp": "1730705166",
+        "url": "mail_display.php?timestamp=1730705166",
+        "date": "2024/11/04 15:26",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課務組】113-1專任教師授課時數確認通知（請於12/10前完成，謝謝！)",
         "timestamp": "1730704152",
         "url": "mail_display.php?timestamp=1730704152",
@@ -194,19 +208,5 @@
             "phone": "03-8906275"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-1 ESP Lunch Gathering 第2場 Session 2：11/20\t",
-        "timestamp": "1730678102",
-        "url": "mail_display.php?timestamp=1730678102",
-        "date": "2024/11/04 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]

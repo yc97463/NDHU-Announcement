@@ -1,5 +1,19 @@
 [
     {
+        "title": "藝設校友講座--拍片感覺很好玩欸",
+        "timestamp": "1730764502",
+        "url": "mail_display.php?timestamp=1730764502",
+        "date": "2024/11/05 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "邱苡芳",
+            "email": "chiu91@gms.ndhu.edu.tw",
+            "phone": "8905122"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "電影欣賞:我的鬼家人",
         "timestamp": "1730764501",
         "url": "mail_display.php?timestamp=1730764501",
@@ -192,20 +206,6 @@
             "name": "唐家渝",
             "email": "abby0528@gms.ndhu.edu.tw",
             "phone": "038905213"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-1校友卓越講座-高普考(測量製圖\u0026環保技術)考取經驗分享",
-        "timestamp": "1730505305",
-        "url": "mail_display.php?timestamp=1730505305",
-        "date": "2024/11/02 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "謝家榛",
-            "email": "stoven@gms.ndhu.edu.tw",
-            "phone": "8903267"
         },
         "attachmentCount": 0
     }

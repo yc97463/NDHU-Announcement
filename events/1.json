@@ -1,5 +1,19 @@
 [
     {
+        "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
+        "timestamp": "1730872970",
+        "url": "mail_display.php?timestamp=1730872970",
+        "date": "2024/11/06 14:02",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1教育議題專題講座-師培生原轉講座－「我們一樣也不一樣，原住民族歷史正義與轉型正義在教育課程中的價值呈現」",
         "timestamp": "1730863914",
         "url": "mail_display.php?timestamp=1730863914",
@@ -194,19 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 十一月玩具志工招募中！",
-        "timestamp": "1730775612",
-        "url": "mail_display.php?timestamp=1730775612",
-        "date": "2024/11/05 11:00",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]
