@@ -1,5 +1,19 @@
 [
     {
+        "title": "【新世代青年城市論壇｜東華場】趨勢對談 x 職涯工作坊 x 名店市集 x 就業媒合站",
+        "timestamp": "1730850904",
+        "url": "mail_display.php?timestamp=1730850904",
+        "date": "2024/11/06 07:55",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "羅靖儀",
+            "email": "prisjy@gms.ndhu.edu.tw",
+            "phone": "5171"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】11/8(五)_初探元宇宙副作用",
         "timestamp": "1730850903",
         "url": "mail_display.php?timestamp=1730850903",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【發社系-課程講座】從原鄉小鎮到學術界：我從紐西蘭奧特羅瓦偏鄉到成為夏威夷的教授和健康研究員的旅程",
-        "timestamp": "1730774100",
-        "url": "mail_display.php?timestamp=1730774100",
-        "date": "2024/11/05 10:35",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "發社系",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 1
     }
 ]
