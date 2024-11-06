@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
+        "timestamp": "1730862852",
+        "url": "mail_display.php?timestamp=1730862852",
+        "date": "2024/11/06 11:14",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "11月5日本校內環部分路燈維修進度說明(第二次公告)",
         "timestamp": "1730802824",
         "url": "mail_display.php?timestamp=1730802824",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "明日11/2(六)至11/4(一)志學門兩側人行道暨自行車道施工封閉公告",
-        "timestamp": "1730462718",
-        "url": "mail_display.php?timestamp=1730462718",
-        "date": "2024/11/01 20:05",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]
