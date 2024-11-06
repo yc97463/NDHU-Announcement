@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1教育議題專題講座-師培生原轉講座－「我們一樣也不一樣，原住民族歷史正義與轉型正義在教育課程中的價值呈現」",
+        "timestamp": "1730863914",
+        "url": "mail_display.php?timestamp=1730863914",
+        "date": "2024/11/06 11:31",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1教育議題專題講座-新住民朋友的人際生活與親職互動之經驗分享",
+        "timestamp": "1730863775",
+        "url": "mail_display.php?timestamp=1730863775",
+        "date": "2024/11/06 11:29",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
         "timestamp": "1730862852",
         "url": "mail_display.php?timestamp=1730862852",
@@ -180,33 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024校慶運動會技術會議公告",
-        "timestamp": "1730789678",
-        "url": "mail_display.php?timestamp=1730789678",
-        "date": "2024/11/05 14:54",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】臺南市臺疆祖廟大觀音亭暨祀典興濟宮 112(二)「中低、低收入戶清寒優秀獎學金」 (限臺南市低或中低收)",
-        "timestamp": "1730788403",
-        "url": "mail_display.php?timestamp=1730788403",
-        "date": "2024/11/05 14:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
