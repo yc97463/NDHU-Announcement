@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課程推推🥸】113-1 專案工具A微課程來啦！想成為專案設計者嗎？名額有限～快快點擊內文連結🔗",
+        "timestamp": "1730884538",
+        "url": "mail_display.php?timestamp=1730884538",
+        "date": "2024/11/06 17:15",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "yuxuan22@gms.ndhu.edu.tw",
+            "phone": "5246"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
+        "timestamp": "1730883666",
+        "url": "mail_display.php?timestamp=1730883666",
+        "date": "2024/11/06 17:01",
+        "department": "會計與資訊管理國際學士班",
+        "author": {
+            "department": "會計與資訊管理國際學士班",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "03-8903006"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年11月17日截止)",
         "timestamp": "1730881662",
         "url": "mail_display.php?timestamp=1730881662",
@@ -178,34 +206,6 @@
             "name": "羅靖儀",
             "email": "prisjy@gms.ndhu.edu.tw",
             "phone": "5171"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】11/8(五)_初探元宇宙副作用",
-        "timestamp": "1730850903",
-        "url": "mail_display.php?timestamp=1730850903",
-        "date": "2024/11/06 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "移居與安居：家庭看護移工和她們的工會（講者：Jasmin、黃姿華）",
-        "timestamp": "1730850902",
-        "url": "mail_display.php?timestamp=1730850902",
-        "date": "2024/11/06 07:55",
-        "department": "社會參與中心 ",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒采晏",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "038905243"
         },
         "attachmentCount": 0
     }

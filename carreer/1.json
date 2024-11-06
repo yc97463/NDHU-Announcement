@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
+        "timestamp": "1730883666",
+        "url": "mail_display.php?timestamp=1730883666",
+        "date": "2024/11/06 17:01",
+        "department": "會計與資訊管理國際學士班",
+        "author": {
+            "department": "會計與資訊管理國際學士班",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "03-8903006"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
         "timestamp": "1730856126",
         "url": "mail_display.php?timestamp=1730856126",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
-        "timestamp": "1728032400",
-        "url": "mail_display.php?timestamp=1728032400",
-        "date": "2024/10/04 17:00",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
