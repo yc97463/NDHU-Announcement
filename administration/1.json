@@ -1,5 +1,33 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1730880969",
+        "url": "mail_display.php?timestamp=1730880969",
+        "date": "2024/11/06 16:16",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1730879481",
+        "url": "mail_display.php?timestamp=1730879481",
+        "date": "2024/11/06 15:51",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
         "timestamp": "1730862852",
         "url": "mail_display.php?timestamp=1730862852",
@@ -178,34 +206,6 @@
             "name": "周小萍",
             "email": "hedy@gms.ndhu.edu.tw",
             "phone": "6852"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第2次公告】113會計年度結束經費報支注意事項",
-        "timestamp": "1730529576",
-        "url": "mail_display.php?timestamp=1730529576",
-        "date": "2024/11/02 14:39",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "電梯因康芮颱風停用維護說明",
-        "timestamp": "1730467773",
-        "url": "mail_display.php?timestamp=1730467773",
-        "date": "2024/11/01 21:29",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }

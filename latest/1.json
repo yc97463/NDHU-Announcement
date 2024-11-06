@@ -1,5 +1,47 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1730880969",
+        "url": "mail_display.php?timestamp=1730880969",
+        "date": "2024/11/06 16:16",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
+        "timestamp": "1730880910",
+        "url": "mail_display.php?timestamp=1730880910",
+        "date": "2024/11/06 16:15",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1730879481",
+        "url": "mail_display.php?timestamp=1730879481",
+        "date": "2024/11/06 15:51",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
         "timestamp": "1730872970",
         "url": "mail_display.php?timestamp=1730872970",
@@ -164,48 +206,6 @@
             "name": "郭如珮",
             "email": "pei618@gms.ndhu.edu.tw",
             "phone": "5632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "改變生命的關鍵～精進與智慧《發趣論》24緣開示(探討臨死境相、造作的心、心生果報的關係)",
-        "timestamp": "1730839921",
-        "url": "mail_display.php?timestamp=1730839921",
-        "date": "2024/11/06 04:52",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "11月5日本校內環部分路燈維修進度說明(第二次公告)",
-        "timestamp": "1730802824",
-        "url": "mail_display.php?timestamp=1730802824",
-        "date": "2024/11/05 18:33",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公告】本校113年慶生會訂於113年11月12日(二)下午14時，於行政大樓3樓301簡報室及中庭辦理，敬邀本校教職員工同仁共襄盛舉。",
-        "timestamp": "1730796388",
-        "url": "mail_display.php?timestamp=1730796388",
-        "date": "2024/11/05 16:46",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
         },
         "attachmentCount": 0
     }
