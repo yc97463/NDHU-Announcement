@@ -1,5 +1,33 @@
 [
     {
+        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
+        "timestamp": "1730742555",
+        "url": "mail_display.php?timestamp=1730742555",
+        "date": "2024/11/05 01:49",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
+        "timestamp": "1730742553",
+        "url": "mail_display.php?timestamp=1730742553",
+        "date": "2024/11/05 01:49",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": " 11月4日本校內環部分路燈不亮說明",
         "timestamp": "1730735081",
         "url": "mail_display.php?timestamp=1730735081",
@@ -180,33 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【課務組】113學年度第1學期期中停修 Mid-semester course withdrawal (11/11 - 11/29)",
-        "timestamp": "1730686532",
-        "url": "mail_display.php?timestamp=1730686532",
-        "date": "2024/11/04 10:15",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "緊急！勿開啟xxx教授查收信件！！！！",
-        "timestamp": "1730685974",
-        "url": "mail_display.php?timestamp=1730685974",
-        "date": "2024/11/04 10:06",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 0
     }
 ]
