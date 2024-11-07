@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖資處校慶系列活動~東華精粹書展】不要錯過5000元抽獎機會Don't miss the chance to win NT$5,000!",
+        "timestamp": "1730941648",
+        "url": "mail_display.php?timestamp=1730941648",
+        "date": "2024/11/07 09:07",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
+        "timestamp": "1730940872",
+        "url": "mail_display.php?timestamp=1730940872",
+        "date": "2024/11/07 08:54",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校113學年度校園防災虛擬(VR)體驗活動Disaster Prevention VR Experience Activities for the 113th Academic Year",
         "timestamp": "1730938141",
         "url": "mail_display.php?timestamp=1730938141",
@@ -180,33 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
-        "timestamp": "1730872970",
-        "url": "mail_display.php?timestamp=1730872970",
-        "date": "2024/11/06 14:02",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1教育議題專題講座-師培生原轉講座－「我們一樣也不一樣，原住民族歷史正義與轉型正義在教育課程中的價值呈現」",
-        "timestamp": "1730863914",
-        "url": "mail_display.php?timestamp=1730863914",
-        "date": "2024/11/06 11:31",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 1
     }
 ]

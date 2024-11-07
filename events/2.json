@@ -1,5 +1,19 @@
 [
     {
+        "title": "【會計學系演講】從海瑞貢丸到友達光電-AI應用於企業創新",
+        "timestamp": "1730937301",
+        "url": "mail_display.php?timestamp=1730937301",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Sign up ASAP 手刀報名】在東華看見永續系列-1 短文短語徵選活動 SDGs in NDHU - Part 1: Short Essay \u0026 Phrase Contest",
         "timestamp": "1730925748",
         "url": "mail_display.php?timestamp=1730925748",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
-        "timestamp": "1730790101",
-        "url": "mail_display.php?timestamp=1730790101",
-        "date": "2024/11/05 15:01",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
     }
 ]
