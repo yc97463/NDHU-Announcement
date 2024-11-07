@@ -1,5 +1,47 @@
 [
     {
+        "title": "本校113學年度校園防災虛擬(VR)體驗活動Disaster Prevention VR Experience Activities for the 113th Academic Year",
+        "timestamp": "1730938141",
+        "url": "mail_display.php?timestamp=1730938141",
+        "date": "2024/11/07 08:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "東華小米園之歷史介紹暨族群文化交流",
+        "timestamp": "1730937306",
+        "url": "mail_display.php?timestamp=1730937306",
+        "date": "2024/11/07 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "411196073@gms.ndhu.edu.tw",
+            "phone": "周毅 8905759"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自資系專題演講",
+        "timestamp": "1730937305",
+        "url": "mail_display.php?timestamp=1730937305",
+        "date": "2024/11/07 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "從海瑞貢丸到友達光電-AI應用於企業創新(會資)",
         "timestamp": "1730937304",
         "url": "mail_display.php?timestamp=1730937304",
@@ -166,47 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-1教育議題專題講座-新住民朋友的人際生活與親職互動之經驗分享",
-        "timestamp": "1730863775",
-        "url": "mail_display.php?timestamp=1730863775",
-        "date": "2024/11/06 11:29",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
-        "timestamp": "1730862852",
-        "url": "mail_display.php?timestamp=1730862852",
-        "date": "2024/11/06 11:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《114級畢業兒童劇公演-Yumi劇團》索票開始囉~~~",
-        "timestamp": "1730857113",
-        "url": "mail_display.php?timestamp=1730857113",
-        "date": "2024/11/06 09:38",
-        "department": "幼兒教育學系",
-        "author": {
-            "department": "幼兒教育學系",
-            "name": "蕭小姐",
-            "email": "kay200128@gms.ndhu.edu.tw",
-            "phone": "5266"
-        },
-        "attachmentCount": 2
     }
 ]
