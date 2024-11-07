@@ -1,5 +1,19 @@
 [
     {
+        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
+        "timestamp": "1730959678",
+        "url": "mail_display.php?timestamp=1730959678",
+        "date": "2024/11/07 14:07",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【轉知】【TCS Taiwan印度商塔塔顧問服務有限公司】第十二屆CodeVita國際程式競賽，總獎金達２萬美金!!🏆️(延長報名至11/11)",
         "timestamp": "1730952398",
         "url": "mail_display.php?timestamp=1730952398",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
-        "timestamp": "1730434329",
-        "url": "mail_display.php?timestamp=1730434329",
-        "date": "2024/11/01 12:12",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 2
     }
 ]

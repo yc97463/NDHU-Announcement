@@ -1,5 +1,61 @@
 [
     {
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(會資)",
+        "timestamp": "1730937304",
+        "url": "mail_display.php?timestamp=1730937304",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
+        "author": {
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(MSF)",
+        "timestamp": "1730937303",
+        "url": "mail_display.php?timestamp=1730937303",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "The miles from student to professional auditor.",
+        "timestamp": "1730937302",
+        "url": "mail_display.php?timestamp=1730937302",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
+        "author": {
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【會計學系演講】從海瑞貢丸到友達光電-AI應用於企業創新",
+        "timestamp": "1730937301",
+        "url": "mail_display.php?timestamp=1730937301",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Sign up ASAP 手刀報名】在東華看見永續系列-1 短文短語徵選活動 SDGs in NDHU - Part 1: Short Essay \u0026 Phrase Contest",
         "timestamp": "1730925748",
         "url": "mail_display.php?timestamp=1730925748",
@@ -152,61 +208,5 @@
             "phone": "5266"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
-        "timestamp": "1730856126",
-        "url": "mail_display.php?timestamp=1730856126",
-        "date": "2024/11/06 09:22",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "pindopoh@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公行系】參加東華2024(30週年)校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1730850906",
-        "url": "mail_display.php?timestamp=1730850906",
-        "date": "2024/11/06 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "實驗室安全衛生概論-化學性危害預防教育訓練",
-        "timestamp": "1730850905",
-        "url": "mail_display.php?timestamp=1730850905",
-        "date": "2024/11/06 07:55",
-        "department": "總務處 環境保護組",
-        "author": {
-            "department": "總務處 環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【新世代青年城市論壇｜東華場】趨勢對談 x 職涯工作坊 x 名店市集 x 就業媒合站",
-        "timestamp": "1730850904",
-        "url": "mail_display.php?timestamp=1730850904",
-        "date": "2024/11/06 07:55",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "羅靖儀",
-            "email": "prisjy@gms.ndhu.edu.tw",
-            "phone": "5171"
-        },
-        "attachmentCount": 0
     }
 ]
