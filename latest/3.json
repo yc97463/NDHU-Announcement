@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1730880969",
+        "url": "mail_display.php?timestamp=1730880969",
+        "date": "2024/11/06 16:16",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
         "timestamp": "1730880910",
         "url": "mail_display.php?timestamp=1730880910",
@@ -194,19 +208,5 @@
             "phone": "5632"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "改變生命的關鍵～精進與智慧《發趣論》24緣開示(探討臨死境相、造作的心、心生果報的關係)",
-        "timestamp": "1730839921",
-        "url": "mail_display.php?timestamp=1730839921",
-        "date": "2024/11/06 04:52",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
     }
 ]

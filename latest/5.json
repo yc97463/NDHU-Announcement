@@ -1,5 +1,19 @@
 [
     {
+        "title": "阿美族樹皮布傳統工藝分享",
+        "timestamp": "1730764513",
+        "url": "mail_display.php?timestamp=1730764513",
+        "date": "2024/11/05 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "(03)890-5707"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年族文系校友卓越講座",
         "timestamp": "1730764512",
         "url": "mail_display.php?timestamp=1730764512",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": " 11月4日本校內環部分路燈不亮說明",
-        "timestamp": "1730735081",
-        "url": "mail_display.php?timestamp=1730735081",
-        "date": "2024/11/04 23:44",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

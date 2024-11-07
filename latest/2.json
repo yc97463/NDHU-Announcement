@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組誠徵清運班助理一名",
+        "timestamp": "1730952008",
+        "url": "mail_display.php?timestamp=1730952008",
+        "date": "2024/11/07 12:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Student Dormitory】Academic Year 113(2024-25) Winter Vacation Dormitory Application",
         "timestamp": "1730951065",
         "url": "mail_display.php?timestamp=1730951065",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1730880969",
-        "url": "mail_display.php?timestamp=1730880969",
-        "date": "2024/11/06 16:16",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
