@@ -1,5 +1,33 @@
 [
     {
+        "title": "113年族文系校友卓越講座",
+        "timestamp": "1730764512",
+        "url": "mail_display.php?timestamp=1730764512",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國企系校友卓越講座—國際商務探索與成長經歷分享",
+        "timestamp": "1730764511",
+        "url": "mail_display.php?timestamp=1730764511",
+        "date": "2024/11/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333002@gms.ndhu.edu.tw",
+            "phone": "0908161228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024校慶活動入場典禮秩序維護",
         "timestamp": "1730764510",
         "url": "mail_display.php?timestamp=1730764510",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "涵星一莊及迎曦二莊電梯鋼索更新時間異動公告",
-        "timestamp": "1730734460",
-        "url": "mail_display.php?timestamp=1730734460",
-        "date": "2024/11/04 23:34",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "明日11/5(二)上午8時至12時志學門圓環旁路口冷塑標線施工公告",
-        "timestamp": "1730708860",
-        "url": "mail_display.php?timestamp=1730708860",
-        "date": "2024/11/04 16:27",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]
