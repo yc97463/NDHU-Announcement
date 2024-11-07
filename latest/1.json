@@ -154,20 +154,6 @@
         "attachmentCount": 7
     },
     {
-        "title": "國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
-        "timestamp": "1730883666",
-        "url": "mail_display.php?timestamp=1730883666",
-        "date": "2024/11/06 17:01",
-        "department": "會計與資訊管理國際學士班",
-        "author": {
-            "department": "會計與資訊管理國際學士班",
-            "name": "林逸潔",
-            "email": "jamielin0902@gms.ndhu.edu.tw",
-            "phone": "03-8903006"
-        },
-        "attachmentCount": 3
-    },
-    {
         "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年11月17日截止)",
         "timestamp": "1730881662",
         "url": "mail_display.php?timestamp=1730881662",
@@ -208,5 +194,19 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1730879481",
+        "url": "mail_display.php?timestamp=1730879481",
+        "date": "2024/11/06 15:51",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 0
     }
 ]
