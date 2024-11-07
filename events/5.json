@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資工系專題講座】11/08(五)元智大學資訊工程學系 黃怡錚教授",
+        "timestamp": "1730505301",
+        "url": "mail_display.php?timestamp=1730505301",
+        "date": "2024/11/02 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢 113年度「全民外交研習營」—【青年國際參與】",
         "timestamp": "1730432901",
         "url": "mail_display.php?timestamp=1730432901",
@@ -194,19 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2024年境外生交通安全宣導（英文場次）",
-        "timestamp": "1730246111",
-        "url": "mail_display.php?timestamp=1730246111",
-        "date": "2024/10/30 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "魏綺瑩",
-            "email": "vanessawei@gms.ndhu.edu.tw",
-            "phone": "5119"
-        },
-        "attachmentCount": 0
     }
 ]

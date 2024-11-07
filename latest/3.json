@@ -1,5 +1,19 @@
 [
     {
+        "title": "【專題演講】11/8(五)_初探元宇宙副作用",
+        "timestamp": "1730850903",
+        "url": "mail_display.php?timestamp=1730850903",
+        "date": "2024/11/06 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "移居與安居：家庭看護移工和她們的工會（講者：Jasmin、黃姿華）",
         "timestamp": "1730850902",
         "url": "mail_display.php?timestamp=1730850902",
@@ -194,19 +208,5 @@
             "phone": "5788"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【交通安全】因受颱風影響校外道路仍有部分路樹倒塌尚未清理，提醒同學行經時務必減速慢行並注意道路路況，小心騎車。",
-        "timestamp": "1730769574",
-        "url": "mail_display.php?timestamp=1730769574",
-        "date": "2024/11/05 09:19",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
     }
 ]

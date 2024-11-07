@@ -1,6 +1,20 @@
 [
     {
         "title": "【交通安全活動】平衡你的生活，綠色你的未來，無車日慢騎挑戰賽。",
+        "timestamp": "1730698932",
+        "url": "mail_display.php?timestamp=1730698932",
+        "date": "2024/11/04 13:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【交通安全活動】平衡你的生活，綠色你的未來，無車日慢騎挑戰賽。",
         "timestamp": "1730698931",
         "url": "mail_display.php?timestamp=1730698931",
         "date": "2024/11/04 13:42",
@@ -192,20 +206,6 @@
             "name": "謝嘉文",
             "email": "cbjiawen@gms.ndhu.edu.tw",
             "phone": "5026"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資工系專題講座】11/08(五)元智大學資訊工程學系 黃怡錚教授",
-        "timestamp": "1730505301",
-        "url": "mail_display.php?timestamp=1730505301",
-        "date": "2024/11/02 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
         },
         "attachmentCount": 0
     }
