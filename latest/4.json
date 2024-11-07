@@ -1,5 +1,131 @@
 [
     {
+        "title": "國企系校友卓越講座—國際商務探索與成長經歷分享",
+        "timestamp": "1730764511",
+        "url": "mail_display.php?timestamp=1730764511",
+        "date": "2024/11/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333002@gms.ndhu.edu.tw",
+            "phone": "0908161228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024校慶活動入場典禮秩序維護",
+        "timestamp": "1730764510",
+        "url": "mail_display.php?timestamp=1730764510",
+        "date": "2024/11/05 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝馨慧",
+            "email": "viviant@gms.ndhu.edu.tw",
+            "phone": "5036"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "檔案與口述史的對話：從礦工與礦災研究談起",
+        "timestamp": "1730764509",
+        "url": "mail_display.php?timestamp=1730764509",
+        "date": "2024/11/05 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "邱毓庭 (email:41114B071@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心幸福學苑講座- 「踩踏」或「擁抱」負面情緒－情緒的存在意義",
+        "timestamp": "1730764508",
+        "url": "mail_display.php?timestamp=1730764508",
+        "date": "2024/11/05 07:55",
+        "department": "心理諮商輔導中心 預防推廣組",
+        "author": {
+            "department": "心理諮商輔導中心 預防推廣組",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "《美洲原住民議題和近代國際法早期發展：政治思想史的考察》-中央研究院蕭高彥院士",
+        "timestamp": "1730764507",
+        "url": "mail_display.php?timestamp=1730764507",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 ",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "《台灣原住民族研究季刊》最佳論文頒獎典禮暨叢書新書發表",
+        "timestamp": "1730764506",
+        "url": "mail_display.php?timestamp=1730764506",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 ",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱",
+            "email": "abu@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "原民知識第一知識：澳洲原住民知識圖書特展開幕式",
+        "timestamp": "1730764505",
+        "url": "mail_display.php?timestamp=1730764505",
+        "date": "2024/11/05 07:55",
+        "department": "原住民民族學院 ",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Get it 跨域就業系列講座】 觀護人職涯講座",
+        "timestamp": "1730764504",
+        "url": "mail_display.php?timestamp=1730764504",
+        "date": "2024/11/05 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "平衡你的生活，綠色你的未來，無車日自行車慢騎挑戰賽",
+        "timestamp": "1730764503",
+        "url": "mail_display.php?timestamp=1730764503",
+        "date": "2024/11/05 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "藝設校友講座--拍片感覺很好玩欸",
         "timestamp": "1730764502",
         "url": "mail_display.php?timestamp=1730764502",
@@ -82,131 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "明日11/5(二)上午8時至12時志學門圓環旁路口冷塑標線施工公告",
-        "timestamp": "1730708860",
-        "url": "mail_display.php?timestamp=1730708860",
-        "date": "2024/11/04 16:27",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
-        "timestamp": "1730705166",
-        "url": "mail_display.php?timestamp=1730705166",
-        "date": "2024/11/04 15:26",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【課務組】113-1專任教師授課時數確認通知（請於12/10前完成，謝謝！)",
-        "timestamp": "1730704152",
-        "url": "mail_display.php?timestamp=1730704152",
-        "date": "2024/11/04 15:09",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】國防部辦理三軍軍官學校全球資訊網網站位址修正事宜。",
-        "timestamp": "1730701054",
-        "url": "mail_display.php?timestamp=1730701054",
-        "date": "2024/11/04 14:17",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "陳偉",
-            "email": "ichirowei@gms.ndhu.edu.tw",
-            "phone": "6743"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【交通安全活動】平衡你的生活，綠色你的未來，無車日慢騎挑戰賽。",
-        "timestamp": "1730698932",
-        "url": "mail_display.php?timestamp=1730698932",
-        "date": "2024/11/04 13:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【交通安全活動】平衡你的生活，綠色你的未來，無車日慢騎挑戰賽。",
-        "timestamp": "1730698931",
-        "url": "mail_display.php?timestamp=1730698931",
-        "date": "2024/11/04 13:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "《國立東華大學2024年校慶系列活動—舞蹈賽》開始報名囉~",
-        "timestamp": "1730698649",
-        "url": "mail_display.php?timestamp=1730698649",
-        "date": "2024/11/04 13:37",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1730697725",
-        "url": "mail_display.php?timestamp=1730697725",
-        "date": "2024/11/04 13:22",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1730697700",
-        "url": "mail_display.php?timestamp=1730697700",
-        "date": "2024/11/04 13:21",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]
