@@ -1,23 +1,65 @@
 [
     {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1730880969",
-        "url": "mail_display.php?timestamp=1730880969",
-        "date": "2024/11/06 16:16",
-        "department": "秘書室議事公文組",
+        "title": "【徵才公告】國立東華大學總務處環保組誠徵清運班助理一名",
+        "timestamp": "1730952008",
+        "url": "mail_display.php?timestamp=1730952008",
+        "date": "2024/11/07 12:00",
+        "department": "總務處環境保護組",
         "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Student Dormitory】Academic Year 113(2024-25) Winter Vacation Dormitory Application",
+        "timestamp": "1730951065",
+        "url": "mail_display.php?timestamp=1730951065",
+        "date": "2024/11/07 11:44",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【學生宿舍】113學期「寒假住宿」(114/1/13-113/2/14)申請公告",
+        "timestamp": "1730950959",
+        "url": "mail_display.php?timestamp=1730950959",
+        "date": "2024/11/07 11:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【圖資處校慶系列活動~東華精粹書展】不要錯過5000元抽獎機會Don't miss the chance to win NT$5,000!",
+        "timestamp": "1730941648",
+        "url": "mail_display.php?timestamp=1730941648",
+        "date": "2024/11/07 09:07",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
         },
         "attachmentCount": 1
     },
     {
         "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
-        "timestamp": "1730880910",
-        "url": "mail_display.php?timestamp=1730880910",
-        "date": "2024/11/06 16:15",
+        "timestamp": "1730940872",
+        "url": "mail_display.php?timestamp=1730940872",
+        "date": "2024/11/07 08:54",
         "department": "語言中心",
         "author": {
             "department": "語言中心",
@@ -25,188 +67,146 @@
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
         },
-        "attachmentCount": 1
+        "attachmentCount": 2
     },
     {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1730879481",
-        "url": "mail_display.php?timestamp=1730879481",
-        "date": "2024/11/06 15:51",
-        "department": "圖書資訊處網路管理組",
+        "title": "本校113學年度校園防災虛擬(VR)體驗活動Disaster Prevention VR Experience Activities for the 113th Academic Year",
+        "timestamp": "1730938141",
+        "url": "mail_display.php?timestamp=1730938141",
+        "date": "2024/11/07 08:09",
+        "department": "學務處生活輔導組",
         "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
-        "timestamp": "1730872970",
-        "url": "mail_display.php?timestamp=1730872970",
-        "date": "2024/11/06 14:02",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1教育議題專題講座-師培生原轉講座－「我們一樣也不一樣，原住民族歷史正義與轉型正義在教育課程中的價值呈現」",
-        "timestamp": "1730863914",
-        "url": "mail_display.php?timestamp=1730863914",
-        "date": "2024/11/06 11:31",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1教育議題專題講座-新住民朋友的人際生活與親職互動之經驗分享",
-        "timestamp": "1730863775",
-        "url": "mail_display.php?timestamp=1730863775",
-        "date": "2024/11/06 11:29",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
-        "timestamp": "1730862852",
-        "url": "mail_display.php?timestamp=1730862852",
-        "date": "2024/11/06 11:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《114級畢業兒童劇公演-Yumi劇團》索票開始囉~~~",
-        "timestamp": "1730857113",
-        "url": "mail_display.php?timestamp=1730857113",
-        "date": "2024/11/06 09:38",
-        "department": "幼兒教育學系",
-        "author": {
-            "department": "幼兒教育學系",
-            "name": "蕭小姐",
-            "email": "kay200128@gms.ndhu.edu.tw",
-            "phone": "5266"
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
         },
         "attachmentCount": 2
     },
     {
-        "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
-        "timestamp": "1730856126",
-        "url": "mail_display.php?timestamp=1730856126",
-        "date": "2024/11/06 09:22",
-        "department": "會計學系",
+        "title": "東華小米園之歷史介紹暨族群文化交流",
+        "timestamp": "1730937306",
+        "url": "mail_display.php?timestamp=1730937306",
+        "date": "2024/11/07 07:55",
+        "department": "學務處 原住民族學生資源中心",
         "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "pindopoh@gms.ndhu.edu.tw",
-            "phone": "8903072"
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "411196073@gms.ndhu.edu.tw",
+            "phone": "周毅 8905759"
         },
         "attachmentCount": 0
     },
     {
-        "title": "【公行系】參加東華2024(30週年)校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1730850906",
-        "url": "mail_display.php?timestamp=1730850906",
-        "date": "2024/11/06 07:55",
-        "department": "人文社會科學學院 公共行政學系",
+        "title": "自資系專題演講",
+        "timestamp": "1730937305",
+        "url": "mail_display.php?timestamp=1730937305",
+        "date": "2024/11/07 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
         "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
         },
         "attachmentCount": 0
     },
     {
-        "title": "實驗室安全衛生概論-化學性危害預防教育訓練",
-        "timestamp": "1730850905",
-        "url": "mail_display.php?timestamp=1730850905",
-        "date": "2024/11/06 07:55",
-        "department": "總務處 環境保護組",
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(會資)",
+        "timestamp": "1730937304",
+        "url": "mail_display.php?timestamp=1730937304",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
         "author": {
-            "department": "總務處 環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
         },
         "attachmentCount": 0
     },
     {
-        "title": "【新世代青年城市論壇｜東華場】趨勢對談 x 職涯工作坊 x 名店市集 x 就業媒合站",
-        "timestamp": "1730850904",
-        "url": "mail_display.php?timestamp=1730850904",
-        "date": "2024/11/06 07:55",
-        "department": "國際事務處",
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(MSF)",
+        "timestamp": "1730937303",
+        "url": "mail_display.php?timestamp=1730937303",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
         "author": {
-            "department": "國際事務處",
-            "name": "羅靖儀",
-            "email": "prisjy@gms.ndhu.edu.tw",
-            "phone": "5171"
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
         },
         "attachmentCount": 0
     },
     {
-        "title": "【專題演講】11/8(五)_初探元宇宙副作用",
-        "timestamp": "1730850903",
-        "url": "mail_display.php?timestamp=1730850903",
-        "date": "2024/11/06 07:55",
-        "department": "理工學院 電機工程學系",
+        "title": "The miles from student to professional auditor.",
+        "timestamp": "1730937302",
+        "url": "mail_display.php?timestamp=1730937302",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
         "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
         },
         "attachmentCount": 0
     },
     {
-        "title": "移居與安居：家庭看護移工和她們的工會（講者：Jasmin、黃姿華）",
-        "timestamp": "1730850902",
-        "url": "mail_display.php?timestamp=1730850902",
-        "date": "2024/11/06 07:55",
-        "department": "社會參與中心 ",
+        "title": "【會計學系演講】從海瑞貢丸到友達光電-AI應用於企業創新",
+        "timestamp": "1730937301",
+        "url": "mail_display.php?timestamp=1730937301",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Sign up ASAP 手刀報名】在東華看見永續系列-1 短文短語徵選活動 SDGs in NDHU - Part 1: Short Essay \u0026 Phrase Contest",
+        "timestamp": "1730925748",
+        "url": "mail_display.php?timestamp=1730925748",
+        "date": "2024/11/07 04:42",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 (Li-Li Lee)",
+            "email": "lily@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【課程推推🥸】113-1 專案工具A微課程來啦！想成為專案設計者嗎？名額有限～快快點擊內文連結🔗",
+        "timestamp": "1730884538",
+        "url": "mail_display.php?timestamp=1730884538",
+        "date": "2024/11/06 17:15",
+        "department": "社會參與中心",
         "author": {
             "department": "社會參與中心",
-            "name": "鄒采晏",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "038905243"
+            "name": "黃小姐",
+            "email": "yuxuan22@gms.ndhu.edu.tw",
+            "phone": "5246"
         },
-        "attachmentCount": 0
+        "attachmentCount": 7
     },
     {
-        "title": "113-1諮臨系校友卓越講座",
-        "timestamp": "1730850901",
-        "url": "mail_display.php?timestamp=1730850901",
-        "date": "2024/11/06 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年11月17日截止)",
+        "timestamp": "1730881662",
+        "url": "mail_display.php?timestamp=1730881662",
+        "date": "2024/11/06 16:27",
+        "department": "學務處畢業生及校友服務組",
         "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "郭如珮",
-            "email": "pei618@gms.ndhu.edu.tw",
-            "phone": "5632"
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
         },
-        "attachmentCount": 0
+        "attachmentCount": 2
     }
 ]

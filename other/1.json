@@ -1,5 +1,19 @@
 [
     {
+        "title": "11月9日上午8-12時壽豐消防隊抽測建築物消防設備公告",
+        "timestamp": "1731027299",
+        "url": "mail_display.php?timestamp=1731027299",
+        "date": "2024/11/08 08:54",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "藝術學院及沁月二莊 電梯因颱風損壞停用說明(第二次公告)",
         "timestamp": "1730977928",
         "url": "mail_display.php?timestamp=1730977928",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】台北市愛慈社會福利基金會招募「生活輔導員、保育人員」",
-        "timestamp": "1730451041",
-        "url": "mail_display.php?timestamp=1730451041",
-        "date": "2024/11/01 16:50",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
