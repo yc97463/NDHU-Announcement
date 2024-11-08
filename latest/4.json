@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】113學期「寒假住宿」(114/1/13-113/2/14)申請公告",
+        "timestamp": "1730950959",
+        "url": "mail_display.php?timestamp=1730950959",
+        "date": "2024/11/07 11:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖資處校慶系列活動~東華精粹書展】不要錯過5000元抽獎機會Don't miss the chance to win NT$5,000!",
         "timestamp": "1730941648",
         "url": "mail_display.php?timestamp=1730941648",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1730879481",
-        "url": "mail_display.php?timestamp=1730879481",
-        "date": "2024/11/06 15:51",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
     }
 ]
