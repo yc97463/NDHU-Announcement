@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華小米園之歷史介紹暨族群文化交流",
+        "timestamp": "1730937306",
+        "url": "mail_display.php?timestamp=1730937306",
+        "date": "2024/11/07 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "411196073@gms.ndhu.edu.tw",
+            "phone": "周毅 8905759"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自資系專題演講",
         "timestamp": "1730937305",
         "url": "mail_display.php?timestamp=1730937305",
@@ -194,19 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
-        "timestamp": "1730862852",
-        "url": "mail_display.php?timestamp=1730862852",
-        "date": "2024/11/06 11:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
