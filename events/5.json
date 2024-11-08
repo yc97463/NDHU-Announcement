@@ -1,5 +1,33 @@
 [
     {
+        "title": "國企系校友卓越講座—國際商務探索與成長經歷分享",
+        "timestamp": "1730764511",
+        "url": "mail_display.php?timestamp=1730764511",
+        "date": "2024/11/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333002@gms.ndhu.edu.tw",
+            "phone": "0908161228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024校慶活動入場典禮秩序維護",
+        "timestamp": "1730764510",
+        "url": "mail_display.php?timestamp=1730764510",
+        "date": "2024/11/05 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝馨慧",
+            "email": "viviant@gms.ndhu.edu.tw",
+            "phone": "5036"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "檔案與口述史的對話：從礦工與礦災研究談起",
         "timestamp": "1730764509",
         "url": "mail_display.php?timestamp=1730764509",
@@ -180,33 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "《國立東華大學2024年校慶系列活動—舞蹈賽》開始報名囉~",
-        "timestamp": "1730698649",
-        "url": "mail_display.php?timestamp=1730698649",
-        "date": "2024/11/04 13:37",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1730697725",
-        "url": "mail_display.php?timestamp=1730697725",
-        "date": "2024/11/04 13:22",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]
