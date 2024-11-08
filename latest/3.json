@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【國立東華大學管理學院財務金融學系系主任】 徵聘公告",
+        "timestamp": "1730970874",
+        "url": "mail_display.php?timestamp=1730970874",
+        "date": "2024/11/07 17:14",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "林香君",
+            "email": "smgt@gms.ndhu.edu.tw",
+            "phone": "3002"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【職涯課程】🎉113年青年就業達人計畫開始報名啦🎉",
         "timestamp": "1730969351",
         "url": "mail_display.php?timestamp=1730969351",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【圖資處校慶系列活動~東華精粹書展】不要錯過5000元抽獎機會Don't miss the chance to win NT$5,000!",
-        "timestamp": "1730941648",
-        "url": "mail_display.php?timestamp=1730941648",
-        "date": "2024/11/07 09:07",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 1
     }
 ]
