@@ -1,5 +1,33 @@
 [
     {
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(會資)",
+        "timestamp": "1730937304",
+        "url": "mail_display.php?timestamp=1730937304",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
+        "author": {
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "從海瑞貢丸到友達光電-AI應用於企業創新(MSF)",
+        "timestamp": "1730937303",
+        "url": "mail_display.php?timestamp=1730937303",
+        "date": "2024/11/07 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "The miles from student to professional auditor.",
         "timestamp": "1730937302",
         "url": "mail_display.php?timestamp=1730937302",
@@ -180,33 +208,5 @@
             "phone": "5266"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
-        "timestamp": "1730856126",
-        "url": "mail_display.php?timestamp=1730856126",
-        "date": "2024/11/06 09:22",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "pindopoh@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公行系】參加東華2024(30週年)校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1730850906",
-        "url": "mail_display.php?timestamp=1730850906",
-        "date": "2024/11/06 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1諮臨系校友卓越講座",
+        "timestamp": "1730850901",
+        "url": "mail_display.php?timestamp=1730850901",
+        "date": "2024/11/06 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": {
+            "department": "人文社會科學學院 諮商與臨床心理學系",
+            "name": "郭如珮",
+            "email": "pei618@gms.ndhu.edu.tw",
+            "phone": "5632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "改變生命的關鍵～精進與智慧《發趣論》24緣開示(探討臨死境相、造作的心、心生果報的關係)",
+        "timestamp": "1730839921",
+        "url": "mail_display.php?timestamp=1730839921",
+        "date": "2024/11/06 04:52",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】本校113年慶生會訂於113年11月12日(二)下午14時，於行政大樓3樓301簡報室及中庭辦理，敬邀本校教職員工同仁共襄盛舉。",
         "timestamp": "1730796388",
         "url": "mail_display.php?timestamp=1730796388",
@@ -178,34 +206,6 @@
             "name": "葉珮芳",
             "email": "",
             "phone": "邱毓庭 (email:41114B071@gms.ndhu.edu.tw)"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心幸福學苑講座- 「踩踏」或「擁抱」負面情緒－情緒的存在意義",
-        "timestamp": "1730764508",
-        "url": "mail_display.php?timestamp=1730764508",
-        "date": "2024/11/05 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "陳奕錚",
-            "email": "yjchen92@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《美洲原住民議題和近代國際法早期發展：政治思想史的考察》-中央研究院蕭高彥院士",
-        "timestamp": "1730764507",
-        "url": "mail_display.php?timestamp=1730764507",
-        "date": "2024/11/05 07:55",
-        "department": "原住民民族學院 ",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱",
-            "email": "insay@gms.ndhu.edu.tw",
-            "phone": "5753"
         },
         "attachmentCount": 0
     }
