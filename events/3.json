@@ -1,5 +1,19 @@
 [
     {
+        "title": "自資系專題演講",
+        "timestamp": "1730937305",
+        "url": "mail_display.php?timestamp=1730937305",
+        "date": "2024/11/07 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "從海瑞貢丸到友達光電-AI應用於企業創新(會資)",
         "timestamp": "1730937304",
         "url": "mail_display.php?timestamp=1730937304",
@@ -192,20 +206,6 @@
             "name": "邱昭儒",
             "email": "senorita@gms.ndhu.edu.tw",
             "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "移居與安居：家庭看護移工和她們的工會（講者：Jasmin、黃姿華）",
-        "timestamp": "1730850902",
-        "url": "mail_display.php?timestamp=1730850902",
-        "date": "2024/11/06 07:55",
-        "department": "社會參與中心 ",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒采晏",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "038905243"
         },
         "attachmentCount": 0
     }
