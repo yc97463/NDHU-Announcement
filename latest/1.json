@@ -1,5 +1,19 @@
 [
     {
+        "title": "巴黎面面觀--從巴黎奧運和藝術談起",
+        "timestamp": "1731165790",
+        "url": "mail_display.php?timestamp=1731165790",
+        "date": "2024/11/09 23:23",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "明日11/10(日)至11/11(一)志學門兩側人行道暨自行車道施工封閉公告",
         "timestamp": "1731136628",
         "url": "mail_display.php?timestamp=1731136628",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2024國立東華大學校慶運動會-開幕典禮與參賽需知",
-        "timestamp": "1731055519",
-        "url": "mail_display.php?timestamp=1731055519",
-        "date": "2024/11/08 16:45",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "校慶運動會工作小組",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 4
     }
 ]
