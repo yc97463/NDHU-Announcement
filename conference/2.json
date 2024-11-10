@@ -1,5 +1,19 @@
 [
     {
+        "title": " 創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
+        "timestamp": "1729845700",
+        "url": "mail_display.php?timestamp=1729845700",
+        "date": "2024/10/25 16:41",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "2024/11/8~ 台、泰教育趨勢學術專題演講(2024 Taiwan and Thailand Education Trend Academic Lecture)",
         "timestamp": "1729760196",
         "url": "mail_display.php?timestamp=1729760196",
@@ -194,19 +208,5 @@
             "phone": "(03)890-5533"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "歷史系專題演講：串聯「地下-地面」的垂直系統：台灣的地下採煤、自有能源與地面變遷",
-        "timestamp": "1728981756",
-        "url": "mail_display.php?timestamp=1728981756",
-        "date": "2024/10/15 16:42",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
     }
 ]
