@@ -1,5 +1,19 @@
 [
     {
+        "title": "COIL計畫［國際處意願調查］",
+        "timestamp": "1731035336",
+        "url": "mail_display.php?timestamp=1731035336",
+        "date": "2024/11/08 11:08",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "陳巧惠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5118"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "大學門及志學門車牌辨識系統第二階段測試（啟用閘門）公告",
         "timestamp": "1731032567",
         "url": "mail_display.php?timestamp=1731032567",
@@ -192,20 +206,6 @@
             "name": "賴玟秀",
             "email": "angela@gms.ndhu.edu.tw",
             "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資工系專題講座】11/15(五) 門諾醫院副院長 游冬齡醫師",
-        "timestamp": "1731023705",
-        "url": "mail_display.php?timestamp=1731023705",
-        "date": "2024/11/08 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
         },
         "attachmentCount": 0
     }

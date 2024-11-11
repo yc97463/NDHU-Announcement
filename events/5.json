@@ -1,5 +1,33 @@
 [
     {
+        "title": "《114級畢業兒童劇公演-Yumi劇團》索票開始囉~~~",
+        "timestamp": "1730857113",
+        "url": "mail_display.php?timestamp=1730857113",
+        "date": "2024/11/06 09:38",
+        "department": "幼兒教育學系",
+        "author": {
+            "department": "幼兒教育學系",
+            "name": "蕭小姐",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【公行系】參加東華2024(30週年)校慶運動會開幕典禮（限本系學生報名）",
+        "timestamp": "1730850906",
+        "url": "mail_display.php?timestamp=1730850906",
+        "date": "2024/11/06 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "實驗室安全衛生概論-化學性危害預防教育訓練",
         "timestamp": "1730850905",
         "url": "mail_display.php?timestamp=1730850905",
@@ -180,33 +208,5 @@
             "phone": "5788"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【113-1學期-亮點演講公告】用Fintech打造屬於自己的理財計劃",
-        "timestamp": "1730764514",
-        "url": "mail_display.php?timestamp=1730764514",
-        "date": "2024/11/05 07:55",
-        "department": "管理學院 資訊管理學系",
-        "author": {
-            "department": "管理學院 資訊管理學系",
-            "name": "吳佳芬",
-            "email": "fen@gms.ndhu.edu.tw",
-            "phone": "3102"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "阿美族樹皮布傳統工藝分享",
-        "timestamp": "1730764513",
-        "url": "mail_display.php?timestamp=1730764513",
-        "date": "2024/11/05 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "tipus0401@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 0
     }
 ]
