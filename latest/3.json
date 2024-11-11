@@ -1,5 +1,33 @@
 [
     {
+        "title": "校務發展委員會會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1731060301",
+        "url": "mail_display.php?timestamp=1731060301",
+        "date": "2024/11/08 18:05",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "2024國立東華大學校慶運動會-開幕典禮與參賽需知",
+        "timestamp": "1731055519",
+        "url": "mail_display.php?timestamp=1731055519",
+        "date": "2024/11/08 16:45",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "校慶運動會工作小組",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "2024國立東華大學校慶運動會-開幕典禮與參賽需知",
         "timestamp": "1731055510",
         "url": "mail_display.php?timestamp=1731055510",
@@ -178,34 +206,6 @@
             "name": "陶開勤",
             "email": "kctao@gms.ndhu.edu.tw",
             "phone": "03-8906275"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「推繡藝術」樂齡藝術陪伴青年助教培訓",
-        "timestamp": "1731023712",
-        "url": "mail_display.php?timestamp=1731023712",
-        "date": "2024/11/08 07:55",
-        "department": "藝術學院 ",
-        "author": {
-            "department": "藝術學院",
-            "name": "黃惠瑄",
-            "email": "syuan7517@gms.ndhu.edu.tw",
-            "phone": "5103"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【永續講座】Nbs自然解方的自然資本評估：以玉里森林復育計畫為例",
-        "timestamp": "1731023711",
-        "url": "mail_display.php?timestamp=1731023711",
-        "date": "2024/11/08 07:55",
-        "department": "永續發展中心 ",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
         },
         "attachmentCount": 0
     }
