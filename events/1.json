@@ -1,5 +1,19 @@
 [
     {
+        "title": "觀看「東華好好行-交通安全校長篇」短影片，跨域時數送給您",
+        "timestamp": "1731318518",
+        "url": "mail_display.php?timestamp=1731318518",
+        "date": "2024/11/11 17:48",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【時間更正】📢⪡ 世界公視大展精選影片放映會",
         "timestamp": "1731317173",
         "url": "mail_display.php?timestamp=1731317173",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【藝創系】113.12.24(二) 【113-2實習課程行前說明會】（限本系學生，認證二小時）",
-        "timestamp": "1731110108",
-        "url": "mail_display.php?timestamp=1731110108",
-        "date": "2024/11/09 07:55",
-        "department": "藝術學院 藝術創意產業學系",
-        "author": {
-            "department": "藝術學院 藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "8905889"
         },
         "attachmentCount": 0
     }

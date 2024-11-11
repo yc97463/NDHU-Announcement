@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國際交流活動】2025 東京大學＆早稻田大學領導力育成計畫",
+        "timestamp": "1730961849",
+        "url": "mail_display.php?timestamp=1730961849",
+        "date": "2024/11/07 14:44",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【國際交流活動】2025 東京大學創新教育交流學習計畫",
         "timestamp": "1730961531",
         "url": "mail_display.php?timestamp=1730961531",
@@ -194,19 +208,5 @@
             "phone": "3073"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Sign up ASAP 手刀報名】在東華看見永續系列-1 短文短語徵選活動 SDGs in NDHU - Part 1: Short Essay \u0026 Phrase Contest",
-        "timestamp": "1730925748",
-        "url": "mail_display.php?timestamp=1730925748",
-        "date": "2024/11/07 04:42",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 (Li-Li Lee)",
-            "email": "lily@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]
