@@ -1,5 +1,19 @@
 [
     {
+        "title": "【會計學系活動】國立東華大學2024校慶運動會(開幕典禮)",
+        "timestamp": "1731023707",
+        "url": "mail_display.php?timestamp=1731023707",
+        "date": "2024/11/08 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1運動會(會資班)",
         "timestamp": "1731023706",
         "url": "mail_display.php?timestamp=1731023706",
@@ -194,19 +208,5 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【國際交流活動】明日株式會社 Skyline 2025 寒假日本見習計畫",
-        "timestamp": "1730960683",
-        "url": "mail_display.php?timestamp=1730960683",
-        "date": "2024/11/07 14:24",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
     }
 ]

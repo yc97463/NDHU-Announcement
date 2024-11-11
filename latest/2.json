@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024 AI歌神爭霸戰",
+        "timestamp": "1731110109",
+        "url": "mail_display.php?timestamp=1731110109",
+        "date": "2024/11/09 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【藝創系】113.12.24(二) 【113-2實習課程行前說明會】（限本系學生，認證二小時）",
         "timestamp": "1731110108",
         "url": "mail_display.php?timestamp=1731110108",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【語言中心】2024第15屆曾珍珍文學翻譯獎徵件辦法",
-        "timestamp": "1731046843",
-        "url": "mail_display.php?timestamp=1731046843",
-        "date": "2024/11/08 14:20",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
     }
 ]
