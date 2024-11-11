@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
+        "timestamp": "1731283484",
+        "url": "mail_display.php?timestamp=1731283484",
+        "date": "2024/11/11 08:04",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "明日11/10(日)至11/11(一)志學門兩側人行道暨自行車道施工封閉公告",
         "timestamp": "1731136628",
         "url": "mail_display.php?timestamp=1731136628",
@@ -192,20 +206,6 @@
             "name": "蕭澤宇",
             "email": "zyhsiao@gms.ndhu.edu.tw",
             "phone": "6727"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】圖書館因 (電力設備故障) 影響情形",
-        "timestamp": "1730862852",
-        "url": "mail_display.php?timestamp=1730862852",
-        "date": "2024/11/06 11:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
         },
         "attachmentCount": 0
     }
