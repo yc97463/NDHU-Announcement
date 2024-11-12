@@ -1,5 +1,33 @@
 [
     {
+        "title": "傳統美食製作",
+        "timestamp": "1731110102",
+        "url": "mail_display.php?timestamp=1731110102",
+        "date": "2024/11/09 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "0960804536"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系】【想想花蓮．韌性原鄉】系列講座6：重大災難與火災救援",
+        "timestamp": "1731110101",
+        "url": "mail_display.php?timestamp=1731110101",
+        "date": "2024/11/09 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "lingya@gms.ndhu.edu.tw",
+            "phone": "03-890-5708"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024國立東華大學校慶運動會-開幕典禮與參賽需知",
         "timestamp": "1731055519",
         "url": "mail_display.php?timestamp=1731055519",
@@ -178,34 +206,6 @@
             "name": "吳佳玟",
             "email": "chiawen@gms.ndhu.edu.tw",
             "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系活動】國立東華大學2024校慶運動會(開幕典禮)",
-        "timestamp": "1731023707",
-        "url": "mail_display.php?timestamp=1731023707",
-        "date": "2024/11/08 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-1運動會(會資班)",
-        "timestamp": "1731023706",
-        "url": "mail_display.php?timestamp=1731023706",
-        "date": "2024/11/08 07:55",
-        "department": "管理學院 會計與資訊管理國際學士班",
-        "author": {
-            "department": "管理學院 會計與資訊管理國際學士班",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
         },
         "attachmentCount": 0
     }

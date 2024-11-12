@@ -1,5 +1,33 @@
 [
     {
+        "title": "【訊息轉知】【NUST教學工作圈】2024跨校雙語TA增能工作坊線上場",
+        "timestamp": "1731375761",
+        "url": "mail_display.php?timestamp=1731375761",
+        "date": "2024/11/12 09:42",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "2024校慶運動會秩序冊最終修訂版-請參加單位詳閱內容",
+        "timestamp": "1731372906",
+        "url": "mail_display.php?timestamp=1731372906",
+        "date": "2024/11/12 08:55",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "校慶運動會工作小組",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢⪡ 世界公視大展精選影片放映會",
         "timestamp": "1731369313",
         "url": "mail_display.php?timestamp=1731369313",
@@ -180,33 +208,5 @@
             "phone": "03-890-5708"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【特聘教授演講】12/3(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
-        "timestamp": "1731333080",
-        "url": "mail_display.php?timestamp=1731333080",
-        "date": "2024/11/11 21:51",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】RunSpace 太空創新無限挑戰 x 公理太空：國際交流小聚系列/RunSpace x Axiom Space Global Meetup Series Webinar",
-        "timestamp": "1731333000",
-        "url": "mail_display.php?timestamp=1731333000",
-        "date": "2024/11/11 21:50",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 3
     }
 ]
