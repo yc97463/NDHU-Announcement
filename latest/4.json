@@ -1,5 +1,19 @@
 [
     {
+        "title": "社會學的前世與今生：一個深層的靈魂拷問",
+        "timestamp": "1731110107",
+        "url": "mail_display.php?timestamp=1731110107",
+        "date": "2024/11/09 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1 南山人壽合作現金流體驗活動",
         "timestamp": "1731110106",
         "url": "mail_display.php?timestamp=1731110106",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "COIL計畫［國際處意願調查］",
-        "timestamp": "1731035336",
-        "url": "mail_display.php?timestamp=1731035336",
-        "date": "2024/11/08 11:08",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "陳巧惠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5118"
-        },
-        "attachmentCount": 1
     }
 ]
