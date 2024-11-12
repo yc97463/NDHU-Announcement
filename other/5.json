@@ -1,5 +1,33 @@
 [
     {
+        "title": "藝術學院塔樓施工公告",
+        "timestamp": "1729757665",
+        "url": "mail_display.php?timestamp=1729757665",
+        "date": "2024/10/24 16:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "行政大樓301簡報室施工公告",
+        "timestamp": "1729753915",
+        "url": "mail_display.php?timestamp=1729753915",
+        "date": "2024/10/24 15:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】花蓮縣政府函轉勞動部辦理「114年全國模範勞工選拔」活動",
         "timestamp": "1729750459",
         "url": "mail_display.php?timestamp=1729750459",
@@ -178,34 +206,6 @@
             "name": "林辰祐",
             "email": "yolin@gms.ndhu.edu.tw",
             "phone": "6577"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【交通安全】天雨路滑視線不佳，請開啟大燈及減速慢行",
-        "timestamp": "1729501773",
-        "url": "mail_display.php?timestamp=1729501773",
-        "date": "2024/10/21 17:09",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】國立陽明交通大學開設「Affective Neuroscience for Healthcare Practitioners and Everyone」(MOOCs)線上課程",
-        "timestamp": "1729498099",
-        "url": "mail_display.php?timestamp=1729498099",
-        "date": "2024/10/21 16:08",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "038906422"
         },
         "attachmentCount": 2
     }

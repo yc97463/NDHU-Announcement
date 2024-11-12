@@ -1,5 +1,19 @@
 [
     {
+        "title": "台灣原住民族知識體系課程系列講座：原住民的航海文化",
+        "timestamp": "1731196503",
+        "url": "mail_display.php?timestamp=1731196503",
+        "date": "2024/11/10 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "電影欣賞:陰影下的她",
         "timestamp": "1731196502",
         "url": "mail_display.php?timestamp=1731196502",
@@ -194,19 +208,5 @@
             "phone": "03-890-5708"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024國立東華大學校慶運動會-開幕典禮與參賽需知",
-        "timestamp": "1731055519",
-        "url": "mail_display.php?timestamp=1731055519",
-        "date": "2024/11/08 16:45",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "校慶運動會工作小組",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 4
     }
 ]

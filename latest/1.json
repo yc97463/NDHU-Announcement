@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知】「第15屆IIFME中東國際發明展覽會」",
+        "timestamp": "1731400304",
+        "url": "mail_display.php?timestamp=1731400304",
+        "date": "2024/11/12 16:31",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】「2025第三十九屆日本東京創新天才國際發明展」",
+        "timestamp": "1731400233",
+        "url": "mail_display.php?timestamp=1731400233",
+        "date": "2024/11/12 16:30",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
+        "timestamp": "1731400213",
+        "url": "mail_display.php?timestamp=1731400213",
+        "date": "2024/11/12 16:30",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【代轉學生會公告】2024東華大路跑第二屆來啦！",
         "timestamp": "1731399654",
         "url": "mail_display.php?timestamp=1731399654",
@@ -166,47 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢⪡ 世界公視大展精選影片放映會",
-        "timestamp": "1731369313",
-        "url": "mail_display.php?timestamp=1731369313",
-        "date": "2024/11/12 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": " 向天湖部落文化介紹課程",
-        "timestamp": "1731369312",
-        "url": "mail_display.php?timestamp=1731369312",
-        "date": "2024/11/12 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "41104g001@gms.ndhu.edu.tw",
-            "phone": "朱璽恩 0921689326"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學2024校慶運動會開幕典禮(教行系)",
-        "timestamp": "1731369311",
-        "url": "mail_display.php?timestamp=1731369311",
-        "date": "2024/11/12 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 0
     }
 ]
