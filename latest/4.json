@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1 南山人壽合作現金流體驗活動",
+        "timestamp": "1731110106",
+        "url": "mail_display.php?timestamp=1731110106",
+        "date": "2024/11/09 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "411288004@gms.ndhu.edu.tw",
+            "phone": "蔡宛庭 038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【藝創系】113.12.17(二) 【113-1課程說明會】（限本系，認證一小時）",
         "timestamp": "1731110105",
         "url": "mail_display.php?timestamp=1731110105",
@@ -194,19 +208,5 @@
             "phone": "5118"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "大學門及志學門車牌辨識系統第二階段測試（啟用閘門）公告",
-        "timestamp": "1731032567",
-        "url": "mail_display.php?timestamp=1731032567",
-        "date": "2024/11/08 10:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]
