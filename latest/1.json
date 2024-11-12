@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】K書中心與各院自習空間期中考後更新時段(第一次公告)",
+        "timestamp": "1731406431",
+        "url": "mail_display.php?timestamp=1731406431",
+        "date": "2024/11/12 18:13",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】高雄市政府勞工局114年度約聘勞動條件檢查員甄選(113年11月26日截止)",
         "timestamp": "1731403536",
         "url": "mail_display.php?timestamp=1731403536",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第1次通知)",
-        "timestamp": "1731377345",
-        "url": "mail_display.php?timestamp=1731377345",
-        "date": "2024/11/12 10:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 7
     }
 ]
