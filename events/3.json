@@ -1,5 +1,19 @@
 [
     {
+        "title": "113校慶運動會開幕式",
+        "timestamp": "1731110110",
+        "url": "mail_display.php?timestamp=1731110110",
+        "date": "2024/11/09 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024 AI歌神爭霸戰",
         "timestamp": "1731110109",
         "url": "mail_display.php?timestamp=1731110109",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課外活動經費】113學年度寒假課外活動經費企劃書收件公告 Call for Proposals of Extracurricular Activities for Winter Vacation 2025",
-        "timestamp": "1731030182",
-        "url": "mail_display.php?timestamp=1731030182",
-        "date": "2024/11/08 09:43",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]

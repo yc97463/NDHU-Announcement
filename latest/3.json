@@ -1,5 +1,47 @@
 [
     {
+        "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
+        "timestamp": "1731283484",
+        "url": "mail_display.php?timestamp=1731283484",
+        "date": "2024/11/11 08:04",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 11/21 第5場 Session 5\t",
+        "timestamp": "1731282902",
+        "url": "mail_display.php?timestamp=1731282902",
+        "date": "2024/11/11 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
+        "timestamp": "1731251855",
+        "url": "mail_display.php?timestamp=1731251855",
+        "date": "2024/11/10 23:17",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：原住民的航海文化",
         "timestamp": "1731196503",
         "url": "mail_display.php?timestamp=1731196503",
@@ -164,48 +206,6 @@
             "name": "謝明海",
             "email": "ocean@gms.ndhu.edu.tw",
             "phone": "8905889"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "✨✨✨外宿關懷系列-校外租賃法律講座✨✨✨",
-        "timestamp": "1731110104",
-        "url": "mail_display.php?timestamp=1731110104",
-        "date": "2024/11/09 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【電機系】參加東華2024校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1731110103",
-        "url": "mail_display.php?timestamp=1731110103",
-        "date": "2024/11/09 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "楊嘉琳",
-            "email": "ivyyang@gms.ndhu.edu.tw",
-            "phone": "038905062"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "傳統美食製作",
-        "timestamp": "1731110102",
-        "url": "mail_display.php?timestamp=1731110102",
-        "date": "2024/11/09 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "tipus0401@gms.ndhu.edu.tw",
-            "phone": "0960804536"
         },
         "attachmentCount": 0
     }

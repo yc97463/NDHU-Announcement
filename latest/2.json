@@ -1,5 +1,47 @@
 [
     {
+        "title": "𝑻𝒛𝒖 𝒀𝒖𝒏 𝑯𝒖𝒂𝒏𝒈 𝑭𝒍𝒖𝒕𝒆 𝑹𝒆𝒄𝒊𝒕𝒂𝒍 黃資勻 長笛獨奏會",
+        "timestamp": "1731369302",
+        "url": "mail_display.php?timestamp=1731369302",
+        "date": "2024/11/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "038905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系】【想想花蓮．韌性原鄉】系列講座7：重建創生：穀笠合作社的方法論",
+        "timestamp": "1731369301",
+        "url": "mail_display.php?timestamp=1731369301",
+        "date": "2024/11/12 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "lingya@gms.ndhu.edu.tw",
+            "phone": "03-890-5708"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【特聘教授演講】12/3(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
+        "timestamp": "1731333080",
+        "url": "mail_display.php?timestamp=1731333080",
+        "date": "2024/11/11 21:51",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】RunSpace 太空創新無限挑戰 x 公理太空：國際交流小聚系列/RunSpace x Axiom Space Global Meetup Series Webinar",
         "timestamp": "1731333000",
         "url": "mail_display.php?timestamp=1731333000",
@@ -166,47 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
-        "timestamp": "1731283484",
-        "url": "mail_display.php?timestamp=1731283484",
-        "date": "2024/11/11 08:04",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 11/21 第5場 Session 5\t",
-        "timestamp": "1731282902",
-        "url": "mail_display.php?timestamp=1731282902",
-        "date": "2024/11/11 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
-        "timestamp": "1731251855",
-        "url": "mail_display.php?timestamp=1731251855",
-        "date": "2024/11/10 23:17",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 5
     }
 ]

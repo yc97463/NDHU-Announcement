@@ -1,5 +1,19 @@
 [
     {
+        "title": "圖書館臨時休館通知Notice of Library Temporary Closure",
+        "timestamp": "1730537932",
+        "url": "mail_display.php?timestamp=1730537932",
+        "date": "2024/11/02 16:58",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "6852"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第2次公告】113會計年度結束經費報支注意事項",
         "timestamp": "1730529576",
         "url": "mail_display.php?timestamp=1730529576",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1730262921",
-        "url": "mail_display.php?timestamp=1730262921",
-        "date": "2024/10/30 12:35",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
