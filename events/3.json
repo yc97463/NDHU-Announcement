@@ -1,5 +1,19 @@
 [
     {
+        "title": "塔羅！我的未來！",
+        "timestamp": "1731298044",
+        "url": "mail_display.php?timestamp=1731298044",
+        "date": "2024/11/11 12:07",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【原民院】原住民民族學院23週年院慶系列活動~歡迎踴躍參加！",
         "timestamp": "1731296242",
         "url": "mail_display.php?timestamp=1731296242",
@@ -192,20 +206,6 @@
             "name": "陳詩啓",
             "email": "sam0831@gms.ndhu.edu.tw",
             "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【電機系】參加東華2024校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1731110103",
-        "url": "mail_display.php?timestamp=1731110103",
-        "date": "2024/11/09 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "楊嘉琳",
-            "email": "ivyyang@gms.ndhu.edu.tw",
-            "phone": "038905062"
         },
         "attachmentCount": 0
     }
