@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
+        "timestamp": "1730291316",
+        "url": "mail_display.php?timestamp=1730291316",
+        "date": "2024/10/30 20:28",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【人事室公告】依行政院人事行政總處公告，明(31)日(四)停止上班上課",
         "timestamp": "1730290565",
         "url": "mail_display.php?timestamp=1730290565",
@@ -194,19 +208,5 @@
             "phone": "890-6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】國科會修正專題研究計畫報告撰寫格式，並自即日起實施，請查照轉知。",
-        "timestamp": "1730101596",
-        "url": "mail_display.php?timestamp=1730101596",
-        "date": "2024/10/28 15:46",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
+        "timestamp": "1730697700",
+        "url": "mail_display.php?timestamp=1730697700",
+        "date": "2024/11/04 13:21",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "緊急！勿開啟xxx教授查收信件！！！！",
         "timestamp": "1730685974",
         "url": "mail_display.php?timestamp=1730685974",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Hualien County will suspend work and classes tomorrow（10/30）",
-        "timestamp": "1730291316",
-        "url": "mail_display.php?timestamp=1730291316",
-        "date": "2024/10/30 20:28",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]

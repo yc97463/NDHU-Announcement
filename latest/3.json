@@ -1,5 +1,61 @@
 [
     {
+        "title": "【訊息轉知】臺灣團隊赴澳洲參與「2024全球開放教育年會」論文發表相關資訊",
+        "timestamp": "1731314334",
+        "url": "mail_display.php?timestamp=1731314334",
+        "date": "2024/11/11 16:38",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "健康中心11月13日(三)全員移地田徑場服務公告 Health center closed during the sport meet.",
+        "timestamp": "1731313837",
+        "url": "mail_display.php?timestamp=1731313837",
+        "date": "2024/11/11 16:30",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國際處】2025 春季國際接待義工招募 | 2025 Spring- International Volunteer Recruitment Announcement (截止日至2024/11/22 17:00前 | Deadline: ~2024/11/22 17:00)",
+        "timestamp": "1731310342",
+        "url": "mail_display.php?timestamp=1731310342",
+        "date": "2024/11/11 15:32",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "徐敏樺",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "03-8905117"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【圖資處校慶系列活動~東華精粹書展】第一次抽獎中獎名單",
+        "timestamp": "1731304050",
+        "url": "mail_display.php?timestamp=1731304050",
+        "date": "2024/11/11 13:47",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【原民院】原住民民族學院23週年院慶系列活動~歡迎踴躍參加！",
         "timestamp": "1731299899",
         "url": "mail_display.php?timestamp=1731299899",
@@ -152,61 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "明日11/10(日)至11/11(一)志學門兩側人行道暨自行車道施工封閉公告",
-        "timestamp": "1731136628",
-        "url": "mail_display.php?timestamp=1731136628",
-        "date": "2024/11/09 15:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "觀遊系2024畢業專題發表會暨成果展-志工說明會【僅限本系已招募志工報名】",
-        "timestamp": "1731110111",
-        "url": "mail_display.php?timestamp=1731110111",
-        "date": "2024/11/09 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "41103a004@gms.ndhu.edu.tw",
-            "phone": "0988-591703"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113校慶運動會開幕式",
-        "timestamp": "1731110110",
-        "url": "mail_display.php?timestamp=1731110110",
-        "date": "2024/11/09 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024 AI歌神爭霸戰",
-        "timestamp": "1731110109",
-        "url": "mail_display.php?timestamp=1731110109",
-        "date": "2024/11/09 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
     }
 ]
