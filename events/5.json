@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1 走一趟性別的旅行】粉絲的奇幻旅行：寶塚、性別與文化觀光",
+        "timestamp": "1731196501",
+        "url": "mail_display.php?timestamp=1731196501",
+        "date": "2024/11/10 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "411088007@gms.ndhu.edu.tw",
+            "phone": "0000000000"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "巴黎面面觀--從巴黎奧運和藝術談起",
         "timestamp": "1731165790",
         "url": "mail_display.php?timestamp=1731165790",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【第2次公告】本校113年慶生會訂於113年11月12日(二)下午14時，於行政大樓3樓301簡報室及中庭辦理，敬邀本校教職員工同仁共襄盛舉。",
-        "timestamp": "1731047801",
-        "url": "mail_display.php?timestamp=1731047801",
-        "date": "2024/11/08 14:36",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
     }
 ]

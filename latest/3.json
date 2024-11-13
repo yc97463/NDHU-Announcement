@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024校慶運動會開幕典禮-雨天備案",
+        "timestamp": "1731412947",
+        "url": "mail_display.php?timestamp=1731412947",
+        "date": "2024/11/12 20:02",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "校慶運動會工作小組",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要通知】K書中心與各院自習空間期中考後更新時段(第一次公告)",
         "timestamp": "1731406431",
         "url": "mail_display.php?timestamp=1731406431",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "車牌辨識系統第二階段測試(閘門開啟)暫緩辦理公告",
-        "timestamp": "1731382353",
-        "url": "mail_display.php?timestamp=1731382353",
-        "date": "2024/11/12 11:32",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]

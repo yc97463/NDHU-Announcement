@@ -1,5 +1,19 @@
 [
     {
+        "title": "《因為愛而照亮》蔡育霖合唱指揮音樂會",
+        "timestamp": "1731369303",
+        "url": "mail_display.php?timestamp=1731369303",
+        "date": "2024/11/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "𝑻𝒛𝒖 𝒀𝒖𝒏 𝑯𝒖𝒂𝒏𝒈 𝑭𝒍𝒖𝒕𝒆 𝑹𝒆𝒄𝒊𝒕𝒂𝒍 黃資勻 長笛獨奏會",
         "timestamp": "1731369302",
         "url": "mail_display.php?timestamp=1731369302",
@@ -194,19 +208,5 @@
             "phone": "03-89057852"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】113學年第一學期第二階段電費明細公告 【Student Dormitory】–Electricity Charges for the 2st Period, 2024-2025 Academic Year ",
-        "timestamp": "1731290436",
-        "url": "mail_display.php?timestamp=1731290436",
-        "date": "2024/11/11 10:00",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]
