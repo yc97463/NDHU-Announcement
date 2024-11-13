@@ -1,5 +1,19 @@
 [
     {
+        "title": "收視東華好好行 跨域時數送給您",
+        "timestamp": "1731369305",
+        "url": "mail_display.php?timestamp=1731369305",
+        "date": "2024/11/12 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114級畢業初審展覽協助顧展",
         "timestamp": "1731369304",
         "url": "mail_display.php?timestamp=1731369304",
@@ -194,19 +208,5 @@
             "phone": "03-89057852"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "塔羅！我的未來！",
-        "timestamp": "1731298044",
-        "url": "mail_display.php?timestamp=1731298044",
-        "date": "2024/11/11 12:07",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "林賢謀",
-            "email": "lcm1460@gms.ndhu.edu.tw",
-            "phone": "6269"
-        },
-        "attachmentCount": 1
     }
 ]
