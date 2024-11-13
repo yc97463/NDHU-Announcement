@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】「第15屆IIFME中東國際發明展覽會」",
+        "timestamp": "1731400304",
+        "url": "mail_display.php?timestamp=1731400304",
+        "date": "2024/11/12 16:31",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】「2025第三十九屆日本東京創新天才國際發明展」",
         "timestamp": "1731400233",
         "url": "mail_display.php?timestamp=1731400233",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢⪡ 世界公視大展精選影片放映會",
-        "timestamp": "1731369313",
-        "url": "mail_display.php?timestamp=1731369313",
-        "date": "2024/11/12 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
     }
 ]
