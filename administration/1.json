@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校外住宿】請校外住宿同學上網填報或更新資料 【Off-Campus Housing】Accommodation information Update by living off-campus students",
+        "timestamp": "1731565496",
+        "url": "mail_display.php?timestamp=1731565496",
+        "date": "2024/11/14 14:24",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "《第十三屆新航之舟-行政團隊熱情招募中》報名至11/15（五）23：59",
         "timestamp": "1731545990",
         "url": "mail_display.php?timestamp=1731545990",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【課外活動經費】113學年度寒假課外活動經費企劃書收件公告 Call for Proposals of Extracurricular Activities for Winter Vacation 2025",
-        "timestamp": "1731030182",
-        "url": "mail_display.php?timestamp=1731030182",
-        "date": "2024/11/08 09:43",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]

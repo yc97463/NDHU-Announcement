@@ -1,5 +1,47 @@
 [
     {
+        "title": "114級畢業初審展覽協助顧展",
+        "timestamp": "1731369304",
+        "url": "mail_display.php?timestamp=1731369304",
+        "date": "2024/11/12 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "《因為愛而照亮》蔡育霖合唱指揮音樂會",
+        "timestamp": "1731369303",
+        "url": "mail_display.php?timestamp=1731369303",
+        "date": "2024/11/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "𝑻𝒛𝒖 𝒀𝒖𝒏 𝑯𝒖𝒂𝒏𝒈 𝑭𝒍𝒖𝒕𝒆 𝑹𝒆𝒄𝒊𝒕𝒂𝒍 黃資勻 長笛獨奏會",
+        "timestamp": "1731369302",
+        "url": "mail_display.php?timestamp=1731369302",
+        "date": "2024/11/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "038905168"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系】【想想花蓮．韌性原鄉】系列講座7：重建創生：穀笠合作社的方法論",
         "timestamp": "1731369301",
         "url": "mail_display.php?timestamp=1731369301",
@@ -166,47 +208,5 @@
             "phone": "柯承希 0988479360"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "電影欣賞:陰影下的她",
-        "timestamp": "1731196502",
-        "url": "mail_display.php?timestamp=1731196502",
-        "date": "2024/11/10 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 走一趟性別的旅行】粉絲的奇幻旅行：寶塚、性別與文化觀光",
-        "timestamp": "1731196501",
-        "url": "mail_display.php?timestamp=1731196501",
-        "date": "2024/11/10 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "411088007@gms.ndhu.edu.tw",
-            "phone": "0000000000"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "巴黎面面觀--從巴黎奧運和藝術談起",
-        "timestamp": "1731165790",
-        "url": "mail_display.php?timestamp=1731165790",
-        "date": "2024/11/09 23:23",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 2
     }
 ]

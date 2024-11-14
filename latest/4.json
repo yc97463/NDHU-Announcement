@@ -1,5 +1,61 @@
 [
     {
+        "title": "桌上型 Kibble balance 和質量國際標準單位的校正\t",
+        "timestamp": "1731455706",
+        "url": "mail_display.php?timestamp=1731455706",
+        "date": "2024/11/13 07:55",
+        "department": "理工學院 物理學系",
+        "author": {
+            "department": "理工學院 物理學系",
+            "name": "劉芝葳",
+            "email": "jenna@gms.ndhu.edu.tw",
+            "phone": "0925385308"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【光電系演講】顯示面板驅動原理",
+        "timestamp": "1731455705",
+        "url": "mail_display.php?timestamp=1731455705",
+        "date": "2024/11/13 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【健康促進活動】視力保健與口腔照護講座",
+        "timestamp": "1731455704",
+        "url": "mail_display.php?timestamp=1731455704",
+        "date": "2024/11/13 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024年第20屆歐洲影展電影欣賞：Forever-Forever 不朽戀習曲/荷蘭",
+        "timestamp": "1731455703",
+        "url": "mail_display.php?timestamp=1731455703",
+        "date": "2024/11/13 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024年第20屆歐洲影展電影欣賞：Gentle/匈牙利",
         "timestamp": "1731455702",
         "url": "mail_display.php?timestamp=1731455702",
@@ -152,61 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024 AI歌神爭霸戰。",
-        "timestamp": "1731399325",
-        "url": "mail_display.php?timestamp=1731399325",
-        "date": "2024/11/12 16:15",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
-        "timestamp": "1731399084",
-        "url": "mail_display.php?timestamp=1731399084",
-        "date": "2024/11/12 16:11",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "11月13日校慶運動會委外廠商營業資訊公告",
-        "timestamp": "1731397505",
-        "url": "mail_display.php?timestamp=1731397505",
-        "date": "2024/11/12 15:45",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】國立臺灣海洋大學開設「離岸風電基礎設計」磨課師(MOOCs)線上課程",
-        "timestamp": "1731394013",
-        "url": "mail_display.php?timestamp=1731394013",
-        "date": "2024/11/12 14:46",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
     }
 ]

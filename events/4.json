@@ -1,5 +1,47 @@
 [
     {
+        "title": "【代轉學生會公告】2024東華大路跑第二屆來啦！",
+        "timestamp": "1731399654",
+        "url": "mail_display.php?timestamp=1731399654",
+        "date": "2024/11/12 16:20",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "2024 AI歌神爭霸戰。",
+        "timestamp": "1731399325",
+        "url": "mail_display.php?timestamp=1731399325",
+        "date": "2024/11/12 16:15",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【2024校慶系列活動】校慶園遊會~ School Carnival in the Academic Year of 2024.",
+        "timestamp": "1731399084",
+        "url": "mail_display.php?timestamp=1731399084",
+        "date": "2024/11/12 16:11",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢 113年度「全民外交研習營」——【青年國際參與】正式開放報名！",
         "timestamp": "1731392048",
         "url": "mail_display.php?timestamp=1731392048",
@@ -164,48 +206,6 @@
             "name": "王玉君",
             "email": "hu.jean0503@gms.ndhu.edu.tw",
             "phone": "8906220"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114級畢業初審展覽協助顧展",
-        "timestamp": "1731369304",
-        "url": "mail_display.php?timestamp=1731369304",
-        "date": "2024/11/12 07:55",
-        "department": "藝術學院 藝術與設計學系",
-        "author": {
-            "department": "藝術學院 藝術與設計學系",
-            "name": "陳紘崧",
-            "email": "keter426@gms.ndhu.edu.tw",
-            "phone": "038905123"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《因為愛而照亮》蔡育霖合唱指揮音樂會",
-        "timestamp": "1731369303",
-        "url": "mail_display.php?timestamp=1731369303",
-        "date": "2024/11/12 07:55",
-        "department": "藝術學院 音樂學系",
-        "author": {
-            "department": "藝術學院 音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "𝑻𝒛𝒖 𝒀𝒖𝒏 𝑯𝒖𝒂𝒏𝒈 𝑭𝒍𝒖𝒕𝒆 𝑹𝒆𝒄𝒊𝒕𝒂𝒍 黃資勻 長笛獨奏會",
-        "timestamp": "1731369302",
-        "url": "mail_display.php?timestamp=1731369302",
-        "date": "2024/11/12 07:55",
-        "department": "藝術學院 音樂學系",
-        "author": {
-            "department": "藝術學院 音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "038905168"
         },
         "attachmentCount": 0
     }
