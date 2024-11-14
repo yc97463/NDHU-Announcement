@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校數位電話網路異常公告。",
+        "timestamp": "1730429734",
+        "url": "mail_display.php?timestamp=1730429734",
+        "date": "2024/11/01 10:55",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "有關志學中正路單月換邊停車公告，請同學多加注意。 ",
         "timestamp": "1730420587",
         "url": "mail_display.php?timestamp=1730420587",
@@ -192,20 +206,6 @@
             "name": "劉宏銘",
             "email": "hung.liu@gms.ndhu.edu.tw",
             "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "壽豐校區體育館更新冰水主機之運轉測試及能效量測公告",
-        "timestamp": "1730173184",
-        "url": "mail_display.php?timestamp=1730173184",
-        "date": "2024/10/29 11:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
         },
         "attachmentCount": 0
     }

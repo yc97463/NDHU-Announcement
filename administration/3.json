@@ -1,5 +1,19 @@
 [
     {
+        "title": " 11月4日本校內環部分路燈不亮說明",
+        "timestamp": "1730735081",
+        "url": "mail_display.php?timestamp=1730735081",
+        "date": "2024/11/04 23:44",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "涵星一莊及迎曦二莊電梯鋼索更新時間異動公告",
         "timestamp": "1730734460",
         "url": "mail_display.php?timestamp=1730734460",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "本校數位電話網路異常公告。",
-        "timestamp": "1730429734",
-        "url": "mail_display.php?timestamp=1730429734",
-        "date": "2024/11/01 10:55",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]
