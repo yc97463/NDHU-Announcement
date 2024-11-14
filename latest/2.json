@@ -1,5 +1,61 @@
 [
     {
+        "title": "提醒防颱準備(公告)",
+        "timestamp": "1731544800",
+        "url": "mail_display.php?timestamp=1731544800",
+        "date": "2024/11/14 08:40",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【多元文化教育講座】希望主體、人民的運動",
+        "timestamp": "1731544731",
+        "url": "mail_display.php?timestamp=1731544731",
+        "date": "2024/11/14 08:38",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【澳洲西雪梨大學交流講座】Honouring the Lore/Law of the Lyrebird: Resisting Colonial Storytelling with Indigenous Storywork.\t",
+        "timestamp": "1731542109",
+        "url": "mail_display.php?timestamp=1731542109",
+        "date": "2024/11/14 07:55",
+        "department": "原住民民族學院 原住民族國際事務中心",
+        "author": {
+            "department": "原住民民族學院 原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "jinndhu@gms.ndhu.edu.tw",
+            "phone": "(03)8905710"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【材料系演講公告】11/18(一)15:10-17:00 Development of Manganese oxide-based cathode for Zinc-metal batteries",
+        "timestamp": "1731542108",
+        "url": "mail_display.php?timestamp=1731542108",
+        "date": "2024/11/14 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": {
+            "department": "理工學院 材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "3204"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【澳洲西雪梨大學交流講座】Paths taken to recognising , doing and developing Indigenous methodologies",
         "timestamp": "1731542107",
         "url": "mail_display.php?timestamp=1731542107",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵件】114年度 教育部教學實踐研究計畫(補助上限50萬元)113.12.13.(五)23:59線上收件截止(第二次通知)",
-        "timestamp": "1731480482",
-        "url": "mail_display.php?timestamp=1731480482",
-        "date": "2024/11/13 14:48",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 7
-    },
-    {
-        "title": "【徵件】114年度 教育部教學實踐研究計畫(補助上限50萬元)113.12.13.(五)23:59線上收件截止(第二次通知)",
-        "timestamp": "1731480465",
-        "url": "mail_display.php?timestamp=1731480465",
-        "date": "2024/11/13 14:47",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 7
-    },
-    {
-        "title": "【徵才】📈臺灣證券交易所股份有限公司「113年新進人員招募徵選」(113年11月22日截止) ",
-        "timestamp": "1731480104",
-        "url": "mail_display.php?timestamp=1731480104",
-        "date": "2024/11/13 14:41",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【多元文化教育講座】文化視角下的sasaipuk(關顧)Cultural Lens in Care: What it is and how to find it?",
-        "timestamp": "1731477227",
-        "url": "mail_display.php?timestamp=1731477227",
-        "date": "2024/11/13 13:53",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
-        },
-        "attachmentCount": 1
     }
 ]
