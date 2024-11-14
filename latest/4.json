@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年第20屆歐洲影展電影欣賞：Gentle/匈牙利",
+        "timestamp": "1731455702",
+        "url": "mail_display.php?timestamp=1731455702",
+        "date": "2024/11/13 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024年第20屆歐洲影展電影欣賞：The Princess/英國",
         "timestamp": "1731455701",
         "url": "mail_display.php?timestamp=1731455701",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢 113年度「全民外交研習營」——【青年國際參與】正式開放報名！",
-        "timestamp": "1731392048",
-        "url": "mail_display.php?timestamp=1731392048",
-        "date": "2024/11/12 14:14",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]
