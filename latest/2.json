@@ -1,5 +1,19 @@
 [
     {
+        "title": " 11/21【教育系校友卓越講座】走上教育創業之路--打造理想教室",
+        "timestamp": "1731547343",
+        "url": "mail_display.php?timestamp=1731547343",
+        "date": "2024/11/14 09:22",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "《第十三屆新航之舟-行政團隊熱情招募中》報名至11/15（五）23：59",
         "timestamp": "1731545990",
         "url": "mail_display.php?timestamp=1731545990",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "第二屆台灣生態環境影展得獎作品的巡迴放映【花蓮場11/23-11/24】",
-        "timestamp": "1731487374",
-        "url": "mail_display.php?timestamp=1731487374",
-        "date": "2024/11/13 16:42",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "03-8903322"
-        },
-        "attachmentCount": 3
     }
 ]
