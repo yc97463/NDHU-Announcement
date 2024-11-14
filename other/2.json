@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】臺灣團隊赴澳洲參與「2024全球開放教育年會」論文發表相關資訊",
+        "timestamp": "1731314334",
+        "url": "mail_display.php?timestamp=1731314334",
+        "date": "2024/11/11 16:38",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
         "timestamp": "1731251855",
         "url": "mail_display.php?timestamp=1731251855",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【傑出校友】臺北醫學大學辦理113學年度傑出校友遴選事宜。",
-        "timestamp": "1730685823",
-        "url": "mail_display.php?timestamp=1730685823",
-        "date": "2024/11/04 10:03",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 3
     }
 ]
