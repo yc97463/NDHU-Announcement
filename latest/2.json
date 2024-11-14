@@ -1,5 +1,19 @@
 [
     {
+        "title": "【語言中心活動】2024年英文旅遊部落格競賽：東華校園觀光之旅",
+        "timestamp": "1731550192",
+        "url": "mail_display.php?timestamp=1731550192",
+        "date": "2024/11/14 10:09",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": " 11/21【教育系校友卓越講座】走上教育創業之路--打造理想教室",
         "timestamp": "1731547343",
         "url": "mail_display.php?timestamp=1731547343",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【多元文化教育講座】A retrospective on immigrant experiences: Literacy practices of Chinese \"restaurant families\"",
-        "timestamp": "1731489032",
-        "url": "mail_display.php?timestamp=1731489032",
-        "date": "2024/11/13 17:10",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
-        },
-        "attachmentCount": 1
     }
 ]
