@@ -1,5 +1,19 @@
 [
     {
+        "title": "秋冬天氣漸涼，提醒您注意保暖！！ Weather is getting changeable,please keep warm! !",
+        "timestamp": "1730249049",
+        "url": "mail_display.php?timestamp=1730249049",
+        "date": "2024/10/30 08:44",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "海上陸上颱風警報】康芮中度颱風（國際名Kong-rey）海上陸上颱風警報!  Moderate typhoon Kong-rey (international name Kong-rey) maritime typhoon warning",
         "timestamp": "1730245265",
         "url": "mail_display.php?timestamp=1730245265",
@@ -194,19 +208,5 @@
             "phone": "8906344"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓303會議室設備更新操作說明訓練公告",
-        "timestamp": "1729819496",
-        "url": "mail_display.php?timestamp=1729819496",
-        "date": "2024/10/25 09:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 1
     }
 ]

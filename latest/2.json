@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講訊息】11/21 (四) 10:10-12:00共融與創新：混合實境技術中的設計探索",
+        "timestamp": "1731560824",
+        "url": "mail_display.php?timestamp=1731560824",
+        "date": "2024/11/14 13:07",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[代轉]2024歐洲影展，熱烈開展",
         "timestamp": "1731550346",
         "url": "mail_display.php?timestamp=1731550346",
@@ -194,19 +208,5 @@
             "phone": "(03)8905710"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【海上颱風警報】「天兔颱風」海上警報已經發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #25 (USAGI)",
-        "timestamp": "1731534592",
-        "url": "mail_display.php?timestamp=1731534592",
-        "date": "2024/11/14 05:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 4
     }
 ]
