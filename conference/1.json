@@ -1,5 +1,33 @@
 [
     {
+        "title": " 11/21【教育系校友卓越講座】走上教育創業之路--打造理想教室",
+        "timestamp": "1731547343",
+        "url": "mail_display.php?timestamp=1731547343",
+        "date": "2024/11/14 09:22",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【多元文化教育講座】希望主體、人民的運動",
+        "timestamp": "1731544731",
+        "url": "mail_display.php?timestamp=1731544731",
+        "date": "2024/11/14 08:38",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【多元文化教育講座】A retrospective on immigrant experiences: Literacy practices of Chinese \"restaurant families\"",
         "timestamp": "1731489032",
         "url": "mail_display.php?timestamp=1731489032",
@@ -180,33 +208,5 @@
             "phone": "3133"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【演講訊息】因康芮颱風影響，原訂於10/31(四)的演講將擇日舉辦，還請見諒。",
-        "timestamp": "1730189272",
-        "url": "mail_display.php?timestamp=1730189272",
-        "date": "2024/10/29 16:07",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3803"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "日本琉球大學 Inter-island Sustainability Educational Program International Symposium 2024",
-        "timestamp": "1730169441",
-        "url": "mail_display.php?timestamp=1730169441",
-        "date": "2024/10/29 10:37",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 8
     }
 ]
