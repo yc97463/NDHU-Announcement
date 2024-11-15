@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1學期-演講公告-第七場(校友卓越講座)】*專業成長時數",
+        "timestamp": "1731455712",
+        "url": "mail_display.php?timestamp=1731455712",
+        "date": "2024/11/13 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【光電系演講】低維度鹵化物鈣鈦礦微共振腔的光學特性與雷射研究",
         "timestamp": "1731455711",
         "url": "mail_display.php?timestamp=1731455711",
@@ -194,19 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
-        "timestamp": "1731400213",
-        "url": "mail_display.php?timestamp=1731400213",
-        "date": "2024/11/12 16:30",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]

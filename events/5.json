@@ -1,5 +1,19 @@
 [
     {
+        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
+        "timestamp": "1731400213",
+        "url": "mail_display.php?timestamp=1731400213",
+        "date": "2024/11/12 16:30",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【代轉學生會公告】2024東華大路跑第二屆來啦！",
         "timestamp": "1731399654",
         "url": "mail_display.php?timestamp=1731399654",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "收視東華好好行 跨域時數送給您",
-        "timestamp": "1731369305",
-        "url": "mail_display.php?timestamp=1731369305",
-        "date": "2024/11/12 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
         },
         "attachmentCount": 0
     }
