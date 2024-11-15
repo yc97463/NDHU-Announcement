@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢⪡ 2024東華秋藝季 ~妙音曼舞-敦煌樂舞文化主題展《名人導覽》",
+        "timestamp": "1731455716",
+        "url": "mail_display.php?timestamp=1731455716",
+        "date": "2024/11/13 07:55",
+        "department": "洄瀾學院 藝文中心",
+        "author": {
+            "department": "洄瀾學院 藝文中心",
+            "name": "周葦綸",
+            "email": "valen0810@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "參加東華2024校慶運動會開幕典禮",
+        "timestamp": "1731455715",
+        "url": "mail_display.php?timestamp=1731455715",
+        "date": "2024/11/13 07:55",
+        "department": "理工學院 生化暨分子醫學科學系",
+        "author": {
+            "department": "理工學院 生化暨分子醫學科學系",
+            "name": "元淑英",
+            "email": "syyuan@gms.ndhu.edu.tw",
+            "phone": "3632"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】11/14(四)_生成式AI在視訊分析應用與展望",
         "timestamp": "1731455714",
         "url": "mail_display.php?timestamp=1731455714",
@@ -180,33 +208,5 @@
             "phone": "5512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：The Princess/英國",
-        "timestamp": "1731455701",
-        "url": "mail_display.php?timestamp=1731455701",
-        "date": "2024/11/13 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024校慶運動會開幕典禮-雨天備案",
-        "timestamp": "1731412947",
-        "url": "mail_display.php?timestamp=1731412947",
-        "date": "2024/11/12 20:02",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "校慶運動會工作小組",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]

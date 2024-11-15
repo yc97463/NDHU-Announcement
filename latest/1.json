@@ -1,5 +1,33 @@
 [
     {
+        "title": "【東區基地】113年國立宜蘭大學教學成果暨東區跨校教師社群成果發表，歡迎老師們相約赴宴。",
+        "timestamp": "1731641403",
+        "url": "mail_display.php?timestamp=1731641403",
+        "date": "2024/11/15 11:30",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "大學門（前門）車牌辨識系統測試（啟用閘門）公告",
+        "timestamp": "1731640623",
+        "url": "mail_display.php?timestamp=1731640623",
+        "date": "2024/11/15 11:17",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第二次公告】本校徵求人文社會科學學院院長候選人",
         "timestamp": "1731639407",
         "url": "mail_display.php?timestamp=1731639407",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "網路貼文上傳照片請自律，避免誤觸法律",
-        "timestamp": "1731591822",
-        "url": "mail_display.php?timestamp=1731591822",
-        "date": "2024/11/14 21:43",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【海上陸上颱風警報】「天兔颱風」海上陸上警報已經發布，請注意！",
-        "timestamp": "1731578859",
-        "url": "mail_display.php?timestamp=1731578859",
-        "date": "2024/11/14 18:07",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "陳芳甫",
-            "email": "a779563@gms.ndhu.edu.tw",
-            "phone": "6224"
-        },
-        "attachmentCount": 3
     }
 ]

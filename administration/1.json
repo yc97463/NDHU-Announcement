@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門（前門）車牌辨識系統測試（啟用閘門）公告",
+        "timestamp": "1731640623",
+        "url": "mail_display.php?timestamp=1731640623",
+        "date": "2024/11/15 11:17",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第二次公告】本校徵求人文社會科學學院院長候選人",
         "timestamp": "1731639407",
         "url": "mail_display.php?timestamp=1731639407",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
-        "timestamp": "1731283484",
-        "url": "mail_display.php?timestamp=1731283484",
-        "date": "2024/11/11 08:04",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

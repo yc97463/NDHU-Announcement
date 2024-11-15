@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】2024東華大路跑第二屆來啦！",
+        "timestamp": "1731399654",
+        "url": "mail_display.php?timestamp=1731399654",
+        "date": "2024/11/12 16:20",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "2024 AI歌神爭霸戰。",
         "timestamp": "1731399325",
         "url": "mail_display.php?timestamp=1731399325",
@@ -192,20 +206,6 @@
             "name": "王玉君",
             "email": "hu.jean0503@gms.ndhu.edu.tw",
             "phone": "8906220"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114級畢業初審展覽協助顧展",
-        "timestamp": "1731369304",
-        "url": "mail_display.php?timestamp=1731369304",
-        "date": "2024/11/12 07:55",
-        "department": "藝術學院 藝術與設計學系",
-        "author": {
-            "department": "藝術學院 藝術與設計學系",
-            "name": "陳紘崧",
-            "email": "keter426@gms.ndhu.edu.tw",
-            "phone": "038905123"
         },
         "attachmentCount": 0
     }
