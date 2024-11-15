@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立臺灣海洋大學開設「離岸風電基礎設計」磨課師(MOOCs)線上課程",
+        "timestamp": "1731394013",
+        "url": "mail_display.php?timestamp=1731394013",
+        "date": "2024/11/12 14:46",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】文化部文化資產局1916工坊「2025寒假以工換技實習徵選」(113年12月14日截止)",
         "timestamp": "1731383713",
         "url": "mail_display.php?timestamp=1731383713",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
-        "timestamp": "1730742555",
-        "url": "mail_display.php?timestamp=1730742555",
-        "date": "2024/11/05 01:49",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 3
     }
 ]
