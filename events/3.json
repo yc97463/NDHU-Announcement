@@ -1,5 +1,19 @@
 [
     {
+        "title": "教育系系電影",
+        "timestamp": "1731628508",
+        "url": "mail_display.php?timestamp=1731628508",
+        "date": "2024/11/15 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "411288015@gms.ndhu.edu.tw",
+            "phone": "陳瑀函 038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "李樹枝老師 ∣ 李永平《雨雪霏霏 ·望鄉》台馬兩地懺情與贖罪書寫",
         "timestamp": "1731628507",
         "url": "mail_display.php?timestamp=1731628507",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[代轉]2024歐洲影展，熱烈開展",
-        "timestamp": "1731550346",
-        "url": "mail_display.php?timestamp=1731550346",
-        "date": "2024/11/14 10:12",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "賴昀辰 老師",
-            "email": "yunchen.lai@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 1
     }
 ]
