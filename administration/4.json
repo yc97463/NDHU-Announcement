@@ -1,5 +1,19 @@
 [
     {
+        "title": "電梯因康芮颱風停用維護說明",
+        "timestamp": "1730467773",
+        "url": "mail_display.php?timestamp=1730467773",
+        "date": "2024/11/01 21:29",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "明日11/2(六)至11/4(一)志學門兩側人行道暨自行車道施工封閉公告",
         "timestamp": "1730462718",
         "url": "mail_display.php?timestamp=1730462718",
@@ -192,20 +206,6 @@
             "name": "張建中",
             "email": "eric.chang@gms.ndhu.edu.tw",
             "phone": "6352"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【延長徵件】 114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至11月4日上午10點為止。",
-        "timestamp": "1730255536",
-        "url": "mail_display.php?timestamp=1730255536",
-        "date": "2024/10/30 10:32",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "梁忠誠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5108"
         },
         "attachmentCount": 1
     }
