@@ -1,6 +1,20 @@
 [
     {
         "title": "巴黎面面觀--從巴黎奧運和藝術談起(活動取消延期)",
+        "timestamp": "1731565635",
+        "url": "mail_display.php?timestamp=1731565635",
+        "date": "2024/11/14 14:27",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "巴黎面面觀--從巴黎奧運和藝術談起(活動取消延期)",
         "timestamp": "1731565632",
         "url": "mail_display.php?timestamp=1731565632",
         "date": "2024/11/14 14:27",
@@ -194,19 +208,5 @@
             "phone": "(03)8905710"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【多元文化教育講座】A retrospective on immigrant experiences: Literacy practices of Chinese \"restaurant families\"",
-        "timestamp": "1731489032",
-        "url": "mail_display.php?timestamp=1731489032",
-        "date": "2024/11/13 17:10",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
-        },
-        "attachmentCount": 1
     }
 ]
