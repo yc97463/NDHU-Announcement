@@ -1,5 +1,33 @@
 [
     {
+        "title": "小米園x明志科技大學交流",
+        "timestamp": "1731628501",
+        "url": "mail_display.php?timestamp=1731628501",
+        "date": "2024/11/15 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "0903161871z@gmail.com",
+            "phone": "周毅 0907379575"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "人社一館電梯1變頻器故障停用說明。",
+        "timestamp": "1731594776",
+        "url": "mail_display.php?timestamp=1731594776",
+        "date": "2024/11/14 22:32",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "網路貼文上傳照片請自律，避免誤觸法律",
         "timestamp": "1731591822",
         "url": "mail_display.php?timestamp=1731591822",
@@ -180,33 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【校外住宿】請校外住宿同學上網填報或更新資料 【Off-Campus Housing】Accommodation information Update by living off-campus students",
-        "timestamp": "1731565496",
-        "url": "mail_display.php?timestamp=1731565496",
-        "date": "2024/11/14 14:24",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【演講訊息】11/21 (四) 10:10-12:00共融與創新：混合實境技術中的設計探索",
-        "timestamp": "1731560824",
-        "url": "mail_display.php?timestamp=1731560824",
-        "date": "2024/11/14 13:07",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3803"
-        },
-        "attachmentCount": 2
     }
 ]
