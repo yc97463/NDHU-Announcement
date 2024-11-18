@@ -1,5 +1,19 @@
 [
     {
+        "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
+        "timestamp": "1730434329",
+        "url": "mail_display.php?timestamp=1730434329",
+        "date": "2024/11/01 12:12",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】臺北市就業服務處113年11月22日(五)辦理「開薪對對碰」聯合徵才活動",
         "timestamp": "1730279848",
         "url": "mail_display.php?timestamp=1730279848",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "10月29日志學道路燈線路檢修公告",
-        "timestamp": "1730101806",
-        "url": "mail_display.php?timestamp=1730101806",
-        "date": "2024/10/28 15:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "890-6376"
-        },
-        "attachmentCount": 1
     }
 ]
