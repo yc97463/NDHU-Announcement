@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2024年10月刊 ",
+        "timestamp": "1730437583",
+        "url": "mail_display.php?timestamp=1730437583",
+        "date": "2024/11/01 13:06",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
         "timestamp": "1730434329",
         "url": "mail_display.php?timestamp=1730434329",
@@ -194,19 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度 教育部教學實踐研究計畫 開始徵件 (每案補助上限50萬元)113.12.13.(五)23:59 線上收件截止",
-        "timestamp": "1730174684",
-        "url": "mail_display.php?timestamp=1730174684",
-        "date": "2024/10/29 12:04",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 5
     }
 ]
