@@ -1,5 +1,33 @@
 [
     {
+        "title": "【語言中心】113-1校園英語能力模擬測驗因颱風延至下週六11/23舉行 The TOEIC practice test will be reschedule to 11/23",
+        "timestamp": "1731572287",
+        "url": "mail_display.php?timestamp=1731572287",
+        "date": "2024/11/14 16:18",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "緊急通知❗️❗️❗️《原住民民族學院23週年院慶系列活動》第二場次：建構原住民教育文化知識體系論壇延期",
+        "timestamp": "1731572255",
+        "url": "mail_display.php?timestamp=1731572255",
+        "date": "2024/11/14 16:17",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "李湘誼",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "5753"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【個資保護】個人資料蒐集及使用注意事項",
         "timestamp": "1731571853",
         "url": "mail_display.php?timestamp=1731571853",
@@ -180,33 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【多元文化教育講座】希望主體、人民的運動",
-        "timestamp": "1731544731",
-        "url": "mail_display.php?timestamp=1731544731",
-        "date": "2024/11/14 08:38",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【澳洲西雪梨大學交流講座】Honouring the Lore/Law of the Lyrebird: Resisting Colonial Storytelling with Indigenous Storywork.\t",
-        "timestamp": "1731542109",
-        "url": "mail_display.php?timestamp=1731542109",
-        "date": "2024/11/14 07:55",
-        "department": "原住民民族學院 原住民族國際事務中心",
-        "author": {
-            "department": "原住民民族學院 原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "jinndhu@gms.ndhu.edu.tw",
-            "phone": "(03)8905710"
-        },
-        "attachmentCount": 0
     }
 ]
