@@ -1,5 +1,19 @@
 [
     {
+        "title": "【職涯講座】讓AI當你的創意助手：生成式技術輕鬆學✌️",
+        "timestamp": "1731983497",
+        "url": "mail_display.php?timestamp=1731983497",
+        "date": "2024/11/19 10:31",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歷史系專題演講：“Songs of Justice -- On the Study of Miao Judicial Rituals in Western Hunan and its Methodological Implications”. 正義之歌：湘西苗族神判儀式研究及其方法論意涵",
         "timestamp": "1731979058",
         "url": "mail_display.php?timestamp=1731979058",
@@ -194,19 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "2024 AI歌神爭霸戰。",
-        "timestamp": "1731914612",
-        "url": "mail_display.php?timestamp=1731914612",
-        "date": "2024/11/18 15:23",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【永續講座】「氣候金融與科技創新」",
+        "timestamp": "1731628505",
+        "url": "mail_display.php?timestamp=1731628505",
+        "date": "2024/11/15 07:55",
+        "department": "永續發展中心 ",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "民族語言與傳播學系113年校友卓越講座—在文化裡創作的人",
         "timestamp": "1731628504",
         "url": "mail_display.php?timestamp=1731628504",
@@ -194,19 +208,5 @@
             "phone": "038903822"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "《第十三屆新航之舟-行政團隊熱情招募中》報名至11/15（五）23：59",
-        "timestamp": "1731545990",
-        "url": "mail_display.php?timestamp=1731545990",
-        "date": "2024/11/14 08:59",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
     }
 ]
