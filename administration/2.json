@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第1次通知)",
+        "timestamp": "1731377345",
+        "url": "mail_display.php?timestamp=1731377345",
+        "date": "2024/11/12 10:09",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "健康中心11月13日(三)全員移地田徑場服務公告 Health center closed during the sport meet.",
         "timestamp": "1731313837",
         "url": "mail_display.php?timestamp=1731313837",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【學生宿舍】113學期「寒假住宿」(114/1/13-113/2/14)申請公告",
-        "timestamp": "1730950959",
-        "url": "mail_display.php?timestamp=1730950959",
-        "date": "2024/11/07 11:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 0
     }
 ]

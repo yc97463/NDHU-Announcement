@@ -1,5 +1,19 @@
 [
     {
+        "title": "提醒防颱準備(公告)",
+        "timestamp": "1730262921",
+        "url": "mail_display.php?timestamp=1730262921",
+        "date": "2024/10/30 12:35",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "為因應本校三位副校長負責督導之行政單位，公文系統一層決行新增三個選項，由本校各單位承辦人視公文性質選取所需之流程，請各單位人員配合辦理。",
         "timestamp": "1730255904",
         "url": "mail_display.php?timestamp=1730255904",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【賀】本校112學年度教師獲頒行政服務獎章及獎勵金名冊",
-        "timestamp": "1730079975",
-        "url": "mail_display.php?timestamp=1730079975",
-        "date": "2024/10/28 09:46",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]

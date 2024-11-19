@@ -1,5 +1,145 @@
 [
     {
+        "title": "諮商中心講座-壓力及情緒管理",
+        "timestamp": "1731714921",
+        "url": "mail_display.php?timestamp=1731714921",
+        "date": "2024/11/16 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年「音樂系校友卓越講座」",
+        "timestamp": "1731714920",
+        "url": "mail_display.php?timestamp=1731714920",
+        "date": "2024/11/16 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【花師教育學院 特殊教育學系】特教講座：犬心犬意",
+        "timestamp": "1731714919",
+        "url": "mail_display.php?timestamp=1731714919",
+        "date": "2024/11/16 07:55",
+        "department": "花師教育學院 特殊教育學系",
+        "author": {
+            "department": "花師教育學院 特殊教育學系",
+            "name": "宋玟諭",
+            "email": "411286027@gms.ndhu.edu.tw（蔡同學）",
+            "phone": "（03）890-3250"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【會計學系演講】運用大數據分析於會計研究",
+        "timestamp": "1731714918",
+        "url": "mail_display.php?timestamp=1731714918",
+        "date": "2024/11/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【會計學系演講】大數據發展以及RFM",
+        "timestamp": "1731714917",
+        "url": "mail_display.php?timestamp=1731714917",
+        "date": "2024/11/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024花蓮女性影展-《逆風回擊Tack》",
+        "timestamp": "1731714916",
+        "url": "mail_display.php?timestamp=1731714916",
+        "date": "2024/11/16 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "《大提琴大師班》",
+        "timestamp": "1731714915",
+        "url": "mail_display.php?timestamp=1731714915",
+        "date": "2024/11/16 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024花蓮女性影展 -《藍色旅程Blue ID》含映後座談",
+        "timestamp": "1731714914",
+        "url": "mail_display.php?timestamp=1731714914",
+        "date": "2024/11/16 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024花蓮女性影展-《沉默見證：波赫戰爭中的她們Silence Of Reason》、《奇蹟降臨時Such Miracles Do Happen》",
+        "timestamp": "1731714913",
+        "url": "mail_display.php?timestamp=1731714913",
+        "date": "2024/11/16 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024花蓮女性影展-《春行A Journey In Spring》含映後講座",
+        "timestamp": "1731714912",
+        "url": "mail_display.php?timestamp=1731714912",
+        "date": "2024/11/16 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024花蓮女性影展-《青春謊言之旅Excursion》",
         "timestamp": "1731714911",
         "url": "mail_display.php?timestamp=1731714911",
@@ -68,145 +208,5 @@
             "phone": "03-8906673"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "談情說愛──如何認識自己、理解對方、平衡付出與要求",
-        "timestamp": "1731714906",
-        "url": "mail_display.php?timestamp=1731714906",
-        "date": "2024/11/16 07:55",
-        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-        "author": {
-            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-            "name": "李百中",
-            "email": "bzli@gms.ndhu.edu.tw",
-            "phone": "03-8906673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113英美系校友講座(II)-I人的國際會展經驗分享",
-        "timestamp": "1731714905",
-        "url": "mail_display.php?timestamp=1731714905",
-        "date": "2024/11/16 07:55",
-        "department": "人文社會科學學院 英美語文學系",
-        "author": {
-            "department": "人文社會科學學院 英美語文學系",
-            "name": "顏余珊",
-            "email": "shanshan221@gms.ndhu.edu.tw",
-            "phone": "03-8905292"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "觀遊學系2024畢業專題發表會暨成果展-彩排【僅限本系已招募志工及活動人員報名】",
-        "timestamp": "1731714904",
-        "url": "mail_display.php?timestamp=1731714904",
-        "date": "2024/11/16 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "41103a004@gms.ndhu.edu.tw",
-            "phone": "0988-591703"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：從當代原住民音樂談解殖實踐",
-        "timestamp": "1731714903",
-        "url": "mail_display.php?timestamp=1731714903",
-        "date": "2024/11/16 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "修復與否？從學理與實務觀點省視校園霸凌防制",
-        "timestamp": "1731714902",
-        "url": "mail_display.php?timestamp=1731714902",
-        "date": "2024/11/16 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 性平關我什麼事？】第四講－你需要的，比你想要更多",
-        "timestamp": "1731714901",
-        "url": "mail_display.php?timestamp=1731714901",
-        "date": "2024/11/16 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖資處校慶系列活動~東華精粹書展】第二次抽獎中獎名單",
-        "timestamp": "1731654657",
-        "url": "mail_display.php?timestamp=1731654657",
-        "date": "2024/11/15 15:10",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重要延期通知~~113.11.16教育議題講座活動改期公告",
-        "timestamp": "1731651848",
-        "url": "mail_display.php?timestamp=1731651848",
-        "date": "2024/11/15 14:24",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【東區基地】113年國立宜蘭大學教學成果暨東區跨校教師社群成果發表，歡迎老師們相約赴宴。",
-        "timestamp": "1731641403",
-        "url": "mail_display.php?timestamp=1731641403",
-        "date": "2024/11/15 11:30",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知學生自主學習社群活動】時間改期-米棧文化 X 療癒 X 永續工作坊",
-        "timestamp": "1731634729",
-        "url": "mail_display.php?timestamp=1731634729",
-        "date": "2024/11/15 09:38",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 2
     }
 ]
