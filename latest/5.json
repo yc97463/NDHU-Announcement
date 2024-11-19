@@ -1,5 +1,33 @@
 [
     {
+        "title": "談情說愛──如何認識自己、理解對方、平衡付出與要求",
+        "timestamp": "1731714906",
+        "url": "mail_display.php?timestamp=1731714906",
+        "date": "2024/11/16 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "李百中",
+            "email": "bzli@gms.ndhu.edu.tw",
+            "phone": "03-8906673"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113英美系校友講座(II)-I人的國際會展經驗分享",
+        "timestamp": "1731714905",
+        "url": "mail_display.php?timestamp=1731714905",
+        "date": "2024/11/16 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "觀遊學系2024畢業專題發表會暨成果展-彩排【僅限本系已招募志工及活動人員報名】",
         "timestamp": "1731714904",
         "url": "mail_display.php?timestamp=1731714904",
@@ -180,33 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【觀遊系觀光休憩調查方法專題講座】蘇哲仁教授：觀光休閒研究之跨文化課題與活動",
-        "timestamp": "1731628509",
-        "url": "mail_display.php?timestamp=1731628509",
-        "date": "2024/11/15 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "莊月玲",
-            "email": "trls@gms.ndhu.edu.tw",
-            "phone": "5602"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "教育系系電影",
-        "timestamp": "1731628508",
-        "url": "mail_display.php?timestamp=1731628508",
-        "date": "2024/11/15 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "411288015@gms.ndhu.edu.tw",
-            "phone": "陳瑀函 038903822"
-        },
-        "attachmentCount": 0
     }
 ]
