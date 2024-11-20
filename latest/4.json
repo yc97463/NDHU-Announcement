@@ -1,5 +1,19 @@
 [
     {
+        "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
+        "timestamp": "1731897649",
+        "url": "mail_display.php?timestamp=1731897649",
+        "date": "2024/11/18 10:40",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1731896840",
         "url": "mail_display.php?timestamp=1731896840",
@@ -192,20 +206,6 @@
             "name": "顏余珊",
             "email": "shanshan221@gms.ndhu.edu.tw",
             "phone": "03-8905292"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心講座-壓力及情緒管理",
-        "timestamp": "1731714921",
-        "url": "mail_display.php?timestamp=1731714921",
-        "date": "2024/11/16 07:55",
-        "department": "藝術學院 音樂學系",
-        "author": {
-            "department": "藝術學院 音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
         },
         "attachmentCount": 0
     }
