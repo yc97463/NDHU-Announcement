@@ -1,5 +1,19 @@
 [
     {
+        "title": "泳池場館11/1(五)暫停開放通知",
+        "timestamp": "1730416439",
+        "url": "mail_display.php?timestamp=1730416439",
+        "date": "2024/11/01 07:13",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "董莫平",
+            "email": "evo789x@gms.ndhu.edu.tw",
+            "phone": "6616"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
         "timestamp": "1730384982",
         "url": "mail_display.php?timestamp=1730384982",
@@ -192,20 +206,6 @@
             "name": "蕭澤宇",
             "email": "zyhsiao@gms.ndhu.edu.tw",
             "phone": "03-8906727"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113年11月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1730170238",
-        "url": "mail_display.php?timestamp=1730170238",
-        "date": "2024/10/29 10:50",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
         },
         "attachmentCount": 1
     }

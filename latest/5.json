@@ -1,5 +1,33 @@
 [
     {
+        "title": "【會計學系演講】運用大數據分析於會計研究",
+        "timestamp": "1731714918",
+        "url": "mail_display.php?timestamp=1731714918",
+        "date": "2024/11/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【會計學系演講】大數據發展以及RFM",
+        "timestamp": "1731714917",
+        "url": "mail_display.php?timestamp=1731714917",
+        "date": "2024/11/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024花蓮女性影展-《逆風回擊Tack》",
         "timestamp": "1731714916",
         "url": "mail_display.php?timestamp=1731714916",
@@ -178,34 +206,6 @@
             "name": "汪欣新",
             "email": "41103a004@gms.ndhu.edu.tw",
             "phone": "0988-591703"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：從當代原住民音樂談解殖實踐",
-        "timestamp": "1731714903",
-        "url": "mail_display.php?timestamp=1731714903",
-        "date": "2024/11/16 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "修復與否？從學理與實務觀點省視校園霸凌防制",
-        "timestamp": "1731714902",
-        "url": "mail_display.php?timestamp=1731714902",
-        "date": "2024/11/16 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
         },
         "attachmentCount": 0
     }
