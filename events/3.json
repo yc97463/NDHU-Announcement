@@ -1,5 +1,61 @@
 [
     {
+        "title": "數位性別暴力 讀劇工作坊",
+        "timestamp": "1731974106",
+        "url": "mail_display.php?timestamp=1731974106",
+        "date": "2024/11/19 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系-校友卓越講座】部落的力量：探索原住民族與全球議題的交匯",
+        "timestamp": "1731974105",
+        "url": "mail_display.php?timestamp=1731974105",
+        "date": "2024/11/19 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "歷史學系專題演講： “Songs of Justice -- On the Study of Miao Judicial Rituals in Western Hunan and its Methodological Implications”. 正義之歌：湘西苗族神判儀式研究及其方法論意涵 ",
+        "timestamp": "1731974104",
+        "url": "mail_display.php?timestamp=1731974104",
+        "date": "2024/11/19 07:55",
+        "department": "人文社會科學學院 歷史學系",
+        "author": {
+            "department": "人文社會科學學院 歷史學系",
+            "name": "吳芷萱",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度「輻射安全防護」教育訓練",
+        "timestamp": "1731974103",
+        "url": "mail_display.php?timestamp=1731974103",
+        "date": "2024/11/19 07:55",
+        "department": "總務處 環境保護組",
+        "author": {
+            "department": "總務處 環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 11/28 第6場 Session 6",
         "timestamp": "1731974102",
         "url": "mail_display.php?timestamp=1731974102",
@@ -152,61 +208,5 @@
             "phone": "3803"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：The Odd-Job Men 大叔打零工/西班牙",
-        "timestamp": "1731887704",
-        "url": "mail_display.php?timestamp=1731887704",
-        "date": "2024/11/18 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Platzspitzbaby/瑞士",
-        "timestamp": "1731887703",
-        "url": "mail_display.php?timestamp=1731887703",
-        "date": "2024/11/18 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：OMEN/比利時",
-        "timestamp": "1731887702",
-        "url": "mail_display.php?timestamp=1731887702",
-        "date": "2024/11/18 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【亭午風起，有詩東華】113-1 英詩小講堂 11/27 第4場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 4",
-        "timestamp": "1731887701",
-        "url": "mail_display.php?timestamp=1731887701",
-        "date": "2024/11/18 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]
