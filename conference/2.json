@@ -1,5 +1,33 @@
 [
     {
+        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
+        "timestamp": "1731251855",
+        "url": "mail_display.php?timestamp=1731251855",
+        "date": "2024/11/10 23:17",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【專題演講】卑南族主體性——與現今主流文化之衝突與未來發展",
+        "timestamp": "1731029604",
+        "url": "mail_display.php?timestamp=1731029604",
+        "date": "2024/11/08 09:33",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【永續講座】Nbs自然解方的自然資本評估 11/21 戴慶華執行長",
         "timestamp": "1730961457",
         "url": "mail_display.php?timestamp=1730961457",
@@ -180,33 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": " 創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
-        "timestamp": "1729845700",
-        "url": "mail_display.php?timestamp=1729845700",
-        "date": "2024/10/25 16:41",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "2024/11/8~ 台、泰教育趨勢學術專題演講(2024 Taiwan and Thailand Education Trend Academic Lecture)",
-        "timestamp": "1729760196",
-        "url": "mail_display.php?timestamp=1729760196",
-        "date": "2024/10/24 16:56",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 4
     }
 ]
