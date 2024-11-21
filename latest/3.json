@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資工系專題講座】11/22(五) 菁英藝文工作室總監 賴志明先生",
+        "timestamp": "1732060504",
+        "url": "mail_display.php?timestamp=1732060504",
+        "date": "2024/11/20 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "在關係中的Oh my Oh my god",
         "timestamp": "1732060503",
         "url": "mail_display.php?timestamp=1732060503",
@@ -192,20 +206,6 @@
             "name": "郭雅婷",
             "email": "611397002@gms.ndhu.edu.tw",
             "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「想想花蓮．韌性原鄉」【最終場】災後重建與防救災論壇",
-        "timestamp": "1731974108",
-        "url": "mail_display.php?timestamp=1731974108",
-        "date": "2024/11/19 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": {
-            "department": "人文社會科學學院 臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
         },
         "attachmentCount": 0
     }
