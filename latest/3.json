@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出納組公告】出納付款及薪資暨所得稅查詢管理系統登入連結說明",
+        "timestamp": "1732082224",
+        "url": "mail_display.php?timestamp=1732082224",
+        "date": "2024/11/20 13:57",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "6361"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【人事室公告】114年寒休事宜",
         "timestamp": "1732071776",
         "url": "mail_display.php?timestamp=1732071776",
@@ -194,19 +208,5 @@
             "phone": "03-8906741"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "天候轉涼，請加強注意防範一氧化碳中毒",
-        "timestamp": "1731988751",
-        "url": "mail_display.php?timestamp=1731988751",
-        "date": "2024/11/19 11:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 4
     }
 ]
