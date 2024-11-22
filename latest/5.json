@@ -1,5 +1,33 @@
 [
     {
+        "title": "歷史系專題演講：“Songs of Justice -- On the Study of Miao Judicial Rituals in Western Hunan and its Methodological Implications”. 正義之歌：湘西苗族神判儀式研究及其方法論意涵",
+        "timestamp": "1731979058",
+        "url": "mail_display.php?timestamp=1731979058",
+        "date": "2024/11/19 09:17",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "本校113-1學年校外租賃法律講座開講",
+        "timestamp": "1731977329",
+        "url": "mail_display.php?timestamp=1731977329",
+        "date": "2024/11/19 08:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【發社系-民族講座】不管政治=中立理性？談七十年前白色恐怖如何影響原住民族至今",
         "timestamp": "1731974109",
         "url": "mail_display.php?timestamp=1731974109",
@@ -180,33 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "📢 113年度「全民外交研習營」——【青年國際參與】正式開放報名！",
-        "timestamp": "1731915139",
-        "url": "mail_display.php?timestamp=1731915139",
-        "date": "2024/11/18 15:32",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "2024 AI歌神爭霸戰。",
-        "timestamp": "1731914612",
-        "url": "mail_display.php?timestamp=1731914612",
-        "date": "2024/11/18 15:23",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 2
     }
 ]

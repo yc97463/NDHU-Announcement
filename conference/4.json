@@ -1,5 +1,33 @@
 [
     {
+        "title": "【場地變更】【恭敬邀請】10/21「永續金融之學術趨勢」專題演講－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1729222827",
+        "url": "mail_display.php?timestamp=1729222827",
+        "date": "2024/10/18 11:40",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
+        "timestamp": "1729221984",
+        "url": "mail_display.php?timestamp=1729221984",
+        "date": "2024/10/18 11:26",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "10/22【笠詩社六十周年系列講座】東華大學場",
         "timestamp": "1729132385",
         "url": "mail_display.php?timestamp=1729132385",
@@ -180,33 +208,5 @@
             "phone": "(03)890-6894"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
-        "timestamp": "1728634816",
-        "url": "mail_display.php?timestamp=1728634816",
-        "date": "2024/10/11 16:20",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "03890-5663"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
-        "timestamp": "1728617904",
-        "url": "mail_display.php?timestamp=1728617904",
-        "date": "2024/10/11 11:38",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]

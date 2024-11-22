@@ -1,5 +1,33 @@
 [
     {
+        "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
+        "timestamp": "1731897649",
+        "url": "mail_display.php?timestamp=1731897649",
+        "date": "2024/11/18 10:40",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "2024年第20屆歐洲影展電影欣賞：The Odd-Job Men 大叔打零工/西班牙",
+        "timestamp": "1731887704",
+        "url": "mail_display.php?timestamp=1731887704",
+        "date": "2024/11/18 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024年第20屆歐洲影展電影欣賞：Platzspitzbaby/瑞士",
         "timestamp": "1731887703",
         "url": "mail_display.php?timestamp=1731887703",
@@ -178,34 +206,6 @@
             "name": "宋玟諭",
             "email": "411286027@gms.ndhu.edu.tw（蔡同學）",
             "phone": "（03）890-3250"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系演講】運用大數據分析於會計研究",
-        "timestamp": "1731714918",
-        "url": "mail_display.php?timestamp=1731714918",
-        "date": "2024/11/16 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系演講】大數據發展以及RFM",
-        "timestamp": "1731714917",
-        "url": "mail_display.php?timestamp=1731714917",
-        "date": "2024/11/16 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
         },
         "attachmentCount": 0
     }

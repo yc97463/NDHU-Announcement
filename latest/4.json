@@ -1,5 +1,33 @@
 [
     {
+        "title": "【企管系暨運籌所】113-1 Language Lounge-Book reading/ Movie night(第四場)",
+        "timestamp": "1732060507",
+        "url": "mail_display.php?timestamp=1732060507",
+        "date": "2024/11/20 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113.11.23教行系專題演講~宜蘭七賢國小張建成校長",
+        "timestamp": "1732060506",
+        "url": "mail_display.php?timestamp=1732060506",
+        "date": "2024/11/20 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "蔣慧姝",
+            "email": "huishu@gms.ndhu.edu.tw",
+            "phone": "038905556"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "法律系原住民族傳統領域與法律專題演講-Gaya當代轉身術",
         "timestamp": "1732060505",
         "url": "mail_display.php?timestamp=1732060505",
@@ -178,34 +206,6 @@
             "name": "賴桂如",
             "email": "pasuya@gms.ndhu.edu.tw",
             "phone": "5141"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "歷史系專題演講：“Songs of Justice -- On the Study of Miao Judicial Rituals in Western Hunan and its Methodological Implications”. 正義之歌：湘西苗族神判儀式研究及其方法論意涵",
-        "timestamp": "1731979058",
-        "url": "mail_display.php?timestamp=1731979058",
-        "date": "2024/11/19 09:17",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "本校113-1學年校外租賃法律講座開講",
-        "timestamp": "1731977329",
-        "url": "mail_display.php?timestamp=1731977329",
-        "date": "2024/11/19 08:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
         },
         "attachmentCount": 1
     }

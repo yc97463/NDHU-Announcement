@@ -1,5 +1,33 @@
 [
     {
+        "title": "2024 西雪梨大學移地交流",
+        "timestamp": "1732269970",
+        "url": "mail_display.php?timestamp=1732269970",
+        "date": "2024/11/22 18:06",
+        "department": "原住民族國際事務中心",
+        "author": {
+            "department": "原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "iia@gms.ndhu.edu.tw",
+            "phone": "0935-212-455"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "2024 西雪梨大學移地交流",
+        "timestamp": "1732269950",
+        "url": "mail_display.php?timestamp=1732269950",
+        "date": "2024/11/22 18:05",
+        "department": "原住民族國際事務中心",
+        "author": {
+            "department": "原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "iia@gms.ndhu.edu.tw",
+            "phone": "0935-212-455"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動公告】113學年度第1學期『與校長有約』座談會【Event Announcement】Welcome to join “Meeting with the President”",
         "timestamp": "1732262455",
         "url": "mail_display.php?timestamp=1732262455",
@@ -180,33 +208,5 @@
             "phone": "3912"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【活動推推】 📣🌍 花蓮永續綠色旅遊提案競賽開跑！",
-        "timestamp": "1732165691",
-        "url": "mail_display.php?timestamp=1732165691",
-        "date": "2024/11/21 13:08",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "「想想花蓮．韌性原鄉」【最終場】災後重建與防救災論壇",
-        "timestamp": "1732159997",
-        "url": "mail_display.php?timestamp=1732159997",
-        "date": "2024/11/21 11:33",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 3
     }
 ]
