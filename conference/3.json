@@ -1,19 +1,5 @@
 [
     {
-        "title": "【財金系專題演講】講座延期至11/8(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
-        "timestamp": "1730248948",
-        "url": "mail_display.php?timestamp=1730248948",
-        "date": "2024/10/30 08:42",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【演講訊息】因康芮颱風影響，原訂於10/31(四)的演講將擇日舉辦，還請見諒。",
         "timestamp": "1730189272",
         "url": "mail_display.php?timestamp=1730189272",
@@ -208,5 +194,19 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "【場地變更】【恭敬邀請】10/21「永續金融之學術趨勢」專題演講－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1729222827",
+        "url": "mail_display.php?timestamp=1729222827",
+        "date": "2024/10/18 11:40",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
     }
 ]

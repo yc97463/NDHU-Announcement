@@ -1,19 +1,5 @@
 [
     {
-        "title": "【演講訊息】11/21 (四) 10:10-12:00共融與創新：混合實境技術中的設計探索",
-        "timestamp": "1731560824",
-        "url": "mail_display.php?timestamp=1731560824",
-        "date": "2024/11/14 13:07",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3803"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": " 11/21【教育系校友卓越講座】走上教育創業之路--打造理想教室",
         "timestamp": "1731547343",
         "url": "mail_display.php?timestamp=1731547343",
@@ -208,5 +194,19 @@
             "phone": "5822"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "【財金系專題演講】講座延期至11/8(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
+        "timestamp": "1730248948",
+        "url": "mail_display.php?timestamp=1730248948",
+        "date": "2024/10/30 08:42",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
     }
 ]

@@ -1,19 +1,5 @@
 [
     {
-        "title": "113年「校友卓越講座」－【教行系】小文藝週暨校友回娘家",
-        "timestamp": "1732171105",
-        "url": "mail_display.php?timestamp=1732171105",
-        "date": "2024/11/21 14:38",
-        "department": "教育行政與管理學系",
-        "author": {
-            "department": "教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 4
-    },
-    {
         "title": "【活動推推】 📣🌍 花蓮永續綠色旅遊提案競賽開跑！",
         "timestamp": "1732165691",
         "url": "mail_display.php?timestamp=1732165691",
@@ -208,5 +194,19 @@
             "phone": "038905824"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "📢⪦ 2024東華秋藝季：紐約爵士女聲 Aubrey Johnson",
+        "timestamp": "1732096024",
+        "url": "mail_display.php?timestamp=1732096024",
+        "date": "2024/11/20 17:47",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
     }
 ]
