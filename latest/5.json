@@ -1,5 +1,33 @@
 [
     {
+        "title": "歡迎參加113學年度校園防災虛擬(VR)體驗活動Disaster Prevention VR Experience Activities for the 113th Academic Year",
+        "timestamp": "1731920078",
+        "url": "mail_display.php?timestamp=1731920078",
+        "date": "2024/11/18 16:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "📢⪡ 2024東華秋藝季 ~妙音曼舞-敦煌樂舞文化主題展《名人導覽》",
+        "timestamp": "1731916050",
+        "url": "mail_display.php?timestamp=1731916050",
+        "date": "2024/11/18 15:47",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "📢 113年度「全民外交研習營」——【青年國際參與】正式開放報名！",
         "timestamp": "1731915139",
         "url": "mail_display.php?timestamp=1731915139",
@@ -180,33 +208,5 @@
             "phone": "5512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【亭午風起，有詩東華】113-1 英詩小講堂 11/27 第4場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 4",
-        "timestamp": "1731887701",
-        "url": "mail_display.php?timestamp=1731887701",
-        "date": "2024/11/18 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會",
-        "timestamp": "1731853777",
-        "url": "mail_display.php?timestamp=1731853777",
-        "date": "2024/11/17 22:29",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 7
     }
 ]
