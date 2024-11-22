@@ -1,5 +1,33 @@
 [
     {
+        "title": "【多元文化教育講座】續演•希望主體、人民的運動",
+        "timestamp": "1732243958",
+        "url": "mail_display.php?timestamp=1732243958",
+        "date": "2024/11/22 10:52",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【台灣社會與政治發展講座 公告】",
+        "timestamp": "1732241718",
+        "url": "mail_display.php?timestamp=1732241718",
+        "date": "2024/11/22 10:15",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【材料系演講公告】11/25(一)15:10-17:00半導體產品應用概論",
         "timestamp": "1732233302",
         "url": "mail_display.php?timestamp=1732233302",
@@ -180,33 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🚩2024 東華秋藝季：紐約爵士女聲 Aubrey Johnson",
-        "timestamp": "1732146908",
-        "url": "mail_display.php?timestamp=1732146908",
-        "date": "2024/11/21 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
-        "timestamp": "1732146907",
-        "url": "mail_display.php?timestamp=1732146907",
-        "date": "2024/11/21 07:55",
-        "department": "朱副校長室 ",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "03-890-6032"
-        },
-        "attachmentCount": 0
     }
 ]
