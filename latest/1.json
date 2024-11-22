@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】教育部青發署114年大專校院職涯輔導成果評選申請",
+        "timestamp": "1732266367",
+        "url": "mail_display.php?timestamp=1732266367",
+        "date": "2024/11/22 17:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【活動公告】113學年度第1學期『與校長有約』座談會【Event Announcement】Welcome to join “Meeting with the President”",
         "timestamp": "1732262455",
         "url": "mail_display.php?timestamp=1732262455",
@@ -194,19 +208,5 @@
             "phone": "5663"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024 AI Singing Superstar Competition",
-        "timestamp": "1732176433",
-        "url": "mail_display.php?timestamp=1732176433",
-        "date": "2024/11/21 16:07",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
