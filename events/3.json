@@ -1,5 +1,33 @@
 [
     {
+        "title": "自資系專題演講-「截斷溪河」「消滅海岸」談‘攔沙壩“與“消波塊",
+        "timestamp": "1732146903",
+        "url": "mail_display.php?timestamp=1732146903",
+        "date": "2024/11/21 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "第28屆烏山頭影展校外巡迴場-花蓮場",
+        "timestamp": "1732146902",
+        "url": "mail_display.php?timestamp=1732146902",
+        "date": "2024/11/21 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "siyu@gms.ndhu.edu.tw",
+            "phone": "038905824"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季：紐約爵士女聲 Aubrey Johnson",
         "timestamp": "1732096024",
         "url": "mail_display.php?timestamp=1732096024",
@@ -180,33 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "歷史系專題演講：“Songs of Justice -- On the Study of Miao Judicial Rituals in Western Hunan and its Methodological Implications”. 正義之歌：湘西苗族神判儀式研究及其方法論意涵",
-        "timestamp": "1731979058",
-        "url": "mail_display.php?timestamp=1731979058",
-        "date": "2024/11/19 09:17",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-民族講座】不管政治=中立理性？談七十年前白色恐怖如何影響原住民族至今",
-        "timestamp": "1731974109",
-        "url": "mail_display.php?timestamp=1731974109",
-        "date": "2024/11/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "611397002@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
     }
 ]

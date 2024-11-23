@@ -1,5 +1,33 @@
 [
     {
+        "title": "【台灣社會與政治發展講座 公告】",
+        "timestamp": "1732241718",
+        "url": "mail_display.php?timestamp=1732241718",
+        "date": "2024/11/22 10:15",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【材料系演講公告】11/25(一)15:10-17:00半導體產品應用概論",
+        "timestamp": "1732233302",
+        "url": "mail_display.php?timestamp=1732233302",
+        "date": "2024/11/22 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": {
+            "department": "理工學院 材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "8903204"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-1 教育研究法課程專題講座】有趣味的旅程：與數字為伍的學術生涯",
         "timestamp": "1732233301",
         "url": "mail_display.php?timestamp=1732233301",
@@ -180,33 +208,5 @@
             "phone": "038905824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "📢📢🔆113-1深耕起飛計畫—專屬精油，綻放妳的香氛魅力🔆",
-        "timestamp": "1732154545",
-        "url": "mail_display.php?timestamp=1732154545",
-        "date": "2024/11/21 10:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "🚩2024 東華秋藝季：紐約爵士女聲 Aubrey Johnson",
-        "timestamp": "1732146908",
-        "url": "mail_display.php?timestamp=1732146908",
-        "date": "2024/11/21 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
     }
 ]
