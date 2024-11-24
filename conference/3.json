@@ -1,5 +1,19 @@
 [
     {
+        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
+        "timestamp": "1730742553",
+        "url": "mail_display.php?timestamp=1730742553",
+        "date": "2024/11/05 01:49",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
         "timestamp": "1730705166",
         "url": "mail_display.php?timestamp=1730705166",
@@ -194,19 +208,5 @@
             "phone": "5919"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2025第12屆「華山論見」教育學術研討會徵稿公告",
-        "timestamp": "1729471083",
-        "url": "mail_display.php?timestamp=1729471083",
-        "date": "2024/10/21 08:38",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 9
     }
 ]

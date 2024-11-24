@@ -1,5 +1,19 @@
 [
     {
+        "title": "歡迎參加113學年度校園防災虛擬(VR)體驗活動Disaster Prevention VR Experience Activities for the 113th Academic Year",
+        "timestamp": "1731920078",
+        "url": "mail_display.php?timestamp=1731920078",
+        "date": "2024/11/18 16:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📢⪡ 2024東華秋藝季 ~妙音曼舞-敦煌樂舞文化主題展《名人導覽》",
         "timestamp": "1731916050",
         "url": "mail_display.php?timestamp=1731916050",
@@ -194,19 +208,5 @@
             "phone": "0000000000"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "\u003c公告\u003e11/17校慶舞蹈比賽照常進行，歡迎大家現場報名與觀賽         ",
-        "timestamp": "1731742985",
-        "url": "mail_display.php?timestamp=1731742985",
-        "date": "2024/11/16 15:43",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]
