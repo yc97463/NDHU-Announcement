@@ -1,5 +1,19 @@
 [
     {
+        "title": "第28屆烏山頭影展校外巡迴場-花蓮場",
+        "timestamp": "1732155527",
+        "url": "mail_display.php?timestamp=1732155527",
+        "date": "2024/11/21 10:18",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "璽祐．哈噜咪",
+            "email": "siyu@gms.ndhu.edu.tw",
+            "phone": "038905824"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "📢📢🔆113-1深耕起飛計畫—專屬精油，綻放妳的香氛魅力🔆",
         "timestamp": "1732154545",
         "url": "mail_display.php?timestamp=1732154545",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】差勤(刷卡)系統於113年11月21日(四)中午12~13時暫停服務",
-        "timestamp": "1732071546",
-        "url": "mail_display.php?timestamp=1732071546",
-        "date": "2024/11/20 10:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 0
     }
 ]
