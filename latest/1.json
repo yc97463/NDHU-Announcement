@@ -1,5 +1,19 @@
 [
     {
+        "title": "慶祝2024世界棒球12強中華隊冠軍，校內廠商優惠活動公告。",
+        "timestamp": "1732524896",
+        "url": "mail_display.php?timestamp=1732524896",
+        "date": "2024/11/25 16:54",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "🚂東華玩具樂園物流中心 十二月玩具志工招募中！",
         "timestamp": "1732523743",
         "url": "mail_display.php?timestamp=1732523743",
@@ -194,19 +208,5 @@
             "phone": "5919"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【傑出校友】國立臺南護理專科學校辦理113學年度傑出校友遴選",
-        "timestamp": "1732493687",
-        "url": "mail_display.php?timestamp=1732493687",
-        "date": "2024/11/25 08:14",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 3
     }
 ]
