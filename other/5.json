@@ -1,5 +1,61 @@
 [
     {
+        "title": "【轉知】勞動部勞動力發展署「大專青年預聘計畫」訓練時數認定",
+        "timestamp": "1730272823",
+        "url": "mail_display.php?timestamp=1730272823",
+        "date": "2024/10/30 15:20",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【重要通知】因應康芮颱風來襲，各院夜間自習空間暫停開放公告 Temporary Closure of Nighttime Self-Study Spaces Due to Typhoon Kong-Rey",
+        "timestamp": "1730272490",
+        "url": "mail_display.php?timestamp=1730272490",
+        "date": "2024/10/30 15:14",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳依萱",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國立東華大學【2024創新創意實踐提案競賽】",
+        "timestamp": "1730266978",
+        "url": "mail_display.php?timestamp=1730266978",
+        "date": "2024/10/30 13:42",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "【K書中心閉館公告】因颱風來襲，K中AB兩館自113年10/30(三)17:00起暫時閉館",
+        "timestamp": "1730254806",
+        "url": "mail_display.php?timestamp=1730254806",
+        "date": "2024/10/30 10:20",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳依萱",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "海上陸上颱風警報】康芮中度颱風（國際名Kong-rey）海上陸上颱風警報!  Moderate typhoon Kong-rey (international name Kong-rey) maritime typhoon warning",
         "timestamp": "1730245265",
         "url": "mail_display.php?timestamp=1730245265",
@@ -152,61 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "有關學務處針對【交通安全案例宣導】狗狗追車、追人 ─原因及應對方式公告，內容澄清。",
-        "timestamp": "1730099313",
-        "url": "mail_display.php?timestamp=1730099313",
-        "date": "2024/10/28 15:08",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有關學務處針對【交通安全案例宣導】狗狗追車、追人 ─原因及應對方式公告，內容澄清。",
-        "timestamp": "1730099312",
-        "url": "mail_display.php?timestamp=1730099312",
-        "date": "2024/10/28 15:08",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【實習】國立海洋生物博物館114年度寒假實習開始申請囉~(113年11月13日截止) 🐠 🐠",
-        "timestamp": "1730097487",
-        "url": "mail_display.php?timestamp=1730097487",
-        "date": "2024/10/28 14:38",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】南投縣家庭教育中心「約用家庭教育專業人員」公開甄選(113年11月30日截止)",
-        "timestamp": "1730093608",
-        "url": "mail_display.php?timestamp=1730093608",
-        "date": "2024/10/28 13:33",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
