@@ -1,5 +1,117 @@
 [
     {
+        "title": "【活動公告】113學年度第1學期『與校長有約』座談會【Event Announcement】Welcome to join “Meeting with the President”",
+        "timestamp": "1732262455",
+        "url": "mail_display.php?timestamp=1732262455",
+        "date": "2024/11/22 16:00",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【健康促進活動】歡迎報名免費流感與新冠疫苗施打，數量有限，不要錯過喔!",
+        "timestamp": "1732262448",
+        "url": "mail_display.php?timestamp=1732262448",
+        "date": "2024/11/22 16:00",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "東華夜市（試營運）開始校內招商囉！",
+        "timestamp": "1732262008",
+        "url": "mail_display.php?timestamp=1732262008",
+        "date": "2024/11/22 15:53",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "中國青年救國團「114年青年節表揚大專優秀青年遴選」校內申請收件即日起至113年12月27日(五)中午12:00收件截止",
+        "timestamp": "1732258507",
+        "url": "mail_display.php?timestamp=1732258507",
+        "date": "2024/11/22 14:55",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【NUST徵件】114年「特色領域研討會經費補助」申請案，即日起受理申請",
+        "timestamp": "1732258266",
+        "url": "mail_display.php?timestamp=1732258266",
+        "date": "2024/11/22 14:51",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【NUST徵件】114年「跨領域永續研究整合型計畫：臺灣國立大學系統年輕學者創新性合作計畫補助計畫」即日起受理申請",
+        "timestamp": "1732257741",
+        "url": "mail_display.php?timestamp=1732257741",
+        "date": "2024/11/22 14:42",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【轉知】監察院國家人權委員會將於113年11月16至24日舉辦兒童權利公約35週年相關活動，請鼓勵本教職員工生及相關人員參與。",
+        "timestamp": "1732255499",
+        "url": "mail_display.php?timestamp=1732255499",
+        "date": "2024/11/22 14:04",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【多元文化教育講座】續演•希望主體、人民的運動",
+        "timestamp": "1732243958",
+        "url": "mail_display.php?timestamp=1732243958",
+        "date": "2024/11/22 10:52",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "永齡希望小學東華分校113-2學期課輔老師招募",
         "timestamp": "1732242386",
         "url": "mail_display.php?timestamp=1732242386",
@@ -96,117 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "2024 AI歌神爭霸戰~歡迎大家來唱歌挑戰~11/22報名截止",
-        "timestamp": "1732174482",
-        "url": "mail_display.php?timestamp=1732174482",
-        "date": "2024/11/21 15:34",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【台灣社會與政治發展講座 公告】",
-        "timestamp": "1732172692",
-        "url": "mail_display.php?timestamp=1732172692",
-        "date": "2024/11/21 15:04",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "113年「校友卓越講座」－【教行系】小文藝週暨校友回娘家",
-        "timestamp": "1732171105",
-        "url": "mail_display.php?timestamp=1732171105",
-        "date": "2024/11/21 14:38",
-        "department": "教育行政與管理學系",
-        "author": {
-            "department": "教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【活動推推】 📣🌍 花蓮永續綠色旅遊提案競賽開跑！",
-        "timestamp": "1732165691",
-        "url": "mail_display.php?timestamp=1732165691",
-        "date": "2024/11/21 13:08",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "「想想花蓮．韌性原鄉」【最終場】災後重建與防救災論壇",
-        "timestamp": "1732159997",
-        "url": "mail_display.php?timestamp=1732159997",
-        "date": "2024/11/21 11:33",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "「想想花蓮．韌性原鄉」【最終場】災後重建與防救災論壇",
-        "timestamp": "1732159979",
-        "url": "mail_display.php?timestamp=1732159979",
-        "date": "2024/11/21 11:32",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "職業探索講座-心理師？我可以嗎？",
-        "timestamp": "1732159261",
-        "url": "mail_display.php?timestamp=1732159261",
-        "date": "2024/11/21 11:21",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "林賢謀",
-            "email": "lcm1460@gms.ndhu.edu.tw",
-            "phone": "8906269"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "民族語言與傳播學系113年校友卓越講座—在文化裡創作的人",
-        "timestamp": "1732158433",
-        "url": "mail_display.php?timestamp=1732158433",
-        "date": "2024/11/21 11:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "璽祐．哈噜咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "038905824"
-        },
-        "attachmentCount": 1
     }
 ]
