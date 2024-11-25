@@ -1,5 +1,19 @@
 [
     {
+        "title": "人社一館D側2樓性別友善廁所隔間板改善施工公告",
+        "timestamp": "1732505066",
+        "url": "mail_display.php?timestamp=1732505066",
+        "date": "2024/11/25 11:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【出納組公告】出納付款及薪資暨所得稅查詢管理系統登入連結說明",
         "timestamp": "1732082224",
         "url": "mail_display.php?timestamp=1732082224",
@@ -192,20 +206,6 @@
             "name": "何振揚",
             "email": "cyang@gms.ndhu.edu.tw",
             "phone": "6746"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【外宿關懷系列】- 校外租賃法律講座",
-        "timestamp": "1731566575",
-        "url": "mail_display.php?timestamp=1731566575",
-        "date": "2024/11/14 14:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
         },
         "attachmentCount": 1
     }
