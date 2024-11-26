@@ -1,5 +1,19 @@
 [
     {
+        "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
+        "timestamp": "1730434329",
+        "url": "mail_display.php?timestamp=1730434329",
+        "date": "2024/11/01 12:12",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "11月1日校內委外廠商營業資訊公告",
         "timestamp": "1730430787",
         "url": "mail_display.php?timestamp=1730430787",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "海上陸上颱風警報】康芮中度颱風（國際名Kong-rey）海上陸上颱風警報!  Moderate typhoon Kong-rey (international name Kong-rey) maritime typhoon warning",
-        "timestamp": "1730245265",
-        "url": "mail_display.php?timestamp=1730245265",
-        "date": "2024/10/30 07:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

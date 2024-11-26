@@ -1,6 +1,20 @@
 [
     {
         "title": "【交通安全】因受颱風影響校外道路仍有部分路樹倒塌尚未清理，提醒同學行經時務必減速慢行並注意道路路況，小心騎車。",
+        "timestamp": "1730769574",
+        "url": "mail_display.php?timestamp=1730769574",
+        "date": "2024/11/05 09:19",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【交通安全】因受颱風影響校外道路仍有部分路樹倒塌尚未清理，提醒同學行經時務必減速慢行並注意道路路況，小心騎車。",
         "timestamp": "1730769266",
         "url": "mail_display.php?timestamp=1730769266",
         "date": "2024/11/05 09:14",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
-        "timestamp": "1730434329",
-        "url": "mail_display.php?timestamp=1730434329",
-        "date": "2024/11/01 12:12",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 2
     }
 ]
