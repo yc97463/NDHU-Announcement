@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】2024第二屆東華大路跑---活動封路公告",
+        "timestamp": "1732522848",
+        "url": "mail_display.php?timestamp=1732522848",
+        "date": "2024/11/25 16:20",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【校慶系列】「管樂30禮讚」將於11/29(五)19:00於藝術學院音樂廳辦理，歡迎本校全體師生前來享受最動人的管樂音樂饗宴",
         "timestamp": "1732522760",
         "url": "mail_display.php?timestamp=1732522760",
@@ -194,19 +208,5 @@
             "phone": "6059"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【法語角】French Movie Nights 法國電影之夜 Session 3：12/25《新美女與野獸》(La Belle et la Bête, 2014)",
-        "timestamp": "1732492503",
-        "url": "mail_display.php?timestamp=1732492503",
-        "date": "2024/11/25 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]

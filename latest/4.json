@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進活動】歡迎報名免費流感與新冠疫苗施打，數量有限，不要錯過喔!",
+        "timestamp": "1732262448",
+        "url": "mail_display.php?timestamp=1732262448",
+        "date": "2024/11/22 16:00",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華夜市（試營運）開始校內招商囉！",
         "timestamp": "1732262008",
         "url": "mail_display.php?timestamp=1732262008",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【台灣社會與政治發展講座 公告】",
-        "timestamp": "1732172692",
-        "url": "mail_display.php?timestamp=1732172692",
-        "date": "2024/11/21 15:04",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 5
     }
 ]
