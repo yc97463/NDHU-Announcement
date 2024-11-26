@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校數位電話外線(市內外電話及手機)恢復通話公告。",
+        "timestamp": "1730439612",
+        "url": "mail_display.php?timestamp=1730439612",
+        "date": "2024/11/01 13:40",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "請各單位於本(11/01)日17:00前回報颱風受損情形",
         "timestamp": "1730434329",
         "url": "mail_display.php?timestamp=1730434329",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "秋冬天氣漸涼，提醒您注意保暖！！ Weather is getting changeable,please keep warm! !",
-        "timestamp": "1730249049",
-        "url": "mail_display.php?timestamp=1730249049",
-        "date": "2024/10/30 08:44",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]
