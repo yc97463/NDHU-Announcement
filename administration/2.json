@@ -1,5 +1,19 @@
 [
     {
+        "title": "人社一館電梯1變頻器故障停用說明。",
+        "timestamp": "1731594776",
+        "url": "mail_display.php?timestamp=1731594776",
+        "date": "2024/11/14 22:32",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "網路貼文上傳照片請自律，避免誤觸法律",
         "timestamp": "1731591822",
         "url": "mail_display.php?timestamp=1731591822",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "校務發展委員會會議及擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1731060301",
-        "url": "mail_display.php?timestamp=1731060301",
-        "date": "2024/11/08 18:05",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
