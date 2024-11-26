@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華夜市（試營運）開始校內招商囉！",
+        "timestamp": "1732522608",
+        "url": "mail_display.php?timestamp=1732522608",
+        "date": "2024/11/25 16:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華夜市（試營運）第二場-就在明天！",
         "timestamp": "1732522363",
         "url": "mail_display.php?timestamp=1732522363",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": " [鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
-        "timestamp": "1732444430",
-        "url": "mail_display.php?timestamp=1732444430",
-        "date": "2024/11/24 18:33",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 1
     }
 ]

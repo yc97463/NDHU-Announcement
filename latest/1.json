@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024舊愛新歡──好康大放送！",
+        "timestamp": "1732602219",
+        "url": "mail_display.php?timestamp=1732602219",
+        "date": "2024/11/26 14:23",
+        "department": "圖書資訊處採訪編目組",
+        "author": {
+            "department": "圖書資訊處採訪編目組",
+            "name": "林孟蓉",
+            "email": "rita@gms.ndhu.edu.tw",
+            "phone": "03-8906814"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
         "timestamp": "1732597043",
         "url": "mail_display.php?timestamp=1732597043",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "東華夜市（試營運）開始校內招商囉！",
-        "timestamp": "1732522608",
-        "url": "mail_display.php?timestamp=1732522608",
-        "date": "2024/11/25 16:16",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 1
     }
 ]

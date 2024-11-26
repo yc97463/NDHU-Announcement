@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動轉知】【2025 第五屆 永續生活實驗室獎 Living Lab Project Awards】熱烈報名中~~~",
+        "timestamp": "1732497140",
+        "url": "mail_display.php?timestamp=1732497140",
+        "date": "2024/11/25 09:12",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【法語角】French Movie Nights 法國電影之夜 Session 3：12/25《新美女與野獸》(La Belle et la Bête, 2014)",
         "timestamp": "1732492503",
         "url": "mail_display.php?timestamp=1732492503",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【健康促進活動】歡迎報名免費流感與新冠疫苗施打，數量有限，不要錯過喔!",
-        "timestamp": "1732262448",
-        "url": "mail_display.php?timestamp=1732262448",
-        "date": "2024/11/22 16:00",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
     }
 ]

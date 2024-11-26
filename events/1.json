@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024舊愛新歡──好康大放送！",
+        "timestamp": "1732602219",
+        "url": "mail_display.php?timestamp=1732602219",
+        "date": "2024/11/26 14:23",
+        "department": "圖書資訊處採訪編目組",
+        "author": {
+            "department": "圖書資訊處採訪編目組",
+            "name": "林孟蓉",
+            "email": "rita@gms.ndhu.edu.tw",
+            "phone": "03-8906814"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
         "timestamp": "1732597043",
         "url": "mail_display.php?timestamp=1732597043",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動轉知】【2025 第五屆 永續生活實驗室獎 Living Lab Project Awards】熱烈報名中~~~",
-        "timestamp": "1732497140",
-        "url": "mail_display.php?timestamp=1732497140",
-        "date": "2024/11/25 09:12",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "5919"
-        },
-        "attachmentCount": 2
     }
 ]
