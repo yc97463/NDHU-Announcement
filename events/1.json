@@ -1,5 +1,19 @@
 [
     {
+        "title": "影片放映座談會：《孤軍》X《八堵車站事件實境劇》",
+        "timestamp": "1732694092",
+        "url": "mail_display.php?timestamp=1732694092",
+        "date": "2024/11/27 15:54",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
         "timestamp": "1732692028",
         "url": "mail_display.php?timestamp=1732692028",
@@ -194,19 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【代轉學生會公告】數位性別暴力讀劇工作坊",
-        "timestamp": "1732522986",
-        "url": "mail_display.php?timestamp=1732522986",
-        "date": "2024/11/25 16:23",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 1
     }
 ]
