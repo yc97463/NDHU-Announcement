@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第2學期「學生就學優待減免學雜費」申請公告",
+        "timestamp": "1732707002",
+        "url": "mail_display.php?timestamp=1732707002",
+        "date": "2024/11/27 19:30",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "11/27(三)晚間-11/29(五)西側外環道部份路段封閉公告",
         "timestamp": "1732704158",
         "url": "mail_display.php?timestamp=1732704158",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【吳念真導演演講_我只是一個說故事的人】_台灣社會與政治發展課程講座",
-        "timestamp": "1732680810",
-        "url": "mail_display.php?timestamp=1732680810",
-        "date": "2024/11/27 12:13",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 2
     }
 ]

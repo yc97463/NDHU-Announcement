@@ -1,5 +1,19 @@
 [
     {
+        "title": "電影欣賞:艾琳青春紀事",
+        "timestamp": "1732406102",
+        "url": "mail_display.php?timestamp=1732406102",
+        "date": "2024/11/24 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "➥2024原住民族知識系列講座Indigenous Knowledge – 2024 Public Lecture Series  2024.11.26-2024.12.03",
         "timestamp": "1732343280",
         "url": "mail_display.php?timestamp=1732343280",
@@ -192,20 +206,6 @@
             "name": "陳美杏",
             "email": "msing@gms.ndhu.edu.tw",
             "phone": "6059"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【多元文化教育講座】續演•希望主體、人民的運動",
-        "timestamp": "1732243958",
-        "url": "mail_display.php?timestamp=1732243958",
-        "date": "2024/11/22 10:52",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
         },
         "attachmentCount": 1
     }
