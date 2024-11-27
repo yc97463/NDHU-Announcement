@@ -1,5 +1,33 @@
 [
     {
+        "title": "【健康促進活動】歡迎報名免費流感與新冠疫苗施打，數量有限，不要錯過喔!",
+        "timestamp": "1732262448",
+        "url": "mail_display.php?timestamp=1732262448",
+        "date": "2024/11/22 16:00",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "東華夜市（試營運）開始校內招商囉！",
+        "timestamp": "1732262008",
+        "url": "mail_display.php?timestamp=1732262008",
+        "date": "2024/11/22 15:53",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "中國青年救國團「114年青年節表揚大專優秀青年遴選」校內申請收件即日起至113年12月27日(五)中午12:00收件截止",
         "timestamp": "1732258507",
         "url": "mail_display.php?timestamp=1732258507",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【台灣社會與政治發展講座 公告】",
-        "timestamp": "1732172692",
-        "url": "mail_display.php?timestamp=1732172692",
-        "date": "2024/11/21 15:04",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "113年「校友卓越講座」－【教行系】小文藝週暨校友回娘家",
-        "timestamp": "1732171105",
-        "url": "mail_display.php?timestamp=1732171105",
-        "date": "2024/11/21 14:38",
-        "department": "教育行政與管理學系",
-        "author": {
-            "department": "教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 4
     }
 ]

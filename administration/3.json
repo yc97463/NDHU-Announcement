@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】113學年第一學期第二階段電費明細公告 【Student Dormitory】–Electricity Charges for the 2st Period, 2024-2025 Academic Year ",
+        "timestamp": "1731290436",
+        "url": "mail_display.php?timestamp=1731290436",
+        "date": "2024/11/11 10:00",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
         "timestamp": "1731283484",
         "url": "mail_display.php?timestamp=1731283484",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1730879481",
-        "url": "mail_display.php?timestamp=1730879481",
-        "date": "2024/11/06 15:51",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
     }
 ]
