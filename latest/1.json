@@ -1,5 +1,19 @@
 [
     {
+        "title": "放置在K書中心的個人物品，請統一於2024年11月30日(六)前至K中B館領取",
+        "timestamp": "1732700154",
+        "url": "mail_display.php?timestamp=1732700154",
+        "date": "2024/11/27 17:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳依萱",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【延長收件】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
         "timestamp": "1732694445",
         "url": "mail_display.php?timestamp=1732694445",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校113年度公文線上簽核系統教育訓練公告，歡迎同仁踴躍參加。",
-        "timestamp": "1732668510",
-        "url": "mail_display.php?timestamp=1732668510",
-        "date": "2024/11/27 08:48",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 1
     }
 ]
