@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史學系系友講座//一路打怪升級的布袋戲之旅",
+        "timestamp": "1732785811",
+        "url": "mail_display.php?timestamp=1732785811",
+        "date": "2024/11/28 17:23",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2025多元性別領導力增能傳承營 LGBTQ+ Leadership Camp, NDHU",
         "timestamp": "1732780910",
         "url": "mail_display.php?timestamp=1732780910",
@@ -194,19 +208,5 @@
             "phone": "6648"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "2024舊愛新歡──好康大放送！",
-        "timestamp": "1732602219",
-        "url": "mail_display.php?timestamp=1732602219",
-        "date": "2024/11/26 14:23",
-        "department": "圖書資訊處採訪編目組",
-        "author": {
-            "department": "圖書資訊處採訪編目組",
-            "name": "林孟蓉",
-            "email": "rita@gms.ndhu.edu.tw",
-            "phone": "03-8906814"
-        },
-        "attachmentCount": 1
     }
 ]
