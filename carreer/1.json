@@ -1,19 +1,5 @@
 [
     {
-        "title": "【延長收件】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
-        "timestamp": "1732694445",
-        "url": "mail_display.php?timestamp=1732694445",
-        "date": "2024/11/27 16:00",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": "【第二次公告】東華大學原民院「建構原住民族教育文化知識體系專案管理中心」 【系統開發組】誠徵專任助理",
         "timestamp": "1732690073",
         "url": "mail_display.php?timestamp=1732690073",
@@ -208,5 +194,19 @@
             "phone": "8906852"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "洄瀾學院體育中心助理兼救生員徵才公告",
+        "timestamp": "1729740985",
+        "url": "mail_display.php?timestamp=1729740985",
+        "date": "2024/10/24 11:36",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
     }
 ]

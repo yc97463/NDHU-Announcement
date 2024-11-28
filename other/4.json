@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】【NUST教學工作圈】2024跨校雙語TA增能工作坊線上場",
+        "timestamp": "1731375761",
+        "url": "mail_display.php?timestamp=1731375761",
+        "date": "2024/11/12 09:42",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】臺北市政府衛生局約聘僱人員甄選(社工、心理輔導員)(113年11月15日截止)",
         "timestamp": "1731316489",
         "url": "mail_display.php?timestamp=1731316489",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": " 11月4日本校內環部分路燈不亮說明",
-        "timestamp": "1730735081",
-        "url": "mail_display.php?timestamp=1730735081",
-        "date": "2024/11/04 23:44",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
