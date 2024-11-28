@@ -1,5 +1,19 @@
 [
     {
+        "title": "天候轉涼，請加強注意防範一氧化碳中毒",
+        "timestamp": "1731988751",
+        "url": "mail_display.php?timestamp=1731988751",
+        "date": "2024/11/19 11:59",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "本校113-1學年校外租賃法律講座開講",
         "timestamp": "1731977329",
         "url": "mail_display.php?timestamp=1731977329",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "車牌辨識系統第二階段測試(閘門開啟)暫緩辦理公告",
-        "timestamp": "1731382353",
-        "url": "mail_display.php?timestamp=1731382353",
-        "date": "2024/11/12 11:32",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]

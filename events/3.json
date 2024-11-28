@@ -1,5 +1,47 @@
 [
     {
+        "title": "【！就在明天！】＊＊屏東大學校長陳永森台語演講＊＊__台灣社會與政治發展課程演講】",
+        "timestamp": "1732430659",
+        "url": "mail_display.php?timestamp=1732430659",
+        "date": "2024/11/24 14:44",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "台灣原住民族知識體系課程系列講座：排隊灣灣的道理",
+        "timestamp": "1732406103",
+        "url": "mail_display.php?timestamp=1732406103",
+        "date": "2024/11/24 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "電影欣賞:艾琳青春紀事",
+        "timestamp": "1732406102",
+        "url": "mail_display.php?timestamp=1732406102",
+        "date": "2024/11/24 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "➥2024原住民族知識系列講座Indigenous Knowledge – 2024 Public Lecture Series  2024.11.26-2024.12.03",
         "timestamp": "1732343280",
         "url": "mail_display.php?timestamp=1732343280",
@@ -166,47 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【台灣社會與政治發展講座 公告】",
-        "timestamp": "1732241718",
-        "url": "mail_display.php?timestamp=1732241718",
-        "date": "2024/11/22 10:15",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【材料系演講公告】11/25(一)15:10-17:00半導體產品應用概論",
-        "timestamp": "1732233302",
-        "url": "mail_display.php?timestamp=1732233302",
-        "date": "2024/11/22 07:55",
-        "department": "理工學院 材料科學與工程學系",
-        "author": {
-            "department": "理工學院 材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "8903204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 教育研究法課程專題講座】有趣味的旅程：與數字為伍的學術生涯",
-        "timestamp": "1732233301",
-        "url": "mail_display.php?timestamp=1732233301",
-        "date": "2024/11/22 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
     }
 ]
