@@ -1,5 +1,19 @@
 [
     {
+        "title": "人社一館電梯1變頻器故障停用說明。",
+        "timestamp": "1731594776",
+        "url": "mail_display.php?timestamp=1731594776",
+        "date": "2024/11/14 22:32",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【海上陸上颱風警報】「天兔颱風」海上陸上警報已經發布，請注意！",
         "timestamp": "1731578859",
         "url": "mail_display.php?timestamp=1731578859",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【實習】文化部文化資產局1916工坊「2025寒假以工換技實習徵選」(113年12月14日截止)",
-        "timestamp": "1731383713",
-        "url": "mail_display.php?timestamp=1731383713",
-        "date": "2024/11/12 11:55",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
