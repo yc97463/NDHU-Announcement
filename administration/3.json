@@ -1,5 +1,33 @@
 [
     {
+        "title": "【個資保護】個人資料蒐集及使用注意事項",
+        "timestamp": "1731571853",
+        "url": "mail_display.php?timestamp=1731571853",
+        "date": "2024/11/14 16:10",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【外宿關懷系列】- 校外租賃法律講座",
+        "timestamp": "1731566575",
+        "url": "mail_display.php?timestamp=1731566575",
+        "date": "2024/11/14 14:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【校外住宿】請校外住宿同學上網填報或更新資料 【Off-Campus Housing】Accommodation information Update by living off-campus students",
         "timestamp": "1731565496",
         "url": "mail_display.php?timestamp=1731565496",
@@ -178,34 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "COIL計畫［國際處意願調查］",
-        "timestamp": "1731035336",
-        "url": "mail_display.php?timestamp=1731035336",
-        "date": "2024/11/08 11:08",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "陳巧惠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5118"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門及志學門車牌辨識系統第二階段測試（啟用閘門）公告",
-        "timestamp": "1731032567",
-        "url": "mail_display.php?timestamp=1731032567",
-        "date": "2024/11/08 10:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 0
     }

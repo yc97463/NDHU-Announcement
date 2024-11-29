@@ -1,5 +1,47 @@
 [
     {
+        "title": "【重要訊息】113年12月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。",
+        "timestamp": "1732864182",
+        "url": "mail_display.php?timestamp=1732864182",
+        "date": "2024/11/29 15:09",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "劉乃綺",
+            "email": "lnch0202@gms.ndhu.edu.tw",
+            "phone": "6514"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要通知】113-1學期應屆畢業生離校領取學位證書公告",
+        "timestamp": "1732863724",
+        "url": "mail_display.php?timestamp=1732863724",
+        "date": "2024/11/29 15:02",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "6115"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【實習】國家發展委員會檔案管理局114年寒假實習申請(113年12月13日截止)",
+        "timestamp": "1732863337",
+        "url": "mail_display.php?timestamp=1732863337",
+        "date": "2024/11/29 14:55",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對",
         "timestamp": "1732849181",
         "url": "mail_display.php?timestamp=1732849181",
@@ -166,47 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
-        "timestamp": "1732759436",
-        "url": "mail_display.php?timestamp=1732759436",
-        "date": "2024/11/28 10:03",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Nataorium 泳池怪誕/芬蘭",
-        "timestamp": "1732751704",
-        "url": "mail_display.php?timestamp=1732751704",
-        "date": "2024/11/28 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Rafik/德國",
-        "timestamp": "1732751703",
-        "url": "mail_display.php?timestamp=1732751703",
-        "date": "2024/11/28 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
     }
 ]
