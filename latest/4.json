@@ -1,5 +1,47 @@
 [
     {
+        "title": "11/27~11/28定期捐血保障你我~熱血行動!!!本月捐血活動倒數結束",
+        "timestamp": "1732612130",
+        "url": "mail_display.php?timestamp=1732612130",
+        "date": "2024/11/26 17:08",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1教卓中心】TA證書與優良TA獎勵金申請 / Application for TA certificate \u0026 TA Excellence Awards",
+        "timestamp": "1732612043",
+        "url": "mail_display.php?timestamp=1732612043",
+        "date": "2024/11/26 17:07",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【2024 Indigenous Knowledge Public Lecture Series】Challenges and Opportunities for Indigenous Rights",
+        "timestamp": "1732611734",
+        "url": "mail_display.php?timestamp=1732611734",
+        "date": "2024/11/26 17:02",
+        "department": "原住民族國際事務中心",
+        "author": {
+            "department": "原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "iia@gms.ndhu.edu.tw",
+            "phone": "038905710"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【2024原住民族知識系列講座】Culturally safe long-term care services for the Indigenous Peoples of Taiwan",
         "timestamp": "1732611642",
         "url": "mail_display.php?timestamp=1732611642",
@@ -166,47 +208,5 @@
             "phone": "038905710"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【實習】財團法人公共電視文化事業基金會113學年度第2學期實習開放申請囉!!(113年12月15日截止)",
-        "timestamp": "1732526907",
-        "url": "mail_display.php?timestamp=1732526907",
-        "date": "2024/11/25 17:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "慶祝2024世界棒球12強中華隊冠軍，校內廠商優惠活動公告。",
-        "timestamp": "1732524896",
-        "url": "mail_display.php?timestamp=1732524896",
-        "date": "2024/11/25 16:54",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 十二月玩具志工招募中！",
-        "timestamp": "1732523743",
-        "url": "mail_display.php?timestamp=1732523743",
-        "date": "2024/11/25 16:35",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]
