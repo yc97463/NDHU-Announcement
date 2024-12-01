@@ -1,5 +1,19 @@
 [
     {
+        "title": "11/27(三)晚間-11/29(五)西側外環道部份路段封閉公告",
+        "timestamp": "1732704158",
+        "url": "mail_display.php?timestamp=1732704158",
+        "date": "2024/11/27 18:42",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "放置在K書中心的個人物品，請統一於2024年11月30日(六)前至K中B館領取",
         "timestamp": "1732700154",
         "url": "mail_display.php?timestamp=1732700154",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校113年度公文線上簽核系統教育訓練公告，歡迎同仁踴躍參加。",
-        "timestamp": "1732668510",
-        "url": "mail_display.php?timestamp=1732668510",
-        "date": "2024/11/27 08:48",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 1
     }
 ]

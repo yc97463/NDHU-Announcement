@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校113年度公文線上簽核系統教育訓練公告，歡迎同仁踴躍參加。",
+        "timestamp": "1732668510",
+        "url": "mail_display.php?timestamp=1732668510",
+        "date": "2024/11/27 08:48",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【請把握最後報名機會~~】 ◈ Pas'uapain tu kainauazan原教之美─113年宜蘭及花蓮地區原住民族實驗教育成果展",
         "timestamp": "1732618200",
         "url": "mail_display.php?timestamp=1732618200",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 12/05 第7場 Session 7\t",
-        "timestamp": "1732578902",
-        "url": "mail_display.php?timestamp=1732578902",
-        "date": "2024/11/26 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]
