@@ -1,5 +1,33 @@
 [
     {
+        "title": "11月13日校慶運動會委外廠商營業資訊公告",
+        "timestamp": "1731397505",
+        "url": "mail_display.php?timestamp=1731397505",
+        "date": "2024/11/12 15:45",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "車牌辨識系統第二階段測試(閘門開啟)暫緩辦理公告",
+        "timestamp": "1731382353",
+        "url": "mail_display.php?timestamp=1731382353",
+        "date": "2024/11/12 11:32",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第1次通知)",
         "timestamp": "1731377345",
         "url": "mail_display.php?timestamp=1731377345",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年度校區內客貨電梯進行月保養排程通告11月保養",
-        "timestamp": "1730976238",
-        "url": "mail_display.php?timestamp=1730976238",
-        "date": "2024/11/07 18:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Student Dormitory】Academic Year 113(2024-25) Winter Vacation Dormitory Application",
-        "timestamp": "1730951065",
-        "url": "mail_display.php?timestamp=1730951065",
-        "date": "2024/11/07 11:44",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 5
     }
 ]
