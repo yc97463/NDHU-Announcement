@@ -1,5 +1,47 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1731896840",
+        "url": "mail_display.php?timestamp=1731896840",
+        "date": "2024/11/18 10:27",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "大學門（前門）車牌辨識系統測試（啟用閘門）第二次公告",
+        "timestamp": "1731729890",
+        "url": "mail_display.php?timestamp=1731729890",
+        "date": "2024/11/16 12:04",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "大學門（前門）車牌辨識系統測試（啟用閘門）公告",
+        "timestamp": "1731640623",
+        "url": "mail_display.php?timestamp=1731640623",
+        "date": "2024/11/15 11:17",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第二次公告】本校徵求人文社會科學學院院長候選人",
         "timestamp": "1731639407",
         "url": "mail_display.php?timestamp=1731639407",
@@ -166,47 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "健康中心11月13日(三)全員移地田徑場服務公告 Health center closed during the sport meet.",
-        "timestamp": "1731313837",
-        "url": "mail_display.php?timestamp=1731313837",
-        "date": "2024/11/11 16:30",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】113學年第一學期第二階段電費明細公告 【Student Dormitory】–Electricity Charges for the 2st Period, 2024-2025 Academic Year ",
-        "timestamp": "1731290436",
-        "url": "mail_display.php?timestamp=1731290436",
-        "date": "2024/11/11 10:00",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】全校運動會【113.11.13(三)】休館一日。Library Announcement–Library will be Closed on November 13, 2024.",
-        "timestamp": "1731283484",
-        "url": "mail_display.php?timestamp=1731283484",
-        "date": "2024/11/11 08:04",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
