@@ -1,5 +1,47 @@
 [
     {
+        "title": "📢人事室邀請您票選尾牙獎品",
+        "timestamp": "1733129118",
+        "url": "mail_display.php?timestamp=1733129118",
+        "date": "2024/12/02 16:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "許惠筑",
+            "email": "jwu618@gms.ndhu.edu.tw",
+            "phone": "6054"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": " [鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
+        "timestamp": "1733128915",
+        "url": "mail_display.php?timestamp=1733128915",
+        "date": "2024/12/02 16:41",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": " [代轉]探索國際合作與學術機會：歐盟 Erasmus+ 計畫說明會",
+        "timestamp": "1733128448",
+        "url": "mail_display.php?timestamp=1733128448",
+        "date": "2024/12/02 16:34",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華夜市（試營運）第三場-即將登場！",
         "timestamp": "1733127238",
         "url": "mail_display.php?timestamp=1733127238",
@@ -166,47 +208,5 @@
             "phone": "0988479360"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【教務處公告】提醒任課教師於期末選課前(113/12/16)維護是否公開成績分佈圖功能",
-        "timestamp": "1733103201",
-        "url": "mail_display.php?timestamp=1733103201",
-        "date": "2024/12/02 09:33",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "莊珆芸專員",
-            "email": "registration@gms.ndhu.edu.tw",
-            "phone": "03-8906112--6116"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1「二手物文化與空間」成果展-「再生」",
-        "timestamp": "1733103091",
-        "url": "mail_display.php?timestamp=1733103091",
-        "date": "2024/12/02 09:31",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "本校總務處(事務組) 校務基金助理 徵才公告",
-        "timestamp": "1733101850",
-        "url": "mail_display.php?timestamp=1733101850",
-        "date": "2024/12/02 09:10",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]

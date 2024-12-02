@@ -1,5 +1,47 @@
 [
     {
+        "title": "📢人事室邀請您票選尾牙獎品",
+        "timestamp": "1733129118",
+        "url": "mail_display.php?timestamp=1733129118",
+        "date": "2024/12/02 16:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "許惠筑",
+            "email": "jwu618@gms.ndhu.edu.tw",
+            "phone": "6054"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": " [鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
+        "timestamp": "1733128915",
+        "url": "mail_display.php?timestamp=1733128915",
+        "date": "2024/12/02 16:41",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": " [代轉]探索國際合作與學術機會：歐盟 Erasmus+ 計畫說明會",
+        "timestamp": "1733128448",
+        "url": "mail_display.php?timestamp=1733128448",
+        "date": "2024/12/02 16:34",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華夜市（試營運）第三場-即將登場！",
         "timestamp": "1733127238",
         "url": "mail_display.php?timestamp=1733127238",
@@ -166,47 +208,5 @@
             "phone": "6895"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "教育工作者的「知行合一」探微：以一個多年期教學實踐研究的生成演化為例",
-        "timestamp": "1732924501",
-        "url": "mail_display.php?timestamp=1732924501",
-        "date": "2024/11/30 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對",
-        "timestamp": "1732849181",
-        "url": "mail_display.php?timestamp=1732849181",
-        "date": "2024/11/29 10:59",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "歷史學系系友講座//一路打怪升級的布袋戲之旅",
-        "timestamp": "1732786494",
-        "url": "mail_display.php?timestamp=1732786494",
-        "date": "2024/11/28 17:34",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
     }
 ]
