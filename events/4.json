@@ -1,5 +1,33 @@
 [
     {
+        "title": "【校慶系列】「管樂30禮讚」將於11/29(五)19:00於藝術學院音樂廳辦理，歡迎本校全體師生前來享受最動人的管樂音樂饗宴",
+        "timestamp": "1732522760",
+        "url": "mail_display.php?timestamp=1732522760",
+        "date": "2024/11/25 16:19",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "💃2024東華秋藝季：紐約爵士女聲 Aubrey Johnson",
+        "timestamp": "1732522661",
+        "url": "mail_display.php?timestamp=1732522661",
+        "date": "2024/11/25 16:17",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "東華夜市（試營運）開始校內招商囉！",
         "timestamp": "1732522608",
         "url": "mail_display.php?timestamp=1732522608",
@@ -180,33 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "生醫系11/29(週五)【校友回娘家】專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1732319701",
-        "url": "mail_display.php?timestamp=1732319701",
-        "date": "2024/11/23 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "➥2024原住民族知識系列講座➤歡迎加入！Join us！  Indigenous Knowledge – 2024 Public Lecture Series  2024.11.26-2024.12.03",
-        "timestamp": "1732306110",
-        "url": "mail_display.php?timestamp=1732306110",
-        "date": "2024/11/23 04:08",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "0935-212455"
-        },
-        "attachmentCount": 4
     }
 ]
