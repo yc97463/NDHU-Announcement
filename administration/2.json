@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第2學期「學生就學優待減免學雜費」申請公告",
+        "timestamp": "1732707002",
+        "url": "mail_display.php?timestamp=1732707002",
+        "date": "2024/11/27 19:30",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "11/27(三)晚間-11/29(五)西側外環道部份路段封閉公告",
         "timestamp": "1732704158",
         "url": "mail_display.php?timestamp=1732704158",
@@ -194,19 +208,5 @@
             "phone": "6216"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "本校113-1學年校外租賃法律講座開講",
-        "timestamp": "1731977329",
-        "url": "mail_display.php?timestamp=1731977329",
-        "date": "2024/11/19 08:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 1
     }
 ]

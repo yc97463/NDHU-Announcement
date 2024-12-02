@@ -1,5 +1,19 @@
 [
     {
+        "title": "電影欣賞:艾琳青春紀事",
+        "timestamp": "1732406102",
+        "url": "mail_display.php?timestamp=1732406102",
+        "date": "2024/11/24 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "➥2024原住民族知識系列講座Indigenous Knowledge – 2024 Public Lecture Series  2024.11.26-2024.12.03",
         "timestamp": "1732343280",
         "url": "mail_display.php?timestamp=1732343280",
@@ -192,20 +206,6 @@
             "name": "林淑玲",
             "email": "shuling@gms.ndhu.edu.tw",
             "phone": "8903204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 教育研究法課程專題講座】有趣味的旅程：與數字為伍的學術生涯",
-        "timestamp": "1732233301",
-        "url": "mail_display.php?timestamp=1732233301",
-        "date": "2024/11/22 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
         },
         "attachmentCount": 0
     }
