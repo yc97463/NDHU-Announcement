@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】真理大學開設「運動科技的科學統計‐科技情蒐 」磨課師(MOOCs)線上課程",
+        "timestamp": "1732513373",
+        "url": "mail_display.php?timestamp=1732513373",
+        "date": "2024/11/25 13:42",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[網路維運公告]無線網路網頁登入維護113/11/25-11/28",
         "timestamp": "1732498008",
         "url": "mail_display.php?timestamp=1732498008",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會",
-        "timestamp": "1731853777",
-        "url": "mail_display.php?timestamp=1731853777",
-        "date": "2024/11/17 22:29",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 7
     }
 ]

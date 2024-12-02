@@ -1,5 +1,19 @@
 [
     {
+        "title": "影片放映座談會：《孤軍》X《八堵車站事件實境劇》",
+        "timestamp": "1732694092",
+        "url": "mail_display.php?timestamp=1732694092",
+        "date": "2024/11/27 15:54",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【2024 Indigenous Knowledge Public Lecture Series】Colonial determinants of Indigenous wellness and health equity: From Japanese relocation to health governance in contemporary multicultural Taiwan",
         "timestamp": "1732693629",
         "url": "mail_display.php?timestamp=1732693629",
@@ -194,19 +208,5 @@
             "phone": "03-890-5137"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "11/27(三)-12/1(日)西側外環道路面刨餔施工公告",
-        "timestamp": "1732614220",
-        "url": "mail_display.php?timestamp=1732614220",
-        "date": "2024/11/26 17:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 2
     }
 ]
