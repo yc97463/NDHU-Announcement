@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1732873705",
+        "url": "mail_display.php?timestamp=1732873705",
+        "date": "2024/11/29 17:48",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要訊息】113年12月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。",
         "timestamp": "1732864182",
         "url": "mail_display.php?timestamp=1732864182",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第2次通知)",
-        "timestamp": "1732759485",
-        "url": "mail_display.php?timestamp=1732759485",
-        "date": "2024/11/28 10:04",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 8
     }
 ]
