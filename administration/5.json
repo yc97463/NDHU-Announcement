@@ -1,5 +1,19 @@
 [
     {
+        "title": "11月9日上午8-12時壽豐消防隊抽測建築物消防設備公告",
+        "timestamp": "1731027299",
+        "url": "mail_display.php?timestamp=1731027299",
+        "date": "2024/11/08 08:54",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "諮商中心邀請您一同關懷學生",
         "timestamp": "1731026352",
         "url": "mail_display.php?timestamp=1731026352",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "明日11/5(二)上午8時至12時志學門圓環旁路口冷塑標線施工公告",
-        "timestamp": "1730708860",
-        "url": "mail_display.php?timestamp=1730708860",
-        "date": "2024/11/04 16:27",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]
