@@ -1,5 +1,61 @@
 [
     {
+        "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
+        "timestamp": "1733111146",
+        "url": "mail_display.php?timestamp=1733111146",
+        "date": "2024/12/02 11:45",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【實習】農業部林業試驗所「114年寒假實習」開始申請囉~~ 📣 📣",
+        "timestamp": "1733109597",
+        "url": "mail_display.php?timestamp=1733109597",
+        "date": "2024/12/02 11:19",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【公告】113年度配合會計年度關帳申請【加班費】及【國旅卡補助】事宜",
+        "timestamp": "1733108631",
+        "url": "mail_display.php?timestamp=1733108631",
+        "date": "2024/12/02 11:03",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【就在明天】台灣原住民族知識體系課程系列講座：從當代原住民音樂談解殖實踐",
+        "timestamp": "1733105239",
+        "url": "mail_display.php?timestamp=1733105239",
+        "date": "2024/12/02 10:07",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "柯同學",
+            "email": "411196018@gms.ndhu.edu.tw",
+            "phone": "0988479360"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教務處公告】提醒任課教師於期末選課前(113/12/16)維護是否公開成績分佈圖功能",
         "timestamp": "1733103201",
         "url": "mail_display.php?timestamp=1733103201",
@@ -152,61 +208,5 @@
             "phone": "6895"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "教育工作者的「知行合一」探微：以一個多年期教學實踐研究的生成演化為例",
-        "timestamp": "1732924501",
-        "url": "mail_display.php?timestamp=1732924501",
-        "date": "2024/11/30 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第3次公告】113會計年度結束經費報支注意事項",
-        "timestamp": "1732875037",
-        "url": "mail_display.php?timestamp=1732875037",
-        "date": "2024/11/29 18:10",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "總務處環境保護組徵聘行政助理一名",
-        "timestamp": "1732873912",
-        "url": "mail_display.php?timestamp=1732873912",
-        "date": "2024/11/29 17:51",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1732873705",
-        "url": "mail_display.php?timestamp=1732873705",
-        "date": "2024/11/29 17:48",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,6 +1,20 @@
 [
     {
         "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
+        "timestamp": "1730940872",
+        "url": "mail_display.php?timestamp=1730940872",
+        "date": "2024/11/07 08:54",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
         "timestamp": "1730880910",
         "url": "mail_display.php?timestamp=1730880910",
         "date": "2024/11/06 16:15",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】「教育部教學實踐研究計畫申請經驗分享：以專業英語課程設計為例」",
-        "timestamp": "1729590419",
-        "url": "mail_display.php?timestamp=1729590419",
-        "date": "2024/10/22 17:46",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
