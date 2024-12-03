@@ -1,5 +1,75 @@
 [
     {
+        "title": "11/27(三)晚間-11/29(五)西側外環道部份路段封閉公告",
+        "timestamp": "1732704158",
+        "url": "mail_display.php?timestamp=1732704158",
+        "date": "2024/11/27 18:42",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "放置在K書中心的個人物品，請統一於2024年11月30日(六)前至K中B館領取",
+        "timestamp": "1732700154",
+        "url": "mail_display.php?timestamp=1732700154",
+        "date": "2024/11/27 17:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳依萱",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "影片放映座談會：《孤軍》X《八堵車站事件實境劇》",
+        "timestamp": "1732694092",
+        "url": "mail_display.php?timestamp=1732694092",
+        "date": "2024/11/27 15:54",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【2024 Indigenous Knowledge Public Lecture Series】Colonial determinants of Indigenous wellness and health equity: From Japanese relocation to health governance in contemporary multicultural Taiwan",
+        "timestamp": "1732693629",
+        "url": "mail_display.php?timestamp=1732693629",
+        "date": "2024/11/27 15:47",
+        "department": "原住民族國際事務中心",
+        "author": {
+            "department": "原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "iia@gms.ndhu.edu.tw",
+            "phone": "038905710"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【2024原住民族知識系列講座】Colonial determinants of Indigenous wellness and health equity: From Japanese relocation to health governance in contemporary multicultural Taiwan",
+        "timestamp": "1732693396",
+        "url": "mail_display.php?timestamp=1732693396",
+        "date": "2024/11/27 15:43",
+        "department": "原住民族國際事務中心",
+        "author": {
+            "department": "原住民族國際事務中心",
+            "name": "李佳津",
+            "email": "iia@gms.ndhu.edu.tw",
+            "phone": "038905710"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【2024 Indigenous Knowledge Public Lecture Series】Honouring the Lore/Law of the Lyrebird: Resisting Colonial Storytelling with Indigenous Storywork. Join us as we welcome our honored guests from West Sydney University,Australia.",
         "timestamp": "1732693076",
         "url": "mail_display.php?timestamp=1732693076",
@@ -136,76 +206,6 @@
             "name": "陳治豪",
             "email": "jackchen168@gms.ndhu.edu.tw",
             "phone": "6057"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "本校113年度公文線上簽核系統教育訓練公告，歡迎同仁踴躍參加。",
-        "timestamp": "1732668510",
-        "url": "mail_display.php?timestamp=1732668510",
-        "date": "2024/11/27 08:48",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【請把握最後報名機會~~】 ◈ Pas'uapain tu kainauazan原教之美─113年宜蘭及花蓮地區原住民族實驗教育成果展",
-        "timestamp": "1732618200",
-        "url": "mail_display.php?timestamp=1732618200",
-        "date": "2024/11/26 18:50",
-        "department": "原住民族課程發展協作中心",
-        "author": {
-            "department": "原住民族課程發展協作中心",
-            "name": "Peydang Siyu 朱豪傑",
-            "email": "peydang@gms.ndhu.edu.tw",
-            "phone": "03-890-5137"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "11/27(三)-12/1(日)西側外環道路面刨餔施工公告",
-        "timestamp": "1732614220",
-        "url": "mail_display.php?timestamp=1732614220",
-        "date": "2024/11/26 17:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "11/27~11/28定期捐血保障你我~熱血行動!!!本月捐血活動倒數結束",
-        "timestamp": "1732612130",
-        "url": "mail_display.php?timestamp=1732612130",
-        "date": "2024/11/26 17:08",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1教卓中心】TA證書與優良TA獎勵金申請 / Application for TA certificate \u0026 TA Excellence Awards",
-        "timestamp": "1732612043",
-        "url": "mail_display.php?timestamp=1732612043",
-        "date": "2024/11/26 17:07",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
         },
         "attachmentCount": 0
     }

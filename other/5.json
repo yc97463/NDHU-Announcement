@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度校區內客貨電梯進行月保養排程通告11月保養",
+        "timestamp": "1730976238",
+        "url": "mail_display.php?timestamp=1730976238",
+        "date": "2024/11/07 18:43",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
         "timestamp": "1730959678",
         "url": "mail_display.php?timestamp=1730959678",
@@ -194,19 +208,5 @@
             "phone": "6585"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華電子報 | 2024年10月刊 ",
-        "timestamp": "1730437583",
-        "url": "mail_display.php?timestamp=1730437583",
-        "date": "2024/11/01 13:06",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
