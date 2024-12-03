@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海上颱風警報】「天兔颱風」海上警報已經發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #25 (USAGI)",
+        "timestamp": "1731534592",
+        "url": "mail_display.php?timestamp=1731534592",
+        "date": "2024/11/14 05:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】【2025 Yourator數位職涯博覽會AI・SDGs・SLASHIE】(2025年1月11日舉辦)",
         "timestamp": "1731486117",
         "url": "mail_display.php?timestamp=1731486117",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "第二屆創新創意實踐計畫【用創意行動讓夢想實踐】說明會與課程活動",
-        "timestamp": "1731251855",
-        "url": "mail_display.php?timestamp=1731251855",
-        "date": "2024/11/10 23:17",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 5
     }
 ]
