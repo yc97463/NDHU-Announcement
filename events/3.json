@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年第20屆歐洲影展電影欣賞：Nataorium 泳池怪誕/芬蘭",
+        "timestamp": "1732751704",
+        "url": "mail_display.php?timestamp=1732751704",
+        "date": "2024/11/28 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024年第20屆歐洲影展電影欣賞：Rafik/德國",
         "timestamp": "1732751703",
         "url": "mail_display.php?timestamp=1732751703",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【2024原住民族知識系列講座】Challenges and Opportunities for Indigenous Rights【2024 Indigenous Knowledge Public Lecture Series】Challenges and Opportunities for Indigenous Rights",
-        "timestamp": "1732535258",
-        "url": "mail_display.php?timestamp=1732535258",
-        "date": "2024/11/25 19:47",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "038905710"
-        },
-        "attachmentCount": 3
     }
 ]

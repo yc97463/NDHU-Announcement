@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年第20屆歐洲影展電影欣賞：Margherita Hack-The Lady of The Stars/義大利",
+        "timestamp": "1732751702",
+        "url": "mail_display.php?timestamp=1732751702",
+        "date": "2024/11/28 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "辦理113-1學年學生敍獎作業通知(Notice of 113-1 Student Honor and Disciplinary)",
         "timestamp": "1732751599",
         "url": "mail_display.php?timestamp=1732751599",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
-        "timestamp": "1732681188",
-        "url": "mail_display.php?timestamp=1732681188",
-        "date": "2024/11/27 12:19",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
     }
 ]
