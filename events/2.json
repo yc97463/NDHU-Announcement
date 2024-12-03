@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢人事室邀請您票選尾牙獎品",
+        "timestamp": "1733129118",
+        "url": "mail_display.php?timestamp=1733129118",
+        "date": "2024/12/02 16:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "許惠筑",
+            "email": "jwu618@gms.ndhu.edu.tw",
+            "phone": "6054"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " [鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
         "timestamp": "1733128915",
         "url": "mail_display.php?timestamp=1733128915",
@@ -192,20 +206,6 @@
             "name": "黃仕綸",
             "email": "seanhuang@gms.ndhu.edu.tw",
             "phone": "6895"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "教育工作者的「知行合一」探微：以一個多年期教學實踐研究的生成演化為例",
-        "timestamp": "1732924501",
-        "url": "mail_display.php?timestamp=1732924501",
-        "date": "2024/11/30 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
         },
         "attachmentCount": 0
     }

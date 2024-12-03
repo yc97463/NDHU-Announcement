@@ -1,6 +1,20 @@
 [
     {
         "title": "東華夜市（試營運）第二場-就在明天！",
+        "timestamp": "1732522363",
+        "url": "mail_display.php?timestamp=1732522363",
+        "date": "2024/11/25 16:12",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "東華夜市（試營運）第二場-就在明天！",
         "timestamp": "1732521945",
         "url": "mail_display.php?timestamp=1732521945",
         "date": "2024/11/25 16:05",
@@ -194,19 +208,5 @@
             "phone": "0935-212-455"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【協助轉知】第一屆「新時代 DEI 友善職場意向大調查暨 eSg 人才培訓計畫」校園大使招募資訊",
-        "timestamp": "1732273336",
-        "url": "mail_display.php?timestamp=1732273336",
-        "date": "2024/11/22 19:02",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 2
     }
 ]
