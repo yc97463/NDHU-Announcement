@@ -1,5 +1,33 @@
 [
     {
+        "title": "歷史系專題演講：從家國到日常：中國青銅器的發展與變化",
+        "timestamp": "1733195084",
+        "url": "mail_display.php?timestamp=1733195084",
+        "date": "2024/12/03 11:04",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "有關112學年度校務基金進用人員考核激勵獎勵金說明",
+        "timestamp": "1733192002",
+        "url": "mail_display.php?timestamp=1733192002",
+        "date": "2024/12/03 10:13",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1初領車證新生交通安全宣導活動，12月17日第四場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1733189314",
         "url": "mail_display.php?timestamp=1733189314",
@@ -180,33 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "管理學院施工公告",
-        "timestamp": "1733125739",
-        "url": "mail_display.php?timestamp=1733125739",
-        "date": "2024/12/02 15:48",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許仁泉",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原住民民族學院施工公告",
-        "timestamp": "1733125633",
-        "url": "mail_display.php?timestamp=1733125633",
-        "date": "2024/12/02 15:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許仁泉",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
-        },
-        "attachmentCount": 0
     }
 ]

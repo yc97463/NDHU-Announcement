@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
+        "timestamp": "1730790101",
+        "url": "mail_display.php?timestamp=1730790101",
+        "date": "2024/11/05 15:01",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
         "timestamp": "1730742555",
         "url": "mail_display.php?timestamp=1730742555",
@@ -192,20 +206,6 @@
             "name": "楊助理",
             "email": "ringo@gms.ndhu.edu.tw",
             "phone": "5822"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
-        "timestamp": "1729566830",
-        "url": "mail_display.php?timestamp=1729566830",
-        "date": "2024/10/22 11:13",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "0935625369"
         },
         "attachmentCount": 1
     }
