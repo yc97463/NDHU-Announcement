@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院施工公告",
+        "timestamp": "1733125739",
+        "url": "mail_display.php?timestamp=1733125739",
+        "date": "2024/12/02 15:48",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許仁泉",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原住民民族學院施工公告",
         "timestamp": "1733125633",
         "url": "mail_display.php?timestamp=1733125633",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】資安時數調查，請個人自行上網填報",
-        "timestamp": "1733099925",
-        "url": "mail_display.php?timestamp=1733099925",
-        "date": "2024/12/02 08:38",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
     }
 ]

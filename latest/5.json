@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史學系系友講座//一路打怪升級的布袋戲之旅",
+        "timestamp": "1732786494",
+        "url": "mail_display.php?timestamp=1732786494",
+        "date": "2024/11/28 17:34",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[搭車安全宣導]保持情境覺察 維護自身安全",
         "timestamp": "1732784446",
         "url": "mail_display.php?timestamp=1732784446",
@@ -194,19 +208,5 @@
             "phone": "5512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "辦理113-1學年學生敍獎作業通知(Notice of 113-1 Student Honor and Disciplinary)",
-        "timestamp": "1732751599",
-        "url": "mail_display.php?timestamp=1732751599",
-        "date": "2024/11/28 07:53",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
