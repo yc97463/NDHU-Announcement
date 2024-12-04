@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華夜市（試營運）第三場-即將登場！",
+        "timestamp": "1733127238",
+        "url": "mail_display.php?timestamp=1733127238",
+        "date": "2024/12/02 16:13",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "管理學院施工公告",
         "timestamp": "1733125739",
         "url": "mail_display.php?timestamp=1733125739",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統驗收測試（啟用閘門）公告",
-        "timestamp": "1733101684",
-        "url": "mail_display.php?timestamp=1733101684",
-        "date": "2024/12/02 09:08",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
