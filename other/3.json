@@ -1,5 +1,61 @@
 [
     {
+        "title": "【傑出校友】高雄市立大仁國民中學辦理55週年校慶傑出校友表揚",
+        "timestamp": "1732493517",
+        "url": "mail_display.php?timestamp=1732493517",
+        "date": "2024/11/25 08:11",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】社團法人臺灣國際文教創新交流協會檢送與美國舊金山州立大學共同主辦「2025 聯合國永續發展目標STEAM科學夏令營」活動",
+        "timestamp": "1732493340",
+        "url": "mail_display.php?timestamp=1732493340",
+        "date": "2024/11/25 08:09",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【訊息轉知】教育部青發署114年大專校院職涯輔導成果評選申請",
+        "timestamp": "1732266367",
+        "url": "mail_display.php?timestamp=1732266367",
+        "date": "2024/11/22 17:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【NUST徵件】114年「特色領域研討會經費補助」申請案，即日起受理申請",
+        "timestamp": "1732258266",
+        "url": "mail_display.php?timestamp=1732258266",
+        "date": "2024/11/22 14:51",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【NUST徵件】114年「跨領域永續研究整合型計畫：臺灣國立大學系統年輕學者創新性合作計畫補助計畫」即日起受理申請",
         "timestamp": "1732257741",
         "url": "mail_display.php?timestamp=1732257741",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】教育部體育署辦理體育產業創業「校園增能講座」",
-        "timestamp": "1731638914",
-        "url": "mail_display.php?timestamp=1731638914",
-        "date": "2024/11/15 10:48",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "人社一館電梯1變頻器故障停用說明。",
-        "timestamp": "1731594776",
-        "url": "mail_display.php?timestamp=1731594776",
-        "date": "2024/11/14 22:32",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【海上陸上颱風警報】「天兔颱風」海上陸上警報已經發布，請注意！",
-        "timestamp": "1731578859",
-        "url": "mail_display.php?timestamp=1731578859",
-        "date": "2024/11/14 18:07",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "陳芳甫",
-            "email": "a779563@gms.ndhu.edu.tw",
-            "phone": "6224"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】逢甲大學運輸與物流學系113年12月5日至6日辦理「運輸物流展暨就業博覽會」🚆",
-        "timestamp": "1731576518",
-        "url": "mail_display.php?timestamp=1731576518",
-        "date": "2024/11/14 17:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 1
     }
 ]

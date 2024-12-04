@@ -1,5 +1,33 @@
 [
     {
+        "title": "網路貼文上傳照片請自律，避免誤觸法律",
+        "timestamp": "1731591822",
+        "url": "mail_display.php?timestamp=1731591822",
+        "date": "2024/11/14 21:43",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【個資保護】個人資料蒐集及使用注意事項",
+        "timestamp": "1731571853",
+        "url": "mail_display.php?timestamp=1731571853",
+        "date": "2024/11/14 16:10",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【外宿關懷系列】- 校外租賃法律講座",
         "timestamp": "1731566575",
         "url": "mail_display.php?timestamp=1731566575",
@@ -178,34 +206,6 @@
             "name": "陳婉婉",
             "email": "secretariat@gms.ndhu.edu.tw",
             "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "勞僱型教職員工一般健康檢查暨特殊健康檢查無到院檢查，確認健檢時間會公告通知",
-        "timestamp": "1731049261",
-        "url": "mail_display.php?timestamp=1731049261",
-        "date": "2024/11/08 15:01",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "COIL計畫［國際處意願調查］",
-        "timestamp": "1731035336",
-        "url": "mail_display.php?timestamp=1731035336",
-        "date": "2024/11/08 11:08",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "陳巧惠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5118"
         },
         "attachmentCount": 1
     }
