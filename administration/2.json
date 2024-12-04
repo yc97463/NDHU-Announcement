@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全宣導】再次提醒志學街(中正路) 12月1日換邊停車，請同學記得移動車輛並依告示停放，勿隨意臨停，以免影響交通，遭到拖吊！",
+        "timestamp": "1732977012",
+        "url": "mail_display.php?timestamp=1732977012",
+        "date": "2024/11/30 22:30",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第3次公告】113會計年度結束經費報支注意事項",
         "timestamp": "1732875037",
         "url": "mail_display.php?timestamp=1732875037",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校113年度公文線上簽核系統教育訓練公告，歡迎同仁踴躍參加。",
-        "timestamp": "1732668510",
-        "url": "mail_display.php?timestamp=1732668510",
-        "date": "2024/11/27 08:48",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 1
     }
 ]
