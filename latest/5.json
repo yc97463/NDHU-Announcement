@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1「二手物文化與空間」成果展-「再生」",
+        "timestamp": "1733103091",
+        "url": "mail_display.php?timestamp=1733103091",
+        "date": "2024/12/02 09:31",
+        "department": "臺灣文化學系",
+        "author": {
+            "department": "臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "本校總務處(事務組) 校務基金助理 徵才公告",
         "timestamp": "1733101850",
         "url": "mail_display.php?timestamp=1733101850",
@@ -194,19 +208,5 @@
             "phone": "6514"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】113-1學期應屆畢業生離校領取學位證書公告",
-        "timestamp": "1732863724",
-        "url": "mail_display.php?timestamp=1732863724",
-        "date": "2024/11/29 15:02",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 4
     }
 ]

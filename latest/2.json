@@ -1,5 +1,19 @@
 [
     {
+        "title": "【傑出校友】國立中興大學辦理第29屆傑出校友遴選，請惠予推薦人選。",
+        "timestamp": "1733270426",
+        "url": "mail_display.php?timestamp=1733270426",
+        "date": "2024/12/04 08:00",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1733225365",
         "url": "mail_display.php?timestamp=1733225365",
@@ -194,19 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-2人社院在地社會實踐課程-「神人交流：花蓮廟宇暨神明傳說的探訪」選課說明會 （113.12.11中午12:10）",
-        "timestamp": "1733203626",
-        "url": "mail_display.php?timestamp=1733203626",
-        "date": "2024/12/03 13:27",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 2
     }
 ]
