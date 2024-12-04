@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
+        "timestamp": "1733282892",
+        "url": "mail_display.php?timestamp=1733282892",
+        "date": "2024/12/04 11:28",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "08906233"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動公告】113學年度第1學期『與校長有約』座談會第2次通知【Event Announcement】Welcome to join “Meeting with the President”",
         "timestamp": "1733276107",
         "url": "mail_display.php?timestamp=1733276107",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【2024 Indigenous Knowledge Public Lecture Series】pinhkngyan: Paths taken to recognising , doing and developing Indigenous methodologies ",
-        "timestamp": "1733147744",
-        "url": "mail_display.php?timestamp=1733147744",
-        "date": "2024/12/02 21:55",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "038905710"
-        },
-        "attachmentCount": 3
     }
 ]
