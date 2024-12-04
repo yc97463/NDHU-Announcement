@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】11/1(五)14:00~16:00 績效主題探討-以資源投入產出觀點The study of  performance evaluation  based on the view of production resource input \u0026 output",
+        "timestamp": "1730077492",
+        "url": "mail_display.php?timestamp=1730077492",
+        "date": "2024/10/28 09:04",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 數位時代【AI發展新趨勢】",
         "timestamp": "1729846042",
         "url": "mail_display.php?timestamp=1729846042",
@@ -194,19 +208,5 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113.10.18(五)連貫傑老師演講：資訊工具應用與未來職場趨勢——大學生如何提前做好職涯準備",
-        "timestamp": "1728986153",
-        "url": "mail_display.php?timestamp=1728986153",
-        "date": "2024/10/15 17:55",
-        "department": "經濟學系",
-        "author": {
-            "department": "經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
-        },
-        "attachmentCount": 2
     }
 ]
