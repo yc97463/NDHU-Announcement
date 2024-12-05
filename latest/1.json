@@ -1,5 +1,19 @@
 [
     {
+        "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
+        "timestamp": "1733376191",
+        "url": "mail_display.php?timestamp=1733376191",
+        "date": "2024/12/05 13:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
         "timestamp": "1733371858",
         "url": "mail_display.php?timestamp=1733371858",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
-        "timestamp": "1733282892",
-        "url": "mail_display.php?timestamp=1733282892",
-        "date": "2024/12/04 11:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "08906233"
-        },
-        "attachmentCount": 2
     }
 ]

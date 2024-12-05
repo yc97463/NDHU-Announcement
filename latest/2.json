@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
+        "timestamp": "1733282892",
+        "url": "mail_display.php?timestamp=1733282892",
+        "date": "2024/12/04 11:28",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "08906233"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動】2024/12/10 Trans-speakerism: Voices of Japanese University Professors",
         "timestamp": "1733279007",
         "url": "mail_display.php?timestamp=1733279007",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座",
-        "timestamp": "1733209388",
-        "url": "mail_display.php?timestamp=1733209388",
-        "date": "2024/12/03 15:03",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
     }
 ]
