@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年第20屆歐洲影展電影欣賞：Margherita Hack-The Lady of The Stars/義大利",
+        "timestamp": "1732751702",
+        "url": "mail_display.php?timestamp=1732751702",
+        "date": "2024/11/28 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "影片放映座談會：《孤軍》X《八堵車站事件實境劇》",
         "timestamp": "1732694092",
         "url": "mail_display.php?timestamp=1732694092",
@@ -194,19 +208,5 @@
             "phone": "038905710"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 十二月玩具志工招募中！",
-        "timestamp": "1732523743",
-        "url": "mail_display.php?timestamp=1732523743",
-        "date": "2024/11/25 16:35",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]

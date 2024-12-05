@@ -1,5 +1,47 @@
 [
     {
+        "title": "🎄與怡岑、斑恩、沒有才能一起過聖誕！年底最強學生論壇！東華同學提供跨域學習時數！",
+        "timestamp": "1733380082",
+        "url": "mail_display.php?timestamp=1733380082",
+        "date": "2024/12/05 14:28",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
+        "timestamp": "1733379355",
+        "url": "mail_display.php?timestamp=1733379355",
+        "date": "2024/12/05 14:15",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「教學意見調查表」系統將自12月8日(日)起開放學生填寫 NDHU Teaching Feedback System will open on December 8.",
+        "timestamp": "1733378241",
+        "url": "mail_display.php?timestamp=1733378241",
+        "date": "2024/12/05 13:57",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【停機通知】12/18-12/19臺灣學術倫理教育資源中心網站停機通知",
         "timestamp": "1733376629",
         "url": "mail_display.php?timestamp=1733376629",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📌徵才《2025藝文中心工讀生》招募開始囉！",
-        "timestamp": "1733296702",
-        "url": "mail_display.php?timestamp=1733296702",
-        "date": "2024/12/04 15:18",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 10
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1733293493",
-        "url": "mail_display.php?timestamp=1733293493",
-        "date": "2024/12/04 14:24",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【諮臨系專題演講】跨文化探索與適應之旅：心理學家和研究者的個人和專業成長A journey of cross-cultural exploration and adaptation: Personal and professional growth as a psychologist and researcher",
-        "timestamp": "1733292640",
-        "url": "mail_display.php?timestamp=1733292640",
-        "date": "2024/12/04 14:10",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "諮商與臨床心理學系",
-            "email": "cp@gms.ndhu.edu.tw",
-            "phone": "5632"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "📌徵才《2025藝文中心工讀生》招募開始囉！",
+        "timestamp": "1733296702",
+        "url": "mail_display.php?timestamp=1733296702",
+        "date": "2024/12/04 15:18",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 10
+    },
+    {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1733293493",
+        "url": "mail_display.php?timestamp=1733293493",
+        "date": "2024/12/04 14:24",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【諮臨系專題演講】跨文化探索與適應之旅：心理學家和研究者的個人和專業成長A journey of cross-cultural exploration and adaptation: Personal and professional growth as a psychologist and researcher",
+        "timestamp": "1733292640",
+        "url": "mail_display.php?timestamp=1733292640",
+        "date": "2024/12/04 14:10",
+        "department": "諮商與臨床心理學系",
+        "author": {
+            "department": "諮商與臨床心理學系",
+            "name": "諮商與臨床心理學系",
+            "email": "cp@gms.ndhu.edu.tw",
+            "phone": "5632"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
         "timestamp": "1733284480",
         "url": "mail_display.php?timestamp=1733284480",
@@ -166,47 +208,5 @@
             "phone": "6618"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第2次公告】有關本(113)年12月兼任助理、臨時工及工讀生勞健保異動資料受理期間，因配合會計年度關帳及各類計畫薪資提前審核之期程，加退保提前至113年12月10日(星期二)17時前截止收件。",
-        "timestamp": "1733215090",
-        "url": "mail_display.php?timestamp=1733215090",
-        "date": "2024/12/03 16:38",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動】113-1 Lunchtime Chats! 午餐英語會話時間！！2024 Fall 󠀠",
-        "timestamp": "1733214579",
-        "url": "mail_display.php?timestamp=1733214579",
-        "date": "2024/12/03 16:29",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉知【助教、學員大募集！】12/15 SITCON Hour of Code 免費玩程式💻，全家一起學習無門檻‼️助教與學員招募中‼️",
-        "timestamp": "1733214371",
-        "url": "mail_display.php?timestamp=1733214371",
-        "date": "2024/12/03 16:26",
-        "department": "應用數學系",
-        "author": {
-            "department": "應用數學系",
-            "name": "鐘雅蓉",
-            "email": "ya@gms.ndhu.edu.tw",
-            "phone": "03-8903513"
-        },
-        "attachmentCount": 4
     }
 ]
