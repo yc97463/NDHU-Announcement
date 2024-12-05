@@ -1,5 +1,19 @@
 [
     {
+        "title": "【全民國防訊息】國防部推廣「全民國防應變手冊」相關資訊公告",
+        "timestamp": "1733273506",
+        "url": "mail_display.php?timestamp=1733273506",
+        "date": "2024/12/04 08:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】教育部函以，為有效宣導職場平權理念，勞動部製作《你 就是自己的光》提升職場平權意識之宣傳影片",
         "timestamp": "1733270635",
         "url": "mail_display.php?timestamp=1733270635",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【訊息轉知】國立臺北大學開設「淺談政治傳播」磨課師(MOOCs)線上課程",
-        "timestamp": "1733206009",
-        "url": "mail_display.php?timestamp=1733206009",
-        "date": "2024/12/03 14:06",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
     }
 ]

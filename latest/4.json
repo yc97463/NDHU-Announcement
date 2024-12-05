@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立臺北大學開設「淺談政治傳播」磨課師(MOOCs)線上課程",
+        "timestamp": "1733206009",
+        "url": "mail_display.php?timestamp=1733206009",
+        "date": "2024/12/03 14:06",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】政治大學「圖書資訊學數位碩士在職專班」114學年度招生訊息",
         "timestamp": "1733204477",
         "url": "mail_display.php?timestamp=1733204477",
@@ -194,19 +208,5 @@
             "phone": "038905710"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "台灣電力股份有限公司台北市區營業處用電須知文宣",
-        "timestamp": "1733131915",
-        "url": "mail_display.php?timestamp=1733131915",
-        "date": "2024/12/02 17:31",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 2
     }
 ]
