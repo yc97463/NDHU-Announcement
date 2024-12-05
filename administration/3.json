@@ -1,5 +1,33 @@
 [
     {
+        "title": "113學年度第2學期「學生就學優待減免學雜費」申請公告",
+        "timestamp": "1732707002",
+        "url": "mail_display.php?timestamp=1732707002",
+        "date": "2024/11/27 19:30",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "11/27(三)晚間-11/29(五)西側外環道部份路段封閉公告",
+        "timestamp": "1732704158",
+        "url": "mail_display.php?timestamp=1732704158",
+        "date": "2024/11/27 18:42",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教務處公告--113/12/9-114/1/3申請113-2轉系所注意事項 Flow Chart for Department/Institute Transfer Applications in the Spring(2nd) Semester of the Academic Year 2025(113-2)",
         "timestamp": "1732691894",
         "url": "mail_display.php?timestamp=1732691894",
@@ -180,33 +208,5 @@
             "phone": "6216"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "本校113-1學年校外租賃法律講座開講",
-        "timestamp": "1731977329",
-        "url": "mail_display.php?timestamp=1731977329",
-        "date": "2024/11/19 08:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1731896840",
-        "url": "mail_display.php?timestamp=1731896840",
-        "date": "2024/11/18 10:27",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]

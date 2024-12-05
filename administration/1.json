@@ -1,5 +1,33 @@
 [
     {
+        "title": "【停機通知】12/18-12/19臺灣學術倫理教育資源中心網站停機通知",
+        "timestamp": "1733376629",
+        "url": "mail_display.php?timestamp=1733376629",
+        "date": "2024/12/05 13:30",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
+        "timestamp": "1733376191",
+        "url": "mail_display.php?timestamp=1733376191",
+        "date": "2024/12/05 13:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
         "timestamp": "1733371858",
         "url": "mail_display.php?timestamp=1733371858",
@@ -180,33 +208,5 @@
             "phone": "6375"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】113年度配合會計年度關帳申請【加班費】及【國旅卡補助】事宜",
-        "timestamp": "1733108631",
-        "url": "mail_display.php?timestamp=1733108631",
-        "date": "2024/12/02 11:03",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【教務處公告】提醒任課教師於期末選課前(113/12/16)維護是否公開成績分佈圖功能",
-        "timestamp": "1733103201",
-        "url": "mail_display.php?timestamp=1733103201",
-        "date": "2024/12/02 09:33",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "莊珆芸專員",
-            "email": "registration@gms.ndhu.edu.tw",
-            "phone": "03-8906112--6116"
-        },
-        "attachmentCount": 1
     }
 ]
