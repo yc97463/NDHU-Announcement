@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】「第15屆IIFME中東國際發明展覽會」",
+        "timestamp": "1731400304",
+        "url": "mail_display.php?timestamp=1731400304",
+        "date": "2024/11/12 16:31",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】「2025第三十九屆日本東京創新天才國際發明展」",
         "timestamp": "1731400233",
         "url": "mail_display.php?timestamp=1731400233",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
-        "timestamp": "1730952145",
-        "url": "mail_display.php?timestamp=1730952145",
-        "date": "2024/11/07 12:02",
-        "department": "會計與資訊管理國際學士班",
-        "author": {
-            "department": "會計與資訊管理國際學士班",
-            "name": "林逸潔",
-            "email": "jamielin0902@gms.ndhu.edu.tw",
-            "phone": "03-8903006"
-        },
-        "attachmentCount": 3
     }
 ]
