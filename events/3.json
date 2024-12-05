@@ -1,5 +1,19 @@
 [
     {
+        "title": "敬邀~校園資源回收大作戰之回收變黃金",
+        "timestamp": "1733117076",
+        "url": "mail_display.php?timestamp=1733117076",
+        "date": "2024/12/02 13:24",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "890-3267"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
         "timestamp": "1733111146",
         "url": "mail_display.php?timestamp=1733111146",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Nataorium 泳池怪誕/芬蘭",
-        "timestamp": "1732751704",
-        "url": "mail_display.php?timestamp=1732751704",
-        "date": "2024/11/28 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
     }
 ]
