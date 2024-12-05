@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
+        "timestamp": "1733371858",
+        "url": "mail_display.php?timestamp=1733371858",
+        "date": "2024/12/05 12:10",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季《日安，巴黎》普魯斯特的音樂追尋-美好年代文學沙龍音樂會",
         "timestamp": "1733370549",
         "url": "mail_display.php?timestamp=1733370549",
@@ -194,19 +208,5 @@
             "phone": "08906233"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動】2024/12/10 Trans-speakerism: Voices of Japanese University Professors",
-        "timestamp": "1733279007",
-        "url": "mail_display.php?timestamp=1733279007",
-        "date": "2024/12/04 10:23",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
     }
 ]

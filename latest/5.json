@@ -1,5 +1,19 @@
 [
     {
+        "title": "敬邀~校園資源回收大作戰之回收變黃金",
+        "timestamp": "1733117076",
+        "url": "mail_display.php?timestamp=1733117076",
+        "date": "2024/12/02 13:24",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "890-3267"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
         "timestamp": "1733111146",
         "url": "mail_display.php?timestamp=1733111146",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "人活著！為了什麼？-以靈性的觀點淺談活著的意義與人生的苦難（講師：神仙補習班 丹丹老師)",
-        "timestamp": "1732924502",
-        "url": "mail_display.php?timestamp=1732924502",
-        "date": "2024/11/30 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "黃仕綸",
-            "email": "seanhuang@gms.ndhu.edu.tw",
-            "phone": "6895"
-        },
-        "attachmentCount": 0
     }
 ]
