@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
+        "timestamp": "1733111146",
+        "url": "mail_display.php?timestamp=1733111146",
+        "date": "2024/12/02 11:45",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】農業部林業試驗所「114年寒假實習」開始申請囉~~ 📣 📣",
         "timestamp": "1733109597",
         "url": "mail_display.php?timestamp=1733109597",
@@ -192,20 +206,6 @@
             "name": "黃仕綸",
             "email": "seanhuang@gms.ndhu.edu.tw",
             "phone": "6895"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "教育工作者的「知行合一」探微：以一個多年期教學實踐研究的生成演化為例",
-        "timestamp": "1732924501",
-        "url": "mail_display.php?timestamp=1732924501",
-        "date": "2024/11/30 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
         },
         "attachmentCount": 0
     }

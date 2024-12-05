@@ -1,5 +1,19 @@
 [
     {
+        "title": "【多元文化教育講座】穿克與我相似之人：主體/依賴性實踐的概念、經驗與理論的辯證",
+        "timestamp": "1733187743",
+        "url": "mail_display.php?timestamp=1733187743",
+        "date": "2024/12/03 09:02",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 12/12 第8場 Session 8\t",
         "timestamp": "1733183702",
         "url": "mail_display.php?timestamp=1733183702",
@@ -194,19 +208,5 @@
             "phone": "0988479360"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-1「二手物文化與空間」成果展-「再生」",
-        "timestamp": "1733103091",
-        "url": "mail_display.php?timestamp=1733103091",
-        "date": "2024/12/02 09:31",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 1
     }
 ]

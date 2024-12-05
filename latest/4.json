@@ -1,5 +1,19 @@
 [
     {
+        "title": "電影欣賞:不是你不愛你",
+        "timestamp": "1733183701",
+        "url": "mail_display.php?timestamp=1733183701",
+        "date": "2024/12/03 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【2024 Indigenous Knowledge Public Lecture Series】pinhkngyan: Paths taken to recognising , doing and developing Indigenous methodologies ",
         "timestamp": "1733147744",
         "url": "mail_display.php?timestamp=1733147744",
@@ -192,20 +206,6 @@
             "name": "謝家榛助理",
             "email": "stoven@gms.ndhu.edu.tw",
             "phone": "890-3267"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
-        "timestamp": "1733111146",
-        "url": "mail_display.php?timestamp=1733111146",
-        "date": "2024/12/02 11:45",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3803"
         },
         "attachmentCount": 1
     }
