@@ -1,6 +1,20 @@
 [
     {
         "title": "【徵件】114年度 教育部教學實踐研究計畫(補助上限50萬元)113.12.13.(五)23:59線上收件截止(第二次通知)",
+        "timestamp": "1731480482",
+        "url": "mail_display.php?timestamp=1731480482",
+        "date": "2024/11/13 14:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【徵件】114年度 教育部教學實踐研究計畫(補助上限50萬元)113.12.13.(五)23:59線上收件截止(第二次通知)",
         "timestamp": "1731480465",
         "url": "mail_display.php?timestamp=1731480465",
         "date": "2024/11/13 14:47",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "11月9日上午8-12時壽豐消防隊抽測建築物消防設備公告",
-        "timestamp": "1731027299",
-        "url": "mail_display.php?timestamp=1731027299",
-        "date": "2024/11/08 08:54",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
     }
 ]

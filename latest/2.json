@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停機通知】12/18-12/19臺灣學術倫理教育資源中心網站停機通知",
+        "timestamp": "1733376629",
+        "url": "mail_display.php?timestamp=1733376629",
+        "date": "2024/12/05 13:30",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
         "timestamp": "1733376191",
         "url": "mail_display.php?timestamp=1733376191",
@@ -194,19 +208,5 @@
             "phone": "5632"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
-        "timestamp": "1733284480",
-        "url": "mail_display.php?timestamp=1733284480",
-        "date": "2024/12/04 11:54",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]
