@@ -1,5 +1,19 @@
 [
     {
+        "title": "逢甲大學辦理之「2024校園智財權講座」，歡迎踴躍報名參加。",
+        "timestamp": "1733449559",
+        "url": "mail_display.php?timestamp=1733449559",
+        "date": "2024/12/06 09:45",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1733410654",
         "url": "mail_display.php?timestamp=1733410654",
@@ -194,19 +208,5 @@
             "phone": "03-8903513"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座",
-        "timestamp": "1733209388",
-        "url": "mail_display.php?timestamp=1733209388",
-        "date": "2024/12/03 15:03",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
     }
 ]

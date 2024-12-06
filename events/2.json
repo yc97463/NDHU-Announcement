@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校內講座分享】人工智慧工具應用講座",
+        "timestamp": "1733209388",
+        "url": "mail_display.php?timestamp=1733209388",
+        "date": "2024/12/03 15:03",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 【敬邀參加】113.12.6（五）高教深耕計畫-在地社會實踐課程「在地療癒」成果發表",
         "timestamp": "1733206469",
         "url": "mail_display.php?timestamp=1733206469",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6032"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華夜市（試營運）第三場-即將登場！",
-        "timestamp": "1733127238",
-        "url": "mail_display.php?timestamp=1733127238",
-        "date": "2024/12/02 16:13",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 3
     }
 ]
