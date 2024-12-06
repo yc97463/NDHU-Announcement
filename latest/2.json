@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
+        "timestamp": "1733379355",
+        "url": "mail_display.php?timestamp=1733379355",
+        "date": "2024/12/05 14:15",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「教學意見調查表」系統將自12月8日(日)起開放學生填寫 NDHU Teaching Feedback System will open on December 8.",
         "timestamp": "1733378241",
         "url": "mail_display.php?timestamp=1733378241",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 10
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1733293493",
-        "url": "mail_display.php?timestamp=1733293493",
-        "date": "2024/12/04 14:24",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

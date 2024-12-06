@@ -1,5 +1,19 @@
 [
     {
+        "title": "12/09(一)至114/02/17(一)向晴排球場地及籃球場地部份封閉(第二次)公告",
+        "timestamp": "1733468574",
+        "url": "mail_display.php?timestamp=1733468574",
+        "date": "2024/12/06 15:02",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【特展參訪】留言‧穿說‧再創造──南島服飾裡的訊息與傳遞",
         "timestamp": "1733467560",
         "url": "mail_display.php?timestamp=1733467560",
@@ -194,19 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
-        "timestamp": "1733379355",
-        "url": "mail_display.php?timestamp=1733379355",
-        "date": "2024/12/05 14:15",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
     }
 ]
