@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校內講座分享】人工智慧工具應用講座",
+        "timestamp": "1733209388",
+        "url": "mail_display.php?timestamp=1733209388",
+        "date": "2024/12/03 15:03",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】2025宜得利探索計畫-CAREER DESIGN職場體驗 歡迎報名參加! 📣 📣",
         "timestamp": "1733209135",
         "url": "mail_display.php?timestamp=1733209135",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華電子報 | 2024年11月刊 ",
-        "timestamp": "1733187376",
-        "url": "mail_display.php?timestamp=1733187376",
-        "date": "2024/12/03 08:56",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
