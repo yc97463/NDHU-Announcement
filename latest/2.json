@@ -1,5 +1,19 @@
 [
     {
+        "title": "「教學意見調查表」系統將自12月8日(日)起開放學生填寫 NDHU Teaching Feedback System will open on December 8.",
+        "timestamp": "1733378241",
+        "url": "mail_display.php?timestamp=1733378241",
+        "date": "2024/12/05 13:57",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【停機通知】12/18-12/19臺灣學術倫理教育資源中心網站停機通知",
         "timestamp": "1733376629",
         "url": "mail_display.php?timestamp=1733376629",
@@ -192,20 +206,6 @@
             "name": "陳婉婉",
             "email": "secretariat@gms.ndhu.edu.tw",
             "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【諮臨系專題演講】跨文化探索與適應之旅：心理學家和研究者的個人和專業成長A journey of cross-cultural exploration and adaptation: Personal and professional growth as a psychologist and researcher",
-        "timestamp": "1733292640",
-        "url": "mail_display.php?timestamp=1733292640",
-        "date": "2024/12/04 14:10",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "諮商與臨床心理學系",
-            "email": "cp@gms.ndhu.edu.tw",
-            "phone": "5632"
         },
         "attachmentCount": 1
     }
