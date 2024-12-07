@@ -1,5 +1,19 @@
 [
     {
+        "title": "開箱憲法訴訟座談會-保障人民權利、捍衛憲政民主，你應該更瞭解的憲法訴訟",
+        "timestamp": "1733301925",
+        "url": "mail_display.php?timestamp=1733301925",
+        "date": "2024/12/04 16:45",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "陳助教",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】新北市政府環境保護局「114年度儲備聘用人員/約僱人員公開招考」(113年12月27日截止)",
         "timestamp": "1733299579",
         "url": "mail_display.php?timestamp=1733299579",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【重要】113年度計畫專任人員年終獎金請領，請查照。",
-        "timestamp": "1733220088",
-        "url": "mail_display.php?timestamp=1733220088",
-        "date": "2024/12/03 18:01",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉乃綺",
-            "email": "lnch0202@gms.ndhu.edu.tw",
-            "phone": "6514"
-        },
-        "attachmentCount": 4
     }
 ]
