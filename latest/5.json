@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】113學年度第1學期『與校長有約』座談會第2次通知【Event Announcement】Welcome to join “Meeting with the President”",
+        "timestamp": "1733276107",
+        "url": "mail_display.php?timestamp=1733276107",
+        "date": "2024/12/04 09:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【全民國防訊息】114年上半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1733273643",
         "url": "mail_display.php?timestamp=1733273643",
@@ -194,19 +208,5 @@
             "phone": "＃5262"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": " 【敬邀參加】113.12.6（五）高教深耕計畫-在地社會實踐課程「在地療癒」成果發表",
-        "timestamp": "1733206469",
-        "url": "mail_display.php?timestamp=1733206469",
-        "date": "2024/12/03 14:14",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 1
     }
 ]
