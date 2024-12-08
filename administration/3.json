@@ -1,5 +1,19 @@
 [
     {
+        "title": "[搭車安全宣導]保持情境覺察 維護自身安全",
+        "timestamp": "1732784446",
+        "url": "mail_display.php?timestamp=1732784446",
+        "date": "2024/11/28 17:00",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王小姐",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "11/28(四)-12/6(五)西側外環道施工封閉及替代道路公告",
         "timestamp": "1732777765",
         "url": "mail_display.php?timestamp=1732777765",
@@ -192,20 +206,6 @@
             "name": "許紹峯",
             "email": "hsf113@gms.ndhu.edu.tw",
             "phone": "6361"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】114年寒休事宜",
-        "timestamp": "1732071776",
-        "url": "mail_display.php?timestamp=1732071776",
-        "date": "2024/11/20 11:02",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
         },
         "attachmentCount": 1
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "[CSIE] From Classroom to Competition/Company: Success Stories of Undergraduate Projects",
+        "timestamp": "1733529303",
+        "url": "mail_display.php?timestamp=1733529303",
+        "date": "2024/12/07 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "5026"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】12/13(五) 國立宜蘭大學資訊工程學系 夏至賢教授(線上演講)",
         "timestamp": "1733529302",
         "url": "mail_display.php?timestamp=1733529302",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
-        "timestamp": "1733410654",
-        "url": "mail_display.php?timestamp=1733410654",
-        "date": "2024/12/05 22:57",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 2
     }
 ]
