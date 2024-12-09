@@ -1,5 +1,19 @@
 [
     {
+        "title": "[Hokkaido University] Application for the MEXT Scholarship: IGP special quota is open now",
+        "timestamp": "1733487338",
+        "url": "mail_display.php?timestamp=1733487338",
+        "date": "2024/12/06 20:15",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "📣📣【原資中心-人事徵才】📣📣原住民族學生資源中心誠徵計畫助理1名",
         "timestamp": "1733473329",
         "url": "mail_display.php?timestamp=1733473329",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
-        "timestamp": "1733392835",
-        "url": "mail_display.php?timestamp=1733392835",
-        "date": "2024/12/05 18:00",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]
