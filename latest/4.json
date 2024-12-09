@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校教師辦理產學合作計畫注意事項與最新法規修訂",
+        "timestamp": "1733396923",
+        "url": "mail_display.php?timestamp=1733396923",
+        "date": "2024/12/05 19:08",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "學術服務組",
+            "email": "emma@gms.ndhu.edu.tw",
+            "phone": "6513"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "⭐教育大數據計畫—微學程招生說明會⭐ (管理學院與教育學院專場)  ",
+        "timestamp": "1733393461",
+        "url": "mail_display.php?timestamp=1733393461",
+        "date": "2024/12/05 18:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
         "timestamp": "1733392835",
         "url": "mail_display.php?timestamp=1733392835",
@@ -180,33 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "讓我們一起來推薦【113學年度優良導師】Annual Excellent Mentor Nomination",
-        "timestamp": "1733358301",
-        "url": "mail_display.php?timestamp=1733358301",
-        "date": "2024/12/05 08:25",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵聘專任教師】國立東華大學教育與潛能開發學系徵聘專任助理教授(含)以上1名",
-        "timestamp": "1733355905",
-        "url": "mail_display.php?timestamp=1733355905",
-        "date": "2024/12/05 07:45",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 1
     }
 ]
