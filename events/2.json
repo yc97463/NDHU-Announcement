@@ -1,5 +1,33 @@
 [
     {
+        "title": "獨旅的挑戰與成長──荒野阿拉斯加",
+        "timestamp": "1733529305",
+        "url": "mail_display.php?timestamp=1733529305",
+        "date": "2024/12/07 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "李百中",
+            "email": "bzli@gms.ndhu.edu.tw",
+            "phone": "03-8906673"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年管理學院年節點燈活動",
+        "timestamp": "1733529304",
+        "url": "mail_display.php?timestamp=1733529304",
+        "date": "2024/12/07 07:55",
+        "department": "管理學院 ",
+        "author": {
+            "department": "管理學院",
+            "name": "顏杏如",
+            "email": "carolineyen@gms.ndhu.edu.tw",
+            "phone": "3003"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[CSIE] From Classroom to Competition/Company: Success Stories of Undergraduate Projects",
         "timestamp": "1733529303",
         "url": "mail_display.php?timestamp=1733529303",
@@ -180,33 +208,5 @@
             "phone": "03-8906275"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
-        "timestamp": "1733323534",
-        "url": "mail_display.php?timestamp=1733323534",
-        "date": "2024/12/04 22:45",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
-        "timestamp": "1733282892",
-        "url": "mail_display.php?timestamp=1733282892",
-        "date": "2024/12/04 11:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "08906233"
-        },
-        "attachmentCount": 2
     }
 ]
