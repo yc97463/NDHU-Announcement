@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】各學制學生113-2課程初選事宜  Preliminary Course Selection for Next Semester",
+        "timestamp": "1733363115",
+        "url": "mail_display.php?timestamp=1733363115",
+        "date": "2024/12/05 09:45",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【科學論文競賽】\"Sustainable Ecosystem for Resilient and Inclusive Life in the Digital Era\"",
         "timestamp": "1733362982",
         "url": "mail_display.php?timestamp=1733362982",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【活動公告】113學年度第1學期『與校長有約』座談會第2次通知【Event Announcement】Welcome to join “Meeting with the President”",
-        "timestamp": "1733276107",
-        "url": "mail_display.php?timestamp=1733276107",
-        "date": "2024/12/04 09:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
         },
         "attachmentCount": 3
     }

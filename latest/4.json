@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/12)",
+        "timestamp": "1733445872",
+        "url": "mail_display.php?timestamp=1733445872",
+        "date": "2024/12/06 08:44",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1733410654",
         "url": "mail_display.php?timestamp=1733410654",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【課務組通知】各學制學生113-2課程初選事宜  Preliminary Course Selection for Next Semester",
-        "timestamp": "1733363115",
-        "url": "mail_display.php?timestamp=1733363115",
-        "date": "2024/12/05 09:45",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 1
     }
 ]

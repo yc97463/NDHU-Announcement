@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1733736969",
+        "url": "mail_display.php?timestamp=1733736969",
+        "date": "2024/12/09 17:36",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】行政院修正「國內出差旅費報支要點」部分規定，自114年1月1日起生效",
         "timestamp": "1733733759",
         "url": "mail_display.php?timestamp=1733733759",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】本校113年度「紀念張欽松先生馬拉松獎學金」(受理申請至114.01.03日截止)",
-        "timestamp": "1733659793",
-        "url": "mail_display.php?timestamp=1733659793",
-        "date": "2024/12/08 20:09",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
