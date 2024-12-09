@@ -1,5 +1,19 @@
 [
     {
+        "title": "【科學論文競賽】\"Sustainable Ecosystem for Resilient and Inclusive Life in the Digital Era\"",
+        "timestamp": "1733362982",
+        "url": "mail_display.php?timestamp=1733362982",
+        "date": "2024/12/05 09:43",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "讓我們一起來推薦【113學年度優良導師】Annual Excellent Mentor Nomination",
         "timestamp": "1733358301",
         "url": "mail_display.php?timestamp=1733358301",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【全民國防訊息】114年上半年役男申請服一般替代役甄選作業訊息公告",
-        "timestamp": "1733273643",
-        "url": "mail_display.php?timestamp=1733273643",
-        "date": "2024/12/04 08:54",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]

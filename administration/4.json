@@ -1,5 +1,19 @@
 [
     {
+        "title": "檢送本校「員工協助方案需求暨滿意度調查表」問卷1份，請轉致所屬同仁於本(113)年12月13日前至google表單線上填答",
+        "timestamp": "1732593824",
+        "url": "mail_display.php?timestamp=1732593824",
+        "date": "2024/11/26 12:03",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "慶祝2024世界棒球12強中華隊冠軍，校內廠商優惠活動公告。",
         "timestamp": "1732524896",
         "url": "mail_display.php?timestamp=1732524896",
@@ -192,20 +206,6 @@
             "name": "劉宏銘",
             "email": "hung.liu@gms.ndhu.edu.tw",
             "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "網路貼文上傳照片請自律，避免誤觸法律",
-        "timestamp": "1731591822",
-        "url": "mail_display.php?timestamp=1731591822",
-        "date": "2024/11/14 21:43",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
         },
         "attachmentCount": 0
     }
