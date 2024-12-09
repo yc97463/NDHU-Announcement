@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對",
+        "timestamp": "1732849181",
+        "url": "mail_display.php?timestamp=1732849181",
+        "date": "2024/11/29 10:59",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[搭車安全宣導]保持情境覺察 維護自身安全",
         "timestamp": "1732784446",
         "url": "mail_display.php?timestamp=1732784446",
@@ -194,19 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【出納組公告】出納付款及薪資暨所得稅查詢管理系統登入連結說明",
-        "timestamp": "1732082224",
-        "url": "mail_display.php?timestamp=1732082224",
-        "date": "2024/11/20 13:57",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "6361"
-        },
-        "attachmentCount": 1
     }
 ]
