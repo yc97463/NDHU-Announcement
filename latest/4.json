@@ -1,5 +1,75 @@
 [
     {
+        "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
+        "timestamp": "1733379355",
+        "url": "mail_display.php?timestamp=1733379355",
+        "date": "2024/12/05 14:15",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「教學意見調查表」系統將自12月8日(日)起開放學生填寫 NDHU Teaching Feedback System will open on December 8.",
+        "timestamp": "1733378241",
+        "url": "mail_display.php?timestamp=1733378241",
+        "date": "2024/12/05 13:57",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【停機通知】12/18-12/19臺灣學術倫理教育資源中心網站停機通知",
+        "timestamp": "1733376629",
+        "url": "mail_display.php?timestamp=1733376629",
+        "date": "2024/12/05 13:30",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
+        "timestamp": "1733376191",
+        "url": "mail_display.php?timestamp=1733376191",
+        "date": "2024/12/05 13:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
+        "timestamp": "1733371858",
+        "url": "mail_display.php?timestamp=1733371858",
+        "date": "2024/12/05 12:10",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季《日安，巴黎》普魯斯特的音樂追尋-美好年代文學沙龍音樂會",
         "timestamp": "1733370549",
         "url": "mail_display.php?timestamp=1733370549",
@@ -138,75 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 10
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1733293493",
-        "url": "mail_display.php?timestamp=1733293493",
-        "date": "2024/12/04 14:24",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【諮臨系專題演講】跨文化探索與適應之旅：心理學家和研究者的個人和專業成長A journey of cross-cultural exploration and adaptation: Personal and professional growth as a psychologist and researcher",
-        "timestamp": "1733292640",
-        "url": "mail_display.php?timestamp=1733292640",
-        "date": "2024/12/04 14:10",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "諮商與臨床心理學系",
-            "email": "cp@gms.ndhu.edu.tw",
-            "phone": "5632"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
-        "timestamp": "1733284480",
-        "url": "mail_display.php?timestamp=1733284480",
-        "date": "2024/12/04 11:54",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
-        "timestamp": "1733282892",
-        "url": "mail_display.php?timestamp=1733282892",
-        "date": "2024/12/04 11:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "08906233"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動】2024/12/10 Trans-speakerism: Voices of Japanese University Professors",
-        "timestamp": "1733279007",
-        "url": "mail_display.php?timestamp=1733279007",
-        "date": "2024/12/04 10:23",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
     }
 ]
