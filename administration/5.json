@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校113-1學年校外租賃法律講座開講",
+        "timestamp": "1731977329",
+        "url": "mail_display.php?timestamp=1731977329",
+        "date": "2024/11/19 08:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1731896840",
         "url": "mail_display.php?timestamp=1731896840",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第1次通知)",
-        "timestamp": "1731377345",
-        "url": "mail_display.php?timestamp=1731377345",
-        "date": "2024/11/12 10:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 7
     }
 ]

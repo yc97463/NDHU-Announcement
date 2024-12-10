@@ -1,5 +1,19 @@
 [
     {
+        "title": "第二次公告：113-1「花蓮聖誕魅力，東華學生專屬專車服務」名額有限，快來報名!!",
+        "timestamp": "1733709799",
+        "url": "mail_display.php?timestamp=1733709799",
+        "date": "2024/12/09 10:03",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "0982800128"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【亭午風起，有詩東華】113-1 英詩小講堂 12/18 第7場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 7",
         "timestamp": "1733702101",
         "url": "mail_display.php?timestamp=1733702101",
@@ -194,19 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】歐盟新伊拉斯莫斯計畫暨聯合碩士 EMJM 獎學金說明會",
-        "timestamp": "1733488131",
-        "url": "mail_display.php?timestamp=1733488131",
-        "date": "2024/12/06 20:28",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]

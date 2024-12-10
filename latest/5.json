@@ -1,5 +1,33 @@
 [
     {
+        "title": "【Student Dormitory】– Fa11 Semester Academic Year 113 (2024-2025) Reminder of Closing of Winter Dormitory",
+        "timestamp": "1733709039",
+        "url": "mail_display.php?timestamp=1733709039",
+        "date": "2024/12/09 09:50",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【學生宿舍】113學年度學生宿舍寒假關閉注意事項",
+        "timestamp": "1733708967",
+        "url": "mail_display.php?timestamp=1733708967",
+        "date": "2024/12/09 09:49",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【亭午風起，有詩東華】113-1 英詩小講堂 12/18 第7場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 7",
         "timestamp": "1733702101",
         "url": "mail_display.php?timestamp=1733702101",
@@ -178,34 +206,6 @@
             "name": "鄒采晏",
             "email": "tsai_yen@gms.ndhu.edu.tw",
             "phone": "038905243"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "幼教系114級教學實習成果展【奇幻腦力島】",
-        "timestamp": "1733529307",
-        "url": "mail_display.php?timestamp=1733529307",
-        "date": "2024/12/07 07:55",
-        "department": "花師教育學院 幼兒教育學系",
-        "author": {
-            "department": "花師教育學院 幼兒教育學系",
-            "name": "蕭羽芩",
-            "email": "kay200128@gms.ndhu.edu.tw",
-            "phone": "5266"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《黑潮尋鯨》海上調查秘辛",
-        "timestamp": "1733529306",
-        "url": "mail_display.php?timestamp=1733529306",
-        "date": "2024/12/07 07:55",
-        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-        "author": {
-            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-            "name": "李百中",
-            "email": "bzli@gms.ndhu.edu.tw",
-            "phone": "03-8906673"
         },
         "attachmentCount": 0
     }
