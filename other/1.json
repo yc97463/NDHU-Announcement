@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役體檢訊息】花蓮縣114年1月役男徵兵代檢開放申請公告",
+        "timestamp": "1733816311",
+        "url": "mail_display.php?timestamp=1733816311",
+        "date": "2024/12/10 15:38",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【訊息轉知】國立陽明交通大學開設數位課程─「性與醫學」",
         "timestamp": "1733801547",
         "url": "mail_display.php?timestamp=1733801547",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【全民國防訊息】114年上半年役男申請服一般替代役甄選作業訊息公告",
-        "timestamp": "1733273643",
-        "url": "mail_display.php?timestamp=1733273643",
-        "date": "2024/12/04 08:54",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役體檢訊息】花蓮縣114年1月役男徵兵代檢開放申請公告",
+        "timestamp": "1733816311",
+        "url": "mail_display.php?timestamp=1733816311",
+        "date": "2024/12/10 15:38",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
         "timestamp": "1733808527",
         "url": "mail_display.php?timestamp=1733808527",
@@ -192,20 +206,6 @@
             "name": "蔣慧姝",
             "email": "huishu@gms.ndhu.edu.tw",
             "phone": "038905556"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Cultural Food exchange(第七場)",
-        "timestamp": "1733788527",
-        "url": "mail_display.php?timestamp=1733788527",
-        "date": "2024/12/10 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
         },
         "attachmentCount": 0
     }
