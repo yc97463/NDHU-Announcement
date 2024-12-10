@@ -1,5 +1,33 @@
 [
     {
+        "title": "【訊息轉知】國立陽明交通大學開設數位課程─「性與醫學」",
+        "timestamp": "1733801547",
+        "url": "mail_display.php?timestamp=1733801547",
+        "date": "2024/12/10 11:32",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【訊息轉知】國立陽明交通大學開設數位課程─「解鎖大腦，腦力全開」",
+        "timestamp": "1733801348",
+        "url": "mail_display.php?timestamp=1733801348",
+        "date": "2024/12/10 11:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第3次通知)",
         "timestamp": "1733797949",
         "url": "mail_display.php?timestamp=1733797949",
@@ -178,34 +206,6 @@
             "name": "陳雅芳",
             "email": "mayachen@gms.ndhu.edu.tw",
             "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原來你耶在這——原民院四系聯合耶趴",
-        "timestamp": "1733788525",
-        "url": "mail_display.php?timestamp=1733788525",
-        "date": "2024/12/10 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "劉安怡：411196008@gms.ndhu.edu.tw  洪于珊：411196004@gms.ndhu.edu.tw",
-            "phone": "劉安怡：0905660609洪于珊：0961533602"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【光電系系學會】十系聯合耶趴【限系學會工作人員報名】",
-        "timestamp": "1733788524",
-        "url": "mail_display.php?timestamp=1733788524",
-        "date": "2024/12/10 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": {
-            "department": "理工學院 光電工程學系",
-            "name": "劉碧純",
-            "email": "sun@gms.ndhu.edu.tw",
-            "phone": "3182"
         },
         "attachmentCount": 0
     }

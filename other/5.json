@@ -1,5 +1,33 @@
 [
     {
+        "title": "人社一館電梯1變頻器故障停用說明。",
+        "timestamp": "1731594776",
+        "url": "mail_display.php?timestamp=1731594776",
+        "date": "2024/11/14 22:32",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【海上陸上颱風警報】「天兔颱風」海上陸上警報已經發布，請注意！",
+        "timestamp": "1731578859",
+        "url": "mail_display.php?timestamp=1731578859",
+        "date": "2024/11/14 18:07",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "陳芳甫",
+            "email": "a779563@gms.ndhu.edu.tw",
+            "phone": "6224"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】逢甲大學運輸與物流學系113年12月5日至6日辦理「運輸物流展暨就業博覽會」🚆",
         "timestamp": "1731576518",
         "url": "mail_display.php?timestamp=1731576518",
@@ -178,34 +206,6 @@
             "name": "王立凡",
             "email": "lfwang@gms.ndhu.edu.tw",
             "phone": "8906422"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【實習】文化部文化資產局1916工坊「2025寒假以工換技實習徵選」(113年12月14日截止)",
-        "timestamp": "1731383713",
-        "url": "mail_display.php?timestamp=1731383713",
-        "date": "2024/11/12 11:55",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【訊息轉知】【NUST教學工作圈】2024跨校雙語TA增能工作坊線上場",
-        "timestamp": "1731375761",
-        "url": "mail_display.php?timestamp=1731375761",
-        "date": "2024/11/12 09:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
         },
         "attachmentCount": 3
     }
