@@ -1,5 +1,19 @@
 [
     {
+        "title": "支持身心健康的要素",
+        "timestamp": "1733837503",
+        "url": "mail_display.php?timestamp=1733837503",
+        "date": "2024/12/10 21:31",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "從數據中看見教育新未來 教育大數據微學程說明會等你參加",
         "timestamp": "1733821593",
         "url": "mail_display.php?timestamp=1733821593",
@@ -192,20 +206,6 @@
             "name": "劉碧純",
             "email": "sun@gms.ndhu.edu.tw",
             "phone": "3182"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮臨系113-2學校輔導工作實習課程說明",
-        "timestamp": "1733788523",
-        "url": "mail_display.php?timestamp=1733788523",
-        "date": "2024/12/10 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
         },
         "attachmentCount": 0
     }

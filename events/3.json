@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1幼兒教育學系期末系員大會",
+        "timestamp": "1733788508",
+        "url": "mail_display.php?timestamp=1733788508",
+        "date": "2024/12/10 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系校友講座】借力生成式AI，為你的研究插上翅膀 (慈濟醫學中心 藍陳淯專員)",
         "timestamp": "1733788507",
         "url": "mail_display.php?timestamp=1733788507",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[鴻海講座]就在星期四(12/12)，陳美伶董事長蒞校分享台灣的地方創生",
-        "timestamp": "1733712507",
-        "url": "mail_display.php?timestamp=1733712507",
-        "date": "2024/12/09 10:48",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 2
     }
 ]
