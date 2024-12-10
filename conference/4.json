@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
+        "timestamp": "1731572526",
+        "url": "mail_display.php?timestamp=1731572526",
+        "date": "2024/11/14 16:22",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【永續講座】「氣候金融與科技創新」 11/26 侯介澤老師主講",
+        "timestamp": "1731568672",
+        "url": "mail_display.php?timestamp=1731568672",
+        "date": "2024/11/14 15:17",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【演講訊息】11/21 (四) 10:10-12:00共融與創新：混合實境技術中的設計探索",
         "timestamp": "1731560824",
         "url": "mail_display.php?timestamp=1731560824",
@@ -180,33 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "就在明天11/6(三) 數位時代【AI發展新趨勢】講座活動",
-        "timestamp": "1730742553",
-        "url": "mail_display.php?timestamp=1730742553",
-        "date": "2024/11/05 01:49",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【研討會】第四屆原住民族發展與社會工作研討會:體制與發展",
-        "timestamp": "1730705166",
-        "url": "mail_display.php?timestamp=1730705166",
-        "date": "2024/11/04 15:26",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
     }
 ]
