@@ -1,5 +1,145 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1733736969",
+        "url": "mail_display.php?timestamp=1733736969",
+        "date": "2024/12/09 17:36",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】行政院修正「國內出差旅費報支要點」部分規定，自114年1月1日起生效",
+        "timestamp": "1733733759",
+        "url": "mail_display.php?timestamp=1733733759",
+        "date": "2024/12/09 16:42",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "東華夜市（試營運）第四場就在明天！",
+        "timestamp": "1733733075",
+        "url": "mail_display.php?timestamp=1733733075",
+        "date": "2024/12/09 16:31",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "(第二次公告)中國青年救國團「114年青年節表揚大專優秀青年遴選」校內申請收件即日起至113年12月27日(五)中午12:00收件截止",
+        "timestamp": "1733730619",
+        "url": "mail_display.php?timestamp=1733730619",
+        "date": "2024/12/09 15:50",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "038906236"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "𝄞♬國立東華大學音樂學系【室內樂之夜II】音樂會",
+        "timestamp": "1733727178",
+        "url": "mail_display.php?timestamp=1733727178",
+        "date": "2024/12/09 14:52",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "⭐教育大數據計畫—微學程招生說明會⭐ (管理學院與教育學院專場)  ",
+        "timestamp": "1733723891",
+        "url": "mail_display.php?timestamp=1733723891",
+        "date": "2024/12/09 13:58",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
+        "timestamp": "1733723768",
+        "url": "mail_display.php?timestamp=1733723768",
+        "date": "2024/12/09 13:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "📣📣【原資中心-人事徵才】📣📣原住民族學生資源中心誠徵計畫助理2名【12/9修正增加名額】",
+        "timestamp": "1733723525",
+        "url": "mail_display.php?timestamp=1733723525",
+        "date": "2024/12/09 13:52",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林佳儀",
+            "email": "tipus1120103@gms.ndhu.edu.tw",
+            "phone": "5718"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "轉知數位發展部「電子簽章法釋疑與應用參考指引」1式，請參閱。",
+        "timestamp": "1733723306",
+        "url": "mail_display.php?timestamp=1733723306",
+        "date": "2024/12/09 13:48",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "系統組",
+            "email": "ccsys@gms.ndhu.edu.tw",
+            "phone": "6756"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【健康促進活動】12/13日免費流感與新冠疫苗施打名額已額滿，另開放現場報名服務，數量有限，不要錯過喔!",
+        "timestamp": "1733712513",
+        "url": "mail_display.php?timestamp=1733712513",
+        "date": "2024/12/09 10:48",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[鴻海講座]就在星期四(12/12)，陳美伶董事長蒞校分享台灣的地方創生",
         "timestamp": "1733712507",
         "url": "mail_display.php?timestamp=1733712507",
@@ -66,146 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】本校113年度「紀念張欽松先生馬拉松獎學金」(受理申請至114.01.03日截止)",
-        "timestamp": "1733659793",
-        "url": "mail_display.php?timestamp=1733659793",
-        "date": "2024/12/08 20:09",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統第二階段驗收測試（啟用閘門）第二次公告",
-        "timestamp": "1733623914",
-        "url": "mail_display.php?timestamp=1733623914",
-        "date": "2024/12/08 10:11",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：The Tuseday Club星期二烹飪課/瑞典",
-        "timestamp": "1733615704",
-        "url": "mail_display.php?timestamp=1733615704",
-        "date": "2024/12/08 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Runner/立陶宛",
-        "timestamp": "1733615703",
-        "url": "mail_display.php?timestamp=1733615703",
-        "date": "2024/12/08 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：The Kiss 戰火下的吻/丹麥",
-        "timestamp": "1733615702",
-        "url": "mail_display.php?timestamp=1733615702",
-        "date": "2024/12/08 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "電影欣賞:天堂之約",
-        "timestamp": "1733615701",
-        "url": "mail_display.php?timestamp=1733615701",
-        "date": "2024/12/08 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台北市貴州同鄉會113年獎學金 (限祖籍貴州)",
-        "timestamp": "1733591199",
-        "url": "mail_display.php?timestamp=1733591199",
-        "date": "2024/12/08 01:06",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】靜宜大學「2025外語學院全國研究生聯合論文發表會暨研究論壇徵稿",
-        "timestamp": "1733581443",
-        "url": "mail_display.php?timestamp=1733581443",
-        "date": "2024/12/07 22:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統第二階段驗收測試（啟用閘門）公告",
-        "timestamp": "1733536668",
-        "url": "mail_display.php?timestamp=1733536668",
-        "date": "2024/12/07 09:57",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024秋季族文面對面系列講座(三)",
-        "timestamp": "1733529310",
-        "url": "mail_display.php?timestamp=1733529310",
-        "date": "2024/12/07 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "sumay@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
         },
         "attachmentCount": 0
     }
