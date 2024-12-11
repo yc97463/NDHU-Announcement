@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校內講座分享】人工智慧工具應用講座，線上會議網址(第三次公告)",
+        "timestamp": "1733894668",
+        "url": "mail_display.php?timestamp=1733894668",
+        "date": "2024/12/11 13:24",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【三創教學 x 英語自煮健康管理】講座 12/12 (四)：歲末為你加油—好油的健康奇蹟",
         "timestamp": "1733883429",
         "url": "mail_display.php?timestamp=1733883429",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-1【Follow 當代原住民族部落議題系列講座】轉型正義的實踐：平埔族的修法訴求與未來路徑",
-        "timestamp": "1733817858",
-        "url": "mail_display.php?timestamp=1733817858",
-        "date": "2024/12/10 16:04",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]
