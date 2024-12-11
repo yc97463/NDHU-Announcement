@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1學期-演講公告-第九場(校友卓越講座)】工作經驗分享",
+        "timestamp": "1733788504",
+        "url": "mail_display.php?timestamp=1733788504",
+        "date": "2024/12/10 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " 保障人民權利、捍衛憲政民主，你應該更瞭解的憲法訴訟座談會",
         "timestamp": "1733788503",
         "url": "mail_display.php?timestamp=1733788503",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[鴻海講座]就在星期四(12/12)，陳美伶董事長蒞校分享台灣的地方創生",
-        "timestamp": "1733712507",
-        "url": "mail_display.php?timestamp=1733712507",
-        "date": "2024/12/09 10:48",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 2
     }
 ]
