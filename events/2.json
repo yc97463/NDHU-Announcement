@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1經濟學系碩士班專題報告(A場)",
+        "timestamp": "1733874907",
+        "url": "mail_display.php?timestamp=1733874907",
+        "date": "2024/12/11 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": {
+            "department": "人文社會科學學院 經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "法律學系專題講座-蘭嶼土地利用的傳統、現在與未來",
         "timestamp": "1733874906",
         "url": "mail_display.php?timestamp=1733874906",
@@ -192,20 +206,6 @@
             "name": "林淑玲",
             "email": "shuling@gms.ndhu.edu.tw",
             "phone": "3204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學音樂學系【室內樂之夜II】",
-        "timestamp": "1733788532",
-        "url": "mail_display.php?timestamp=1733788532",
-        "date": "2024/12/10 07:55",
-        "department": "藝術學院 音樂學系",
-        "author": {
-            "department": "藝術學院 音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
         },
         "attachmentCount": 0
     }
