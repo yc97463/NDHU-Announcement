@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國際交流活動】北京語言大學 第十届台灣高校傑出青年北京考察團",
+        "timestamp": "1733999992",
+        "url": "mail_display.php?timestamp=1733999992",
+        "date": "2024/12/12 18:39",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【閱讀科技學程講座】",
         "timestamp": "1733983514",
         "url": "mail_display.php?timestamp=1733983514",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座，線上會議網址(第三次公告)",
-        "timestamp": "1733894668",
-        "url": "mail_display.php?timestamp=1733894668",
-        "date": "2024/12/11 13:24",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 2
     }
 ]
