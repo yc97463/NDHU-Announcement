@@ -1,5 +1,19 @@
 [
     {
+        "title": "【專題演講】12/13(五)_Robot as a Service (RaaS)",
+        "timestamp": "1733874905",
+        "url": "mail_display.php?timestamp=1733874905",
+        "date": "2024/12/11 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【社會系專題演講】1131218張明慧演講：「飛微星上的線線事件」談情感與關係",
         "timestamp": "1733874904",
         "url": "mail_display.php?timestamp=1733874904",
@@ -194,19 +208,5 @@
             "phone": "3803"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【訊息轉知】國立陽明交通大學開設數位課程─「性與醫學」",
-        "timestamp": "1733801547",
-        "url": "mail_display.php?timestamp=1733801547",
-        "date": "2024/12/10 11:32",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
