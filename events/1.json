@@ -1,5 +1,33 @@
 [
     {
+        "title": "【閱讀科技學程講座】",
+        "timestamp": "1733983514",
+        "url": "mail_display.php?timestamp=1733983514",
+        "date": "2024/12/12 14:05",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "王凰貞",
+            "email": "411188037@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "東華大學防制藥物濫用、防範詐騙、交通安全暨賃居安全教育宣導活動",
+        "timestamp": "1733982721",
+        "url": "mail_display.php?timestamp=1733982721",
+        "date": "2024/12/12 13:52",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "爭取實作金與獎金【第二期徵件開始】2024創新創意實踐提案競賽，亦可結合專題提案！",
         "timestamp": "1733980990",
         "url": "mail_display.php?timestamp=1733980990",
@@ -178,34 +206,6 @@
             "name": "林佩瑤",
             "email": "peiyao@gms.ndhu.edu.tw",
             "phone": "6013"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【三創教學 x 英語自煮健康管理】講座 12/12 (四)：歲末為你加油—好油的健康奇蹟",
-        "timestamp": "1733883429",
-        "url": "mail_display.php?timestamp=1733883429",
-        "date": "2024/12/11 10:17",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對(第二次公告)",
-        "timestamp": "1733881990",
-        "url": "mail_display.php?timestamp=1733881990",
-        "date": "2024/12/11 09:53",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
         },
         "attachmentCount": 2
     }

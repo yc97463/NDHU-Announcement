@@ -1,5 +1,33 @@
 [
     {
+        "title": "勿開啟標題為：'xxx教授 查 收'之信件",
+        "timestamp": "1733983536",
+        "url": "mail_display.php?timestamp=1733983536",
+        "date": "2024/12/12 14:05",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "6747"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【第2次公告】本校113學年度教職員工歳末聯歡活動餐會出席意願調查公告。",
+        "timestamp": "1733982751",
+        "url": "mail_display.php?timestamp=1733982751",
+        "date": "2024/12/12 13:52",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年度大專校院獎助生團體保險加保事宜",
         "timestamp": "1733901428",
         "url": "mail_display.php?timestamp=1733901428",
@@ -178,34 +206,6 @@
             "name": "陳怡秀",
             "email": "yishoue@gms.ndhu.edu.tw",
             "phone": "6212"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統第二階段驗收測試（啟用閘門）第二次公告",
-        "timestamp": "1733623914",
-        "url": "mail_display.php?timestamp=1733623914",
-        "date": "2024/12/08 10:11",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統第二階段驗收測試（啟用閘門）公告",
-        "timestamp": "1733536668",
-        "url": "mail_display.php?timestamp=1733536668",
-        "date": "2024/12/07 09:57",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 1
     }
