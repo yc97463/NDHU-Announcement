@@ -1,5 +1,131 @@
 [
     {
+        "title": "法律學系專題講座-蘭嶼土地利用的傳統、現在與未來",
+        "timestamp": "1733874906",
+        "url": "mail_display.php?timestamp=1733874906",
+        "date": "2024/12/11 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "陳雅慧",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【專題演講】12/13(五)_Robot as a Service (RaaS)",
+        "timestamp": "1733874905",
+        "url": "mail_display.php?timestamp=1733874905",
+        "date": "2024/12/11 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【社會系專題演講】1131218張明慧演講：「飛微星上的線線事件」談情感與關係",
+        "timestamp": "1733874904",
+        "url": "mail_display.php?timestamp=1733874904",
+        "date": "2024/12/11 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "陳欣(email：41104B024@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "公共行政學系113學年度第1學期-期末系員大會暨書卷獎頒獎",
+        "timestamp": "1733874903",
+        "url": "mail_display.php?timestamp=1733874903",
+        "date": "2024/12/11 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "文化永續：法律X SDGs咖啡論壇",
+        "timestamp": "1733874902",
+        "url": "mail_display.php?timestamp=1733874902",
+        "date": "2024/12/11 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "朱璽恩 0921689326"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1經濟學系碩士班專題報告(B場)",
+        "timestamp": "1733874901",
+        "url": "mail_display.php?timestamp=1733874901",
+        "date": "2024/12/11 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": {
+            "department": "人文社會科學學院 經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【校內講座分享】人工智慧工具應用講座(第二次公告)",
+        "timestamp": "1733874413",
+        "url": "mail_display.php?timestamp=1733874413",
+        "date": "2024/12/11 07:46",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
+        "timestamp": "1733844995",
+        "url": "mail_display.php?timestamp=1733844995",
+        "date": "2024/12/10 23:36",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "支持身心健康的要素",
+        "timestamp": "1733837503",
+        "url": "mail_display.php?timestamp=1733837503",
+        "date": "2024/12/10 21:31",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "從數據中看見教育新未來 教育大數據微學程說明會等你參加",
         "timestamp": "1733821593",
         "url": "mail_display.php?timestamp=1733821593",
@@ -80,132 +206,6 @@
             "name": "張純倩",
             "email": "asd963741@gms.ndhu.edu.tw",
             "phone": "03-8905168"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "校友卓越講座之申請國外研究所心得分享會",
-        "timestamp": "1733788531",
-        "url": "mail_display.php?timestamp=1733788531",
-        "date": "2024/12/10 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "03-8903007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "曾珍珍教授紀念講座\u0026楊牧文學講座-翻譯與創作：以文學和語言素養提升生存競爭力",
-        "timestamp": "1733788530",
-        "url": "mail_display.php?timestamp=1733788530",
-        "date": "2024/12/10 07:55",
-        "department": "人文社會科學學院 英美語文學系",
-        "author": {
-            "department": "人文社會科學學院 英美語文學系",
-            "name": "顏余珊",
-            "email": "shanshan221@gms.ndhu.edu.tw",
-            "phone": "03-8905292"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心電影賞析-隔離島",
-        "timestamp": "1733788529",
-        "url": "mail_display.php?timestamp=1733788529",
-        "date": "2024/12/10 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "陳奕錚",
-            "email": "temp1076@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.12.15教行系專題演講~台東海端國小徐凱齡校長",
-        "timestamp": "1733788528",
-        "url": "mail_display.php?timestamp=1733788528",
-        "date": "2024/12/10 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Cultural Food exchange(第七場)",
-        "timestamp": "1733788527",
-        "url": "mail_display.php?timestamp=1733788527",
-        "date": "2024/12/10 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-BBQ(第六場)",
-        "timestamp": "1733788526",
-        "url": "mail_display.php?timestamp=1733788526",
-        "date": "2024/12/10 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原來你耶在這——原民院四系聯合耶趴",
-        "timestamp": "1733788525",
-        "url": "mail_display.php?timestamp=1733788525",
-        "date": "2024/12/10 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "劉安怡：411196008@gms.ndhu.edu.tw  洪于珊：411196004@gms.ndhu.edu.tw",
-            "phone": "劉安怡：0905660609洪于珊：0961533602"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【光電系系學會】十系聯合耶趴【限系學會工作人員報名】",
-        "timestamp": "1733788524",
-        "url": "mail_display.php?timestamp=1733788524",
-        "date": "2024/12/10 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": {
-            "department": "理工學院 光電工程學系",
-            "name": "劉碧純",
-            "email": "sun@gms.ndhu.edu.tw",
-            "phone": "3182"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮臨系113-2學校輔導工作實習課程說明",
-        "timestamp": "1733788523",
-        "url": "mail_display.php?timestamp=1733788523",
-        "date": "2024/12/10 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
         },
         "attachmentCount": 0
     }
