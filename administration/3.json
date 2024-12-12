@@ -1,5 +1,19 @@
 [
     {
+        "title": "【全民國防訊息】國防部推廣「全民國防應變手冊」相關資訊公告",
+        "timestamp": "1733273506",
+        "url": "mail_display.php?timestamp=1733273506",
+        "date": "2024/12/04 08:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【重要】113年度計畫專任人員年終獎金請領，請查照。",
         "timestamp": "1733220088",
         "url": "mail_display.php?timestamp=1733220088",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要訊息】113年12月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。",
-        "timestamp": "1732864182",
-        "url": "mail_display.php?timestamp=1732864182",
-        "date": "2024/11/29 15:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉乃綺",
-            "email": "lnch0202@gms.ndhu.edu.tw",
-            "phone": "6514"
-        },
-        "attachmentCount": 0
     }
 ]

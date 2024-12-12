@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要訊息】113年12月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。",
+        "timestamp": "1732864182",
+        "url": "mail_display.php?timestamp=1732864182",
+        "date": "2024/11/29 15:09",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "劉乃綺",
+            "email": "lnch0202@gms.ndhu.edu.tw",
+            "phone": "6514"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要通知】113-1學期應屆畢業生離校領取學位證書公告",
         "timestamp": "1732863724",
         "url": "mail_display.php?timestamp=1732863724",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "慶祝2024世界棒球12強中華隊冠軍，校內廠商優惠活動公告。",
-        "timestamp": "1732524896",
-        "url": "mail_display.php?timestamp=1732524896",
-        "date": "2024/11/25 16:54",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 3
     }
 ]

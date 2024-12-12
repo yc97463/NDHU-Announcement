@@ -1,5 +1,19 @@
 [
     {
+        "title": "慶祝2024世界棒球12強中華隊冠軍，校內廠商優惠活動公告。",
+        "timestamp": "1732524896",
+        "url": "mail_display.php?timestamp=1732524896",
+        "date": "2024/11/25 16:54",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "人社一館D側2樓性別友善廁所隔間板改善施工公告",
         "timestamp": "1732505066",
         "url": "mail_display.php?timestamp=1732505066",
@@ -194,19 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【個資保護】個人資料蒐集及使用注意事項",
-        "timestamp": "1731571853",
-        "url": "mail_display.php?timestamp=1731571853",
-        "date": "2024/11/14 16:10",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 1
     }
 ]
