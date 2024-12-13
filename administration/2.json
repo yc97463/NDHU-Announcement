@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1733736969",
+        "url": "mail_display.php?timestamp=1733736969",
+        "date": "2024/12/09 17:36",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】行政院修正「國內出差旅費報支要點」部分規定，自114年1月1日起生效",
         "timestamp": "1733733759",
         "url": "mail_display.php?timestamp=1733733759",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
-        "timestamp": "1733284480",
-        "url": "mail_display.php?timestamp=1733284480",
-        "date": "2024/12/04 11:54",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]
