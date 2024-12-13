@@ -1,5 +1,19 @@
 [
     {
+        "title": "防範一氧化碳中毒，再冷也要打開生命之窗",
+        "timestamp": "1733880150",
+        "url": "mail_display.php?timestamp=1733880150",
+        "date": "2024/12/11 09:22",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113-1經濟學系碩士班專題報告(A場)",
         "timestamp": "1733874907",
         "url": "mail_display.php?timestamp=1733874907",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-1【Follow 當代原住民族部落議題系列講座】轉型正義的實踐：平埔族的修法訴求與未來路徑",
-        "timestamp": "1733817858",
-        "url": "mail_display.php?timestamp=1733817858",
-        "date": "2024/12/10 16:04",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]

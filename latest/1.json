@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教卓敬邀】💡未來智學 十載共創💡東華數位學習10週年智學論壇暨教育大數據成果展",
+        "timestamp": "1734064851",
+        "url": "mail_display.php?timestamp=1734064851",
+        "date": "2024/12/13 12:40",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "洪岱郁",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【人事室公告】113年度配合會計年度關帳【加班費】申請事宜",
         "timestamp": "1734062060",
         "url": "mail_display.php?timestamp=1734062060",
@@ -194,19 +208,5 @@
             "phone": "5512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "湖畔至行政大樓人行步道路燈裝置公告(12/13~12/15)",
-        "timestamp": "1734022096",
-        "url": "mail_display.php?timestamp=1734022096",
-        "date": "2024/12/13 00:48",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]
