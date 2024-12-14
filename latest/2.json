@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
+        "timestamp": "1734055950",
+        "url": "mail_display.php?timestamp=1734055950",
+        "date": "2024/12/13 10:12",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "馬卡學生會交接暨音樂分享會",
         "timestamp": "1734047706",
         "url": "mail_display.php?timestamp=1734047706",
@@ -194,19 +208,5 @@
             "phone": "6747"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【閱讀科技學程講座】",
-        "timestamp": "1733983514",
-        "url": "mail_display.php?timestamp=1733983514",
-        "date": "2024/12/12 14:05",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "王凰貞",
-            "email": "411188037@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 1
     }
 ]

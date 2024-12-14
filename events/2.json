@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年第20屆歐洲影展電影欣賞：Dangerous Gentlement/波蘭",
+        "timestamp": "1734047701",
+        "url": "mail_display.php?timestamp=1734047701",
+        "date": "2024/12/13 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "5512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國際交流活動】北京語言大學 第十届台灣高校傑出青年北京考察團",
         "timestamp": "1733999992",
         "url": "mail_display.php?timestamp=1733999992",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "📊讓你成為教育大數據人才 詳情請見招生說明會",
-        "timestamp": "1733909505",
-        "url": "mail_display.php?timestamp=1733909505",
-        "date": "2024/12/11 17:31",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

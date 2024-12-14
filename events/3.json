@@ -1,5 +1,19 @@
 [
     {
+        "title": "📊讓你成為教育大數據人才 詳情請見招生說明會",
+        "timestamp": "1733909505",
+        "url": "mail_display.php?timestamp=1733909505",
+        "date": "2024/12/11 17:31",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【校內講座分享】人工智慧工具應用講座，線上會議網址(第三次公告)",
         "timestamp": "1733894668",
         "url": "mail_display.php?timestamp=1733894668",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【語言中心活動通知Notice】原定12/11進行的亭午風起第6場延至12/12(四)中午舉行",
-        "timestamp": "1733819320",
-        "url": "mail_display.php?timestamp=1733819320",
-        "date": "2024/12/10 16:28",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]
