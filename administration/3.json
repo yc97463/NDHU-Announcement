@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1733293493",
+        "url": "mail_display.php?timestamp=1733293493",
+        "date": "2024/12/04 14:24",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
         "timestamp": "1733284480",
         "url": "mail_display.php?timestamp=1733284480",
@@ -192,20 +206,6 @@
             "name": "蕭澤宇",
             "email": "zyhsiao@gms.ndhu.edu.tw",
             "phone": "6727"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【交通安全宣導】再次提醒志學街(中正路) 12月1日換邊停車，請同學記得移動車輛並依告示停放，勿隨意臨停，以免影響交通，遭到拖吊！",
-        "timestamp": "1732977012",
-        "url": "mail_display.php?timestamp=1732977012",
-        "date": "2024/11/30 22:30",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
         },
         "attachmentCount": 0
     }

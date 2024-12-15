@@ -1,5 +1,19 @@
 [
     {
+        "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第二次",
+        "timestamp": "1733794476",
+        "url": "mail_display.php?timestamp=1733794476",
+        "date": "2024/12/10 09:34",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1733736969",
         "url": "mail_display.php?timestamp=1733736969",
@@ -194,19 +208,5 @@
             "phone": "6743"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1733293493",
-        "url": "mail_display.php?timestamp=1733293493",
-        "date": "2024/12/04 14:24",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
