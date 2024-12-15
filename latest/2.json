@@ -1,6 +1,34 @@
 [
     {
         "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
+        "timestamp": "1734055953",
+        "url": "mail_display.php?timestamp=1734055953",
+        "date": "2024/12/13 10:12",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
+        "timestamp": "1734055951",
+        "url": "mail_display.php?timestamp=1734055951",
+        "date": "2024/12/13 10:12",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
         "timestamp": "1734055950",
         "url": "mail_display.php?timestamp=1734055950",
         "date": "2024/12/13 10:12",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【通識】114年全國夏季學院通識課程邀課及課程補助開始受理申請囉~歡迎有興趣老師申請!",
-        "timestamp": "1733984631",
-        "url": "mail_display.php?timestamp=1733984631",
-        "date": "2024/12/12 14:23",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "勿開啟標題為：'xxx教授 查 收'之信件",
-        "timestamp": "1733983536",
-        "url": "mail_display.php?timestamp=1733983536",
-        "date": "2024/12/12 14:05",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "6747"
-        },
-        "attachmentCount": 0
     }
 ]
