@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系暨運籌所】113-1 Language Lounge-BBQ(第六場)",
+        "timestamp": "1733961302",
+        "url": "mail_display.php?timestamp=1733961302",
+        "date": "2024/12/12 07:55",
+        "department": "管理學院 運籌管理研究所",
+        "author": {
+            "department": "管理學院 運籌管理研究所",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度毒化災應變安全防護教育訓練",
         "timestamp": "1733961301",
         "url": "mail_display.php?timestamp=1733961301",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
-        "timestamp": "1733844995",
-        "url": "mail_display.php?timestamp=1733844995",
-        "date": "2024/12/10 23:36",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 2
     }
 ]
