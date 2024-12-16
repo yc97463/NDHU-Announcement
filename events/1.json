@@ -1,5 +1,61 @@
 [
     {
+        "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
+        "timestamp": "1734313591",
+        "url": "mail_display.php?timestamp=1734313591",
+        "date": "2024/12/16 09:46",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3802"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【場地異動】教育大數據微學程說明會地點異動至管院第一講堂B210",
+        "timestamp": "1734312381",
+        "url": "mail_display.php?timestamp=1734312381",
+        "date": "2024/12/16 09:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1【Rikec部落參訪】南澳Qalang Rgayung澳花部落",
+        "timestamp": "1734306902",
+        "url": "mail_display.php?timestamp=1734306902",
+        "date": "2024/12/16 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【亭午風起，有詩東華】113-1 英詩小講堂 12/25 第8場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 8",
+        "timestamp": "1734306901",
+        "url": "mail_display.php?timestamp=1734306901",
+        "date": "2024/12/16 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1734242340",
         "url": "mail_display.php?timestamp=1734242340",
@@ -152,61 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
-        "timestamp": "1734055951",
-        "url": "mail_display.php?timestamp=1734055951",
-        "date": "2024/12/13 10:12",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
-        "timestamp": "1734055950",
-        "url": "mail_display.php?timestamp=1734055950",
-        "date": "2024/12/13 10:12",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "馬卡學生會交接暨音樂分享會",
-        "timestamp": "1734047706",
-        "url": "mail_display.php?timestamp=1734047706",
-        "date": "2024/12/13 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "411092034@gms.ndhu.edu.tw",
-            "phone": "許競 0906771997"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "馬卡學生會交接暨音樂分享會 （僅限工作人員報名）",
-        "timestamp": "1734047705",
-        "url": "mail_display.php?timestamp=1734047705",
-        "date": "2024/12/13 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "411092034@gms.ndhu.edu.tw",
-            "phone": "許競 0906771997"
-        },
-        "attachmentCount": 0
     }
 ]

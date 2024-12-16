@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】經濟部辦理投資審議司網站異動並變更網址修正事宜。",
+        "timestamp": "1733302480",
+        "url": "mail_display.php?timestamp=1733302480",
+        "date": "2024/12/04 16:54",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1733293493",
         "url": "mail_display.php?timestamp=1733293493",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】資安時數調查，請個人自行上網填報",
-        "timestamp": "1733099925",
-        "url": "mail_display.php?timestamp=1733099925",
-        "date": "2024/12/02 08:38",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
     }
 ]
