@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統驗收測試（啟用閘門）公告",
+        "timestamp": "1733101684",
+        "url": "mail_display.php?timestamp=1733101684",
+        "date": "2024/12/02 09:08",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】資安時數調查，請個人自行上網填報",
         "timestamp": "1733099925",
         "url": "mail_display.php?timestamp=1733099925",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "教務處公告--113/12/9-114/1/3申請113-2轉系所注意事項 Flow Chart for Department/Institute Transfer Applications in the Spring(2nd) Semester of the Academic Year 2025(113-2)",
-        "timestamp": "1732691894",
-        "url": "mail_display.php?timestamp=1732691894",
-        "date": "2024/11/27 15:18",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "莊珆芸專員",
-            "email": "registration@gms.ndhu.edu.tw",
-            "phone": "03-8906112--6116"
-        },
-        "attachmentCount": 5
     }
 ]
