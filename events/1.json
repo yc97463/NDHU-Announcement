@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】推廣活動--自助借書，領好康。",
+        "timestamp": "1734319345",
+        "url": "mail_display.php?timestamp=1734319345",
+        "date": "2024/12/16 11:22",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
         "timestamp": "1734313591",
         "url": "mail_display.php?timestamp=1734313591",
@@ -194,19 +208,5 @@
             "phone": "6931"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
-        "timestamp": "1734055953",
-        "url": "mail_display.php?timestamp=1734055953",
-        "date": "2024/12/13 10:12",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 3
     }
 ]

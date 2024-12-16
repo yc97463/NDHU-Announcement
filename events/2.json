@@ -1,6 +1,20 @@
 [
     {
         "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
+        "timestamp": "1734055953",
+        "url": "mail_display.php?timestamp=1734055953",
+        "date": "2024/12/13 10:12",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
         "timestamp": "1734055951",
         "url": "mail_display.php?timestamp=1734055951",
         "date": "2024/12/13 10:12",
@@ -192,20 +206,6 @@
             "name": "賴姿伶",
             "email": "tll@gms.ndhu.edu.tw",
             "phone": "3804"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚩2024 東華秋藝季： 崑曲．地下．情 — 杜麗娘vs.閻婆惜",
-        "timestamp": "1733961307",
-        "url": "mail_display.php?timestamp=1733961307",
-        "date": "2024/12/12 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
         },
         "attachmentCount": 0
     }
