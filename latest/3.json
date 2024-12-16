@@ -1,5 +1,33 @@
 [
     {
+        "title": "馬卡學生會交接暨音樂分享會",
+        "timestamp": "1734047706",
+        "url": "mail_display.php?timestamp=1734047706",
+        "date": "2024/12/13 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "411092034@gms.ndhu.edu.tw",
+            "phone": "許競 0906771997"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "馬卡學生會交接暨音樂分享會 （僅限工作人員報名）",
+        "timestamp": "1734047705",
+        "url": "mail_display.php?timestamp=1734047705",
+        "date": "2024/12/13 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "411092034@gms.ndhu.edu.tw",
+            "phone": "許競 0906771997"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "三八丑角 . 滑稽美——丑行演員劉稀榮老師的真功夫",
         "timestamp": "1734047704",
         "url": "mail_display.php?timestamp=1734047704",
@@ -180,33 +208,5 @@
             "phone": "038903822"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第2次公告】本校113學年度教職員工歳末聯歡活動餐會出席意願調查公告。",
-        "timestamp": "1733982751",
-        "url": "mail_display.php?timestamp=1733982751",
-        "date": "2024/12/12 13:52",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "東華大學防制藥物濫用、防範詐騙、交通安全暨賃居安全教育宣導活動",
-        "timestamp": "1733982721",
-        "url": "mail_display.php?timestamp=1733982721",
-        "date": "2024/12/12 13:52",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]

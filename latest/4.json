@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第2次公告】本校113學年度教職員工歳末聯歡活動餐會出席意願調查公告。",
+        "timestamp": "1733982751",
+        "url": "mail_display.php?timestamp=1733982751",
+        "date": "2024/12/12 13:52",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "東華大學防制藥物濫用、防範詐騙、交通安全暨賃居安全教育宣導活動",
+        "timestamp": "1733982721",
+        "url": "mail_display.php?timestamp=1733982721",
+        "date": "2024/12/12 13:52",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "爭取實作金與獎金【第二期徵件開始】2024創新創意實踐提案競賽，亦可結合專題提案！",
         "timestamp": "1733980990",
         "url": "mail_display.php?timestamp=1733980990",
@@ -180,33 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "📊讓你成為教育大數據人才 詳情請見招生說明會",
-        "timestamp": "1733909505",
-        "url": "mail_display.php?timestamp=1733909505",
-        "date": "2024/12/11 17:31",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年度大專校院獎助生團體保險加保事宜",
-        "timestamp": "1733901428",
-        "url": "mail_display.php?timestamp=1733901428",
-        "date": "2024/12/11 15:17",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "📊讓你成為教育大數據人才 詳情請見招生說明會",
+        "timestamp": "1733909505",
+        "url": "mail_display.php?timestamp=1733909505",
+        "date": "2024/12/11 17:31",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度大專校院獎助生團體保險加保事宜",
+        "timestamp": "1733901428",
+        "url": "mail_display.php?timestamp=1733901428",
+        "date": "2024/12/11 15:17",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【校內講座分享】人工智慧工具應用講座，線上會議網址(第三次公告)",
         "timestamp": "1733894668",
         "url": "mail_display.php?timestamp=1733894668",
@@ -180,33 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
-        "timestamp": "1733844995",
-        "url": "mail_display.php?timestamp=1733844995",
-        "date": "2024/12/10 23:36",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "支持身心健康的要素",
-        "timestamp": "1733837503",
-        "url": "mail_display.php?timestamp=1733837503",
-        "date": "2024/12/10 21:31",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 2
     }
 ]
