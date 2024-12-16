@@ -1,19 +1,5 @@
 [
     {
-        "title": "防範一氧化碳中毒，再冷也要打開生命之窗",
-        "timestamp": "1733880150",
-        "url": "mail_display.php?timestamp=1733880150",
-        "date": "2024/12/11 09:22",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 4
-    },
-    {
         "title": "12月12日(四)上午10-12時壽豐消防隊於管理學院進行消防搶救演練",
         "timestamp": "1733821300",
         "url": "mail_display.php?timestamp=1733821300",
@@ -206,6 +192,20 @@
             "name": "學術服務組",
             "email": "emma@gms.ndhu.edu.tw",
             "phone": "6513"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
+        "timestamp": "1733379355",
+        "url": "mail_display.php?timestamp=1733379355",
+        "date": "2024/12/05 14:15",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
         },
         "attachmentCount": 0
     }

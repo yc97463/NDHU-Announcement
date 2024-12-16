@@ -1,19 +1,5 @@
 [
     {
-        "title": "有關向晴莊熱泵系統維修進度說明",
-        "timestamp": "1734344032",
-        "url": "mail_display.php?timestamp=1734344032",
-        "date": "2024/12/16 18:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【人事室公告】差勤(刷卡)系統於113年12月17日(二)中午12~13時暫停服務",
         "timestamp": "1734337456",
         "url": "mail_display.php?timestamp=1734337456",
@@ -208,5 +194,19 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": ":教育學院1號電梯編碼器故障停用及12月份校區內客貨電梯進行月保養排程通告",
+        "timestamp": "1734235489",
+        "url": "mail_display.php?timestamp=1734235489",
+        "date": "2024/12/15 12:04",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
     }
 ]

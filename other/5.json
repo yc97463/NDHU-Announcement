@@ -1,19 +1,5 @@
 [
     {
-        "title": "【訊息轉知】教育部青發署114年大專校院職涯輔導成果評選申請",
-        "timestamp": "1732266367",
-        "url": "mail_display.php?timestamp=1732266367",
-        "date": "2024/11/22 17:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 3
-    },
-    {
         "title": "【NUST徵件】114年「特色領域研討會經費補助」申請案，即日起受理申請",
         "timestamp": "1732258266",
         "url": "mail_display.php?timestamp=1732258266",
@@ -208,5 +194,19 @@
             "phone": "6376"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【海上陸上颱風警報】「天兔颱風」海上陸上警報已經發布，請注意！",
+        "timestamp": "1731578859",
+        "url": "mail_display.php?timestamp=1731578859",
+        "date": "2024/11/14 18:07",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "陳芳甫",
+            "email": "a779563@gms.ndhu.edu.tw",
+            "phone": "6224"
+        },
+        "attachmentCount": 3
     }
 ]

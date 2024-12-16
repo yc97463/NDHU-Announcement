@@ -1,19 +1,5 @@
 [
     {
-        "title": "原住民民族學院施工公告",
-        "timestamp": "1733125633",
-        "url": "mail_display.php?timestamp=1733125633",
-        "date": "2024/12/02 15:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許仁泉",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【公告】113年度配合會計年度關帳申請【加班費】及【國旅卡補助】事宜",
         "timestamp": "1733108631",
         "url": "mail_display.php?timestamp=1733108631",
@@ -208,5 +194,19 @@
             "phone": "6512"
         },
         "attachmentCount": 8
+    },
+    {
+        "title": "辦理113-1學年學生敍獎作業通知(Notice of 113-1 Student Honor and Disciplinary)",
+        "timestamp": "1732751599",
+        "url": "mail_display.php?timestamp=1732751599",
+        "date": "2024/11/28 07:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
     }
 ]
