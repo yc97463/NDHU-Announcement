@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】資安時數調查，請個人自行上網填報",
+        "timestamp": "1734331474",
+        "url": "mail_display.php?timestamp=1734331474",
+        "date": "2024/12/16 14:44",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公文系統訂於113年12月17日(二)中午12~13時暫停服務公告",
         "timestamp": "1734326857",
         "url": "mail_display.php?timestamp=1734326857",
@@ -194,19 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【兵役體檢訊息】花蓮縣114年1月役男徵兵代檢開放申請公告",
-        "timestamp": "1733816311",
-        "url": "mail_display.php?timestamp=1733816311",
-        "date": "2024/12/10 15:38",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]
