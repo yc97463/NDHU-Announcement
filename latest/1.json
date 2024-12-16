@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】差勤(刷卡)系統於113年12月17日(二)中午12~13時暫停服務",
+        "timestamp": "1734337456",
+        "url": "mail_display.php?timestamp=1734337456",
+        "date": "2024/12/16 16:24",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華夜市（試營運）最終場就在明天！！！",
         "timestamp": "1734331809",
         "url": "mail_display.php?timestamp=1734331809",
@@ -192,20 +206,6 @@
             "name": "劉宏銘",
             "email": "hung.liu@gms.ndhu.edu.tw",
             "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【花師教育學院 特殊教育學系】Teach For Taiwan 校園講座：深耕花蓮－偏鄉教育的挑戰與機會",
-        "timestamp": "1734220502",
-        "url": "mail_display.php?timestamp=1734220502",
-        "date": "2024/12/15 07:55",
-        "department": "花師教育學院 特殊教育學系",
-        "author": {
-            "department": "花師教育學院 特殊教育學系",
-            "name": "宋玟諭",
-            "email": "411286012@gms.ndhu.edu.tw（吳同學）",
-            "phone": "（03）890-3250"
         },
         "attachmentCount": 0
     }

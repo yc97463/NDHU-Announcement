@@ -1,5 +1,19 @@
 [
     {
+        "title": "【花師教育學院 特殊教育學系】Teach For Taiwan 校園講座：深耕花蓮－偏鄉教育的挑戰與機會",
+        "timestamp": "1734220502",
+        "url": "mail_display.php?timestamp=1734220502",
+        "date": "2024/12/15 07:55",
+        "department": "花師教育學院 特殊教育學系",
+        "author": {
+            "department": "花師教育學院 特殊教育學系",
+            "name": "宋玟諭",
+            "email": "411286012@gms.ndhu.edu.tw（吳同學）",
+            "phone": "（03）890-3250"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【通識】古琴雅集：113學年度上學期東華士人期末發表會",
         "timestamp": "1734220501",
         "url": "mail_display.php?timestamp=1734220501",
@@ -194,19 +208,5 @@
             "phone": "6589"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【校內講座分享】人工智慧工具應用講座 | 陳文盛老師",
-        "timestamp": "1734055953",
-        "url": "mail_display.php?timestamp=1734055953",
-        "date": "2024/12/13 10:12",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 3
     }
 ]
