@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113年暑期課程表（報名時間，詳見課程說明）",
+        "timestamp": "1715820757",
+        "url": "mail_display.php?timestamp=1715820757",
+        "date": "2024/05/16 08:52",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6122~6126"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113學年度(第10屆)大專生金融就業公益專班報名開跑，即日起至5/31止",
         "timestamp": "1715653739",
         "url": "mail_display.php?timestamp=1715653739",
@@ -194,19 +208,5 @@
             "phone": "03-890-6579"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113學年度東華實幼(準公幼)開放報名中(修正版)",
-        "timestamp": "1714555300",
-        "url": "mail_display.php?timestamp=1714555300",
-        "date": "2024/05/01 17:21",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "sonia770120@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 5
     }
 ]
