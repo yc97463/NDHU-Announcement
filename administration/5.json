@@ -1,5 +1,19 @@
 [
     {
+        "title": "辦理113-1學年學生敍獎作業通知(Notice of 113-1 Student Honor and Disciplinary)",
+        "timestamp": "1732751599",
+        "url": "mail_display.php?timestamp=1732751599",
+        "date": "2024/11/28 07:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度第2學期「學生就學優待減免學雜費」申請公告",
         "timestamp": "1732707002",
         "url": "mail_display.php?timestamp=1732707002",
@@ -194,19 +208,5 @@
             "phone": "03-8906741"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "天候轉涼，請加強注意防範一氧化碳中毒",
-        "timestamp": "1731988751",
-        "url": "mail_display.php?timestamp=1731988751",
-        "date": "2024/11/19 11:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 4
     }
 ]
