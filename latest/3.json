@@ -1,5 +1,19 @@
 [
     {
+        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
+        "timestamp": "1734242340",
+        "url": "mail_display.php?timestamp=1734242340",
+        "date": "2024/12/15 13:59",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": ":教育學院1號電梯編碼器故障停用及12月份校區內客貨電梯進行月保養排程通告",
         "timestamp": "1734235489",
         "url": "mail_display.php?timestamp=1734235489",
@@ -194,19 +208,5 @@
             "phone": "6591"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1734061027",
-        "url": "mail_display.php?timestamp=1734061027",
-        "date": "2024/12/13 11:37",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]
