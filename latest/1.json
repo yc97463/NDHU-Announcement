@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
+        "timestamp": "1734491738",
+        "url": "mail_display.php?timestamp=1734491738",
+        "date": "2024/12/18 11:15",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
         "timestamp": "1734487735",
         "url": "mail_display.php?timestamp=1734487735",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "招募『國立東華大學紅十字會青年服務隊』",
-        "timestamp": "1734409071",
-        "url": "mail_display.php?timestamp=1734409071",
-        "date": "2024/12/17 12:17",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
     }
 ]
