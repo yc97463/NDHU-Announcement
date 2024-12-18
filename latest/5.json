@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/16) ",
+        "timestamp": "1734077829",
+        "url": "mail_display.php?timestamp=1734077829",
+        "date": "2024/12/13 16:17",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教卓敬邀】💡未來智學 十載共創💡東華數位學習10週年智學論壇暨教育大數據成果展",
+        "timestamp": "1734064851",
+        "url": "mail_display.php?timestamp=1734064851",
+        "date": "2024/12/13 12:40",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "洪岱郁",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】113年度配合會計年度關帳【加班費】申請事宜",
+        "timestamp": "1734062060",
+        "url": "mail_display.php?timestamp=1734062060",
+        "date": "2024/12/13 11:54",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」開始徵件，歡迎有興趣的老師申請",
         "timestamp": "1734061908",
         "url": "mail_display.php?timestamp=1734061908",
@@ -166,47 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Dangerous Gentlement/波蘭",
-        "timestamp": "1734047701",
-        "url": "mail_display.php?timestamp=1734047701",
-        "date": "2024/12/13 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "湖畔至行政大樓人行步道路燈裝置公告(12/13~12/15)",
-        "timestamp": "1734022096",
-        "url": "mail_display.php?timestamp=1734022096",
-        "date": "2024/12/13 00:48",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【國際交流活動】北京語言大學 第十届台灣高校傑出青年北京考察團",
-        "timestamp": "1733999992",
-        "url": "mail_display.php?timestamp=1733999992",
-        "date": "2024/12/12 18:39",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 2
     }
 ]
