@@ -1,5 +1,19 @@
 [
     {
+        "title": "【保管組公告】本校財產管理系統更改登入網址",
+        "timestamp": "1734504175",
+        "url": "mail_display.php?timestamp=1734504175",
+        "date": "2024/12/18 14:42",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "《That Warm feeling》東華大學爵士樂團期末演出",
         "timestamp": "1734501883",
         "url": "mail_display.php?timestamp=1734501883",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班聯合迎新",
-        "timestamp": "1734479702",
-        "url": "mail_display.php?timestamp=1734479702",
-        "date": "2024/12/18 07:55",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "03-8903007"
         },
         "attachmentCount": 0
     }

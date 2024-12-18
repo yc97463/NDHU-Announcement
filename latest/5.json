@@ -1,6 +1,20 @@
 [
     {
         "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」開始徵件，歡迎有興趣的老師申請",
+        "timestamp": "1734061908",
+        "url": "mail_display.php?timestamp=1734061908",
+        "date": "2024/12/13 11:51",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」開始徵件，歡迎有興趣的老師申請",
         "timestamp": "1734061631",
         "url": "mail_display.php?timestamp=1734061631",
         "date": "2024/12/13 11:47",
@@ -194,19 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【第三次公告】本校徵求人文社會科學學院院長候選人",
-        "timestamp": "1733996381",
-        "url": "mail_display.php?timestamp=1733996381",
-        "date": "2024/12/12 17:39",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
