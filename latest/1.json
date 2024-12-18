@@ -1,5 +1,145 @@
 [
     {
+        "title": "114年度檔案分類號注意事項公告",
+        "timestamp": "1734481848",
+        "url": "mail_display.php?timestamp=1734481848",
+        "date": "2024/12/18 08:30",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "黃馨平",
+            "email": "zaphy@gms.ndhu.edu.tw",
+            "phone": "(03)8906355"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "理工學院書卷獎",
+        "timestamp": "1734479709",
+        "url": "mail_display.php?timestamp=1734479709",
+        "date": "2024/12/18 07:55",
+        "department": "理工學院 ",
+        "author": {
+            "department": "理工學院",
+            "name": "白潔儒",
+            "email": "jru.lulu.cjp@gms.ndhu.edu.tw",
+            "phone": "038903505"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "紅海危機與疫後庫存去化對貿易的影響",
+        "timestamp": "1734479708",
+        "url": "mail_display.php?timestamp=1734479708",
+        "date": "2024/12/18 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "andreat@gms.ndhu.edu.tw",
+            "phone": "3043"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "交換經驗分享會【西班牙】",
+        "timestamp": "1734479707",
+        "url": "mail_display.php?timestamp=1734479707",
+        "date": "2024/12/18 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資工系專題講座】12/27(五) 海巡署第一二岸巡隊－演講主題：海岸巡防科技應用與防溺宣導",
+        "timestamp": "1734479706",
+        "url": "mail_display.php?timestamp=1734479706",
+        "date": "2024/12/18 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系-民族講座】綠色社會工作實踐",
+        "timestamp": "1734479705",
+        "url": "mail_display.php?timestamp=1734479705",
+        "date": "2024/12/18 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "藤編的思考-rikec學生會跨域系列講座",
+        "timestamp": "1734479704",
+        "url": "mail_display.php?timestamp=1734479704",
+        "date": "2024/12/18 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "41104g001@gms.ndhu.edu.tw",
+            "phone": "朱璽恩 0921689326"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024 AI歌神爭霸戰工作人員",
+        "timestamp": "1734479703",
+        "url": "mail_display.php?timestamp=1734479703",
+        "date": "2024/12/18 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "管理學院國際學士班聯合迎新",
+        "timestamp": "1734479702",
+        "url": "mail_display.php?timestamp=1734479702",
+        "date": "2024/12/18 07:55",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "03-8903007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "社會學系期末系員大會",
+        "timestamp": "1734479701",
+        "url": "mail_display.php?timestamp=1734479701",
+        "date": "2024/12/18 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "交換經驗分享會【西班牙】",
         "timestamp": "1734425895",
         "url": "mail_display.php?timestamp=1734425895",
@@ -42,20 +182,6 @@
         "attachmentCount": 2
     },
     {
-        "title": "【徵才】【第二次公告】本校總務處(環境保護組)行政助理(預估缺) 徵才公告",
-        "timestamp": "1734408289",
-        "url": "mail_display.php?timestamp=1734408289",
-        "date": "2024/12/17 12:04",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第三次",
         "timestamp": "1734396595",
         "url": "mail_display.php?timestamp=1734396595",
@@ -73,132 +199,6 @@
         "title": "【通識】MISSION IMPOSSIBLE XXXVIII～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次一)",
         "timestamp": "1734393313",
         "url": "mail_display.php?timestamp=1734393313",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【線上】第三屆碳中和農業論壇",
-        "timestamp": "1734393312",
-        "url": "mail_display.php?timestamp=1734393312",
-        "date": "2024/12/17 07:55",
-        "department": "永續發展中心 ",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "民族語言與傳播學系113-1圍爐暨期末系員大會(工作人員)",
-        "timestamp": "1734393311",
-        "url": "mail_display.php?timestamp=1734393311",
-        "date": "2024/12/17 07:55",
-        "department": "原住民民族學院 民族語言與傳播學系",
-        "author": {
-            "department": "原住民民族學院 民族語言與傳播學系",
-            "name": "璽祐.哈?咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "038905824"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "民族語言與傳播學系113-1圍爐暨期末系員大會",
-        "timestamp": "1734393310",
-        "url": "mail_display.php?timestamp=1734393310",
-        "date": "2024/12/17 07:55",
-        "department": "原住民民族學院 民族語言與傳播學系",
-        "author": {
-            "department": "原住民民族學院 民族語言與傳播學系",
-            "name": "璽祐.哈?咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "038905824"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "族文系期末系員大會",
-        "timestamp": "1734393309",
-        "url": "mail_display.php?timestamp=1734393309",
-        "date": "2024/12/17 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【經濟系專題演講】113.12.19(四)陳文盛老師(本校通識中心)用人工智慧改變未來：探索AI工具如何驅動永續經營與ESG",
-        "timestamp": "1734393308",
-        "url": "mail_display.php?timestamp=1734393308",
-        "date": "2024/12/17 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": {
-            "department": "人文社會科學學院 經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【通識】「World Musics: Global Journey」~「世界音樂與文化」課程成果發表~",
-        "timestamp": "1734393307",
-        "url": "mail_display.php?timestamp=1734393307",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【通識】MISSION IMPOSSIBLE XXX IX～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次四)",
-        "timestamp": "1734393306",
-        "url": "mail_display.php?timestamp=1734393306",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【通識】MISSION IMPOSSIBLE XXX IX～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次二)",
-        "timestamp": "1734393305",
-        "url": "mail_display.php?timestamp=1734393305",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【通識】MISSION IMPOSSIBLE XXXVIII～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次三)",
-        "timestamp": "1734393304",
-        "url": "mail_display.php?timestamp=1734393304",
         "date": "2024/12/17 07:55",
         "department": "洄瀾學院 通識教育中心",
         "author": {

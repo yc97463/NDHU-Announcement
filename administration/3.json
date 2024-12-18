@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校教師辦理產學合作計畫注意事項與最新法規修訂",
+        "timestamp": "1733396923",
+        "url": "mail_display.php?timestamp=1733396923",
+        "date": "2024/12/05 19:08",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "學術服務組",
+            "email": "emma@gms.ndhu.edu.tw",
+            "phone": "6513"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】有關S計畫(0403地震復原計畫學校自籌款)經費報支注意事項",
         "timestamp": "1733379355",
         "url": "mail_display.php?timestamp=1733379355",
@@ -192,20 +206,6 @@
             "name": "劉昱淩",
             "email": "e56187@gms.ndhu.edu.tw",
             "phone": "890-6056"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院施工公告",
-        "timestamp": "1733125739",
-        "url": "mail_display.php?timestamp=1733125739",
-        "date": "2024/12/02 15:48",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許仁泉",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
         },
         "attachmentCount": 0
     }
