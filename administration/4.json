@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要】113年度計畫專任人員年終獎金請領，請查照。",
+        "timestamp": "1733220088",
+        "url": "mail_display.php?timestamp=1733220088",
+        "date": "2024/12/03 18:01",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "劉乃綺",
+            "email": "lnch0202@gms.ndhu.edu.tw",
+            "phone": "6514"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "12/09(一)至114/02/17(一)向晴排球場地及籃球場地部份封閉(第一次)公告",
         "timestamp": "1733216573",
         "url": "mail_display.php?timestamp=1733216573",
@@ -194,19 +208,5 @@
             "phone": "6514"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】113-1學期應屆畢業生離校領取學位證書公告",
-        "timestamp": "1732863724",
-        "url": "mail_display.php?timestamp=1732863724",
-        "date": "2024/11/29 15:02",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 4
     }
 ]

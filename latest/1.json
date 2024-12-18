@@ -1,9 +1,23 @@
 [
     {
+        "title": "【公告】修訂本校「校務基金自籌收入辦理各類會議講習訓練及研討(習)會支給基準」",
+        "timestamp": "1734516584",
+        "url": "mail_display.php?timestamp=1734516584",
+        "date": "2024/12/18 18:09",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要通知】113-1學期本校期末考讀書空間開放公告 Final Examinations Study Space Notice",
-        "timestamp": "1734514542",
-        "url": "mail_display.php?timestamp=1734514542",
-        "date": "2024/12/18 17:35",
+        "timestamp": "1734515193",
+        "url": "mail_display.php?timestamp=1734515193",
+        "date": "2024/12/18 17:46",
         "department": "教學卓越中心",
         "author": {
             "department": "教學卓越中心",
@@ -194,19 +208,5 @@
             "phone": "6590"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114年度檔案分類號注意事項公告",
-        "timestamp": "1734481848",
-        "url": "mail_display.php?timestamp=1734481848",
-        "date": "2024/12/18 08:30",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "黃馨平",
-            "email": "zaphy@gms.ndhu.edu.tw",
-            "phone": "(03)8906355"
-        },
-        "attachmentCount": 0
     }
 ]
