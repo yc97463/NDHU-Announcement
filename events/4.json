@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1【Rikec部落參訪】南澳Qalang Rgayung澳花部落",
+        "timestamp": "1734306902",
+        "url": "mail_display.php?timestamp=1734306902",
+        "date": "2024/12/16 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【亭午風起，有詩東華】113-1 英詩小講堂 12/25 第8場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 8",
         "timestamp": "1734306901",
         "url": "mail_display.php?timestamp=1734306901",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "馬卡學生會交接暨音樂分享會",
-        "timestamp": "1734047706",
-        "url": "mail_display.php?timestamp=1734047706",
-        "date": "2024/12/13 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "411092034@gms.ndhu.edu.tw",
-            "phone": "許競 0906771997"
-        },
-        "attachmentCount": 0
     }
 ]

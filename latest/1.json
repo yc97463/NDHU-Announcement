@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2 閱讀培力計畫-教育系招募(有志報名者務必填寫表單，經面試通知錄取後才會選課成功！)",
+        "timestamp": "1734590927",
+        "url": "mail_display.php?timestamp=1734590927",
+        "date": "2024/12/19 14:48",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【第三公告】資安時數調查，請個人自行上網填報",
         "timestamp": "1734588501",
         "url": "mail_display.php?timestamp=1734588501",
@@ -194,19 +208,5 @@
             "phone": "5788"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】修訂本校「校務基金自籌收入辦理各類會議講習訓練及研討(習)會支給基準」",
-        "timestamp": "1734516584",
-        "url": "mail_display.php?timestamp=1734516584",
-        "date": "2024/12/18 18:09",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
     }
 ]

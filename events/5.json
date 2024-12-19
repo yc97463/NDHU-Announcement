@@ -1,5 +1,19 @@
 [
     {
+        "title": "馬卡學生會交接暨音樂分享會",
+        "timestamp": "1734047706",
+        "url": "mail_display.php?timestamp=1734047706",
+        "date": "2024/12/13 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "411092034@gms.ndhu.edu.tw",
+            "phone": "許競 0906771997"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "馬卡學生會交接暨音樂分享會 （僅限工作人員報名）",
         "timestamp": "1734047705",
         "url": "mail_display.php?timestamp=1734047705",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【運籌管理專題講座】汽車產業物流供應鏈管理系統 - 以和泰汽車為例(東部汽車黃廷輝總經理)",
-        "timestamp": "1733961304",
-        "url": "mail_display.php?timestamp=1733961304",
-        "date": "2024/12/12 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
         },
         "attachmentCount": 0
     }
