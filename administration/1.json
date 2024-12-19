@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
+        "timestamp": "1734571384",
+        "url": "mail_display.php?timestamp=1734571384",
+        "date": "2024/12/19 09:23",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】修訂本校「校務基金自籌收入辦理各類會議講習訓練及研討(習)會支給基準」",
         "timestamp": "1734516584",
         "url": "mail_display.php?timestamp=1734516584",
@@ -194,19 +208,5 @@
             "phone": "6752"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "湖畔至行政大樓人行步道路燈裝置公告(12/13~12/15)",
-        "timestamp": "1734022096",
-        "url": "mail_display.php?timestamp=1734022096",
-        "date": "2024/12/13 00:48",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]
