@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1734487735",
+        "url": "mail_display.php?timestamp=1734487735",
+        "date": "2024/12/18 10:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@gms.ndhu.edu.tw",
+            "phone": "6721"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年度教師教學成長社群計畫開放申請囉！",
         "timestamp": "1734487389",
         "url": "mail_display.php?timestamp=1734487389",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第三次",
-        "timestamp": "1734396595",
-        "url": "mail_display.php?timestamp=1734396595",
-        "date": "2024/12/17 08:49",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "038906218"
-        },
-        "attachmentCount": 1
     }
 ]
