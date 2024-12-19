@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】資安時數調查，請個人自行上網填報",
+        "timestamp": "1734331474",
+        "url": "mail_display.php?timestamp=1734331474",
+        "date": "2024/12/16 14:44",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】財團法人工業技術研究院產業人才能力鑑定(iPAS)AI應用規劃師推廣說明會",
         "timestamp": "1734329327",
         "url": "mail_display.php?timestamp=1734329327",
@@ -194,19 +208,5 @@
             "phone": "陳美瑩助教 0972766995"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "一切唯心---\u003c瓶中鵝\u003e公案談起",
-        "timestamp": "1734163058",
-        "url": "mail_display.php?timestamp=1734163058",
-        "date": "2024/12/14 15:57",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
     }
 ]
