@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第三公告】資安時數調查，請個人自行上網填報",
+        "timestamp": "1734588501",
+        "url": "mail_display.php?timestamp=1734588501",
+        "date": "2024/12/19 14:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手",
         "timestamp": "1734588119",
         "url": "mail_display.php?timestamp=1734588119",
@@ -192,20 +206,6 @@
             "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【重要通知】113-1學期本校期末考讀書空間開放公告 Final Examinations Study Space Notice",
-        "timestamp": "1734515193",
-        "url": "mail_display.php?timestamp=1734515193",
-        "date": "2024/12/18 17:46",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "蕭定泓",
-            "email": "xiao@gms.ndhu.edu.tw",
-            "phone": "6585"
         },
         "attachmentCount": 1
     }

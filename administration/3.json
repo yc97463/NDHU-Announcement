@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役體檢訊息】花蓮縣114年1月役男徵兵代檢開放申請公告",
+        "timestamp": "1733816311",
+        "url": "mail_display.php?timestamp=1733816311",
+        "date": "2024/12/10 15:38",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第3次通知)",
         "timestamp": "1733797949",
         "url": "mail_display.php?timestamp=1733797949",
@@ -192,20 +206,6 @@
             "name": "課務組",
             "email": "sychen@gms.ndhu.edu.tw",
             "phone": "6122～6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
-        "timestamp": "1733376191",
-        "url": "mail_display.php?timestamp=1733376191",
-        "date": "2024/12/05 13:23",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }

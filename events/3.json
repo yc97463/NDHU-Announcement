@@ -1,5 +1,19 @@
 [
     {
+        "title": "社會學系期末系員大會",
+        "timestamp": "1734479701",
+        "url": "mail_display.php?timestamp=1734479701",
+        "date": "2024/12/18 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "交換經驗分享會【西班牙】",
         "timestamp": "1734425895",
         "url": "mail_display.php?timestamp=1734425895",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "電影欣賞:滿分之一秒",
-        "timestamp": "1734393301",
-        "url": "mail_display.php?timestamp=1734393301",
-        "date": "2024/12/17 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
         },
         "attachmentCount": 0
     }
