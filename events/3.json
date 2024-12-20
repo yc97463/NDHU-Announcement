@@ -1,5 +1,19 @@
 [
     {
+        "title": "交換經驗分享會【西班牙】",
+        "timestamp": "1734425895",
+        "url": "mail_display.php?timestamp=1734425895",
+        "date": "2024/12/17 16:58",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動公告】本校113年下半年退休人員茶會訂於113年12月25日(三)下午14時30分，於行政大樓3樓祁楨簡報室及中庭辦理，敬邀本校全體教職員工共襄盛舉。",
         "timestamp": "1734415136",
         "url": "mail_display.php?timestamp=1734415136",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "東華夜市（試營運）最終場就在明天！！！",
-        "timestamp": "1734331809",
-        "url": "mail_display.php?timestamp=1734331809",
-        "date": "2024/12/16 14:50",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 4
     }
 ]
