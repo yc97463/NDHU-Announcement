@@ -1,5 +1,19 @@
 [
     {
+        "title": "【取消】【網路維護】校園骨幹網路系統更換",
+        "timestamp": "1734658630",
+        "url": "mail_display.php?timestamp=1734658630",
+        "date": "2024/12/20 09:37",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行擷雲莊消防栓漏水維修停水公告",
         "timestamp": "1734658209",
         "url": "mail_display.php?timestamp=1734658209",
@@ -192,20 +206,6 @@
             "name": "郭娜",
             "email": "inagn@gms.ndhu.edu.tw",
             "phone": "03-8903007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「World Musics: Global Journey」 ~「世界音樂」課程成果發表~",
-        "timestamp": "1734566107",
-        "url": "mail_display.php?timestamp=1734566107",
-        "date": "2024/12/19 07:55",
-        "department": "藝術學院 ",
-        "author": {
-            "department": "藝術學院",
-            "name": "林世悠",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "0921-060945"
         },
         "attachmentCount": 0
     }

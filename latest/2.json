@@ -1,5 +1,19 @@
 [
     {
+        "title": "「World Musics: Global Journey」 ~「世界音樂」課程成果發表~",
+        "timestamp": "1734566107",
+        "url": "mail_display.php?timestamp=1734566107",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 ",
+        "author": {
+            "department": "藝術學院",
+            "name": "林世悠",
+            "email": "shihyu@gms.ndhu.edu.tw",
+            "phone": "0921-060945"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024國際處世界咖啡館",
         "timestamp": "1734566106",
         "url": "mail_display.php?timestamp=1734566106",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【保管組公告】本校財產管理系統更改登入網址",
-        "timestamp": "1734504175",
-        "url": "mail_display.php?timestamp=1734504175",
-        "date": "2024/12/18 14:42",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 2
     }
 ]

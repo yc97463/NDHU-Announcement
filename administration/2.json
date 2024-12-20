@@ -1,5 +1,19 @@
 [
     {
+        "title": ":教育學院1號電梯編碼器故障停用及12月份校區內客貨電梯進行月保養排程通告",
+        "timestamp": "1734235489",
+        "url": "mail_display.php?timestamp=1734235489",
+        "date": "2024/12/15 12:04",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】113年度配合會計年度關帳【加班費】申請事宜",
         "timestamp": "1734062060",
         "url": "mail_display.php?timestamp=1734062060",
@@ -194,19 +208,5 @@
             "phone": "5103"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第二次",
-        "timestamp": "1733794476",
-        "url": "mail_display.php?timestamp=1733794476",
-        "date": "2024/12/10 09:34",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]
