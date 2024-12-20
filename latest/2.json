@@ -1,5 +1,33 @@
 [
     {
+        "title": "12/24（二）13：00 【師培永續講座】永續時代的師資培育，地點:學活A101",
+        "timestamp": "1734574362",
+        "url": "mail_display.php?timestamp=1734574362",
+        "date": "2024/12/19 10:12",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "趙又瑩",
+            "email": "unchao@gms.ndhu.edu.tw",
+            "phone": "6643"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
+        "timestamp": "1734571384",
+        "url": "mail_display.php?timestamp=1734571384",
+        "date": "2024/12/19 09:23",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "Exchange Students Experience Sharing Session【Poland】【In English】",
         "timestamp": "1734570809",
         "url": "mail_display.php?timestamp=1734570809",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】花蓮地區小型徵才活動(兆豐農場、理想大地、怡園、瑞穗天合)(113年12月21日) ",
-        "timestamp": "1734513075",
-        "url": "mail_display.php?timestamp=1734513075",
-        "date": "2024/12/18 17:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113-2學期學生自主學習社群以及自主學習培力獎勵方案說明會，歡迎各位同學報名參加",
-        "timestamp": "1734510002",
-        "url": "mail_display.php?timestamp=1734510002",
-        "date": "2024/12/18 16:20",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 0
     }
 ]

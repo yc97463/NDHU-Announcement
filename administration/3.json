@@ -1,5 +1,33 @@
 [
     {
+        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第3次通知)",
+        "timestamp": "1733797949",
+        "url": "mail_display.php?timestamp=1733797949",
+        "date": "2024/12/10 10:32",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "113學年度第2學期 藝術學院展覽廳租借 開始受理申請",
+        "timestamp": "1733795543",
+        "url": "mail_display.php?timestamp=1733795543",
+        "date": "2024/12/10 09:52",
+        "department": "藝術學院",
+        "author": {
+            "department": "藝術學院",
+            "name": "黃小姐",
+            "email": "syuan7517@gms.ndhu.edu.tw",
+            "phone": "5103"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第二次",
         "timestamp": "1733794476",
         "url": "mail_display.php?timestamp=1733794476",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
-        "timestamp": "1733371858",
-        "url": "mail_display.php?timestamp=1733371858",
-        "date": "2024/12/05 12:10",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】經濟部辦理投資審議司網站異動並變更網址修正事宜。",
-        "timestamp": "1733302480",
-        "url": "mail_display.php?timestamp=1733302480",
-        "date": "2024/12/04 16:54",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "陳偉",
-            "email": "ichirowei@gms.ndhu.edu.tw",
-            "phone": "6743"
-        },
-        "attachmentCount": 4
     }
 ]
