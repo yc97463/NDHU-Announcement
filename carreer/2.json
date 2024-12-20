@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】東華大學原民院「建構原住民族教育文化知識體系專案管理中心」 【系統開發組】誠徵專任助理",
+        "timestamp": "1731979741",
+        "url": "mail_display.php?timestamp=1731979741",
+        "date": "2024/11/19 09:29",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "賴桂如",
+            "email": "pasuya@gms.ndhu.edu.tw",
+            "phone": "5141"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】本校徵求人文社會科學學院院長候選人",
         "timestamp": "1731639407",
         "url": "mail_display.php?timestamp=1731639407",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【國立東華大學藝術創意產業學系系主任】徵聘公告",
-        "timestamp": "1729124998",
-        "url": "mail_display.php?timestamp=1729124998",
-        "date": "2024/10/17 08:29",
-        "department": "藝術學院",
-        "author": {
-            "department": "藝術學院",
-            "name": "戴麗雯",
-            "email": "lwtai@gms.ndhu.edu.tw",
-            "phone": "03-8905102"
-        },
-        "attachmentCount": 0
     }
 ]
