@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才】財政部高雄國稅局114年度約僱人員甄選(114年1月2日截止)",
+        "timestamp": "1734597021",
+        "url": "mail_display.php?timestamp=1734597021",
+        "date": "2024/12/19 16:30",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【徵才】法務部矯正署嘉義監獄「114年補充矯正機關心理及社工約用人員」甄選(113年12月25日截止)",
+        "timestamp": "1734596100",
+        "url": "mail_display.php?timestamp=1734596100",
+        "date": "2024/12/19 16:15",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "113-2 閱讀培力計畫-教育系招募(有志報名者務必填寫表單，經面試通知錄取後才會選課成功！)",
+        "timestamp": "1734590927",
+        "url": "mail_display.php?timestamp=1734590927",
+        "date": "2024/12/19 14:48",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【第三公告】資安時數調查，請個人自行上網填報",
         "timestamp": "1734588501",
         "url": "mail_display.php?timestamp=1734588501",
@@ -166,47 +208,5 @@
             "phone": "038905123"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】12/20(五)_架構創新與人工智慧驅動優化的觀點",
-        "timestamp": "1734566102",
-        "url": "mail_display.php?timestamp=1734566102",
-        "date": "2024/12/19 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系-民族講座】為社工加一點綠：從服務學習到社工課程的嘗試",
-        "timestamp": "1734566101",
-        "url": "mail_display.php?timestamp=1734566101",
-        "date": "2024/12/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公告】修訂本校「校務基金自籌收入辦理各類會議講習訓練及研討(習)會支給基準」",
-        "timestamp": "1734516584",
-        "url": "mail_display.php?timestamp=1734516584",
-        "date": "2024/12/18 18:09",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
     }
 ]

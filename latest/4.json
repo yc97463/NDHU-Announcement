@@ -1,5 +1,47 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1734487735",
+        "url": "mail_display.php?timestamp=1734487735",
+        "date": "2024/12/18 10:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@gms.ndhu.edu.tw",
+            "phone": "6721"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "114年度教師教學成長社群計畫開放申請囉！",
+        "timestamp": "1734487389",
+        "url": "mail_display.php?timestamp=1734487389",
+        "date": "2024/12/18 10:03",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "114年度檔案分類號注意事項公告",
+        "timestamp": "1734481848",
+        "url": "mail_display.php?timestamp=1734481848",
+        "date": "2024/12/18 08:30",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "黃馨平",
+            "email": "zaphy@gms.ndhu.edu.tw",
+            "phone": "(03)8906355"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "理工學院書卷獎",
         "timestamp": "1734479709",
         "url": "mail_display.php?timestamp=1734479709",
@@ -166,47 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第三次",
-        "timestamp": "1734396595",
-        "url": "mail_display.php?timestamp=1734396595",
-        "date": "2024/12/17 08:49",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "038906218"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【通識】MISSION IMPOSSIBLE XXXVIII～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次一)",
-        "timestamp": "1734393313",
-        "url": "mail_display.php?timestamp=1734393313",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【線上】第三屆碳中和農業論壇",
-        "timestamp": "1734393312",
-        "url": "mail_display.php?timestamp=1734393312",
-        "date": "2024/12/17 07:55",
-        "department": "永續發展中心 ",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 0
     }
 ]
