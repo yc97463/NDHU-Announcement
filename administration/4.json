@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」，自114年1月1日起生效",
+        "timestamp": "1733284480",
+        "url": "mail_display.php?timestamp=1733284480",
+        "date": "2024/12/04 11:54",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【全民國防訊息】114年上半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1733273643",
         "url": "mail_display.php?timestamp=1733273643",
@@ -194,19 +208,5 @@
             "phone": "6216"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第3次公告】113會計年度結束經費報支注意事項",
-        "timestamp": "1732875037",
-        "url": "mail_display.php?timestamp=1732875037",
-        "date": "2024/11/29 18:10",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
     }
 ]

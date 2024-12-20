@@ -1,5 +1,61 @@
 [
     {
+        "title": "2024國際處世界咖啡館",
+        "timestamp": "1734566106",
+        "url": "mail_display.php?timestamp=1734566106",
+        "date": "2024/12/19 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "魏綺瑩",
+            "email": "vanessawei@gms.ndhu.edu.tw",
+            "phone": "5119"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【光電系系學會】期末供品【限系學會工作人員報名】",
+        "timestamp": "1734566105",
+        "url": "mail_display.php?timestamp=1734566105",
+        "date": "2024/12/19 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113藝設系期末系員大會",
+        "timestamp": "1734566104",
+        "url": "mail_display.php?timestamp=1734566104",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113藝設系期末系員大會-幹部",
+        "timestamp": "1734566103",
+        "url": "mail_display.php?timestamp=1734566103",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】12/20(五)_架構創新與人工智慧驅動優化的觀點",
         "timestamp": "1734566102",
         "url": "mail_display.php?timestamp=1734566102",
@@ -150,62 +206,6 @@
             "name": "林慧濘",
             "email": "maya70@gms.ndhu.edu.tw",
             "phone": "8906344"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "《That Warm feeling》東華大學爵士樂團期末演出",
-        "timestamp": "1734501883",
-        "url": "mail_display.php?timestamp=1734501883",
-        "date": "2024/12/18 14:04",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【傳染病防治宣導】寒假將至，請各單位持續落實校園環境管理，並落實相關蚊媒（登革熱/屈公病/茲卡病毒感染症）防治工作",
-        "timestamp": "1734501150",
-        "url": "mail_display.php?timestamp=1734501150",
-        "date": "2024/12/18 13:52",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國立東華大學東台灣農藥殘留與毒物檢驗中心誠徵專案技術師一名",
-        "timestamp": "1734493228",
-        "url": "mail_display.php?timestamp=1734493228",
-        "date": "2024/12/18 11:40",
-        "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-        "author": {
-            "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-            "name": "蔡美芳",
-            "email": "tmf0114@gms.ndhu.edu.tw",
-            "phone": "03-8905288"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
-        "timestamp": "1734491738",
-        "url": "mail_display.php?timestamp=1734491738",
-        "date": "2024/12/18 11:15",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
         },
         "attachmentCount": 2
     }
