@@ -1,5 +1,61 @@
 [
     {
+        "title": "【通識】古琴雅集：113學年度上學期東華士人期末發表會",
+        "timestamp": "1734220501",
+        "url": "mail_display.php?timestamp=1734220501",
+        "date": "2024/12/15 07:55",
+        "department": "洄瀾學院 通識教育中心",
+        "author": {
+            "department": "洄瀾學院 通識教育中心",
+            "name": "李睿芬",
+            "email": "61120C003@gms.ndhu.edu.tw",
+            "phone": "陳美瑩助教 0972766995"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "一切唯心---\u003c瓶中鵝\u003e公案談起",
+        "timestamp": "1734163058",
+        "url": "mail_display.php?timestamp=1734163058",
+        "date": "2024/12/14 15:57",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "永續時代的師資培育:教師專業共學與學生問題解決力",
+        "timestamp": "1734134104",
+        "url": "mail_display.php?timestamp=1734134104",
+        "date": "2024/12/14 07:55",
+        "department": "師資培育中心 地方教育輔導組",
+        "author": {
+            "department": "師資培育中心 地方教育輔導組",
+            "name": "趙又瑩",
+            "email": "unchao@gms.ndhu.edu.tw",
+            "phone": "03-8906643"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "英語電影語言與文化AC活動：《CLOSE CALL 誤闖歧屋》電影發佈會(抽全家霜淇淋)",
+        "timestamp": "1734134103",
+        "url": "mail_display.php?timestamp=1734134103",
+        "date": "2024/12/14 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】12/20(五) 國立台北教育大學資訊科學系 陳永昇教授",
         "timestamp": "1734134102",
         "url": "mail_display.php?timestamp=1734134102",
@@ -152,61 +208,5 @@
             "phone": "(03)890-6894"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【臺灣系】碩士班專題講座「國際經驗交流」沙龍座談",
-        "timestamp": "1734047702",
-        "url": "mail_display.php?timestamp=1734047702",
-        "date": "2024/12/13 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": {
-            "department": "人文社會科學學院 臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024年第20屆歐洲影展電影欣賞：Dangerous Gentlement/波蘭",
-        "timestamp": "1734047701",
-        "url": "mail_display.php?timestamp=1734047701",
-        "date": "2024/12/13 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【國際交流活動】北京語言大學 第十届台灣高校傑出青年北京考察團",
-        "timestamp": "1733999992",
-        "url": "mail_display.php?timestamp=1733999992",
-        "date": "2024/12/12 18:39",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【閱讀科技學程講座】",
-        "timestamp": "1733983514",
-        "url": "mail_display.php?timestamp=1733983514",
-        "date": "2024/12/12 14:05",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "王凰貞",
-            "email": "411188037@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 1
     }
 ]
