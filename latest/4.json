@@ -1,5 +1,19 @@
 [
     {
+        "title": "113藝設系期末系員大會-幹部",
+        "timestamp": "1734566103",
+        "url": "mail_display.php?timestamp=1734566103",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】12/20(五)_架構創新與人工智慧驅動優化的觀點",
         "timestamp": "1734566102",
         "url": "mail_display.php?timestamp=1734566102",
@@ -194,19 +208,5 @@
             "phone": "03-8905288"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
-        "timestamp": "1734491738",
-        "url": "mail_display.php?timestamp=1734491738",
-        "date": "2024/12/18 11:15",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]
