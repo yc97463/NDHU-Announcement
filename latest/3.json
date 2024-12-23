@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1閱讀科技學程說明會",
+        "timestamp": "1734652503",
+        "url": "mail_display.php?timestamp=1734652503",
+        "date": "2024/12/20 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "411188037gms.ndhu.edu.tw",
+            "phone": "王凰貞 0907863673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "苧麻園整理",
         "timestamp": "1734652502",
         "url": "mail_display.php?timestamp=1734652502",
@@ -192,20 +206,6 @@
             "name": "劉碧純",
             "email": "sun@gms.ndhu.edu.tw",
             "phone": "3182"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113藝設系期末系員大會",
-        "timestamp": "1734566104",
-        "url": "mail_display.php?timestamp=1734566104",
-        "date": "2024/12/19 07:55",
-        "department": "藝術學院 藝術與設計學系",
-        "author": {
-            "department": "藝術學院 藝術與設計學系",
-            "name": "陳紘崧",
-            "email": "keter426@gms.ndhu.edu.tw",
-            "phone": "038905123"
         },
         "attachmentCount": 0
     }

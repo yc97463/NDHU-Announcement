@@ -1,5 +1,19 @@
 [
     {
+        "title": "113藝設系期末系員大會",
+        "timestamp": "1734566104",
+        "url": "mail_display.php?timestamp=1734566104",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113藝設系期末系員大會-幹部",
         "timestamp": "1734566103",
         "url": "mail_display.php?timestamp=1734566103",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國立東華大學東台灣農藥殘留與毒物檢驗中心誠徵專案技術師一名",
-        "timestamp": "1734493228",
-        "url": "mail_display.php?timestamp=1734493228",
-        "date": "2024/12/18 11:40",
-        "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-        "author": {
-            "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-            "name": "蔡美芳",
-            "email": "tmf0114@gms.ndhu.edu.tw",
-            "phone": "03-8905288"
         },
         "attachmentCount": 0
     }

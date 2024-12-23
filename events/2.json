@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2 閱讀培力計畫-教育系招募(有志報名者務必填寫表單，經面試通知錄取後才會選課成功！)",
+        "timestamp": "1734590927",
+        "url": "mail_display.php?timestamp=1734590927",
+        "date": "2024/12/19 14:48",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手",
         "timestamp": "1734588119",
         "url": "mail_display.php?timestamp=1734588119",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "《That Warm feeling》東華大學爵士樂團期末演出",
-        "timestamp": "1734501883",
-        "url": "mail_display.php?timestamp=1734501883",
-        "date": "2024/12/18 14:04",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
     }
 ]
