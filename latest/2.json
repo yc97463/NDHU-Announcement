@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
+        "timestamp": "1734679758",
+        "url": "mail_display.php?timestamp=1734679758",
+        "date": "2024/12/20 15:29",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許小姐",
+            "email": "ling30@gms.ndhu.edu.tw",
+            "phone": "03-8903777"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2國立東華大學「銀髮健身俱樂部運動志工」招募",
+        "timestamp": "1734677890",
+        "url": "mail_display.php?timestamp=1734677890",
+        "date": "2024/12/20 14:58",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "一切唯心---\u003c瓶中鵝\u003e公案談起",
         "timestamp": "1734677435",
         "url": "mail_display.php?timestamp=1734677435",
@@ -180,33 +208,5 @@
             "phone": "6724"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Exchange Students Experience Sharing Session【Poland】【In English】",
-        "timestamp": "1734570809",
-        "url": "mail_display.php?timestamp=1734570809",
-        "date": "2024/12/19 09:13",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "交換經驗分享會【波蘭】",
-        "timestamp": "1734570731",
-        "url": "mail_display.php?timestamp=1734570731",
-        "date": "2024/12/19 09:12",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]
