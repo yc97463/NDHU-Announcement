@@ -1,5 +1,19 @@
 [
     {
+        "title": "放置在K書中心的個人物品，請統一於2024年11月30日(六)前至K中B館領取",
+        "timestamp": "1732700154",
+        "url": "mail_display.php?timestamp=1732700154",
+        "date": "2024/11/27 17:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳依萱",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】長榮大學開設「玩轉邏輯思維，修練你的決策影響力」全英磨課師(MOOCs)線上課程",
         "timestamp": "1732689417",
         "url": "mail_display.php?timestamp=1732689417",
@@ -194,19 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【NUST徵件】114年「特色領域研討會經費補助」申請案，即日起受理申請",
-        "timestamp": "1732258266",
-        "url": "mail_display.php?timestamp=1732258266",
-        "date": "2024/11/22 14:51",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
-        },
-        "attachmentCount": 2
     }
 ]

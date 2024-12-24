@@ -1,5 +1,61 @@
 [
     {
+        "title": "【專題演講】12/20(五)_架構創新與人工智慧驅動優化的觀點",
+        "timestamp": "1734566102",
+        "url": "mail_display.php?timestamp=1734566102",
+        "date": "2024/12/19 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系-民族講座】為社工加一點綠：從服務學習到社工課程的嘗試",
+        "timestamp": "1734566101",
+        "url": "mail_display.php?timestamp=1734566101",
+        "date": "2024/12/19 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學期學生自主學習社群以及自主學習培力獎勵方案說明會，歡迎各位同學報名參加",
+        "timestamp": "1734510002",
+        "url": "mail_display.php?timestamp=1734510002",
+        "date": "2024/12/18 16:20",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知壽豐衛生所訊息】開放19-49歲免費高端流感疫苗施打，數量有限，打完為止，不要錯過喔!",
+        "timestamp": "1734505938",
+        "url": "mail_display.php?timestamp=1734505938",
+        "date": "2024/12/18 15:12",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "《That Warm feeling》東華大學爵士樂團期末演出",
         "timestamp": "1734501883",
         "url": "mail_display.php?timestamp=1734501883",
@@ -150,62 +206,6 @@
             "name": "葉珮芳",
             "email": "",
             "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "交換經驗分享會【西班牙】",
-        "timestamp": "1734425895",
-        "url": "mail_display.php?timestamp=1734425895",
-        "date": "2024/12/17 16:58",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動公告】本校113年下半年退休人員茶會訂於113年12月25日(三)下午14時30分，於行政大樓3樓祁楨簡報室及中庭辦理，敬邀本校全體教職員工共襄盛舉。",
-        "timestamp": "1734415136",
-        "url": "mail_display.php?timestamp=1734415136",
-        "date": "2024/12/17 13:58",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【通識】MISSION IMPOSSIBLE XXXVIII～鋼琴獨奏、四手聯彈～林世悠師生鋼琴演奏會 (場次一)",
-        "timestamp": "1734393313",
-        "url": "mail_display.php?timestamp=1734393313",
-        "date": "2024/12/17 07:55",
-        "department": "洄瀾學院 通識教育中心",
-        "author": {
-            "department": "洄瀾學院 通識教育中心",
-            "name": "李睿芬",
-            "email": "shihyu@gms.ndhu.edu.tw",
-            "phone": "林世悠0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【線上】第三屆碳中和農業論壇",
-        "timestamp": "1734393312",
-        "url": "mail_display.php?timestamp=1734393312",
-        "date": "2024/12/17 07:55",
-        "department": "永續發展中心 ",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
         },
         "attachmentCount": 0
     }

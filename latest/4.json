@@ -1,5 +1,75 @@
 [
     {
+        "title": "Exchange Students Experience Sharing Session【Poland】【In English】",
+        "timestamp": "1734570809",
+        "url": "mail_display.php?timestamp=1734570809",
+        "date": "2024/12/19 09:13",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "交換經驗分享會【波蘭】",
+        "timestamp": "1734570731",
+        "url": "mail_display.php?timestamp=1734570731",
+        "date": "2024/12/19 09:12",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "第二次報名！！！校友卓越講座之申請國外研究所心得分享會",
+        "timestamp": "1734566108",
+        "url": "mail_display.php?timestamp=1734566108",
+        "date": "2024/12/19 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "03-8903007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「World Musics: Global Journey」 ~「世界音樂」課程成果發表~",
+        "timestamp": "1734566107",
+        "url": "mail_display.php?timestamp=1734566107",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 ",
+        "author": {
+            "department": "藝術學院",
+            "name": "林世悠",
+            "email": "shihyu@gms.ndhu.edu.tw",
+            "phone": "0921-060945"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024國際處世界咖啡館",
+        "timestamp": "1734566106",
+        "url": "mail_display.php?timestamp=1734566106",
+        "date": "2024/12/19 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "魏綺瑩",
+            "email": "vanessawei@gms.ndhu.edu.tw",
+            "phone": "5119"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【光電系系學會】期末供品【限系學會工作人員報名】",
         "timestamp": "1734566105",
         "url": "mail_display.php?timestamp=1734566105",
@@ -138,75 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知壽豐衛生所訊息】開放19-49歲免費高端流感疫苗施打，數量有限，打完為止，不要錯過喔!",
-        "timestamp": "1734505938",
-        "url": "mail_display.php?timestamp=1734505938",
-        "date": "2024/12/18 15:12",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件了",
-        "timestamp": "1734505700",
-        "url": "mail_display.php?timestamp=1734505700",
-        "date": "2024/12/18 15:08",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "郭心怡",
-            "email": "imyeee@gms.ndhu.edu.tw",
-            "phone": "6591"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】教育部「各級學校114年寒假期間學生活動安全注意事項」",
-        "timestamp": "1734505093",
-        "url": "mail_display.php?timestamp=1734505093",
-        "date": "2024/12/18 14:58",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【保管組公告】本校財產管理系統更改登入網址",
-        "timestamp": "1734504175",
-        "url": "mail_display.php?timestamp=1734504175",
-        "date": "2024/12/18 14:42",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "《That Warm feeling》東華大學爵士樂團期末演出",
-        "timestamp": "1734501883",
-        "url": "mail_display.php?timestamp=1734501883",
-        "date": "2024/12/18 14:04",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
     }
 ]
