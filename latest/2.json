@@ -1,5 +1,19 @@
 [
     {
+        "title": "【12/24寫硬筆書法活動】書書相印，~寫字•寫心•寫春天─寫硬筆書法活動開鑼了！",
+        "timestamp": "1734924184",
+        "url": "mail_display.php?timestamp=1734924184",
+        "date": "2024/12/23 11:23",
+        "department": "華語文教學國際博士班",
+        "author": {
+            "department": "華語文教學國際博士班",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5402"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
         "timestamp": "1734923365",
         "url": "mail_display.php?timestamp=1734923365",
@@ -194,19 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【重要訊息】國科會大專學生研究計畫作業要點第十六點業於113年11月1日修正，請查照。",
-        "timestamp": "1734683345",
-        "url": "mail_display.php?timestamp=1734683345",
-        "date": "2024/12/20 16:29",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 3
     }
 ]

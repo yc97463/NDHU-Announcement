@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要訊息】國科會大專學生研究計畫作業要點第十六點業於113年11月1日修正，請查照。",
+        "timestamp": "1734683345",
+        "url": "mail_display.php?timestamp=1734683345",
+        "date": "2024/12/20 16:29",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
         "timestamp": "1734679758",
         "url": "mail_display.php?timestamp=1734679758",
@@ -194,19 +208,5 @@
             "phone": "6643"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
-        "timestamp": "1734571384",
-        "url": "mail_display.php?timestamp=1734571384",
-        "date": "2024/12/19 09:23",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]
