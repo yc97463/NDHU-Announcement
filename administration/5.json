@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院施工公告",
+        "timestamp": "1733125739",
+        "url": "mail_display.php?timestamp=1733125739",
+        "date": "2024/12/02 15:48",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許仁泉",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原住民民族學院施工公告",
         "timestamp": "1733125633",
         "url": "mail_display.php?timestamp=1733125633",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第2次通知)",
-        "timestamp": "1732759485",
-        "url": "mail_display.php?timestamp=1732759485",
-        "date": "2024/11/28 10:04",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 8
     }
 ]
