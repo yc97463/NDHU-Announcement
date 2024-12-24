@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件了",
+        "timestamp": "1735035353",
+        "url": "mail_display.php?timestamp=1735035353",
+        "date": "2024/12/24 18:15",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告。",
         "timestamp": "1735006977",
         "url": "mail_display.php?timestamp=1735006977",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件了",
-        "timestamp": "1734505700",
-        "url": "mail_display.php?timestamp=1734505700",
-        "date": "2024/12/18 15:08",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "郭心怡",
-            "email": "imyeee@gms.ndhu.edu.tw",
-            "phone": "6591"
-        },
-        "attachmentCount": 1
     }
 ]

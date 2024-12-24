@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1734487735",
+        "url": "mail_display.php?timestamp=1734487735",
+        "date": "2024/12/18 10:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@gms.ndhu.edu.tw",
+            "phone": "6721"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年度檔案分類號注意事項公告",
         "timestamp": "1734481848",
         "url": "mail_display.php?timestamp=1734481848",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度大專校院獎助生團體保險加保事宜",
-        "timestamp": "1733901428",
-        "url": "mail_display.php?timestamp=1733901428",
-        "date": "2024/12/11 15:17",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]
