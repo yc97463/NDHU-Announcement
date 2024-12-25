@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停水]理工一館入水管線破損維修停水通告",
+        "timestamp": "1735140085",
+        "url": "mail_display.php?timestamp=1735140085",
+        "date": "2024/12/25 23:21",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國鋼鐵股份有限公司刻正辦理114年度研發替代役徵選招募通知",
         "timestamp": "1735127706",
         "url": "mail_display.php?timestamp=1735127706",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "「入場抽全家霜淇淋！《CLOSE CALL 誤闖歧屋》電影發佈會 」",
-        "timestamp": "1735089330",
-        "url": "mail_display.php?timestamp=1735089330",
-        "date": "2024/12/25 09:15",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
     }
 ]
