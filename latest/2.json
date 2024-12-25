@@ -1,5 +1,19 @@
 [
     {
+        "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第5次通知)",
+        "timestamp": "1735088258",
+        "url": "mail_display.php?timestamp=1735088258",
+        "date": "2024/12/25 08:57",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【交通安全】元旦假期，請注意志學火車站停車規定，並小心行車安全。",
         "timestamp": "1735087398",
         "url": "mail_display.php?timestamp=1735087398",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】114寒假優惠借期。【Library Announce】Winter vacation’s preferential loan period.",
-        "timestamp": "1735018999",
-        "url": "mail_display.php?timestamp=1735018999",
-        "date": "2024/12/24 13:43",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】114寒假優惠借期。【Library Announce】Winter vacation’s preferential loan period.",
+        "timestamp": "1735018999",
+        "url": "mail_display.php?timestamp=1735018999",
+        "date": "2024/12/24 13:43",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
         "timestamp": "1735018884",
         "url": "mail_display.php?timestamp=1735018884",
@@ -192,20 +206,6 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【活動】倒數三天！《CLOSE CALL 誤闖歧屋》電影發佈會(抽全家霜淇淋)",
-        "timestamp": "1734929394",
-        "url": "mail_display.php?timestamp=1734929394",
-        "date": "2024/12/23 12:49",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 4
     }
