@@ -1,5 +1,33 @@
 [
     {
+        "title": "1224管財班學生",
+        "timestamp": "1734998103",
+        "url": "mail_display.php?timestamp=1734998103",
+        "date": "2024/12/24 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "038903006"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【應數系演講】113-12-27 董奕賢教授",
+        "timestamp": "1734998102",
+        "url": "mail_display.php?timestamp=1734998102",
+        "date": "2024/12/24 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】12/27(五)_海巡署-海岸巡防科技應用與防溺宣導",
         "timestamp": "1734998101",
         "url": "mail_display.php?timestamp=1734998101",
@@ -180,33 +208,5 @@
             "phone": "6059"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-2學期學生培力方案開始徵件囉!",
-        "timestamp": "1734920561",
-        "url": "mail_display.php?timestamp=1734920561",
-        "date": "2024/12/23 10:22",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "鄭宏昱",
-            "email": "bighead7361@gms.ndhu.edu.tw",
-            "phone": "6590"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
-        "timestamp": "1734913340",
-        "url": "mail_display.php?timestamp=1734913340",
-        "date": "2024/12/23 08:22",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

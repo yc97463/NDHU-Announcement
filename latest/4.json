@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2學期學生培力方案開始徵件囉!",
+        "timestamp": "1734920561",
+        "url": "mail_display.php?timestamp=1734920561",
+        "date": "2024/12/23 10:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
+        "timestamp": "1734913340",
+        "url": "mail_display.php?timestamp=1734913340",
+        "date": "2024/12/23 08:22",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "學術與實務演講-企業評價的實務分享",
         "timestamp": "1734738905",
         "url": "mail_display.php?timestamp=1734738905",
@@ -180,33 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "一切唯心---\u003c瓶中鵝\u003e公案談起",
-        "timestamp": "1734677435",
-        "url": "mail_display.php?timestamp=1734677435",
-        "date": "2024/12/20 14:50",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【取消】【網路維護】校園骨幹網路系統更換",
-        "timestamp": "1734658630",
-        "url": "mail_display.php?timestamp=1734658630",
-        "date": "2024/12/20 09:37",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]
