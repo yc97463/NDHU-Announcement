@@ -1,5 +1,47 @@
 [
     {
+        "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第4次通知)",
+        "timestamp": "1734683559",
+        "url": "mail_display.php?timestamp=1734683559",
+        "date": "2024/12/20 16:32",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "【重要訊息】國科會大專學生研究計畫作業要點第十六點業於113年11月1日修正，請查照。",
+        "timestamp": "1734683345",
+        "url": "mail_display.php?timestamp=1734683345",
+        "date": "2024/12/20 16:29",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
+        "timestamp": "1734679758",
+        "url": "mail_display.php?timestamp=1734679758",
+        "date": "2024/12/20 15:29",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許小姐",
+            "email": "ling30@gms.ndhu.edu.tw",
+            "phone": "03-8903777"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2國立東華大學「銀髮健身俱樂部運動志工」招募",
         "timestamp": "1734677890",
         "url": "mail_display.php?timestamp=1734677890",
@@ -166,47 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "12/24（二）13：00 【師培永續講座】永續時代的師資培育，地點:學活A101",
-        "timestamp": "1734574362",
-        "url": "mail_display.php?timestamp=1734574362",
-        "date": "2024/12/19 10:12",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "趙又瑩",
-            "email": "unchao@gms.ndhu.edu.tw",
-            "phone": "6643"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
-        "timestamp": "1734571384",
-        "url": "mail_display.php?timestamp=1734571384",
-        "date": "2024/12/19 09:23",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "Exchange Students Experience Sharing Session【Poland】【In English】",
-        "timestamp": "1734570809",
-        "url": "mail_display.php?timestamp=1734570809",
-        "date": "2024/12/19 09:13",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]

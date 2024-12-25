@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1735117577",
+        "url": "mail_display.php?timestamp=1735117577",
+        "date": "2024/12/25 17:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助生團保】114年度大專校院獎助生團體保險延至12/26前登錄(第三次公告)",
         "timestamp": "1735107634",
         "url": "mail_display.php?timestamp=1735107634",
@@ -194,19 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
-        "timestamp": "1734571384",
-        "url": "mail_display.php?timestamp=1734571384",
-        "date": "2024/12/19 09:23",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "【國際交流活動】韓國明知大學 冬季線上語言交換營隊 Myongji University 2024 Winter Online Language Exchange Program",
+        "timestamp": "1735118343",
+        "url": "mail_display.php?timestamp=1735118343",
+        "date": "2024/12/25 17:19",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1735117577",
+        "url": "mail_display.php?timestamp=1735117577",
+        "date": "2024/12/25 17:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "國立東華大學管理學院管理科學與財金國際學士學位學程徵聘【行政助理】一名(預估缺，到職日為114年2月4日以後)",
+        "timestamp": "1735117254",
+        "url": "mail_display.php?timestamp=1735117254",
+        "date": "2024/12/25 17:00",
+        "department": "管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "03-8903006"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
         "timestamp": "1735113078",
         "url": "mail_display.php?timestamp=1735113078",
@@ -166,47 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【交通安全】元旦假期，請注意志學火車站停車規定，並小心行車安全。",
-        "timestamp": "1735087398",
-        "url": "mail_display.php?timestamp=1735087398",
-        "date": "2024/12/25 08:43",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【交通安全】113年11月之大專校院道路交通事故情形。提醒同學行車時務必注意交通安全。",
-        "timestamp": "1735087170",
-        "url": "mail_display.php?timestamp=1735087170",
-        "date": "2024/12/25 08:39",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "語言的魔力——天堂與地獄的鑰匙",
-        "timestamp": "1735084507",
-        "url": "mail_display.php?timestamp=1735084507",
-        "date": "2024/12/25 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "411188007@gms.ndhu.edu.tw",
-            "phone": "楊舒媛 0966681380"
-        },
-        "attachmentCount": 0
     }
 ]
