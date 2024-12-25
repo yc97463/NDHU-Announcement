@@ -1,5 +1,33 @@
 [
     {
+        "title": "昨日(12/23)晚間向晴莊熱泵系統未啟動說明",
+        "timestamp": "1735034375",
+        "url": "mail_display.php?timestamp=1735034375",
+        "date": "2024/12/24 17:59",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才公告】國立東華大學原住民族課程發展協作中心誠徵專任助理一名（收件至114/1/17）",
+        "timestamp": "1735029255",
+        "url": "mail_display.php?timestamp=1735029255",
+        "date": "2024/12/24 16:34",
+        "department": "原住民族課程發展協作中心",
+        "author": {
+            "department": "原住民族課程發展協作中心",
+            "name": "Peydang Siyu朱豪傑",
+            "email": "cis-icdc@gms.ndhu.edu.tw",
+            "phone": "03-8905137"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【教卓敬邀】✨智學論壇暨AI導入教學現場設計思考工作坊✨名額有限敬請把握",
         "timestamp": "1735020233",
         "url": "mail_display.php?timestamp=1735020233",
@@ -178,34 +206,6 @@
             "name": "李貞穎",
             "email": "jeannie@gms.ndhu.edu.tw",
             "phone": "8906587"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】高教品保論壇：從大學校務評鑑談校務治理與永續發展",
-        "timestamp": "1734941795",
-        "url": "mail_display.php?timestamp=1734941795",
-        "date": "2024/12/23 16:16",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉美卿",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6533"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【人社院歲末活動】2024書書相印~寫字•寫心•寫春天",
-        "timestamp": "1734939017",
-        "url": "mail_display.php?timestamp=1734939017",
-        "date": "2024/12/23 15:30",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8905253"
         },
         "attachmentCount": 2
     }
