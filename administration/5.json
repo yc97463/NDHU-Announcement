@@ -1,5 +1,47 @@
 [
     {
+        "title": "多容館電梯2主機更新行雲一莊電梯系統更新及停用公告。",
+        "timestamp": "1733376191",
+        "url": "mail_display.php?timestamp=1733376191",
+        "date": "2024/12/05 13:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年12月6日16:00至12月7日17:00因舉辦原住民語認證考試，「例行性開放電腦教室」暫停開放 。The computer lab one will be closed from 12/6 16:00 to 12/7 17:00,2024.",
+        "timestamp": "1733371858",
+        "url": "mail_display.php?timestamp=1733371858",
+        "date": "2024/12/05 12:10",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】經濟部辦理投資審議司網站異動並變更網址修正事宜。",
+        "timestamp": "1733302480",
+        "url": "mail_display.php?timestamp=1733302480",
+        "date": "2024/12/04 16:54",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1733293493",
         "url": "mail_display.php?timestamp=1733293493",
@@ -166,47 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【教務處公告】提醒任課教師於期末選課前(113/12/16)維護是否公開成績分佈圖功能",
-        "timestamp": "1733103201",
-        "url": "mail_display.php?timestamp=1733103201",
-        "date": "2024/12/02 09:33",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "莊珆芸專員",
-            "email": "registration@gms.ndhu.edu.tw",
-            "phone": "03-8906112--6116"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統驗收測試（啟用閘門）公告",
-        "timestamp": "1733101684",
-        "url": "mail_display.php?timestamp=1733101684",
-        "date": "2024/12/02 09:08",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】資安時數調查，請個人自行上網填報",
-        "timestamp": "1733099925",
-        "url": "mail_display.php?timestamp=1733099925",
-        "date": "2024/12/02 08:38",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
     }
 ]
