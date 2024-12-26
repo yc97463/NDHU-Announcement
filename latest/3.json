@@ -1,5 +1,19 @@
 [
     {
+        "title": "「入場抽全家霜淇淋！《CLOSE CALL 誤闖歧屋》電影發佈會 」",
+        "timestamp": "1735089330",
+        "url": "mail_display.php?timestamp=1735089330",
+        "date": "2024/12/25 09:15",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第5次通知)",
         "timestamp": "1735088258",
         "url": "mail_display.php?timestamp=1735088258",
@@ -194,19 +208,5 @@
             "phone": "6931"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【圖資處志工招募】114年寒假暨113-2學期校園志工招募，誠摯邀請您加入服務的行列。",
-        "timestamp": "1735019125",
-        "url": "mail_display.php?timestamp=1735019125",
-        "date": "2024/12/24 13:45",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 2
     }
 ]
