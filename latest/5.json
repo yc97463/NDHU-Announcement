@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
+        "timestamp": "1734913340",
+        "url": "mail_display.php?timestamp=1734913340",
+        "date": "2024/12/23 08:22",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "學術與實務演講-企業評價的實務分享",
         "timestamp": "1734738905",
         "url": "mail_display.php?timestamp=1734738905",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【取消】【網路維護】校園骨幹網路系統更換",
-        "timestamp": "1734658630",
-        "url": "mail_display.php?timestamp=1734658630",
-        "date": "2024/12/20 09:37",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]
