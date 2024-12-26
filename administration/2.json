@@ -1,5 +1,19 @@
 [
     {
+        "title": "【取消】【網路維護】校園骨幹網路系統更換",
+        "timestamp": "1734658630",
+        "url": "mail_display.php?timestamp=1734658630",
+        "date": "2024/12/20 09:37",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行擷雲莊消防栓漏水維修停水公告",
         "timestamp": "1734658209",
         "url": "mail_display.php?timestamp=1734658209",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": ":教育學院1號電梯編碼器故障停用及12月份校區內客貨電梯進行月保養排程通告",
-        "timestamp": "1734235489",
-        "url": "mail_display.php?timestamp=1734235489",
-        "date": "2024/12/15 12:04",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

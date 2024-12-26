@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2學期新舊生註冊須知Summary of the registration procedures in the 113-2 semester",
+        "timestamp": "1735194906",
+        "url": "mail_display.php?timestamp=1735194906",
+        "date": "2024/12/26 14:35",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "6115"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才訊息】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
         "timestamp": "1735192959",
         "url": "mail_display.php?timestamp=1735192959",
@@ -192,20 +206,6 @@
             "name": "林逸潔",
             "email": "jamielin0902@gms.ndhu.edu.tw",
             "phone": "03-8903006"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
-        "timestamp": "1735113078",
-        "url": "mail_display.php?timestamp=1735113078",
-        "date": "2024/12/25 15:51",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
         },
         "attachmentCount": 1
     }
