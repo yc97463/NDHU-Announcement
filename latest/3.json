@@ -1,5 +1,61 @@
 [
     {
+        "title": "【企管系暨運籌所】企業管理專題講座-企管研究領域簡介",
+        "timestamp": "1735084502",
+        "url": "mail_display.php?timestamp=1735084502",
+        "date": "2024/12/25 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資工系專題講座】114/01/03(五) 主任數據科學家\u0026獨立研究者 何宇傑博士",
+        "timestamp": "1735084501",
+        "url": "mail_display.php?timestamp=1735084501",
+        "date": "2024/12/25 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件了",
+        "timestamp": "1735035353",
+        "url": "mail_display.php?timestamp=1735035353",
+        "date": "2024/12/24 18:15",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "昨日(12/23)晚間向晴莊熱泵系統未啟動說明",
+        "timestamp": "1735034375",
+        "url": "mail_display.php?timestamp=1735034375",
+        "date": "2024/12/24 17:59",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學原住民族課程發展協作中心誠徵專任助理一名（收件至114/1/17）",
         "timestamp": "1735029255",
         "url": "mail_display.php?timestamp=1735029255",
@@ -152,61 +208,5 @@
             "phone": "5063"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【就業/考試】「114年度病歷資訊管理師檢定考」開始報名囉!歡迎有興趣同學踴躍報考! (114年2月24日截止) 📣 📣",
-        "timestamp": "1734946395",
-        "url": "mail_display.php?timestamp=1734946395",
-        "date": "2024/12/23 17:33",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "航向明尼蘇達Getting Things Done心出發： 英華中文融合學校教育見習合作  成果展",
-        "timestamp": "1734944986",
-        "url": "mail_display.php?timestamp=1734944986",
-        "date": "2024/12/23 17:09",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "李心怡",
-            "email": "singing@gms.ndhu.edu.tw",
-            "phone": "03-8906633"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1734943540",
-        "url": "mail_display.php?timestamp=1734943540",
-        "date": "2024/12/23 16:45",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】高教品保論壇：從大學校務評鑑談校務治理與永續發展",
-        "timestamp": "1734941795",
-        "url": "mail_display.php?timestamp=1734941795",
-        "date": "2024/12/23 16:16",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉美卿",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6533"
-        },
-        "attachmentCount": 3
     }
 ]
