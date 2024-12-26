@@ -1,5 +1,19 @@
 [
     {
+        "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第二次)公告",
+        "timestamp": "1735002297",
+        "url": "mail_display.php?timestamp=1735002297",
+        "date": "2024/12/24 09:04",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "法律系113-1期末系員大會",
         "timestamp": "1734998104",
         "url": "mail_display.php?timestamp=1734998104",
@@ -194,19 +208,5 @@
             "phone": "5402"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
-        "timestamp": "1734923365",
-        "url": "mail_display.php?timestamp=1734923365",
-        "date": "2024/12/23 11:09",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 4
     }
 ]
