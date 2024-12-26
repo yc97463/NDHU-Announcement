@@ -1,5 +1,19 @@
 [
     {
+        "title": "學術與實務演講-企業評價的實務分享",
+        "timestamp": "1734738905",
+        "url": "mail_display.php?timestamp=1734738905",
+        "date": "2024/12/21 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "聖誕節報佳音活動協助",
         "timestamp": "1734738904",
         "url": "mail_display.php?timestamp=1734738904",
@@ -192,20 +206,6 @@
             "name": "黃金城",
             "email": "hjc@gms.ndhu.edu.tw",
             "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "為進行擷雲莊消防栓漏水維修停水公告",
-        "timestamp": "1734658209",
-        "url": "mail_display.php?timestamp=1734658209",
-        "date": "2024/12/20 09:30",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
