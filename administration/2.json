@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1735018884",
+        "url": "mail_display.php?timestamp=1735018884",
+        "date": "2024/12/24 13:41",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組】113學年度第2學期學士班課程「免修」注意事項",
         "timestamp": "1734938937",
         "url": "mail_display.php?timestamp=1734938937",
@@ -192,20 +206,6 @@
             "name": "李宇峰",
             "email": "eric@gms.ndhu.edu.tw",
             "phone": "6721"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114年度檔案分類號注意事項公告",
-        "timestamp": "1734481848",
-        "url": "mail_display.php?timestamp=1734481848",
-        "date": "2024/12/18 08:30",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "黃馨平",
-            "email": "zaphy@gms.ndhu.edu.tw",
-            "phone": "(03)8906355"
         },
         "attachmentCount": 0
     }
