@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系暨運籌所】企業管理專題講座-企管研究領域簡介",
+        "timestamp": "1735084502",
+        "url": "mail_display.php?timestamp=1735084502",
+        "date": "2024/12/25 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】114/01/03(五) 主任數據科學家\u0026獨立研究者 何宇傑博士",
         "timestamp": "1735084501",
         "url": "mail_display.php?timestamp=1735084501",
@@ -192,20 +206,6 @@
             "name": "饒瑞鳳",
             "email": "afeng3836@gms.ndhu.edu.tw",
             "phone": "3892"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "幼教系114級教學實習成果展【奇幻腦力島】（工作人員）",
-        "timestamp": "1734738903",
-        "url": "mail_display.php?timestamp=1734738903",
-        "date": "2024/12/21 07:55",
-        "department": "花師教育學院 幼兒教育學系",
-        "author": {
-            "department": "花師教育學院 幼兒教育學系",
-            "name": "蕭羽芩",
-            "email": "kay200128@gms.ndhu.edu.tw",
-            "phone": "5266"
         },
         "attachmentCount": 0
     }
