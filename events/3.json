@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖資處志工招募】114年寒假暨113-2學期校園志工招募，誠摯邀請您加入服務的行列。",
+        "timestamp": "1734738902",
+        "url": "mail_display.php?timestamp=1734738902",
+        "date": "2024/12/21 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "8906813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動異動通知】智學論壇與人工智慧導入教學現場設計思考工作坊",
         "timestamp": "1734689629",
         "url": "mail_display.php?timestamp=1734689629",
@@ -192,20 +206,6 @@
             "name": "林世悠",
             "email": "shihyu@gms.ndhu.edu.tw",
             "phone": "0921-060945"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024國際處世界咖啡館",
-        "timestamp": "1734566106",
-        "url": "mail_display.php?timestamp=1734566106",
-        "date": "2024/12/19 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "魏綺瑩",
-            "email": "vanessawei@gms.ndhu.edu.tw",
-            "phone": "5119"
         },
         "attachmentCount": 0
     }
