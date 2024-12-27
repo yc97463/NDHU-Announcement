@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期本校期末考讀書空間、討論空間開放公告 Final Examinations Study Space Notice",
+        "timestamp": "1735294281",
+        "url": "mail_display.php?timestamp=1735294281",
+        "date": "2024/12/27 18:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】健保30「看見偏鄉醫療守護者」攝影比賽開跑囉!歡迎踴躍報名📸(114年2月7日截止)",
         "timestamp": "1735183798",
         "url": "mail_display.php?timestamp=1735183798",
@@ -194,19 +208,5 @@
             "phone": "6333"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第二次)公告",
-        "timestamp": "1735002297",
-        "url": "mail_display.php?timestamp=1735002297",
-        "date": "2024/12/24 09:04",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 0
     }
 ]
