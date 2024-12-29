@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全】113年11月之大專校院道路交通事故情形。提醒同學行車時務必注意交通安全。",
+        "timestamp": "1735087170",
+        "url": "mail_display.php?timestamp=1735087170",
+        "date": "2024/12/25 08:39",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "語言的魔力——天堂與地獄的鑰匙",
         "timestamp": "1735084507",
         "url": "mail_display.php?timestamp=1735084507",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告。",
-        "timestamp": "1735006977",
-        "url": "mail_display.php?timestamp=1735006977",
-        "date": "2024/12/24 10:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "徐雅香",
-            "email": "eai3737@gms.ndhu.edu.tw",
-            "phone": "6333"
-        },
-        "attachmentCount": 1
     }
 ]

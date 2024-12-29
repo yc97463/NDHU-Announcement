@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1735117577",
+        "url": "mail_display.php?timestamp=1735117577",
+        "date": "2024/12/25 17:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國立東華大學管理學院管理科學與財金國際學士學位學程徵聘【行政助理】一名(預估缺，到職日為114年2月4日以後)",
         "timestamp": "1735117254",
         "url": "mail_display.php?timestamp=1735117254",
@@ -186,20 +200,6 @@
         "timestamp": "1735087398",
         "url": "mail_display.php?timestamp=1735087398",
         "date": "2024/12/25 08:43",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【交通安全】113年11月之大專校院道路交通事故情形。提醒同學行車時務必注意交通安全。",
-        "timestamp": "1735087170",
-        "url": "mail_display.php?timestamp=1735087170",
-        "date": "2024/12/25 08:39",
         "department": "學務處生活輔導組",
         "author": {
             "department": "學務處生活輔導組",
