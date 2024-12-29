@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1735018884",
+        "url": "mail_display.php?timestamp=1735018884",
+        "date": "2024/12/24 13:41",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告。",
         "timestamp": "1735006977",
         "url": "mail_display.php?timestamp=1735006977",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【財金系專題演講】12/27(五) 14:00 ~ 16:00若水資本評價股份有限公司 ",
-        "timestamp": "1734924228",
-        "url": "mail_display.php?timestamp=1734924228",
-        "date": "2024/12/23 11:23",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 1
     }
 ]
