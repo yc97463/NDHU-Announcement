@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期本校期末考讀書空間、討論空間開放公告 Final Examinations Study Space Notice",
+        "timestamp": "1735294281",
+        "url": "mail_display.php?timestamp=1735294281",
+        "date": "2024/12/27 18:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【代轉學生會公告】第一屆東華音樂節｜洄潮計畫籌備團隊招募",
         "timestamp": "1735291016",
         "url": "mail_display.php?timestamp=1735291016",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
-        "timestamp": "1735192959",
-        "url": "mail_display.php?timestamp=1735192959",
-        "date": "2024/12/26 14:02",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
     }
 ]
