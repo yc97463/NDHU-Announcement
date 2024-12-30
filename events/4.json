@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2 閱讀培力計畫-教育系招募(有志報名者務必填寫表單，經面試通知錄取後才會選課成功！)",
+        "timestamp": "1734590927",
+        "url": "mail_display.php?timestamp=1734590927",
+        "date": "2024/12/19 14:48",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手",
+        "timestamp": "1734588119",
+        "url": "mail_display.php?timestamp=1734588119",
+        "date": "2024/12/19 14:01",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "12/24（二）13：00 【師培永續講座】永續時代的師資培育，地點:學活A101",
         "timestamp": "1734574362",
         "url": "mail_display.php?timestamp=1734574362",
@@ -180,33 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "《That Warm feeling》東華大學爵士樂團期末演出",
-        "timestamp": "1734501883",
-        "url": "mail_display.php?timestamp=1734501883",
-        "date": "2024/12/18 14:04",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
-        "timestamp": "1734491738",
-        "url": "mail_display.php?timestamp=1734491738",
-        "date": "2024/12/18 11:15",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]
