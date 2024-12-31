@@ -1,5 +1,61 @@
 [
     {
+        "title": "【電腦教室公告】114年1 月1日開國紀念日，電腦教室不開放。The computer lab one will be closed on January 1, 2025.",
+        "timestamp": "1735526240",
+        "url": "mail_display.php?timestamp=1735526240",
+        "date": "2024/12/30 10:37",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
+        "timestamp": "1735526105",
+        "url": "mail_display.php?timestamp=1735526105",
+        "date": "2024/12/30 10:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
+        "timestamp": "1735526018",
+        "url": "mail_display.php?timestamp=1735526018",
+        "date": "2024/12/30 10:33",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才】國營臺灣鐵路股份有限公司113年第2次從業人員甄試🚆 (114年1月7日截止)",
+        "timestamp": "1735525648",
+        "url": "mail_display.php?timestamp=1735525648",
+        "date": "2024/12/30 10:27",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
         "timestamp": "1735524570",
         "url": "mail_display.php?timestamp=1735524570",
@@ -152,61 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "讓我們一起來推薦【113學年度優良導師】Annual Excellent Mentor Nomination",
-        "timestamp": "1735265082",
-        "url": "mail_display.php?timestamp=1735265082",
-        "date": "2024/12/27 10:04",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
-        "timestamp": "1735261538",
-        "url": "mail_display.php?timestamp=1735261538",
-        "date": "2024/12/27 09:05",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "陳傳智",
-            "email": "CHEN66039@gms.ndhu.edu.tw",
-            "phone": "6012"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "百年傳唱-法國藝術歌曲琛寶音樂會",
-        "timestamp": "1735257302",
-        "url": "mail_display.php?timestamp=1735257302",
-        "date": "2024/12/27 07:55",
-        "department": "藝術學院 音樂學系",
-        "author": {
-            "department": "藝術學院 音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【CSD 永續發展中心】國立東華大學 2023 年永續報告書 NDHU 2023 Sustainability Report Release",
-        "timestamp": "1735225336",
-        "url": "mail_display.php?timestamp=1735225336",
-        "date": "2024/12/26 23:02",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 (Li-Li Lee)",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]
