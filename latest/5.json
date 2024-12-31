@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才公告】國立東華大學會計學系誠徵身心障礙專案助理一名",
+        "timestamp": "1735109355",
+        "url": "mail_display.php?timestamp=1735109355",
+        "date": "2024/12/25 14:49",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "pindopoh@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助生團保】114年度大專校院獎助生團體保險延至12/26前登錄(第三次公告)",
+        "timestamp": "1735107634",
+        "url": "mail_display.php?timestamp=1735107634",
+        "date": "2024/12/25 14:20",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【教務處註冊組公告】113-1學期成績預計於114/1/14(週二)下班前開放查詢(請登錄電子學習履歷系統) The grades for the 113-1 semester are expected to be available for inquiry by the end of work hours on Tuesday , January 14th of 2025 ",
+        "timestamp": "1735099625",
+        "url": "mail_display.php?timestamp=1735099625",
+        "date": "2024/12/25 12:07",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "莊珆芸專員",
+            "email": "registration@gms.ndhu.edu.tw",
+            "phone": "03-8906112--6116"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【徵才】高雄市政府勞工局「職災勞工個案主動服務專業服務人員」甄選(社工、心理、法律)(114年1月8日截止)",
         "timestamp": "1735098945",
         "url": "mail_display.php?timestamp=1735098945",
@@ -164,48 +206,6 @@
             "name": "林逸潔",
             "email": "jamielin0902@gms.ndhu.edu.tw",
             "phone": "038903006"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系-民族講座】從原民會組織法修正，看我國民族別自治發展",
-        "timestamp": "1735084504",
-        "url": "mail_display.php?timestamp=1735084504",
-        "date": "2024/12/25 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "航向明尼蘇達Getting Things Done心出發： 英華中文融合學校教育見習合作  成果展",
-        "timestamp": "1735084503",
-        "url": "mail_display.php?timestamp=1735084503",
-        "date": "2024/12/25 07:55",
-        "department": "師資培育中心 中等教育實習組",
-        "author": {
-            "department": "師資培育中心 中等教育實習組",
-            "name": "李心怡",
-            "email": "singing@gms.ndhu.edu.tw",
-            "phone": "03-8906633"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】企業管理專題講座-企管研究領域簡介",
-        "timestamp": "1735084502",
-        "url": "mail_display.php?timestamp=1735084502",
-        "date": "2024/12/25 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
         },
         "attachmentCount": 0
     }
