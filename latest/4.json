@@ -1,6 +1,20 @@
 [
     {
         "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
+        "timestamp": "1735177553",
+        "url": "mail_display.php?timestamp=1735177553",
+        "date": "2024/12/26 09:45",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 9
+    },
+    {
+        "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
         "timestamp": "1735177545",
         "url": "mail_display.php?timestamp=1735177545",
         "date": "2024/12/26 09:45",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "轉發【招募訊息】國立臺灣師範大學「宜蘭縣、花蓮縣數位機會中心(DOC)輔導計畫」徵約聘專案助理1名(工作地點：花蓮市中華國小)",
-        "timestamp": "1735094732",
-        "url": "mail_display.php?timestamp=1735094732",
-        "date": "2024/12/25 10:45",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 2
     }
 ]
