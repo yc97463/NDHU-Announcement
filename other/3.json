@@ -1,5 +1,19 @@
 [
     {
+        "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第二次)公告",
+        "timestamp": "1735002297",
+        "url": "mail_display.php?timestamp=1735002297",
+        "date": "2024/12/24 09:04",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【就業/考試】「114年度病歷資訊管理師檢定考」開始報名囉!歡迎有興趣同學踴躍報考! (114年2月24日截止) 📣 📣",
         "timestamp": "1734946395",
         "url": "mail_display.php?timestamp=1734946395",
@@ -194,19 +208,5 @@
             "phone": "6590"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】【2025 Yourator數位職涯博覽會AI・SDGs・SLASHIE】(2025年1月11日舉辦)",
-        "timestamp": "1734328283",
-        "url": "mail_display.php?timestamp=1734328283",
-        "date": "2024/12/16 13:51",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]

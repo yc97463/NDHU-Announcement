@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】113-1「性別與社會」成果展：被保溫的日常—看見社會中的性／別",
+        "timestamp": "1735196087",
+        "url": "mail_display.php?timestamp=1735196087",
+        "date": "2024/12/26 14:54",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才訊息】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
         "timestamp": "1735192959",
         "url": "mail_display.php?timestamp=1735192959",
@@ -192,20 +206,6 @@
             "name": "林逸潔",
             "email": "jamielin0902@gms.ndhu.edu.tw",
             "phone": "03-8903006"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
-        "timestamp": "1735113078",
-        "url": "mail_display.php?timestamp=1735113078",
-        "date": "2024/12/25 15:51",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
         },
         "attachmentCount": 1
     }
