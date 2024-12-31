@@ -1,5 +1,19 @@
 [
     {
+        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手 (第2次公告)",
+        "timestamp": "1735526769",
+        "url": "mail_display.php?timestamp=1735526769",
+        "date": "2024/12/30 10:46",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、輔導員等) (114年1月5日截止)",
         "timestamp": "1735526583",
         "url": "mail_display.php?timestamp=1735526583",
@@ -192,20 +206,6 @@
             "name": "黃小姐",
             "email": "yuxuan22@gms.ndhu.edu.tw",
             "phone": "5246"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【百年傳唱-法國藝術歌曲琛寶音樂會】",
-        "timestamp": "1735283047",
-        "url": "mail_display.php?timestamp=1735283047",
-        "date": "2024/12/27 15:04",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
         },
         "attachmentCount": 1
     }

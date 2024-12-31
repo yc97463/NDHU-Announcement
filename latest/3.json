@@ -1,5 +1,19 @@
 [
     {
+        "title": "【百年傳唱-法國藝術歌曲琛寶音樂會】",
+        "timestamp": "1735283047",
+        "url": "mail_display.php?timestamp=1735283047",
+        "date": "2024/12/27 15:04",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年1月8日(星期三)學人宿舍區垃圾清運時間調整。Notice on adjusting garbage and recycling service hours in employee dormitories on January 8, 2025",
         "timestamp": "1735269239",
         "url": "mail_display.php?timestamp=1735269239",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【活動】French Lunch Hour第10場12/26 一起來製作聖誕水晶球吧！Let's decorate Christmas balls!",
-        "timestamp": "1735178116",
-        "url": "mail_display.php?timestamp=1735178116",
-        "date": "2024/12/26 09:55",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
     }
 ]
