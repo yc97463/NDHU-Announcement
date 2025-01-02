@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】內政部移民署113學年度「新住民及其子女培力與獎助(勵)學金」",
+        "timestamp": "1735796128",
+        "url": "mail_display.php?timestamp=1735796128",
+        "date": "2025/01/02 13:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】幼幼社會福利慈善基金會114年「跨縣市求學清寒學子助學」",
         "timestamp": "1735791219",
         "url": "mail_display.php?timestamp=1735791219",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "轉知教育部編製之「校園跟蹤騷擾防制工作手冊」電子檔，供參考運用案。",
-        "timestamp": "1735629722",
-        "url": "mail_display.php?timestamp=1735629722",
-        "date": "2024/12/31 15:22",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 1
     }
 ]
