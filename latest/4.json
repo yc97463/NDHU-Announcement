@@ -1,6 +1,20 @@
 [
     {
         "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
+        "timestamp": "1735526105",
+        "url": "mail_display.php?timestamp=1735526105",
+        "date": "2024/12/30 10:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
         "timestamp": "1735526018",
         "url": "mail_display.php?timestamp=1735526018",
         "date": "2024/12/30 10:33",
@@ -194,19 +208,5 @@
             "phone": "03-8906275"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
-        "timestamp": "1735261538",
-        "url": "mail_display.php?timestamp=1735261538",
-        "date": "2024/12/27 09:05",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "陳傳智",
-            "email": "CHEN66039@gms.ndhu.edu.tw",
-            "phone": "6012"
-        },
-        "attachmentCount": 2
     }
 ]

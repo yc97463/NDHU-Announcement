@@ -1,5 +1,19 @@
 [
     {
+        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
+        "timestamp": "1735261538",
+        "url": "mail_display.php?timestamp=1735261538",
+        "date": "2024/12/27 09:05",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "陳傳智",
+            "email": "CHEN66039@gms.ndhu.edu.tw",
+            "phone": "6012"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "百年傳唱-法國藝術歌曲琛寶音樂會",
         "timestamp": "1735257302",
         "url": "mail_display.php?timestamp=1735257302",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "【獎助學金申請】本校113年度「紀念張欽松先生馬拉松獎學金」(114.01.03日申請截止)",
-        "timestamp": "1735174027",
-        "url": "mail_display.php?timestamp=1735174027",
-        "date": "2024/12/26 08:47",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
