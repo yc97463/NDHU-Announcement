@@ -1,5 +1,61 @@
 [
     {
+        "title": " 【NUST徵件】114年「特色領域研討會經費補助」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
+        "timestamp": "1735624416",
+        "url": "mail_display.php?timestamp=1735624416",
+        "date": "2024/12/31 13:53",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "重申禁用危害國家資通訊產品相關規定",
+        "timestamp": "1735623636",
+        "url": "mail_display.php?timestamp=1735623636",
+        "date": "2024/12/31 13:40",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "活動倒數3天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
+        "timestamp": "1735623066",
+        "url": "mail_display.php?timestamp=1735623066",
+        "date": "2024/12/31 13:31",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "教育部「2025總統教育獎」校內申請收件即日起至114年1月13日(一)下午17時收件截止",
+        "timestamp": "1735611388",
+        "url": "mail_display.php?timestamp=1735611388",
+        "date": "2024/12/31 10:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【交通安全宣導】2025元旦假期，切勿疲勞駕駛，確保行車平安！",
         "timestamp": "1735607912",
         "url": "mail_display.php?timestamp=1735607912",
@@ -152,61 +208,5 @@
             "phone": "6585"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "活動倒數4天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
-        "timestamp": "1735529587",
-        "url": "mail_display.php?timestamp=1735529587",
-        "date": "2024/12/30 11:33",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】苗栗縣政府教育處招募約用輔導員(心理師、社工師)(114年1月3日截止)",
-        "timestamp": "1735527586",
-        "url": "mail_display.php?timestamp=1735527586",
-        "date": "2024/12/30 10:59",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手 (第2次公告)",
-        "timestamp": "1735526769",
-        "url": "mail_display.php?timestamp=1735526769",
-        "date": "2024/12/30 10:46",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、輔導員等) (114年1月5日截止)",
-        "timestamp": "1735526583",
-        "url": "mail_display.php?timestamp=1735526583",
-        "date": "2024/12/30 10:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
