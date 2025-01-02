@@ -1,5 +1,33 @@
 [
     {
+        "title": "百年傳唱-法國藝術歌曲琛寶音樂會",
+        "timestamp": "1735257302",
+        "url": "mail_display.php?timestamp=1735257302",
+        "date": "2024/12/27 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【CSD 永續發展中心】國立東華大學 2023 年永續報告書 NDHU 2023 Sustainability Report Release",
+        "timestamp": "1735225336",
+        "url": "mail_display.php?timestamp=1735225336",
+        "date": "2024/12/26 23:02",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 (Li-Li Lee)",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "114年1月1日 (週三)本校垃圾車停收1日。On January 1, 2025, school garbage trucks will be closed for one day",
         "timestamp": "1735203802",
         "url": "mail_display.php?timestamp=1735203802",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【藝創系】114.1.2【113-1系學會期末系大會】（認證一小時，限本系同學）",
-        "timestamp": "1735170901",
-        "url": "mail_display.php?timestamp=1735170901",
-        "date": "2024/12/26 07:55",
-        "department": "藝術學院 藝術創意產業學系",
-        "author": {
-            "department": "藝術學院 藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "8905889"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[停水]理工一館入水管線破損維修停水通告",
-        "timestamp": "1735140085",
-        "url": "mail_display.php?timestamp=1735140085",
-        "date": "2024/12/25 23:21",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
