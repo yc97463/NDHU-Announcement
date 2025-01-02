@@ -1,5 +1,19 @@
 [
     {
+        "title": "113藝設系期末系員大會",
+        "timestamp": "1734566104",
+        "url": "mail_display.php?timestamp=1734566104",
+        "date": "2024/12/19 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113藝設系期末系員大會-幹部",
         "timestamp": "1734566103",
         "url": "mail_display.php?timestamp=1734566103",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班聯合迎新",
-        "timestamp": "1734479702",
-        "url": "mail_display.php?timestamp=1734479702",
-        "date": "2024/12/18 07:55",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "03-8903007"
         },
         "attachmentCount": 0
     }
