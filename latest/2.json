@@ -1,5 +1,47 @@
 [
     {
+        "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
+        "timestamp": "1735781736",
+        "url": "mail_display.php?timestamp=1735781736",
+        "date": "2025/01/02 09:35",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "活動倒數1天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券，現場還有有獎徵答",
+        "timestamp": "1735780670",
+        "url": "mail_display.php?timestamp=1735780670",
+        "date": "2025/01/02 09:17",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
+        "timestamp": "1735634063",
+        "url": "mail_display.php?timestamp=1735634063",
+        "date": "2024/12/31 16:34",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Safety Reminder】Stay safe during  New Year holidays.",
         "timestamp": "1735631156",
         "url": "mail_display.php?timestamp=1735631156",
@@ -166,47 +208,5 @@
             "phone": "038905824"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要訊息】本校教師辦理產學合作計畫注意事項(第2次通知)",
-        "timestamp": "1735549753",
-        "url": "mail_display.php?timestamp=1735549753",
-        "date": "2024/12/30 17:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "學術服務組",
-            "email": "emma@gms.ndhu.edu.tw",
-            "phone": "6513"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉發創新競賽徵件訊息】第七屆 #高通台灣創新競賽 徵件啟動！",
-        "timestamp": "1735548653",
-        "url": "mail_display.php?timestamp=1735548653",
-        "date": "2024/12/30 16:50",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
-        "timestamp": "1735548248",
-        "url": "mail_display.php?timestamp=1735548248",
-        "date": "2024/12/30 16:44",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 1
     }
 ]

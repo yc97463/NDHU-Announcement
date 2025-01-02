@@ -1,5 +1,47 @@
 [
     {
+        "title": "【重要訊息】本校教師辦理產學合作計畫注意事項(第2次通知)",
+        "timestamp": "1735549753",
+        "url": "mail_display.php?timestamp=1735549753",
+        "date": "2024/12/30 17:09",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "學術服務組",
+            "email": "emma@gms.ndhu.edu.tw",
+            "phone": "6513"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉發創新競賽徵件訊息】第七屆 #高通台灣創新競賽 徵件啟動！",
+        "timestamp": "1735548653",
+        "url": "mail_display.php?timestamp=1735548653",
+        "date": "2024/12/30 16:50",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
+        "timestamp": "1735548248",
+        "url": "mail_display.php?timestamp=1735548248",
+        "date": "2024/12/30 16:44",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (Last notice)",
         "timestamp": "1735548095",
         "url": "mail_display.php?timestamp=1735548095",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1735524570",
-        "url": "mail_display.php?timestamp=1735524570",
-        "date": "2024/12/30 10:09",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【圖書館公告】元旦【114.01.01 (三)】休館一日。Library Announcement – Library will be Closed on January 01, 2025.",
-        "timestamp": "1735456353",
-        "url": "mail_display.php?timestamp=1735456353",
-        "date": "2024/12/29 15:12",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第三次公告)",
-        "timestamp": "1735430706",
-        "url": "mail_display.php?timestamp=1735430706",
-        "date": "2024/12/29 08:05",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
     }
 ]
