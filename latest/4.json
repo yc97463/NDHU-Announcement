@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】期末K書中心B館與各院自習教室開放公告 Study Center and Departmental Study Rooms Notice",
+        "timestamp": "1735540410",
+        "url": "mail_display.php?timestamp=1735540410",
+        "date": "2024/12/30 14:33",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "活動倒數4天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
         "timestamp": "1735529587",
         "url": "mail_display.php?timestamp=1735529587",
@@ -194,19 +208,5 @@
             "phone": "6585"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【代轉學生會公告】第一屆東華音樂節｜洄潮計畫籌備團隊招募",
-        "timestamp": "1735291016",
-        "url": "mail_display.php?timestamp=1735291016",
-        "date": "2024/12/27 17:16",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 1
     }
 ]
