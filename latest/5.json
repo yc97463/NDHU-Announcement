@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
+        "timestamp": "1735524570",
+        "url": "mail_display.php?timestamp=1735524570",
+        "date": "2024/12/30 10:09",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【圖書館公告】元旦【114.01.01 (三)】休館一日。Library Announcement – Library will be Closed on January 01, 2025.",
         "timestamp": "1735456353",
         "url": "mail_display.php?timestamp=1735456353",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "114年1月1日 (週三)本校垃圾車停收1日。On January 1, 2025, school garbage trucks will be closed for one day",
-        "timestamp": "1735203802",
-        "url": "mail_display.php?timestamp=1735203802",
-        "date": "2024/12/26 17:03",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
