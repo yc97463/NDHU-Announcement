@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第三次公告)",
+        "timestamp": "1735430706",
+        "url": "mail_display.php?timestamp=1735430706",
+        "date": "2024/12/29 08:05",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第二次公告)",
         "timestamp": "1735365265",
         "url": "mail_display.php?timestamp=1735365265",
@@ -194,19 +208,5 @@
             "phone": "03-8906112--6116"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【公告】為辦理本校勞資會議勞工代表選舉事宜，公告「本校勞資會議勞工代表選舉人暨被選舉人總名冊」(請詳參附件)，請查照。",
-        "timestamp": "1735092811",
-        "url": "mail_display.php?timestamp=1735092811",
-        "date": "2024/12/25 10:13",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

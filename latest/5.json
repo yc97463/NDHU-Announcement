@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第1學期「Sean’s War 槍聲餘響」電影首映會",
+        "timestamp": "1735343701",
+        "url": "mail_display.php?timestamp=1735343701",
+        "date": "2024/12/28 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要通知】113-1學期本校期末考讀書空間、討論空間開放公告 Final Examinations Study Space Notice",
         "timestamp": "1735294281",
         "url": "mail_display.php?timestamp=1735294281",
@@ -194,19 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【活動推推】113-1「性別與社會」成果展：被保溫的日常—看見社會中的性／別",
-        "timestamp": "1735196087",
-        "url": "mail_display.php?timestamp=1735196087",
-        "date": "2024/12/26 14:54",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 1
     }
 ]
