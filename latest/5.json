@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】元旦【114.01.01 (三)】休館一日。Library Announcement – Library will be Closed on January 01, 2025.",
+        "timestamp": "1735456353",
+        "url": "mail_display.php?timestamp=1735456353",
+        "date": "2024/12/29 15:12",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第三次公告)",
         "timestamp": "1735430706",
         "url": "mail_display.php?timestamp=1735430706",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校湖畔餐廳12月27日晚上暫停對外營業及114年元旦連假期間校內委外廠商營業時間公告。",
-        "timestamp": "1735203580",
-        "url": "mail_display.php?timestamp=1735203580",
-        "date": "2024/12/26 16:59",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]
