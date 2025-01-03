@@ -1,5 +1,33 @@
 [
     {
+        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
+        "timestamp": "1735634063",
+        "url": "mail_display.php?timestamp=1735634063",
+        "date": "2024/12/31 16:34",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Safety Reminder】Stay safe during  New Year holidays.",
+        "timestamp": "1735631156",
+        "url": "mail_display.php?timestamp=1735631156",
+        "date": "2024/12/31 15:45",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "轉知教育部編製之「校園跟蹤騷擾防制工作手冊」電子檔，供參考運用案。",
         "timestamp": "1735629722",
         "url": "mail_display.php?timestamp=1735629722",
@@ -180,33 +208,5 @@
             "phone": "03-8903241"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
-        "timestamp": "1735548248",
-        "url": "mail_display.php?timestamp=1735548248",
-        "date": "2024/12/30 16:44",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (Last notice)",
-        "timestamp": "1735548095",
-        "url": "mail_display.php?timestamp=1735548095",
-        "date": "2024/12/30 16:41",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 8
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第三次公告)",
+        "timestamp": "1735430706",
+        "url": "mail_display.php?timestamp=1735430706",
+        "date": "2024/12/29 08:05",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要公告】志學火車站新機車、腳踏車停車場已完成驗收，即日起正式啟用，欲停放車輛者請依規定區域停放。(第二次公告)",
+        "timestamp": "1735365265",
+        "url": "mail_display.php?timestamp=1735365265",
+        "date": "2024/12/28 13:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度第1學期「Sean’s War 槍聲餘響」電影首映會",
         "timestamp": "1735343701",
         "url": "mail_display.php?timestamp=1735343701",
@@ -180,33 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】茲為符法規公告期間及選舉名單須通盤確認，原訂本校工會委託人事室於113年12月26日至27日辦理勞資會議勞工代表選舉延期辦理，確定之選舉日期將再另行公告。",
-        "timestamp": "1735203065",
-        "url": "mail_display.php?timestamp=1735203065",
-        "date": "2024/12/26 16:51",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2學期新舊生註冊須知Summary of the registration procedures in the 113-2 semester",
-        "timestamp": "1735197239",
-        "url": "mail_display.php?timestamp=1735197239",
-        "date": "2024/12/26 15:13",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 4
     }
 ]
