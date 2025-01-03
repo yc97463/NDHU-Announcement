@@ -1,5 +1,19 @@
 [
     {
+        "title": "自資系113-1校友卓越生職涯講座-高普考（測量制圖\u0026環保技術）經驗分享（11/29）。",
+        "timestamp": "1731898915",
+        "url": "mail_display.php?timestamp=1731898915",
+        "date": "2024/11/18 11:01",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "890-3267"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
         "timestamp": "1731897649",
         "url": "mail_display.php?timestamp=1731897649",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
-        "timestamp": "1730880910",
-        "url": "mail_display.php?timestamp=1730880910",
-        "date": "2024/11/06 16:15",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]
