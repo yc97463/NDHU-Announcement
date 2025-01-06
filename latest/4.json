@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度檔案分類號注意事項公告",
+        "timestamp": "1735604655",
+        "url": "mail_display.php?timestamp=1735604655",
+        "date": "2024/12/31 08:24",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "黃馨平",
+            "email": "zaphy@gms.ndhu.edu.tw",
+            "phone": "(03)8906355"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "民族語言與傳播學系【電視企劃與製作-期末成果展】",
         "timestamp": "1735602901",
         "url": "mail_display.php?timestamp=1735602901",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
-        "timestamp": "1735526018",
-        "url": "mail_display.php?timestamp=1735526018",
-        "date": "2024/12/30 10:33",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 3
     }
 ]
