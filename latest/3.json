@@ -1,5 +1,19 @@
 [
     {
+        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
+        "timestamp": "1735789803",
+        "url": "mail_display.php?timestamp=1735789803",
+        "date": "2025/01/02 11:50",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【獎助學金申請】平安菁英教育基金會「113-2學期平安及菁英獎學金」",
         "timestamp": "1735788281",
         "url": "mail_display.php?timestamp=1735788281",
@@ -194,19 +208,5 @@
             "phone": "6591"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【NUST徵件】114年「跨領域永續研究整合型計畫：臺灣國立大學系統年輕學者創新性合作計畫補助計畫」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
-        "timestamp": "1735625298",
-        "url": "mail_display.php?timestamp=1735625298",
-        "date": "2024/12/31 14:08",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
-        },
-        "attachmentCount": 6
     }
 ]

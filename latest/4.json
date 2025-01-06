@@ -1,5 +1,19 @@
 [
     {
+        "title": "【NUST徵件】114年「跨領域永續研究整合型計畫：臺灣國立大學系統年輕學者創新性合作計畫補助計畫」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
+        "timestamp": "1735625298",
+        "url": "mail_display.php?timestamp=1735625298",
+        "date": "2024/12/31 14:08",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": " 【NUST徵件】114年「特色領域研討會經費補助」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
         "timestamp": "1735624416",
         "url": "mail_display.php?timestamp=1735624416",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【重要通知】期末K書中心B館與各院自習教室開放公告 Study Center and Departmental Study Rooms Notice",
-        "timestamp": "1735540410",
-        "url": "mail_display.php?timestamp=1735540410",
-        "date": "2024/12/30 14:33",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "蕭定泓",
-            "email": "xiao@gms.ndhu.edu.tw",
-            "phone": "6585"
-        },
-        "attachmentCount": 1
     }
 ]
