@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、輔導員等) (114年1月5日截止)",
+        "timestamp": "1735526583",
+        "url": "mail_display.php?timestamp=1735526583",
+        "date": "2024/12/30 10:43",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【電腦教室公告】114年1 月1日開國紀念日，電腦教室不開放。The computer lab one will be closed on January 1, 2025.",
+        "timestamp": "1735526240",
+        "url": "mail_display.php?timestamp=1735526240",
+        "date": "2024/12/30 10:37",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
+        "timestamp": "1735526105",
+        "url": "mail_display.php?timestamp=1735526105",
+        "date": "2024/12/30 10:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
         "timestamp": "1735526018",
         "url": "mail_display.php?timestamp=1735526018",
@@ -166,47 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年1月8日(星期三)學人宿舍區垃圾清運時間調整。Notice on adjusting garbage and recycling service hours in employee dormitories on January 8, 2025",
-        "timestamp": "1735269239",
-        "url": "mail_display.php?timestamp=1735269239",
-        "date": "2024/12/27 11:13",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "讓我們一起來推薦【113學年度優良導師】Annual Excellent Mentor Nomination",
-        "timestamp": "1735265082",
-        "url": "mail_display.php?timestamp=1735265082",
-        "date": "2024/12/27 10:04",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
-        "timestamp": "1735261538",
-        "url": "mail_display.php?timestamp=1735261538",
-        "date": "2024/12/27 09:05",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "陳傳智",
-            "email": "CHEN66039@gms.ndhu.edu.tw",
-            "phone": "6012"
-        },
-        "attachmentCount": 2
     }
 ]

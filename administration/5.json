@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1734061027",
+        "url": "mail_display.php?timestamp=1734061027",
+        "date": "2024/12/13 11:37",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "湖畔至行政大樓人行步道路燈裝置公告(12/13~12/15)",
         "timestamp": "1734022096",
         "url": "mail_display.php?timestamp=1734022096",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】行政院修正「國內出差旅費報支要點」部分規定，自114年1月1日起生效",
-        "timestamp": "1733733759",
-        "url": "mail_display.php?timestamp=1733733759",
-        "date": "2024/12/09 16:42",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 2
     }
 ]

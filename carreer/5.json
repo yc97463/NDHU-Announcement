@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
+        "timestamp": "1725615017",
+        "url": "mail_display.php?timestamp=1725615017",
+        "date": "2024/09/06 17:30",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國立東華大學數位學伴中心 - 【113-1 學期大學伴招募】",
+        "timestamp": "1725443988",
+        "url": "mail_display.php?timestamp=1725443988",
+        "date": "2024/09/04 17:59",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第2次公告，收件截止日期(書面資料與word檔)：113年09月30日(一) 23:59。(書面資料以郵戳日期為憑))",
         "timestamp": "1725415258",
         "url": "mail_display.php?timestamp=1725415258",
@@ -180,33 +208,5 @@
             "phone": "03-890-3133"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組徵聘校務基金助理一名",
-        "timestamp": "1723716986",
-        "url": "mail_display.php?timestamp=1723716986",
-        "date": "2024/08/15 18:16",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "6361"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
-        "timestamp": "1723535524",
-        "url": "mail_display.php?timestamp=1723535524",
-        "date": "2024/08/13 15:52",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
     }
 ]
