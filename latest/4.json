@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【NUST徵件】114年「特色領域研討會經費補助」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
+        "timestamp": "1735624416",
+        "url": "mail_display.php?timestamp=1735624416",
+        "date": "2024/12/31 13:53",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "重申禁用危害國家資通訊產品相關規定",
         "timestamp": "1735623636",
         "url": "mail_display.php?timestamp=1735623636",
@@ -194,19 +208,5 @@
             "phone": "6585"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "活動倒數4天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
-        "timestamp": "1735529587",
-        "url": "mail_display.php?timestamp=1735529587",
-        "date": "2024/12/30 11:33",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
