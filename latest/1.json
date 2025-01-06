@@ -1,5 +1,19 @@
 [
     {
+        "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
+        "timestamp": "1736149095",
+        "url": "mail_display.php?timestamp=1736149095",
+        "date": "2025/01/06 15:38",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "劉美卿",
+            "email": "rd505@gms.ndhu.edu.tw",
+            "phone": "6533"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2025第12屆「華山論見」教育學術研討會徵稿展延公告",
         "timestamp": "1736147563",
         "url": "mail_display.php?timestamp=1736147563",
@@ -194,19 +208,5 @@
             "phone": "8903072"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第一次公告)",
-        "timestamp": "1735887063",
-        "url": "mail_display.php?timestamp=1735887063",
-        "date": "2025/01/03 14:51",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
