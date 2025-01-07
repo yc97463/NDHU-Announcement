@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】川流文化教育基金會「113學年度獎助學金」",
+        "timestamp": "1730383289",
+        "url": "mail_display.php?timestamp=1730383289",
+        "date": "2024/10/31 22:01",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【合作業者徵才訊息】宜蘭縣、花蓮縣數位機會中心．誠徵攝影展「顧展兼職人員」",
         "timestamp": "1730267653",
         "url": "mail_display.php?timestamp=1730267653",
@@ -186,20 +200,6 @@
         "timestamp": "1729092653",
         "url": "mail_display.php?timestamp=1729092653",
         "date": "2024/10/16 23:30",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】台東縣林坤池文教基金會113年度獎助學金 (限台東縣籍低或中低收入戶)",
-        "timestamp": "1728912039",
-        "url": "mail_display.php?timestamp=1728912039",
-        "date": "2024/10/14 21:20",
         "department": "學務處",
         "author": {
             "department": "學務處",
