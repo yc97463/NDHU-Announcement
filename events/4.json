@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人社院歲末活動】2024書書相印~寫字•寫心•寫春天",
+        "timestamp": "1734939017",
+        "url": "mail_display.php?timestamp=1734939017",
+        "date": "2024/12/23 15:30",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8905253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動】倒數三天！《CLOSE CALL 誤闖歧屋》電影發佈會(抽全家霜淇淋)",
         "timestamp": "1734929394",
         "url": "mail_display.php?timestamp=1734929394",
@@ -192,20 +206,6 @@
             "name": "盧助理",
             "email": "lesa@gms.ndhu.edu.tw",
             "phone": "03-890-3813"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手",
-        "timestamp": "1734588119",
-        "url": "mail_display.php?timestamp=1734588119",
-        "date": "2024/12/19 14:01",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
         },
         "attachmentCount": 2
     }

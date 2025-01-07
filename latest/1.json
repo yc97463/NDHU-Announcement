@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2「東兔活動團隊成員招募」名額有限，快來報名!!",
+        "timestamp": "1736231176",
+        "url": "mail_display.php?timestamp=1736231176",
+        "date": "2025/01/07 14:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "03-8906233"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-1學期 - K書中心B館寒假休館與集賢討論室關閉公告",
         "timestamp": "1736227064",
         "url": "mail_display.php?timestamp=1736227064",
@@ -194,19 +208,5 @@
             "phone": "03-8903777"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】大專校院東區暨專科區(國立東華大學)區域原住民族學生資源中心誠徵計畫助理2名",
-        "timestamp": "1736129866",
-        "url": "mail_display.php?timestamp=1736129866",
-        "date": "2025/01/06 10:17",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "kinu@gms.ndhu.edu.tw",
-            "phone": "038905759"
-        },
-        "attachmentCount": 1
     }
 ]
