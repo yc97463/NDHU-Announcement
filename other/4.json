@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告。",
+        "timestamp": "1735006977",
+        "url": "mail_display.php?timestamp=1735006977",
+        "date": "2024/12/24 10:22",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "徐雅香",
+            "email": "eai3737@gms.ndhu.edu.tw",
+            "phone": "6333"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第二次)公告",
         "timestamp": "1735002297",
         "url": "mail_display.php?timestamp=1735002297",
@@ -194,19 +208,5 @@
             "phone": "6591"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度教師教學成長社群計畫開放申請囉！",
-        "timestamp": "1734487389",
-        "url": "mail_display.php?timestamp=1734487389",
-        "date": "2024/12/18 10:03",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "鄭宏昱",
-            "email": "bighead7361@gms.ndhu.edu.tw",
-            "phone": "6590"
-        },
-        "attachmentCount": 2
     }
 ]
