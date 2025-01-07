@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺北市就業服務處114年2月8日辦理鼎泰豐全台門市聯合招募活動",
+        "timestamp": "1735786062",
+        "url": "mail_display.php?timestamp=1735786062",
+        "date": "2025/01/02 10:47",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】救國團花蓮縣團委會為辦理花蓮縣「114年青年節社會優秀青年表揚」，請本校遴薦優秀人員參加評選一案",
         "timestamp": "1735782428",
         "url": "mail_display.php?timestamp=1735782428",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
-        "timestamp": "1735526018",
-        "url": "mail_display.php?timestamp=1735526018",
-        "date": "2024/12/30 10:33",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 3
     }
 ]

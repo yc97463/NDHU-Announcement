@@ -1,5 +1,19 @@
 [
     {
+        "title": "活動倒數3天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
+        "timestamp": "1735623066",
+        "url": "mail_display.php?timestamp=1735623066",
+        "date": "2024/12/31 13:31",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "教育部「2025總統教育獎」校內申請收件即日起至114年1月13日(一)下午17時收件截止",
         "timestamp": "1735611388",
         "url": "mail_display.php?timestamp=1735611388",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手 (第2次公告)",
-        "timestamp": "1735526769",
-        "url": "mail_display.php?timestamp=1735526769",
-        "date": "2024/12/30 10:46",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
