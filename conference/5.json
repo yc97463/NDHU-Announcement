@@ -1,19 +1,5 @@
 [
     {
-        "title": "【轉知】推廣教育協會「2024年台灣大專校院推廣教育協會從業人員訓練」-清華大學場 ",
-        "timestamp": "1731981557",
-        "url": "mail_display.php?timestamp=1731981557",
-        "date": "2024/11/19 09:59",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
-    },
-    {
         "title": "自資系113-1校友卓越生職涯講座-高普考（測量制圖\u0026環保技術）經驗分享（11/29）。",
         "timestamp": "1731898915",
         "url": "mail_display.php?timestamp=1731898915",
@@ -208,5 +194,19 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "【113年「雙語浪潮」教師社群講座活動】「計畫申請的旅程：從發想到行動的點滴」",
+        "timestamp": "1730940872",
+        "url": "mail_display.php?timestamp=1730940872",
+        "date": "2024/11/07 08:54",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
     }
 ]
