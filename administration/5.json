@@ -1,5 +1,19 @@
 [
     {
+        "title": "【保管組公告】本校財產管理系統更改登入網址",
+        "timestamp": "1734504175",
+        "url": "mail_display.php?timestamp=1734504175",
+        "date": "2024/12/18 14:42",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【傳染病防治宣導】寒假將至，請各單位持續落實校園環境管理，並落實相關蚊媒（登革熱/屈公病/茲卡病毒感染症）防治工作",
         "timestamp": "1734501150",
         "url": "mail_display.php?timestamp=1734501150",
@@ -194,19 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "勿開啟標題為：'xxx教授 查 收'之信件",
-        "timestamp": "1733983536",
-        "url": "mail_display.php?timestamp=1733983536",
-        "date": "2024/12/12 14:05",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "6747"
-        },
-        "attachmentCount": 0
     }
 ]
