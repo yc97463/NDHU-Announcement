@@ -1,5 +1,19 @@
 [
     {
+        "title": "防範一氧化碳中毒，再冷也要打開生命之窗",
+        "timestamp": "1736129142",
+        "url": "mail_display.php?timestamp=1736129142",
+        "date": "2025/01/06 10:05",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114 年寒假壽豐校區高壓設備檢測規劃停電時程調查(114/01/13~114/02/07) 公告(第 1 次公告)",
         "timestamp": "1736123684",
         "url": "mail_display.php?timestamp=1736123684",
@@ -194,19 +208,5 @@
             "phone": "5402"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【實習】臺北市政府衛生局暨所屬十二區健康服務中心114年度暑期實習",
-        "timestamp": "1735810895",
-        "url": "mail_display.php?timestamp=1735810895",
-        "date": "2025/01/02 17:41",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
