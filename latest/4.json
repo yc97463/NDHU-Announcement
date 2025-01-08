@@ -1,5 +1,33 @@
 [
     {
+        "title": "【公告】花蓮縣政府為鼓勵各單位員工參與客語能力認證，以提升本縣通過客語能力認證人員之比例，補助報名認證之同仁報名費及核予補休",
+        "timestamp": "1735865320",
+        "url": "mail_display.php?timestamp=1735865320",
+        "date": "2025/01/03 08:48",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【招生】國立東華大學華語文教學暨書法國際碩士班114學年度碩士班招生考試報名只剩最後6天囉! (114年1月8日截止)",
+        "timestamp": "1735821911",
+        "url": "mail_display.php?timestamp=1735821911",
+        "date": "2025/01/02 20:45",
+        "department": "華語文教學國際博士班",
+        "author": {
+            "department": "華語文教學國際博士班",
+            "name": "池助理",
+            "email": "tclc@gms.ndhu.edu.tw",
+            "phone": "5402"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【實習】臺北市政府衛生局暨所屬十二區健康服務中心114年度暑期實習",
         "timestamp": "1735810895",
         "url": "mail_display.php?timestamp=1735810895",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】紀念尹珣若先生教育基金會113學年度獎助學金 (祖籍山東就讀中國文史科系)",
-        "timestamp": "1735785881",
-        "url": "mail_display.php?timestamp=1735785881",
-        "date": "2025/01/02 10:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】外交部114年 (113學年度)「外交獎學金」",
-        "timestamp": "1735784680",
-        "url": "mail_display.php?timestamp=1735784680",
-        "date": "2025/01/02 10:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

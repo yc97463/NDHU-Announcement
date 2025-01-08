@@ -1,5 +1,33 @@
 [
     {
+        "title": "【傳染病防治宣導】寒假將至，請各單位持續落實校園環境管理，並落實相關蚊媒（登革熱/屈公病/茲卡病毒感染症）防治工作",
+        "timestamp": "1734501150",
+        "url": "mail_display.php?timestamp=1734501150",
+        "date": "2024/12/18 13:52",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1734487735",
+        "url": "mail_display.php?timestamp=1734487735",
+        "date": "2024/12/18 10:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@gms.ndhu.edu.tw",
+            "phone": "6721"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年度檔案分類號注意事項公告",
         "timestamp": "1734481848",
         "url": "mail_display.php?timestamp=1734481848",
@@ -180,33 +208,5 @@
             "phone": "6747"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第2次公告】本校113學年度教職員工歳末聯歡活動餐會出席意願調查公告。",
-        "timestamp": "1733982751",
-        "url": "mail_display.php?timestamp=1733982751",
-        "date": "2024/12/12 13:52",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年度大專校院獎助生團體保險加保事宜",
-        "timestamp": "1733901428",
-        "url": "mail_display.php?timestamp=1733901428",
-        "date": "2024/12/11 15:17",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]
