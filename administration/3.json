@@ -1,5 +1,33 @@
 [
     {
+        "title": "114年1月1日 (週三)本校垃圾車停收1日。On January 1, 2025, school garbage trucks will be closed for one day",
+        "timestamp": "1735203802",
+        "url": "mail_display.php?timestamp=1735203802",
+        "date": "2024/12/26 17:03",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校湖畔餐廳12月27日晚上暫停對外營業及114年元旦連假期間校內委外廠商營業時間公告。",
+        "timestamp": "1735203580",
+        "url": "mail_display.php?timestamp=1735203580",
+        "date": "2024/12/26 16:59",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】茲為符法規公告期間及選舉名單須通盤確認，原訂本校工會委託人事室於113年12月26日至27日辦理勞資會議勞工代表選舉延期辦理，確定之選舉日期將再另行公告。",
         "timestamp": "1735203065",
         "url": "mail_display.php?timestamp=1735203065",
@@ -180,33 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第一次)公告",
-        "timestamp": "1734687602",
-        "url": "mail_display.php?timestamp=1734687602",
-        "date": "2024/12/20 17:40",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第4次通知)",
-        "timestamp": "1734683559",
-        "url": "mail_display.php?timestamp=1734683559",
-        "date": "2024/12/20 16:32",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 8
     }
 ]
