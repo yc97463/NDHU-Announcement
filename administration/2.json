@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】勞僱型教職員工（未滿40歲）一般健康檢查公告",
+        "timestamp": "1735806669",
+        "url": "mail_display.php?timestamp=1735806669",
+        "date": "2025/01/02 16:31",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "8906254"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
         "timestamp": "1735634063",
         "url": "mail_display.php?timestamp=1735634063",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
-        "timestamp": "1735261538",
-        "url": "mail_display.php?timestamp=1735261538",
-        "date": "2024/12/27 09:05",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "陳傳智",
-            "email": "CHEN66039@gms.ndhu.edu.tw",
-            "phone": "6012"
-        },
-        "attachmentCount": 2
     }
 ]
