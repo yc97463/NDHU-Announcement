@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全】113年11月之大專校院道路交通事故情形。提醒同學行車時務必注意交通安全。",
+        "timestamp": "1735087170",
+        "url": "mail_display.php?timestamp=1735087170",
+        "date": "2024/12/25 08:39",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件了",
         "timestamp": "1735035353",
         "url": "mail_display.php?timestamp=1735035353",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】花蓮地區小型徵才活動(兆豐農場、理想大地、怡園、瑞穗天合)(113年12月21日) ",
-        "timestamp": "1734513075",
-        "url": "mail_display.php?timestamp=1734513075",
-        "date": "2024/12/18 17:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
