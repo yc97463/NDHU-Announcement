@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】茲為符法規公告期間及選舉名單須通盤確認，原訂本校工會委託人事室於113年12月26日至27日辦理勞資會議勞工代表選舉延期辦理，確定之選舉日期將再另行公告。",
+        "timestamp": "1735203065",
+        "url": "mail_display.php?timestamp=1735203065",
+        "date": "2024/12/26 16:51",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2學期新舊生註冊須知Summary of the registration procedures in the 113-2 semester",
         "timestamp": "1735197239",
         "url": "mail_display.php?timestamp=1735197239",
@@ -194,19 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【重要訊息】國科會大專學生研究計畫作業要點第十六點業於113年11月1日修正，請查照。",
-        "timestamp": "1734683345",
-        "url": "mail_display.php?timestamp=1734683345",
-        "date": "2024/12/20 16:29",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
-        },
-        "attachmentCount": 3
     }
 ]

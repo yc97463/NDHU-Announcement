@@ -1,5 +1,33 @@
 [
     {
+        "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
+        "timestamp": "1736217009",
+        "url": "mail_display.php?timestamp=1736217009",
+        "date": "2025/01/07 10:30",
+        "department": "原住民族語言中心",
+        "author": {
+            "department": "原住民族語言中心",
+            "name": "朱小姐",
+            "email": "ndhu_illc@gms.ndhu.edu.tw",
+            "phone": "03-8905904"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "資通系統盤點暨安全等級評估教育訓練",
+        "timestamp": "1736216485",
+        "url": "mail_display.php?timestamp=1736216485",
+        "date": "2025/01/07 10:21",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
         "timestamp": "1736149095",
         "url": "mail_display.php?timestamp=1736149095",
@@ -180,33 +208,5 @@
             "phone": "6746"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計學系徵聘校務基金助理一名",
-        "timestamp": "1735890900",
-        "url": "mail_display.php?timestamp=1735890900",
-        "date": "2025/01/03 15:55",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "acct041093@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第一次公告)",
-        "timestamp": "1735887063",
-        "url": "mail_display.php?timestamp=1735887063",
-        "date": "2025/01/03 14:51",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]

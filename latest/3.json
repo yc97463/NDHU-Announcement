@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院會計學系徵聘校務基金助理一名",
+        "timestamp": "1735890900",
+        "url": "mail_display.php?timestamp=1735890900",
+        "date": "2025/01/03 15:55",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "acct041093@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第一次公告)",
+        "timestamp": "1735887063",
+        "url": "mail_display.php?timestamp=1735887063",
+        "date": "2025/01/03 14:51",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
         "timestamp": "1735884578",
         "url": "mail_display.php?timestamp=1735884578",
@@ -172,34 +200,6 @@
         "timestamp": "1735804629",
         "url": "mail_display.php?timestamp=1735804629",
         "date": "2025/01/02 15:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】合作金庫商業銀行114年研究獎金",
-        "timestamp": "1735803320",
-        "url": "mail_display.php?timestamp=1735803320",
-        "date": "2025/01/02 15:35",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】內政部移民署113學年度「新住民及其子女培力與獎助(勵)學金」",
-        "timestamp": "1735796128",
-        "url": "mail_display.php?timestamp=1735796128",
-        "date": "2025/01/02 13:35",
         "department": "學務處",
         "author": {
             "department": "學務處",
