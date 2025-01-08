@@ -1,5 +1,33 @@
 [
     {
+        "title": "【重要通知】勞僱型教職員工（未滿40歲）一般健康檢查公告",
+        "timestamp": "1735806669",
+        "url": "mail_display.php?timestamp=1735806669",
+        "date": "2025/01/02 16:31",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "8906254"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "國立東華大學理工學院國際學士班徵聘計畫助理一名",
+        "timestamp": "1735804876",
+        "url": "mail_display.php?timestamp=1735804876",
+        "date": "2025/01/02 16:01",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "黃先生",
+            "email": "vict0913@gms.ndhu.edu.tw",
+            "phone": "038903504"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🔥🔥勞動部113-114年度大專校院職場企業參訪-114年上半年開放申請囉~~(校內收件至114年1月22日止)",
         "timestamp": "1735804692",
         "url": "mail_display.php?timestamp=1735804692",
@@ -178,34 +206,6 @@
             "name": "陳美杏",
             "email": "msing@gms.ndhu.edu.tw",
             "phone": "6059"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動】「2024年英文旅遊部落格競賽」得獎名單暨後記 ",
-        "timestamp": "1735782332",
-        "url": "mail_display.php?timestamp=1735782332",
-        "date": "2025/01/02 09:45",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
-        "timestamp": "1735781736",
-        "url": "mail_display.php?timestamp=1735781736",
-        "date": "2025/01/02 09:35",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
         },
         "attachmentCount": 1
     }
