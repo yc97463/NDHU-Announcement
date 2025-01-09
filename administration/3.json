@@ -1,5 +1,19 @@
 [
     {
+        "title": "【電腦教室公告】114年1 月1日開國紀念日，電腦教室不開放。The computer lab one will be closed on January 1, 2025.",
+        "timestamp": "1735526240",
+        "url": "mail_display.php?timestamp=1735526240",
+        "date": "2024/12/30 10:37",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】元旦【114.01.01 (三)】休館一日。Library Announcement – Library will be Closed on January 01, 2025.",
         "timestamp": "1735456353",
         "url": "mail_display.php?timestamp=1735456353",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助生團保】114年度大專校院獎助生團體保險延至12/26前登錄(第三次公告)",
-        "timestamp": "1735107634",
-        "url": "mail_display.php?timestamp=1735107634",
-        "date": "2024/12/25 14:20",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

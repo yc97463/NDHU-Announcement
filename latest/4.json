@@ -1,5 +1,33 @@
 [
     {
+        "title": "114年春節連續假期提供搭乘公路公共運輸享多項優惠，請多加利用。",
+        "timestamp": "1735900531",
+        "url": "mail_display.php?timestamp=1735900531",
+        "date": "2025/01/03 18:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "🎉 解謎高手集合！一起來挑戰鳳林實境解謎活動！ 🧩",
+        "timestamp": "1735894098",
+        "url": "mail_display.php?timestamp=1735894098",
+        "date": "2025/01/03 16:48",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【資安提醒】本校ISMS文件與資通安全政策公告",
         "timestamp": "1735892333",
         "url": "mail_display.php?timestamp=1735892333",
@@ -180,33 +208,5 @@
             "phone": "8906254"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學理工學院國際學士班徵聘計畫助理一名",
-        "timestamp": "1735804876",
-        "url": "mail_display.php?timestamp=1735804876",
-        "date": "2025/01/02 16:01",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "黃先生",
-            "email": "vict0913@gms.ndhu.edu.tw",
-            "phone": "038903504"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🔥🔥勞動部113-114年度大專校院職場企業參訪-114年上半年開放申請囉~~(校內收件至114年1月22日止)",
-        "timestamp": "1735804692",
-        "url": "mail_display.php?timestamp=1735804692",
-        "date": "2025/01/02 15:58",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
