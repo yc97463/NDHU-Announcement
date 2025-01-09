@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路維護】校園骨幹網路系統更換【第二次公告】",
+        "timestamp": "1736426469",
+        "url": "mail_display.php?timestamp=1736426469",
+        "date": "2025/01/09 20:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "K書中心遺失物品移轉公告",
         "timestamp": "1736417472",
         "url": "mail_display.php?timestamp=1736417472",
@@ -194,19 +208,5 @@
             "phone": "03-8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Student Dormitory】Dormitory Application Information for Incoming Students, Winter Transfer Students, and Students on waiting list IV.",
-        "timestamp": "1736310317",
-        "url": "mail_display.php?timestamp=1736310317",
-        "date": "2025/01/08 12:25",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
     }
 ]
