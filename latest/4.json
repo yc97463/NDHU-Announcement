@@ -1,5 +1,33 @@
 [
     {
+        "title": "【尾牙活動通知】本校113學年度教職員工歲末聯歡活動餐會相關事宜公告，謝謝。",
+        "timestamp": "1736146741",
+        "url": "mail_display.php?timestamp=1736146741",
+        "date": "2025/01/06 14:59",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名",
+        "timestamp": "1736134390",
+        "url": "mail_display.php?timestamp=1736134390",
+        "date": "2025/01/06 11:33",
+        "department": "國際企業學系",
+        "author": {
+            "department": "國際企業學系",
+            "name": "廖敏妏",
+            "email": "mliao@gms.ndhu.edu.tw",
+            "phone": "3042"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
         "timestamp": "1736134234",
         "url": "mail_display.php?timestamp=1736134234",
@@ -180,33 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【實習】台灣高速鐵路股份有限公司「114年高鐵全年實習方案」",
-        "timestamp": "1735873438",
-        "url": "mail_display.php?timestamp=1735873438",
-        "date": "2025/01/03 11:03",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "活動就在今天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券，現場還有有獎徵答",
-        "timestamp": "1735869618",
-        "url": "mail_display.php?timestamp=1735869618",
-        "date": "2025/01/03 10:00",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
     }
 ]
