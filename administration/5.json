@@ -1,5 +1,19 @@
 [
     {
+        "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (第4次通知)",
+        "timestamp": "1734683559",
+        "url": "mail_display.php?timestamp=1734683559",
+        "date": "2024/12/20 16:32",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【重要訊息】國科會大專學生研究計畫作業要點第十六點業於113年11月1日修正，請查照。",
         "timestamp": "1734683345",
         "url": "mail_display.php?timestamp=1734683345",
@@ -194,19 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公文系統訂於113年12月17日(二)中午12~13時暫停服務公告",
-        "timestamp": "1734326857",
-        "url": "mail_display.php?timestamp=1734326857",
-        "date": "2024/12/16 13:27",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 0
     }
 ]
