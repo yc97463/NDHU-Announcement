@@ -1,5 +1,19 @@
 [
     {
+        "title": "K書中心遺失物品移轉公告",
+        "timestamp": "1736417472",
+        "url": "mail_display.php?timestamp=1736417472",
+        "date": "2025/01/09 18:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "洪岱郁",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【普獎中獎通知】113學年度教職員工歲末聯歡活動500元禮券(100名)中獎人領取公告。",
         "timestamp": "1736416390",
         "url": "mail_display.php?timestamp=1736416390",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【學生宿舍】113學年度第2學期「二月入學新生」、「寒轉生」暨「候補四」申請學生宿舍相關事宜",
-        "timestamp": "1736310172",
-        "url": "mail_display.php?timestamp=1736310172",
-        "date": "2025/01/08 12:22",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]
