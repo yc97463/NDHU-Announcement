@@ -1,5 +1,19 @@
 [
     {
+        "title": "寒假將至~提醒本校114年寒假期間學生活動安全注意事項",
+        "timestamp": "1736222283",
+        "url": "mail_display.php?timestamp=1736222283",
+        "date": "2025/01/07 11:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "洄瀾共好大學社會責任中心徵聘助理一名(第一次公告)",
         "timestamp": "1736222051",
         "url": "mail_display.php?timestamp=1736222051",
@@ -194,19 +208,5 @@
             "phone": "8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第一階段)公告",
-        "timestamp": "1735917824",
-        "url": "mail_display.php?timestamp=1735917824",
-        "date": "2025/01/03 23:23",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
