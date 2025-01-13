@@ -1,5 +1,75 @@
 [
     {
+        "title": "請注意~租屋詐騙",
+        "timestamp": "1736300550",
+        "url": "mail_display.php?timestamp=1736300550",
+        "date": "2025/01/08 09:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件至114/1/13~",
+        "timestamp": "1736300025",
+        "url": "mail_display.php?timestamp=1736300025",
+        "date": "2025/01/08 09:33",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "能源科技中心誠徵教育部計畫專任助理數名",
+        "timestamp": "1736298797",
+        "url": "mail_display.php?timestamp=1736298797",
+        "date": "2025/01/08 09:13",
+        "department": "能源科技中心",
+        "author": {
+            "department": "能源科技中心",
+            "name": "吳慈憶",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "8903688"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【應數系演講】114-01-10林建同教授",
+        "timestamp": "1736294101",
+        "url": "mail_display.php?timestamp=1736294101",
+        "date": "2025/01/08 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🎉 解謎高手集合！一起來挑戰鳳林實境解謎活動！ 🧩",
+        "timestamp": "1736265544",
+        "url": "mail_display.php?timestamp=1736265544",
+        "date": "2025/01/07 23:59",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "🌟🌟113學年度第2學期【起飛見習生】召募開始囉!",
         "timestamp": "1736233453",
         "url": "mail_display.php?timestamp=1736233453",
@@ -136,76 +206,6 @@
             "name": "朱小姐",
             "email": "ndhu_illc@gms.ndhu.edu.tw",
             "phone": "03-8905904"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "資通系統盤點暨安全等級評估教育訓練",
-        "timestamp": "1736216485",
-        "url": "mail_display.php?timestamp=1736216485",
-        "date": "2025/01/07 10:21",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
-        "timestamp": "1736149095",
-        "url": "mail_display.php?timestamp=1736149095",
-        "date": "2025/01/06 15:38",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉美卿",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6533"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2025第12屆「華山論見」教育學術研討會徵稿展延公告",
-        "timestamp": "1736147563",
-        "url": "mail_display.php?timestamp=1736147563",
-        "date": "2025/01/06 15:12",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【尾牙活動通知】本校113學年度教職員工歲末聯歡活動餐會相關事宜公告，謝謝。",
-        "timestamp": "1736146741",
-        "url": "mail_display.php?timestamp=1736146741",
-        "date": "2025/01/06 14:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名",
-        "timestamp": "1736134390",
-        "url": "mail_display.php?timestamp=1736134390",
-        "date": "2025/01/06 11:33",
-        "department": "國際企業學系",
-        "author": {
-            "department": "國際企業學系",
-            "name": "廖敏妏",
-            "email": "mliao@gms.ndhu.edu.tw",
-            "phone": "3042"
         },
         "attachmentCount": 0
     }

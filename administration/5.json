@@ -1,5 +1,19 @@
 [
     {
+        "title": "昨日(12/23)晚間向晴莊熱泵系統未啟動說明",
+        "timestamp": "1735034375",
+        "url": "mail_display.php?timestamp=1735034375",
+        "date": "2024/12/24 17:59",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
         "timestamp": "1735018884",
         "url": "mail_display.php?timestamp=1735018884",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
-        "timestamp": "1734487735",
-        "url": "mail_display.php?timestamp=1734487735",
-        "date": "2024/12/18 10:08",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "李宇峰",
-            "email": "eric@gms.ndhu.edu.tw",
-            "phone": "6721"
         },
         "attachmentCount": 0
     }
