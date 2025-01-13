@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學會計學系誠徵身心障礙專案助理一名",
+        "timestamp": "1736217964",
+        "url": "mail_display.php?timestamp=1736217964",
+        "date": "2025/01/07 10:46",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "pindopoh@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
         "timestamp": "1736217009",
         "url": "mail_display.php?timestamp=1736217009",
@@ -194,19 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【資安提醒】本校ISMS文件與資通安全政策公告",
-        "timestamp": "1735892333",
-        "url": "mail_display.php?timestamp=1735892333",
-        "date": "2025/01/03 16:18",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 0
     }
 ]
