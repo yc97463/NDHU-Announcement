@@ -1,5 +1,75 @@
 [
     {
+        "title": "環境學院夜間機車停車場及學活園區機車臨時洽公停車區開放使用公告。",
+        "timestamp": "1736475586",
+        "url": "mail_display.php?timestamp=1736475586",
+        "date": "2025/01/10 10:19",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
+        "timestamp": "1736475444",
+        "url": "mail_display.php?timestamp=1736475444",
+        "date": "2025/01/10 10:17",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【東區基地】「114年教學實踐研究區域基地計畫 東區跨校教師社群」徵件資訊",
+        "timestamp": "1736474187",
+        "url": "mail_display.php?timestamp=1736474187",
+        "date": "2025/01/10 09:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【圖書館公告】114年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
+        "timestamp": "1736467542",
+        "url": "mail_display.php?timestamp=1736467542",
+        "date": "2025/01/10 08:05",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "理工學院",
+        "timestamp": "1736466901",
+        "url": "mail_display.php?timestamp=1736466901",
+        "date": "2025/01/10 07:55",
+        "department": "理工學院 ",
+        "author": {
+            "department": "理工學院",
+            "name": "白潔儒",
+            "email": "jru.lulu.cjp@gms.ndhu.edu.tw",
+            "phone": "038903505"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【網路維護】校園骨幹網路系統更換【第二次公告】",
         "timestamp": "1736426469",
         "url": "mail_display.php?timestamp=1736426469",
@@ -138,75 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學管理學院管理科學與財金國際學士學位學程徵聘【行政助理】一名(預估缺，到職日為114年2月4日以後)第二次公告",
-        "timestamp": "1736326668",
-        "url": "mail_display.php?timestamp=1736326668",
-        "date": "2025/01/08 16:57",
-        "department": "管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理科學與財金國際學士學位學程",
-            "name": "林",
-            "email": "jamielin0902@gms.ndhu.edu.tw",
-            "phone": "038903006"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1736318691",
-        "url": "mail_display.php?timestamp=1736318691",
-        "date": "2025/01/08 14:44",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
-        "timestamp": "1736318082",
-        "url": "mail_display.php?timestamp=1736318082",
-        "date": "2025/01/08 14:34",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉勞動部製作之「工讀生勞動權益e化資料」",
-        "timestamp": "1736316066",
-        "url": "mail_display.php?timestamp=1736316066",
-        "date": "2025/01/08 14:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年寒假壽豐校區高壓設備檢測停電時程(114/01/13~114/02/07)公告(第2次公告)",
-        "timestamp": "1736314689",
-        "url": "mail_display.php?timestamp=1736314689",
-        "date": "2025/01/08 13:38",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 1
     }
 ]

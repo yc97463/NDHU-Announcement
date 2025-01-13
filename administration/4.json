@@ -1,5 +1,47 @@
 [
     {
+        "title": "114年1月8日(星期三)學人宿舍區垃圾清運時間調整。Notice on adjusting garbage and recycling service hours in employee dormitories on January 8, 2025",
+        "timestamp": "1735269239",
+        "url": "mail_display.php?timestamp=1735269239",
+        "date": "2024/12/27 11:13",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
+        "timestamp": "1735261538",
+        "url": "mail_display.php?timestamp=1735261538",
+        "date": "2024/12/27 09:05",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "陳傳智",
+            "email": "CHEN66039@gms.ndhu.edu.tw",
+            "phone": "6012"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【CSD 永續發展中心】國立東華大學 2023 年永續報告書 NDHU 2023 Sustainability Report Release",
+        "timestamp": "1735225336",
+        "url": "mail_display.php?timestamp=1735225336",
+        "date": "2024/12/26 23:02",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 (Li-Li Lee)",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "114年1月1日 (週三)本校垃圾車停收1日。On January 1, 2025, school garbage trucks will be closed for one day",
         "timestamp": "1735203802",
         "url": "mail_display.php?timestamp=1735203802",
@@ -166,47 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1735018884",
-        "url": "mail_display.php?timestamp=1735018884",
-        "date": "2024/12/24 13:41",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】113學年度第2學期學士班課程「免修」注意事項",
-        "timestamp": "1734938937",
-        "url": "mail_display.php?timestamp=1734938937",
-        "date": "2024/12/23 15:28",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "course@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
-        "timestamp": "1734913340",
-        "url": "mail_display.php?timestamp=1734913340",
-        "date": "2024/12/23 08:22",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

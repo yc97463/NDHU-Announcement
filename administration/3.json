@@ -1,5 +1,47 @@
 [
     {
+        "title": "族文系為學士班蔡喬宇同學急難救助募款信",
+        "timestamp": "1735807331",
+        "url": "mail_display.php?timestamp=1735807331",
+        "date": "2025/01/02 16:42",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "助理",
+            "email": "sumay@gms.ndhu.edu.tw",
+            "phone": "03-8905792"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【重要通知】勞僱型教職員工（未滿40歲）一般健康檢查公告",
+        "timestamp": "1735806669",
+        "url": "mail_display.php?timestamp=1735806669",
+        "date": "2025/01/02 16:31",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "8906254"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【網路維護】校園骨幹網路系統更換【第一次公告】",
+        "timestamp": "1735634063",
+        "url": "mail_display.php?timestamp=1735634063",
+        "date": "2024/12/31 16:34",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Safety Reminder】Stay safe during  New Year holidays.",
         "timestamp": "1735631156",
         "url": "mail_display.php?timestamp=1735631156",
@@ -166,47 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114年1月8日(星期三)學人宿舍區垃圾清運時間調整。Notice on adjusting garbage and recycling service hours in employee dormitories on January 8, 2025",
-        "timestamp": "1735269239",
-        "url": "mail_display.php?timestamp=1735269239",
-        "date": "2024/12/27 11:13",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉達壽豐鄉公所辦理114年元旦升旗暨健行活動通知，請踴躍參與共襄盛舉。",
-        "timestamp": "1735261538",
-        "url": "mail_display.php?timestamp=1735261538",
-        "date": "2024/12/27 09:05",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "陳傳智",
-            "email": "CHEN66039@gms.ndhu.edu.tw",
-            "phone": "6012"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【CSD 永續發展中心】國立東華大學 2023 年永續報告書 NDHU 2023 Sustainability Report Release",
-        "timestamp": "1735225336",
-        "url": "mail_display.php?timestamp=1735225336",
-        "date": "2024/12/26 23:02",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 (Li-Li Lee)",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]

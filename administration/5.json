@@ -1,5 +1,47 @@
 [
     {
+        "title": "【圖書館公告】113-1期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1735018884",
+        "url": "mail_display.php?timestamp=1735018884",
+        "date": "2024/12/24 13:41",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課務組】113學年度第2學期學士班課程「免修」注意事項",
+        "timestamp": "1734938937",
+        "url": "mail_display.php?timestamp=1734938937",
+        "date": "2024/12/23 15:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
+        "timestamp": "1734913340",
+        "url": "mail_display.php?timestamp=1734913340",
+        "date": "2024/12/23 08:22",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "12/25(三)至114/01/15(三) 體育園區壘球場暫停使用(第一次)公告",
         "timestamp": "1734687602",
         "url": "mail_display.php?timestamp=1734687602",
@@ -164,48 +206,6 @@
             "name": "李宇峰",
             "email": "eric@gms.ndhu.edu.tw",
             "phone": "6721"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114年度檔案分類號注意事項公告",
-        "timestamp": "1734481848",
-        "url": "mail_display.php?timestamp=1734481848",
-        "date": "2024/12/18 08:30",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "黃馨平",
-            "email": "zaphy@gms.ndhu.edu.tw",
-            "phone": "(03)8906355"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【▲重要通知】113學年度第2學期「學生就學優待減免學雜費」申請公告-第三次",
-        "timestamp": "1734396595",
-        "url": "mail_display.php?timestamp=1734396595",
-        "date": "2024/12/17 08:49",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "038906218"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】差勤(刷卡)系統於113年12月17日(二)中午12~13時暫停服務",
-        "timestamp": "1734337456",
-        "url": "mail_display.php?timestamp=1734337456",
-        "date": "2024/12/16 16:24",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
         },
         "attachmentCount": 0
     }
