@@ -1,5 +1,33 @@
 [
     {
+        "title": "【學生宿舍】113學年度第2學期「二月入學新生」、「寒轉生」暨「候補四」申請學生宿舍相關事宜",
+        "timestamp": "1736310172",
+        "url": "mail_display.php?timestamp=1736310172",
+        "date": "2025/01/08 12:22",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "衛生保健組寒假上班時間調整Health Center Adjust working hours in winter",
+        "timestamp": "1736305745",
+        "url": "mail_display.php?timestamp=1736305745",
+        "date": "2025/01/08 11:09",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "賀！東華大學校園餐廳歐哈尼獲得花蓮衛生局優良餐飲店家",
         "timestamp": "1736305480",
         "url": "mail_display.php?timestamp=1736305480",
@@ -180,33 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "洄瀾共好大學社會責任中心徵聘助理一名(第一次公告)",
-        "timestamp": "1736222051",
-        "url": "mail_display.php?timestamp=1736222051",
-        "date": "2025/01/07 11:54",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "江東隆",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【實習】法務部矯正署所屬矯正機關「114年度大學院校學生心理、諮商輔導及社工實習」",
-        "timestamp": "1736220819",
-        "url": "mail_display.php?timestamp=1736220819",
-        "date": "2025/01/07 11:33",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
