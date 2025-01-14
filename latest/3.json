@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】114年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
+        "timestamp": "1736467542",
+        "url": "mail_display.php?timestamp=1736467542",
+        "date": "2025/01/10 08:05",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "理工學院",
         "timestamp": "1736466901",
         "url": "mail_display.php?timestamp=1736466901",
@@ -192,20 +206,6 @@
             "name": "連小雅",
             "email": "lienhy@gms.ndhu.edu.tw",
             "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉勞動部製作之「工讀生勞動權益e化資料」",
-        "timestamp": "1736316066",
-        "url": "mail_display.php?timestamp=1736316066",
-        "date": "2025/01/08 14:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
         },
         "attachmentCount": 1
     }
