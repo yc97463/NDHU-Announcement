@@ -1,5 +1,19 @@
 [
     {
+        "title": "＜第二次公告＞113-2國立東華大學「銀髮健身俱樂部運動志工」招募",
+        "timestamp": "1736480911",
+        "url": "mail_display.php?timestamp=1736480911",
+        "date": "2025/01/10 11:48",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "環境學院夜間機車停車場及學活園區機車臨時洽公停車區開放使用公告。",
         "timestamp": "1736475586",
         "url": "mail_display.php?timestamp=1736475586",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第二階段)公告",
-        "timestamp": "1736345781",
-        "url": "mail_display.php?timestamp=1736345781",
-        "date": "2025/01/08 22:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
