@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安提醒】本校ISMS文件與資通安全政策公告",
+        "timestamp": "1735892333",
+        "url": "mail_display.php?timestamp=1735892333",
+        "date": "2025/01/03 16:18",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第一次公告)",
         "timestamp": "1735887063",
         "url": "mail_display.php?timestamp=1735887063",
@@ -192,20 +206,6 @@
             "name": "林循美",
             "email": "cindy@gms.ndhu.edu.tw",
             "phone": "8906774"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】元旦【114.01.01 (三)】休館一日。Library Announcement – Library will be Closed on January 01, 2025.",
-        "timestamp": "1735456353",
-        "url": "mail_display.php?timestamp=1735456353",
-        "date": "2024/12/29 15:12",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
         },
         "attachmentCount": 0
     }
