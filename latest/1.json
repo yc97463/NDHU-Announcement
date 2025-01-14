@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣📣【原資中心-人事徵才】📣📣原住民族學生資源中心誠徵計畫助理2名",
+        "timestamp": "1736845868",
+        "url": "mail_display.php?timestamp=1736845868",
+        "date": "2025/01/14 17:11",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林佳儀",
+            "email": "tipus1120103@gms.ndhu.edu.tw",
+            "phone": "5718"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】誠徵大學社會責任專任執行秘書",
         "timestamp": "1736834644",
         "url": "mail_display.php?timestamp=1736834644",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1736729717",
-        "url": "mail_display.php?timestamp=1736729717",
-        "date": "2025/01/13 08:55",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]
