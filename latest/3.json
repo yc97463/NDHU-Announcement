@@ -1,5 +1,19 @@
 [
     {
+        "title": "租屋防詐騙宣導",
+        "timestamp": "1736482117",
+        "url": "mail_display.php?timestamp=1736482117",
+        "date": "2025/01/10 12:08",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "＜第二次公告＞113-2國立東華大學「銀髮健身俱樂部運動志工」招募",
         "timestamp": "1736480911",
         "url": "mail_display.php?timestamp=1736480911",
@@ -192,20 +206,6 @@
             "name": "林嘉瑩",
             "email": "tea7101@gms.ndhu.edu.tw",
             "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1736387776",
-        "url": "mail_display.php?timestamp=1736387776",
-        "date": "2025/01/09 09:56",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
         },
         "attachmentCount": 1
     }
