@@ -1,5 +1,61 @@
 [
     {
+        "title": "賀！東華大學校園餐廳歐哈尼獲得花蓮衛生局優良餐飲店家",
+        "timestamp": "1736305480",
+        "url": "mail_display.php?timestamp=1736305480",
+        "date": "2025/01/08 11:04",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【徵才】遠雄海洋公園2025寒假(春節)工讀生熱情招募中📣 📣",
+        "timestamp": "1736302167",
+        "url": "mail_display.php?timestamp=1736302167",
+        "date": "2025/01/08 10:09",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "請注意~租屋詐騙",
+        "timestamp": "1736300550",
+        "url": "mail_display.php?timestamp=1736300550",
+        "date": "2025/01/08 09:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件至114/1/13~",
+        "timestamp": "1736300025",
+        "url": "mail_display.php?timestamp=1736300025",
+        "date": "2025/01/08 09:33",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "能源科技中心誠徵教育部計畫專任助理數名",
         "timestamp": "1736298797",
         "url": "mail_display.php?timestamp=1736298797",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才公告】國立東華大學會計學系誠徵身心障礙專案助理一名",
-        "timestamp": "1736217964",
-        "url": "mail_display.php?timestamp=1736217964",
-        "date": "2025/01/07 10:46",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "pindopoh@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
-        "timestamp": "1736217009",
-        "url": "mail_display.php?timestamp=1736217009",
-        "date": "2025/01/07 10:30",
-        "department": "原住民族語言中心",
-        "author": {
-            "department": "原住民族語言中心",
-            "name": "朱小姐",
-            "email": "ndhu_illc@gms.ndhu.edu.tw",
-            "phone": "03-8905904"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "資通系統盤點暨安全等級評估教育訓練",
-        "timestamp": "1736216485",
-        "url": "mail_display.php?timestamp=1736216485",
-        "date": "2025/01/07 10:21",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
-        "timestamp": "1736149095",
-        "url": "mail_display.php?timestamp=1736149095",
-        "date": "2025/01/06 15:38",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "劉美卿",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6533"
-        },
-        "attachmentCount": 0
     }
 ]
