@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2學期新舊生註冊須知Summary of the registration procedures in the 113-2 semester",
+        "timestamp": "1735197239",
+        "url": "mail_display.php?timestamp=1735197239",
+        "date": "2024/12/26 15:13",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "6115"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "114年1月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1735184872",
         "url": "mail_display.php?timestamp=1735184872",
@@ -194,19 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【取消】【網路維護】校園骨幹網路系統更換",
-        "timestamp": "1734658630",
-        "url": "mail_display.php?timestamp=1734658630",
-        "date": "2024/12/20 09:37",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]
