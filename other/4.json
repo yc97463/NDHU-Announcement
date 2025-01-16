@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【NUST徵件】114年「特色領域研討會經費補助」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
+        "timestamp": "1735624416",
+        "url": "mail_display.php?timestamp=1735624416",
+        "date": "2024/12/31 13:53",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【重要訊息】本校教師辦理產學合作計畫注意事項(第2次通知)",
         "timestamp": "1735549753",
         "url": "mail_display.php?timestamp=1735549753",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
-        "timestamp": "1735177553",
-        "url": "mail_display.php?timestamp=1735177553",
-        "date": "2024/12/26 09:45",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 9
     }
 ]
