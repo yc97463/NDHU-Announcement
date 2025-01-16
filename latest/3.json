@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1736729717",
+        "url": "mail_display.php?timestamp=1736729717",
+        "date": "2025/01/13 08:55",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【保管組公告】本校涵星一莊報廢之宿舍傢俱提供借用通知",
         "timestamp": "1736729560",
         "url": "mail_display.php?timestamp=1736729560",
@@ -192,20 +206,6 @@
             "name": "莊璦綺",
             "email": "ichi@gms.ndhu.edu.tw",
             "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "環境學院夜間機車停車場及學活園區機車臨時洽公停車區開放使用公告。",
-        "timestamp": "1736475586",
-        "url": "mail_display.php?timestamp=1736475586",
-        "date": "2025/01/10 10:19",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 1
     }
