@@ -1,6 +1,20 @@
 [
     {
         "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
+        "timestamp": "1736390890",
+        "url": "mail_display.php?timestamp=1736390890",
+        "date": "2025/01/09 10:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
         "timestamp": "1736390889",
         "url": "mail_display.php?timestamp=1736390889",
         "date": "2025/01/09 10:48",
@@ -192,20 +206,6 @@
             "name": "陳詩啓",
             "email": "sam0831@gms.ndhu.edu.tw",
             "phone": "6216"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【教學卓越中心】「113-2IDEAS教學課程計畫」(三創計畫轉型)開始徵件至114/1/13~",
-        "timestamp": "1736300025",
-        "url": "mail_display.php?timestamp=1736300025",
-        "date": "2025/01/08 09:33",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "郭心怡",
-            "email": "imyeee@gms.ndhu.edu.tw",
-            "phone": "6591"
         },
         "attachmentCount": 1
     }
