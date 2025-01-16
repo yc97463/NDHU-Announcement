@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年1月16日(四)中午12~13時暫停服務公告",
+        "timestamp": "1736904300",
+        "url": "mail_display.php?timestamp=1736904300",
+        "date": "2025/01/15 09:25",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行居南邨43號和素心里E棟水表箱漏水維修【停水】公告",
         "timestamp": "1736869781",
         "url": "mail_display.php?timestamp=1736869781",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【網路維護】校園骨幹網路系統更換【第三次公告】",
-        "timestamp": "1736736704",
-        "url": "mail_display.php?timestamp=1736736704",
-        "date": "2025/01/13 10:51",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]
