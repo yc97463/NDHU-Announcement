@@ -1,5 +1,47 @@
 [
     {
+        "title": "【普獎中獎通知】113學年度教職員工歲末聯歡活動500元禮券(100名)中獎人領取公告。",
+        "timestamp": "1736416390",
+        "url": "mail_display.php?timestamp=1736416390",
+        "date": "2025/01/09 17:53",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】【2025 Yourator數位職涯博覽會AI・SDGs・SLASHIE】(2025年1月11日舉辦)",
+        "timestamp": "1736411516",
+        "url": "mail_display.php?timestamp=1736411516",
+        "date": "2025/01/09 16:31",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【徵才】臺中市政府社會局「身心障礙者服務中心」徵求專業服務人力(社會工作、特殊教育、心理諮商)",
+        "timestamp": "1736403871",
+        "url": "mail_display.php?timestamp=1736403871",
+        "date": "2025/01/09 14:24",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】「第23屆有庠科技獎」甄選開放申請",
         "timestamp": "1736390963",
         "url": "mail_display.php?timestamp=1736390963",
@@ -166,47 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "衛生保健組寒假上班時間調整Health Center Adjust working hours in winter",
-        "timestamp": "1736305745",
-        "url": "mail_display.php?timestamp=1736305745",
-        "date": "2025/01/08 11:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "賀！東華大學校園餐廳歐哈尼獲得花蓮衛生局優良餐飲店家",
-        "timestamp": "1736305480",
-        "url": "mail_display.php?timestamp=1736305480",
-        "date": "2025/01/08 11:04",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】遠雄海洋公園2025寒假(春節)工讀生熱情招募中📣 📣",
-        "timestamp": "1736302167",
-        "url": "mail_display.php?timestamp=1736302167",
-        "date": "2025/01/08 10:09",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
