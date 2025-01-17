@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、輔導員等) (114年1月5日截止)",
+        "timestamp": "1735526583",
+        "url": "mail_display.php?timestamp=1735526583",
+        "date": "2024/12/30 10:43",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113-2學生就學貸款申請公告Student Loan application for Spring Semester",
         "timestamp": "1735526105",
         "url": "mail_display.php?timestamp=1735526105",
@@ -194,19 +208,5 @@
             "phone": "6059"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【交通安全】元旦假期，請注意志學火車站停車規定，並小心行車安全。",
-        "timestamp": "1735087398",
-        "url": "mail_display.php?timestamp=1735087398",
-        "date": "2024/12/25 08:43",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
     }
 ]

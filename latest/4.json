@@ -1,5 +1,19 @@
 [
     {
+        "title": "【政風宣導】114年度農曆春節、端午節及中秋節等重要節日期間，落實「公務員廉政倫理規範」並落實廉政倫理事件登錄",
+        "timestamp": "1736729490",
+        "url": "mail_display.php?timestamp=1736729490",
+        "date": "2025/01/13 08:51",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【電腦教室公告】寒假期間「例行性開放電腦教室」暫停開放，立式列印區持續提供使用。The computer lab will be closed on winter vacation.The stand-up printing area is continuously available.",
         "timestamp": "1736729150",
         "url": "mail_display.php?timestamp=1736729150",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【東區基地】「114年教學實踐研究區域基地計畫 東區跨校教師社群」徵件資訊",
-        "timestamp": "1736474187",
-        "url": "mail_display.php?timestamp=1736474187",
-        "date": "2025/01/10 09:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 5
     }
 ]
