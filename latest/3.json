@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第二次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
+        "timestamp": "1736821592",
+        "url": "mail_display.php?timestamp=1736821592",
+        "date": "2025/01/14 10:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會(第二次公告)",
+        "timestamp": "1736815274",
+        "url": "mail_display.php?timestamp=1736815274",
+        "date": "2025/01/14 08:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師",
         "timestamp": "1736752461",
         "url": "mail_display.php?timestamp=1736752461",
@@ -180,33 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【電腦教室公告】寒假期間「例行性開放電腦教室」暫停開放，立式列印區持續提供使用。The computer lab will be closed on winter vacation.The stand-up printing area is continuously available.",
-        "timestamp": "1736729150",
-        "url": "mail_display.php?timestamp=1736729150",
-        "date": "2025/01/13 08:45",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "123456789",
-        "timestamp": "1736726101",
-        "url": "mail_display.php?timestamp=1736726101",
-        "date": "2025/01/13 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "41104g001@gms.ndhu.edu.tw",
-            "phone": "朱璽恩 0921689326"
-        },
-        "attachmentCount": 0
     }
 ]
