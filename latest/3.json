@@ -1,5 +1,89 @@
 [
     {
+        "title": "【獎助學金申請】中國工程師學會114年度「優秀工程學生獎學金」",
+        "timestamp": "1736997995",
+        "url": "mail_display.php?timestamp=1736997995",
+        "date": "2025/01/16 11:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "轉知「各機關性騷擾防治通用教材-性騷擾防治三法」",
+        "timestamp": "1736993813",
+        "url": "mail_display.php?timestamp=1736993813",
+        "date": "2025/01/16 10:16",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "本校新簽定之六福開發股份有限公司特約商店公告。",
+        "timestamp": "1736986737",
+        "url": "mail_display.php?timestamp=1736986737",
+        "date": "2025/01/16 08:18",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【通識】113-2學期通識課程活動補助申請",
+        "timestamp": "1736925497",
+        "url": "mail_display.php?timestamp=1736925497",
+        "date": "2025/01/15 15:18",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【徵才】臺鐵觀光列車山嵐號-列車服務管家(工讀生)募集中!(雄獅旅遊) 📣 📣",
+        "timestamp": "1736924004",
+        "url": "mail_display.php?timestamp=1736924004",
+        "date": "2025/01/15 14:53",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "管理學院會計學系身心障礙專案助理徵才公告(第二次公告)",
+        "timestamp": "1736920740",
+        "url": "mail_display.php?timestamp=1736920740",
+        "date": "2025/01/15 13:59",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "會計系",
+            "email": "acct041093@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】差勤(刷卡)系統於114年1月16日(四)中午12~13時暫停服務",
         "timestamp": "1736918101",
         "url": "mail_display.php?timestamp=1736918101",
@@ -122,90 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📣📣【原資中心-人事徵才】📣📣原住民族學生資源中心誠徵計畫助理2名",
-        "timestamp": "1736845868",
-        "url": "mail_display.php?timestamp=1736845868",
-        "date": "2025/01/14 17:11",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】誠徵大學社會責任專任執行秘書",
-        "timestamp": "1736834644",
-        "url": "mail_display.php?timestamp=1736834644",
-        "date": "2025/01/14 14:04",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "「2024臺灣科普環島列車」壽豐站、花蓮站的成果影片上線囉！",
-        "timestamp": "1736832937",
-        "url": "mail_display.php?timestamp=1736832937",
-        "date": "2025/01/14 13:35",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "羅郁庭",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【第二次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
-        "timestamp": "1736821592",
-        "url": "mail_display.php?timestamp=1736821592",
-        "date": "2025/01/14 10:26",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會(第二次公告)",
-        "timestamp": "1736815274",
-        "url": "mail_display.php?timestamp=1736815274",
-        "date": "2025/01/14 08:41",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師",
-        "timestamp": "1736752461",
-        "url": "mail_display.php?timestamp=1736752461",
-        "date": "2025/01/13 15:14",
-        "department": "材料科學與工程學系",
-        "author": {
-            "department": "材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "8903204"
         },
         "attachmentCount": 1
     }

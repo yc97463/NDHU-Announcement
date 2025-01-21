@@ -1,5 +1,47 @@
 [
     {
+        "title": "【網路維護】校園骨幹網路系統更換【第三次公告】",
+        "timestamp": "1736736704",
+        "url": "mail_display.php?timestamp=1736736704",
+        "date": "2025/01/13 10:51",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1736729717",
+        "url": "mail_display.php?timestamp=1736729717",
+        "date": "2025/01/13 08:55",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【保管組公告】本校涵星一莊報廢之宿舍傢俱提供借用通知",
+        "timestamp": "1736729560",
+        "url": "mail_display.php?timestamp=1736729560",
+        "date": "2025/01/13 08:52",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【電腦教室公告】寒假期間「例行性開放電腦教室」暫停開放，立式列印區持續提供使用。The computer lab will be closed on winter vacation.The stand-up printing area is continuously available.",
         "timestamp": "1736729150",
         "url": "mail_display.php?timestamp=1736729150",
@@ -166,47 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
-        "timestamp": "1736318082",
-        "url": "mail_display.php?timestamp=1736318082",
-        "date": "2025/01/08 14:34",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年寒假壽豐校區高壓設備檢測停電時程(114/01/13~114/02/07)公告(第2次公告)",
-        "timestamp": "1736314689",
-        "url": "mail_display.php?timestamp=1736314689",
-        "date": "2025/01/08 13:38",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Student Dormitory】Dormitory Application Information for Incoming Students, Winter Transfer Students, and Students on waiting list IV.",
-        "timestamp": "1736310317",
-        "url": "mail_display.php?timestamp=1736310317",
-        "date": "2025/01/08 12:25",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
     }
 ]

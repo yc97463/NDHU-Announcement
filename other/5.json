@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉發創新競賽徵件訊息】第七屆 #高通台灣創新競賽 徵件啟動！",
+        "timestamp": "1735548653",
+        "url": "mail_display.php?timestamp=1735548653",
+        "date": "2024/12/30 16:50",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
+        "timestamp": "1735548248",
+        "url": "mail_display.php?timestamp=1735548248",
+        "date": "2024/12/30 16:44",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "轉高級中等以上學校學生就學貸款作業要點部分規定修正規定",
         "timestamp": "1735544444",
         "url": "mail_display.php?timestamp=1735544444",
@@ -180,33 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "[停水]理工一館入水管線破損維修停水通告",
-        "timestamp": "1735140085",
-        "url": "mail_display.php?timestamp=1735140085",
-        "date": "2024/12/25 23:21",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國鋼鐵股份有限公司刻正辦理114年度研發替代役徵選招募通知",
-        "timestamp": "1735127706",
-        "url": "mail_display.php?timestamp=1735127706",
-        "date": "2024/12/25 19:55",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]
