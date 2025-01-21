@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校新簽定之六福開發股份有限公司特約商店公告。",
+        "timestamp": "1736986737",
+        "url": "mail_display.php?timestamp=1736986737",
+        "date": "2025/01/16 08:18",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【通識】113-2學期通識課程活動補助申請",
+        "timestamp": "1736925497",
+        "url": "mail_display.php?timestamp=1736925497",
+        "date": "2025/01/15 15:18",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】臺鐵觀光列車山嵐號-列車服務管家(工讀生)募集中!(雄獅旅遊) 📣 📣",
         "timestamp": "1736924004",
         "url": "mail_display.php?timestamp=1736924004",
@@ -180,33 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "「2024臺灣科普環島列車」壽豐站、花蓮站的成果影片上線囉！",
-        "timestamp": "1736832937",
-        "url": "mail_display.php?timestamp=1736832937",
-        "date": "2025/01/14 13:35",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "羅郁庭",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【第二次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
-        "timestamp": "1736821592",
-        "url": "mail_display.php?timestamp=1736821592",
-        "date": "2025/01/14 10:26",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 1
     }
 ]
