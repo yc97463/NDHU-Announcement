@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】中華民國課程與教學學會2025年學術論文獎",
+        "timestamp": "1737005709",
+        "url": "mail_display.php?timestamp=1737005709",
+        "date": "2025/01/16 13:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 114年寒假壽豐校區高壓設備檢測停電時程(114/01/16~114/02/07)公告(第3次公告，修正內容詳說明一)",
         "timestamp": "1737005412",
         "url": "mail_display.php?timestamp=1737005412",
@@ -192,20 +206,6 @@
             "name": "張先生",
             "email": "eric.chang@gms.ndhu.edu.tw",
             "phone": "03-8906352"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "為進行居南邨43號和素心里E棟水表箱漏水維修【停水】公告",
-        "timestamp": "1736869781",
-        "url": "mail_display.php?timestamp=1736869781",
-        "date": "2025/01/14 23:49",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
