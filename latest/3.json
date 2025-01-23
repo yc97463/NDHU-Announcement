@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院會計學系徵聘校務基金助理一名(第二次公告)",
+        "timestamp": "1737336183",
+        "url": "mail_display.php?timestamp=1737336183",
+        "date": "2025/01/20 09:23",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "會計學系",
+            "email": "acct041093@gms.ndhu.edu.tw",
+            "phone": "(03)890-3072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【傑出校友】國立虎尾科技大學舉辦遴選傑出校友活動",
         "timestamp": "1737333517",
         "url": "mail_display.php?timestamp=1737333517",
@@ -192,20 +206,6 @@
             "name": "陳良愛",
             "email": "issa@gms.ndhu.edu.tw",
             "phone": "5107"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】113-1學期本校K書中心B館寒假休館公告 Study Center Winter Break Closure Notice",
-        "timestamp": "1737020902",
-        "url": "mail_display.php?timestamp=1737020902",
-        "date": "2025/01/16 17:48",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "蕭定泓",
-            "email": "xiao@gms.ndhu.edu.tw",
-            "phone": "6585"
         },
         "attachmentCount": 0
     }

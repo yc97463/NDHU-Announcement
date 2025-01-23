@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期本校K書中心B館寒假休館公告 Study Center Winter Break Closure Notice",
+        "timestamp": "1737020902",
+        "url": "mail_display.php?timestamp=1737020902",
+        "date": "2025/01/16 17:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】國科會學術研究倫理教育訓練相關訊息",
         "timestamp": "1737016039",
         "url": "mail_display.php?timestamp=1737016039",
@@ -194,19 +208,5 @@
             "phone": "03-8905063"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學原住民民族學院原住民族國際研究博士班誠徵校務基金助理一名",
-        "timestamp": "1736906179",
-        "url": "mail_display.php?timestamp=1736906179",
-        "date": "2025/01/15 09:56",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 0
     }
 ]
