@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度檔案分類號注意事項公告",
+        "timestamp": "1735604655",
+        "url": "mail_display.php?timestamp=1735604655",
+        "date": "2024/12/31 08:24",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "黃馨平",
+            "email": "zaphy@gms.ndhu.edu.tw",
+            "phone": "(03)8906355"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要訊息】國科會114年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年12月31日晚上11:59前)  (Last notice)",
         "timestamp": "1735548095",
         "url": "mail_display.php?timestamp=1735548095",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[停水]理工一館入水管線破損維修停水通告",
-        "timestamp": "1735140085",
-        "url": "mail_display.php?timestamp=1735140085",
-        "date": "2024/12/25 23:21",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
