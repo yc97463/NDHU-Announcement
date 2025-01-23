@@ -1,5 +1,19 @@
 [
     {
+        "title": "The tuition and miscellaneous fees payment form for the second semester of 2024 academic year can be downloaded from January 20!",
+        "timestamp": "1737423304",
+        "url": "mail_display.php?timestamp=1737423304",
+        "date": "2025/01/21 09:35",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "6366"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
         "timestamp": "1737423038",
         "url": "mail_display.php?timestamp=1737423038",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(114年2月12日截止)",
-        "timestamp": "1737094178",
-        "url": "mail_display.php?timestamp=1737094178",
-        "date": "2025/01/17 14:09",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
