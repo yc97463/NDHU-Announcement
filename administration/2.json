@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助生團保】計畫類兼任助理團保2月1日起保者，請於1月21日(二)下班前完成登錄",
+        "timestamp": "1737343384",
+        "url": "mail_display.php?timestamp=1737343384",
+        "date": "2025/01/20 11:23",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度第2學期兵役緩徵、儘召網路登錄開放申請通知",
+        "timestamp": "1737096969",
+        "url": "mail_display.php?timestamp=1737096969",
+        "date": "2025/01/17 14:56",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】國科會學術研究倫理教育訓練相關訊息",
+        "timestamp": "1737016039",
+        "url": "mail_display.php?timestamp=1737016039",
+        "date": "2025/01/16 16:27",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 114年寒假壽豐校區高壓設備檢測停電時程(114/01/16~114/02/07)公告(第3次公告，修正內容詳說明一)",
         "timestamp": "1737005412",
         "url": "mail_display.php?timestamp=1737005412",
@@ -166,47 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114年度校區內客貨電梯進行月保養排程通告1月保養",
-        "timestamp": "1736567166",
-        "url": "mail_display.php?timestamp=1736567166",
-        "date": "2025/01/11 11:46",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114年寒假及春節假期間總務處業務相關注意事項",
-        "timestamp": "1736494685",
-        "url": "mail_display.php?timestamp=1736494685",
-        "date": "2025/01/10 15:38",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "租屋防詐騙宣導",
-        "timestamp": "1736482117",
-        "url": "mail_display.php?timestamp=1736482117",
-        "date": "2025/01/10 12:08",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 5
     }
 ]
