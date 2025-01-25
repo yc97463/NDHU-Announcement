@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】Dormitory Application Information for Incoming Students, Winter Transfer Students, and Students on waiting list IV.",
+        "timestamp": "1736310317",
+        "url": "mail_display.php?timestamp=1736310317",
+        "date": "2025/01/08 12:25",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【學生宿舍】113學年度第2學期「二月入學新生」、「寒轉生」暨「候補四」申請學生宿舍相關事宜",
         "timestamp": "1736310172",
         "url": "mail_display.php?timestamp=1736310172",
@@ -192,20 +206,6 @@
             "name": "助理",
             "email": "sumay@gms.ndhu.edu.tw",
             "phone": "03-8905792"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【重要通知】勞僱型教職員工（未滿40歲）一般健康檢查公告",
-        "timestamp": "1735806669",
-        "url": "mail_display.php?timestamp=1735806669",
-        "date": "2025/01/02 16:31",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "8906254"
         },
         "attachmentCount": 1
     }
