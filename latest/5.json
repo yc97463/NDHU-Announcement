@@ -1,5 +1,19 @@
 [
     {
+        "title": " 114年寒假壽豐校區高壓設備檢測停電時程(114/01/16~114/02/07)公告(第3次公告，修正內容詳說明一)",
+        "timestamp": "1737005412",
+        "url": "mail_display.php?timestamp=1737005412",
+        "date": "2025/01/16 13:30",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】中國工程師學會114年度「優秀工程學生獎學金」",
         "timestamp": "1736997995",
         "url": "mail_display.php?timestamp=1736997995",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】儒鴻企業股份有限公司114年儒鴻教育獎助學金",
-        "timestamp": "1736863906",
-        "url": "mail_display.php?timestamp=1736863906",
-        "date": "2025/01/14 22:11",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
