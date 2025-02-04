@@ -1,5 +1,19 @@
 [
     {
+        "title": "法律系113-1期末系員大會",
+        "timestamp": "1734998104",
+        "url": "mail_display.php?timestamp=1734998104",
+        "date": "2024/12/24 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "陳雅慧",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "1224管財班學生",
         "timestamp": "1734998103",
         "url": "mail_display.php?timestamp=1734998103",
@@ -194,19 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "一切唯心---\u003c瓶中鵝\u003e公案談起",
-        "timestamp": "1734677435",
-        "url": "mail_display.php?timestamp=1734677435",
-        "date": "2024/12/20 14:50",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
     }
 ]

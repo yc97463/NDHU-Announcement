@@ -1,5 +1,19 @@
 [
     {
+        "title": "【說明會】臺灣大專院校人工智慧聯盟 113-2 開課 東華線上說明會(114年02月10日)",
+        "timestamp": "1738660850",
+        "url": "mail_display.php?timestamp=1738660850",
+        "date": "2025/02/04 17:20",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113-2體育館『體能訓練室』114/02/17(一)~114/06/21(六)開放申請學期會員公告",
         "timestamp": "1738651656",
         "url": "mail_display.php?timestamp=1738651656",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "理工學院",
-        "timestamp": "1736466901",
-        "url": "mail_display.php?timestamp=1736466901",
-        "date": "2025/01/10 07:55",
-        "department": "理工學院 ",
-        "author": {
-            "department": "理工學院",
-            "name": "白潔儒",
-            "email": "jru.lulu.cjp@gms.ndhu.edu.tw",
-            "phone": "038903505"
-        },
-        "attachmentCount": 0
     }
 ]
