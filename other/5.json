@@ -1,5 +1,19 @@
 [
     {
+        "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
+        "timestamp": "1736149095",
+        "url": "mail_display.php?timestamp=1736149095",
+        "date": "2025/01/06 15:38",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "劉美卿",
+            "email": "rd505@gms.ndhu.edu.tw",
+            "phone": "6533"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第一階段)公告",
         "timestamp": "1735917824",
         "url": "mail_display.php?timestamp=1735917824",
@@ -194,19 +208,5 @@
             "phone": "6502"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【重要訊息】本校教師辦理產學合作計畫注意事項(第2次通知)",
-        "timestamp": "1735549753",
-        "url": "mail_display.php?timestamp=1735549753",
-        "date": "2024/12/30 17:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "學術服務組",
-            "email": "emma@gms.ndhu.edu.tw",
-            "phone": "6513"
-        },
-        "attachmentCount": 0
     }
 ]
