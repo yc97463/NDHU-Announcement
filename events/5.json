@@ -1,5 +1,19 @@
 [
     {
+        "title": "1224管財班學生",
+        "timestamp": "1734998103",
+        "url": "mail_display.php?timestamp=1734998103",
+        "date": "2024/12/24 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "038903006"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【應數系演講】113-12-27 董奕賢教授",
         "timestamp": "1734998102",
         "url": "mail_display.php?timestamp=1734998102",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "今年最後一場~定期捐血保障你我~熱血行動!!!",
-        "timestamp": "1734652504",
-        "url": "mail_display.php?timestamp=1734652504",
-        "date": "2024/12/20 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學會計學系誠徵身心障礙專案助理一名",
+        "timestamp": "1736217964",
+        "url": "mail_display.php?timestamp=1736217964",
+        "date": "2025/01/07 10:46",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "pindopoh@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第三週期大學校院校務評鑑 本校獲「通過-效期六年」",
         "timestamp": "1736149095",
         "url": "mail_display.php?timestamp=1736149095",
@@ -194,19 +208,5 @@
             "phone": "6502"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": " 【NUST徵件】114年「特色領域研討會經費補助」申請案，請於114年1月6日前向本校研發處告知申請意願，並於1月15日前送件",
-        "timestamp": "1735624416",
-        "url": "mail_display.php?timestamp=1735624416",
-        "date": "2024/12/31 13:53",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
-        },
-        "attachmentCount": 3
     }
 ]
