@@ -1,5 +1,33 @@
 [
     {
+        "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第一階段)公告",
+        "timestamp": "1735917824",
+        "url": "mail_display.php?timestamp=1735917824",
+        "date": "2025/01/03 23:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】財團法人國家實驗研究院「114年度研發服務平台亮點成果獎」申請時間自114年3月1日起至3月31日止",
+        "timestamp": "1735874933",
+        "url": "mail_display.php?timestamp=1735874933",
+        "date": "2025/01/03 11:28",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】台灣高速鐵路股份有限公司「114年高鐵全年實習方案」",
         "timestamp": "1735873438",
         "url": "mail_display.php?timestamp=1735873438",
@@ -180,33 +208,5 @@
             "phone": "6513"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉發創新競賽徵件訊息】第七屆 #高通台灣創新競賽 徵件啟動！",
-        "timestamp": "1735548653",
-        "url": "mail_display.php?timestamp=1735548653",
-        "date": "2024/12/30 16:50",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
-        "timestamp": "1735548248",
-        "url": "mail_display.php?timestamp=1735548248",
-        "date": "2024/12/30 16:44",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 1
     }
 ]
