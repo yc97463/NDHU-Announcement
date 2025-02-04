@@ -1,5 +1,47 @@
 [
     {
+        "title": "【出國交換】2月19日12:10「113-2國際交換學生甄選說明會」",
+        "timestamp": "1737071701",
+        "url": "mail_display.php?timestamp=1737071701",
+        "date": "2025/01/17 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要通知】113-1學期本校K書中心B館寒假休館公告 Study Center Winter Break Closure Notice",
+        "timestamp": "1737020902",
+        "url": "mail_display.php?timestamp=1737020902",
+        "date": "2025/01/16 17:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【公告】國科會學術研究倫理教育訓練相關訊息",
+        "timestamp": "1737016039",
+        "url": "mail_display.php?timestamp=1737016039",
+        "date": "2025/01/16 16:27",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】國立臺北商業大學開設產業新尖兵計畫「全端工程師人才培訓班」",
         "timestamp": "1737006154",
         "url": "mail_display.php?timestamp=1737006154",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵聘專任教師】國立東華大學電機工程學系徵聘專任助理教授(含)以上之專任師資2名",
-        "timestamp": "1736906705",
-        "url": "mail_display.php?timestamp=1736906705",
-        "date": "2025/01/15 10:05",
-        "department": "電機工程學系",
-        "author": {
-            "department": "電機工程學系",
-            "name": "邱小姐",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "03-8905063"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學原住民民族學院原住民族國際研究博士班誠徵校務基金助理一名",
-        "timestamp": "1736906179",
-        "url": "mail_display.php?timestamp=1736906179",
-        "date": "2025/01/15 09:56",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📣📣【原資中心-人事徵才】📣📣原住民族學生資源中心誠徵計畫助理2名(修正114年誤植)",
-        "timestamp": "1736905318",
-        "url": "mail_display.php?timestamp=1736905318",
-        "date": "2025/01/15 09:41",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
     }
 ]
