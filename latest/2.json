@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-2網路選課  Freshmen Online Preliminary Course Selection",
+        "timestamp": "1738630361",
+        "url": "mail_display.php?timestamp=1738630361",
+        "date": "2025/02/04 08:52",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "新科技與台灣族語振興國際工作坊x成果展",
         "timestamp": "1738626901",
         "url": "mail_display.php?timestamp=1738626901",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】中華民國紅心字會114年「紅心向日葵獎助學金」(限受刑人子女)",
-        "timestamp": "1737595891",
-        "url": "mail_display.php?timestamp=1737595891",
-        "date": "2025/01/23 09:31",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
