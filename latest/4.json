@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】中華民國紅心字會114年「紅心向日葵獎助學金」(限受刑人子女)",
+        "timestamp": "1737595891",
+        "url": "mail_display.php?timestamp=1737595891",
+        "date": "2025/01/23 09:31",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【停車公告】志學火車站停車場停車場地有限，請勿長期占用停車格",
         "timestamp": "1737593999",
         "url": "mail_display.php?timestamp=1737593999",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵聘專案助理】國立東華大學創新育成中心",
-        "timestamp": "1737437627",
-        "url": "mail_display.php?timestamp=1737437627",
-        "date": "2025/01/21 13:33",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 1
     }
 ]
